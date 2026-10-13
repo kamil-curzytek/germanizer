@@ -1,0 +1,99 @@
+# Tier 2 · people, family, social life, feelings, character
+# german|type|pos|article|plural|english|cefr|tier|mode|topics|register|example|example_en|grammar|f=|c=|r=|why=
+Ehemann|w|noun|der|Ehemänner|husband|A1|2|a|family,bureaucracy||Mein Ehemann kommt aus Italien.|My husband is from Italy.|In speech usually mein Mann.|r=Ehefrau;Ehe
+Ehefrau|w|noun|die|Ehefrauen|wife|A1|2|a|family,bureaucracy||Seine Ehefrau ist Lehrerin.|His wife is a teacher.|In speech usually meine Frau.|r=Ehemann
+Großeltern|w|noun|die|Pl|grandparents|A1|2|a|family||Am Sonntag besuchen wir die Großeltern.|On Sunday we're visiting the grandparents.|Plural only.|r=Großmutter;Großvater
+Großmutter|w|noun|die|Großmütter|grandmother|A1|2|a|family||Meine Großmutter ist 90 Jahre alt.|My grandmother is 90.|Informal: Oma.|r=Oma
+Großvater|w|noun|der|Großväter|grandfather|A1|2|a|family||Mein Großvater hat früher als Bäcker gearbeitet.|My grandfather used to work as a baker.|Informal: Opa.|r=Opa
+Oma|w|noun|die|Omas|grandma|A1|2|a|family|informal|Wir fahren am Wochenende zur Oma.|We're going to grandma's at the weekend.|||r=Großmutter
+Opa|w|noun|der|Opas|grandpa|A1|2|a|family|informal|Opa erzählt gern Geschichten.|Grandpa likes telling stories.|||r=Großvater
+Enkel|w|noun|der|Enkel|grandson; grandchild|A2|2|r|family||Sie hat drei Enkel.|She has three grandchildren.|Female: die Enkelin.|r=Enkelin
+Tante|w|noun|die|Tanten|aunt|A2|2|a|family||Meine Tante wohnt in Bremen.|My aunt lives in Bremen.|||r=Onkel
+Onkel|w|noun|der|Onkel|uncle|A2|2|a|family||Mein Onkel hat eine Werkstatt.|My uncle has a workshop.|||r=Tante
+Cousin|w|noun|der|Cousins|cousin (male)|A2|2|r|family||Mein Cousin studiert in Köln.|My cousin studies in Cologne.|Female: die Cousine.|r=Cousine
+Verwandte|w|noun|der|Verwandten|relative|A2|2|a|family||Zur Hochzeit kommen viele Verwandte.|Lots of relatives are coming to the wedding.|Adjectival noun: ein Verwandter, die Verwandten.|r=verwandt
+Ehe|w|noun|die|Ehen|marriage|B1|2|r|family||Sie sind seit zehn Jahren in einer glücklichen Ehe.|They've been happily married for ten years.|||r=Ehemann;Ehefrau
+Hochzeit|w|noun|die|Hochzeiten|wedding|A1|2|a|family,social||Wir sind am Samstag auf einer Hochzeit.|We're at a wedding on Saturday.|||r=heiraten
+heiraten|w|verb|||to marry; to get married|A1|2|a|family||Wir heiraten im Mai.|We're getting married in May.|+Akk: Er heiratet seine Freundin.|f=heiratet, heiratete, hat geheiratet|r=Hochzeit;verheiratet
+sich trennen|c|verb|||to separate; to split up|B1|2|r|family,feelings||Die beiden haben sich letztes Jahr getrennt.|The two of them split up last year.|refl;sich trennen von + Dat.|f=trennt sich, trennte sich, hat sich getrennt|r=Trennung
+Kinder bekommen|c|verb|||to have children|A2|2|a|family||Sie bekommen im Sommer ihr erstes Kind.|They're having their first child in the summer.|ein Kind bekommen = to have a baby.||why=bekommen = have (a baby), not predictable
+schwanger|w|adj|||pregnant|A2|2|a|family,healthcare||Meine Frau ist schwanger.|My wife is pregnant.|||r=Schwangerschaft
+Erwachsene|w|noun|der|Erwachsenen|adult|A1|2|a|people||Erwachsene zahlen zehn Euro, Kinder fünf.|Adults pay ten euros, children five.|Adjectival noun: ein Erwachsener, die Erwachsenen.|
+Jugendliche|w|noun|der|Jugendlichen|young person; teenager|A1|2|a|people||Das Angebot ist für Jugendliche ab 14.|The offer is for young people aged 14 and over.|Adjectival noun.|r=Jugend
+Rentner|w|noun|der|Rentner|pensioner; retiree|A2|2|a|people,work||Mein Vater ist seit letztem Jahr Rentner.|My father has been retired since last year.|Female: die Rentnerin.|r=Rente
+Dame|w|noun|die|Damen|lady|A1|2|a|people|formal|Meine Damen und Herren, willkommen!|Ladies and gentlemen, welcome!|Signs: Damen / Herren = women / men (toilets).|c=Sehr geehrte Damen und Herren
+Gast|w|noun|der|Gäste|guest|A1|2|a|social,travel||Wir haben heute Abend Gäste.|We have guests tonight.|||r=Gastgeber
+Gruppe|w|noun|die|Gruppen|group|A1|2|a|people,social||Wir arbeiten in kleinen Gruppen.|We work in small groups.|||
+Kunde|w|noun|der|Kunden|customer; client|A1|2|a|shopping,work||Der Kunde möchte mit dem Chef sprechen.|The customer wants to speak to the manager.|n-declension. Female: die Kundin.|r=Kundin;Kundenservice
+Mitbewohner|w|noun|der|Mitbewohner|flatmate; roommate|A2|2|a|housing,people||Meine Mitbewohnerin kommt aus Spanien.|My flatmate is from Spain.|Female: die Mitbewohnerin. In a WG (Wohngemeinschaft).|r=WG
+Freundschaft|w|noun|die|Freundschaften|friendship|B1|2|r|social,feelings||Unsere Freundschaft ist mir sehr wichtig.|Our friendship is very important to me.|||
+Beziehung|w|noun|die|Beziehungen|relationship|B1|2|b|social,feelings||Sie ist seit zwei Jahren in einer Beziehung.|She's been in a relationship for two years.|||
+Liebe|w|noun|die|∅|love|A2|2|a|feelings||Liebe auf den ersten Blick.|Love at first sight.|||r=lieben;lieb
+verliebt|w|adj|||in love|A2|2|a|feelings||Er ist total verliebt.|He's completely in love.|verliebt in + Akk.|r=sich verlieben
+sich verlieben|c|verb|||to fall in love|A2|2|a|feelings||Sie hat sich in einen Kollegen verliebt.|She fell in love with a colleague.|refl;sich verlieben in + Akk.|f=verliebt sich, verliebte sich, hat sich verliebt
+Kontakt|w|noun|der|Kontakte|contact|A2|2|a|social,communication||Wir haben immer noch Kontakt.|We're still in touch.||c=in Kontakt bleiben;Kontakt aufnehmen
+Besuch|w|noun|der|Besuche|visit; visitor(s)|A2|2|a|social||Wir bekommen am Wochenende Besuch.|We're having visitors at the weekend.|Besuch haben / bekommen = to have visitors.|r=besuchen
+Treffen|w|noun|das|Treffen|meeting; get-together|A2|2|a|social,work||Das nächste Treffen ist am Donnerstag.|The next meeting is on Thursday.|||r=treffen
+Feier|w|noun|die|Feiern|celebration; party|A2|2|a|social||Die Feier war sehr schön.|The party was really nice.|||r=feiern;Feierabend;Feiertag
+Fest|w|noun|das|Feste|festival; celebration|A2|2|a|social,leisure||Im Sommer gibt es viele Feste in der Stadt.|There are lots of festivals in town in the summer.|||r=Straßenfest;Volksfest
+Weihnachten|w|noun|das|∅|Christmas|A1|2|a|social,time||Wir feiern Weihnachten bei meinen Eltern.|We celebrate Christmas at my parents'.|Frohe Weihnachten! Usually without article.|c=Frohe Weihnachten
+Ostern|w|noun|das|∅|Easter|A2|2|r|social,time||An Ostern haben die Kinder Ferien.|The children are off school at Easter.|||
+Silvester|w|noun|das|∅|New Year's Eve|A2|2|a|social,time||Was machst du an Silvester?|What are you doing on New Year's Eve?|Guten Rutsch! = Happy New Year (said before midnight).|c=Guten Rutsch
+Gefühl|w|noun|das|Gefühle|feeling|A2|2|a|feelings||Ich habe ein gutes Gefühl.|I have a good feeling.|||r=fühlen
+Freude|w|noun|die|Freuden|joy; pleasure|A2|2|r|feelings||Das macht mir viel Freude.|That gives me a lot of pleasure.|||r=sich freuen
+Sorge|w|noun|die|Sorgen|worry; concern|A2|2|a|feelings||Mach dir keine Sorgen!|Don't worry!|sich Sorgen machen um + Akk.|c=sich Sorgen machen
+Stress|w|noun|der|∅|stress|A2|2|a|feelings,work||Ich habe gerade viel Stress bei der Arbeit.|I'm under a lot of stress at work right now.||c=Stress haben|r=stressig
+stressig|w|adj|||stressful|A2|2|a|feelings,work|spoken|Die Woche war echt stressig.|The week was really stressful.|||r=Stress
+nervös|w|adj|||nervous|A2|2|a|feelings||Vor Prüfungen bin ich immer nervös.|I'm always nervous before exams.|||
+wütend|w|adj|||angry; furious|B1|2|b|feelings||Warum bist du so wütend?|Why are you so angry?|||r=Wut
+sauer|w|adj|||annoyed; cross; sour|A2|2|a|feelings,food|spoken|Bist du sauer auf mich?|Are you cross with me?|sauer sein auf + Akk = to be annoyed with.|
+böse|w|adj|||angry; bad; evil|A1|2|a|feelings||Sei mir bitte nicht böse.|Please don't be angry with me.|böse sein + Dat = to be angry with someone.|
+überrascht|w|adj|||surprised|A2|2|a|feelings||Ich war total überrascht.|I was completely surprised.|||r=überraschen;Überraschung
+Überraschung|w|noun|die|Überraschungen|surprise|A2|2|a|feelings,social||Das ist ja eine schöne Überraschung!|What a nice surprise!|||r=überraschen
+Angst haben vor|c|verb|||to be afraid of|A2|2|a|feelings||Viele Kinder haben Angst vor dem Zahnarzt.|Many children are afraid of the dentist.|+Dat;prep:vor||r=Angst
+sich ärgern|c|verb|||to be annoyed|B1|2|b|feelings||Ich ärgere mich über den Lärm.|The noise is annoying me.|refl;sich ärgern über + Akk.|f=ärgert sich, ärgerte sich, hat sich geärgert|r=Ärger
+sich langweilen|c|verb|||to be bored|A2|2|a|feelings||Ich langweile mich zu Hause.|I'm bored at home.|refl|f=langweilt sich, langweilte sich, hat sich gelangweilt|r=langweilig
+vermissen|w|verb|||to miss (someone/something)|A2|2|a|feelings||Ich vermisse meine Familie.|I miss my family.||f=vermisst, vermisste, hat vermisst
+hassen|w|verb|||to hate|B1|2|r|feelings||Ich hasse es, früh aufzustehen.|I hate getting up early.||f=hasst, hasste, hat gehasst
+weinen|w|verb|||to cry|A2|2|a|feelings||Das Baby weint.|The baby is crying.||f=weint, weinte, hat geweint
+lächeln|w|verb|||to smile|B1|2|r|feelings||Sie lächelt immer.|She's always smiling.||f=lächelt, lächelte, hat gelächelt
+Spaß machen|c|verb|||to be fun|A1|2|a|feelings,leisure||Die Arbeit macht mir Spaß.|I enjoy the work.|+Dat|r=Spaß|why=verb choice machen (Das macht Spaß) not predictable
+sympathisch|w|adj|||likeable; nice|A2|2|a|people||Der neue Kollege ist sehr sympathisch.|The new colleague is really nice.|False friend: not 'sympathetic' (= mitfühlend).|
+ehrlich|w|adj|||honest|B1|2|a|people||Sei ehrlich, wie findest du es?|Be honest, what do you think of it?|ehrlich gesagt = to be honest.|c=ehrlich gesagt
+höflich|w|adj|||polite|A2|2|a|people||Die Verkäuferin war sehr höflich.|The sales assistant was very polite.|||r=unhöflich
+fleißig|w|adj|||hard-working; diligent|A2|2|a|people,work||Sie ist sehr fleißig.|She's very hard-working.|||r=faul
+faul|w|adj|||lazy|A2|2|a|people||Heute bin ich richtig faul.|I'm really lazy today.|||r=fleißig
+lieb|w|adj|||kind; sweet; dear|A1|2|a|people,feelings||Das ist lieb von dir.|That's kind of you.|Lieber Tom / Liebe Anna = Dear (informal letters).|c=Liebe Grüße
+witzig|w|adj|||funny; amusing|A2|2|a|people,opinions|spoken|Er ist total witzig.|He's really funny.|||r=Witz
+klug|w|adj|||clever; smart|A2|2|r|people||Das war eine kluge Entscheidung.|That was a smart decision.|||
+dumm|w|adj|||stupid; silly|A2|2|a|people,opinions|spoken|Das war eine dumme Idee.|That was a stupid idea.|||
+komisch|w|adj|||strange; odd; funny|A2|2|a|opinions|spoken|Das ist komisch, gestern hat es noch funktioniert.|That's strange, it still worked yesterday.|||
+seltsam|w|adj|||strange; weird|B1|2|r|opinions||Das klingt seltsam.|That sounds strange.|||r=komisch
+schüchtern|w|adj|||shy|B1|2|r|people||Unser Sohn ist ein bisschen schüchtern.|Our son is a bit shy.|||
+geduldig|w|adj|||patient|B1|2|r|people||Sie müssen ein bisschen geduldig sein.|You'll have to be a bit patient.|||r=Geduld;ungeduldig
+hübsch|w|adj|||pretty|A2|2|a|people||Das Kleid ist sehr hübsch.|The dress is very pretty.|||
+schlank|w|adj|||slim|A2|2|r|people,body||Er ist groß und schlank.|He's tall and slim.|||r=dick
+dick|w|adj|||fat; thick|A2|2|a|people,everyday||Das Buch ist ziemlich dick.|The book is pretty thick.|||r=dünn
+dünn|w|adj|||thin|A2|2|a|people,everyday||Die Wände sind sehr dünn.|The walls are very thin.|||r=dick
+blond|w|adj|||blonde; fair|A2|2|r|people||Sie hat lange blonde Haare.|She has long blonde hair.|||
+Haar|w|noun|das|Haare|hair|A1|2|a|body,people||Sie hat kurze Haare.|She has short hair.|Usually plural for hair on the head.|
+Typ|w|noun|der|Typen|guy; type|B1|2|a|people|informal|Der Typ ist echt nett.|The guy is really nice.|n-declension. Also: type (Das ist nicht mein Typ).|
+Kumpel|w|noun|der|Kumpel|mate; buddy|B1|2|r|people|informal|Ich treffe mich mit ein paar Kumpels.|I'm meeting up with a few mates.|Plural also Kumpels (spoken).|
+duzen|w|verb|||to address with du|A2|2|a|social,work||Wollen wir uns duzen?|Shall we use 'du'?|Offering du is a social step: the older or senior person usually offers it.|f=duzt, duzte, hat geduzt|r=siezen;du|why=Germany-specific social convention
+siezen|w|verb|||to address with Sie|A2|2|a|social,work||Bei uns im Büro siezen sich alle.|In our office everyone uses 'Sie'.||f=siezt, siezte, hat gesiezt|r=duzen;Sie|why=Germany-specific social convention
+sich kennen|c|verb|||to know each other|A1|2|a|social||Woher kennt ihr euch?|How do you two know each other?|refl|f=kennt sich, kannte sich, hat sich gekannt
+sich treffen mit|c|verb|||to meet up with|A1|2|a|social||Ich treffe mich heute mit Freunden.|I'm meeting up with friends today.|refl;prep:mit;+Dat|f=trifft sich, traf sich, hat sich getroffen|r=treffen
+vorbeikommen|w|verb|||to drop by; to come round|A2|2|a|social|spoken|Komm doch am Wochenende mal vorbei!|Why don't you drop by at the weekend?|irreg;sep;aux:sein|f=kommt vorbei, kam vorbei, ist vorbeigekommen
+ausgehen|w|verb|||to go out|A2|2|a|social,leisure||Am Freitag gehen wir aus.|We're going out on Friday.|irreg;sep;aux:sein|f=geht aus, ging aus, ist ausgegangen
+sich unterhalten|c|verb|||to chat; to have a conversation|B1|2|a|social,communication||Wir haben uns lange unterhalten.|We had a long chat.|refl;irreg;insep;sich unterhalten über + Akk.|f=unterhält sich, unterhielt sich, hat sich unterhalten|r=Unterhaltung
+Gespräch|w|noun|das|Gespräche|conversation; talk|A1|2|a|communication,social||Das war ein gutes Gespräch.|That was a good conversation.|||r=sprechen;Vorstellungsgespräch
+Witz|w|noun|der|Witze|joke|A2|2|a|social||Kennst du den Witz?|Do you know this joke?||c=einen Witz erzählen|r=witzig
+Laune|w|noun|die|Launen|mood|B1|2|a|feelings|spoken|Du hast ja gute Laune heute!|You're in a good mood today!||c=gute Laune;schlechte Laune
+Geduld|w|noun|die|∅|patience|B1|2|r|feelings||Danke für Ihre Geduld.|Thank you for your patience.|||r=geduldig
+einsam|w|adj|||lonely|B1|2|r|feelings||Am Anfang war ich in Deutschland oft einsam.|At first I was often lonely in Germany.|||
+gemeinsam|w|adj|||together; joint; common|B1|2|a|social||Wir kochen oft gemeinsam.|We often cook together.|||r=zusammen
+miteinander|w|adv|||with each other; together|B1|2|r|social||Wir reden zu wenig miteinander.|We don't talk to each other enough.|||
+Einwohner|w|noun|der|Einwohner|inhabitant; resident|B1|2|r|places,society||Die Stadt hat 200.000 Einwohner.|The town has 200,000 inhabitants.|||
+Ausländer|w|noun|der|Ausländer|foreigner|A1|2|a|people,bureaucracy||Für Ausländer gibt es eine Beratung im Rathaus.|There's an advice service for foreigners at the town hall.|Female: die Ausländerin. Ausländerbehörde = immigration office.|r=ausländisch;Ausland
+Heimat|w|noun|die|∅|home; homeland|A1|2|a|people,feelings||Meine Heimat ist Polen, aber ich lebe gern hier.|My home country is Poland, but I like living here.|Emotional word for where you come from.|
+Herkunft|w|noun|die|∅|origin; background|B1|2|r|people,bureaucracy||Die Herkunft spielt keine Rolle.|Background doesn't matter.|||

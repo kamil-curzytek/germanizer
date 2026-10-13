@@ -1,0 +1,10 @@
+# Tier 2 · gaps surfaced by token-mass analysis after tier 3 (individual da-words; previously only taught as a bundle)
+# german|type|pos|article|plural|english|cefr|tier|mode|topics|register|example|example_en|grammar|f=|c=|r=|why=
+dafür|w|adv|||for it; for that; in favour|A2|2|a|discourse||Ich habe keine Zeit dafür.|I don't have time for that.|da + für.|r=wofür||why=top-100 uncovered lemma by token mass (subtitles, web)
+davon|w|adv|||of it; from it; about it|A2|2|a|discourse||Ich habe genug davon.|I've had enough of it.|da + von.|r=wovon||why=top-100 uncovered lemma by token mass
+dazu|w|adv|||to it; in addition; for that|A2|2|a|discourse||Was sagst du dazu?|What do you say to that?|da + zu. Also: dazu kommen = to get round to.|r=wozu||why=top-100 uncovered lemma by token mass
+darüber|w|adv|||about it; above it|A2|2|a|discourse||Lass uns morgen darüber sprechen.|Let's talk about it tomorrow.|da + über.|r=worüber||why=top-100 uncovered lemma by token mass
+daran|w|adv|||of it; on it|A2|2|a|discourse||Ich habe nicht daran gedacht.|I didn't think of it.|da + an.|r=woran||why=top-100 uncovered lemma by token mass
+darum|w|adv|||that's why; about it|A2|2|a|discourse||Darum geht es nicht.|That's not the point.|da + um. Also = deshalb.|r=worum;deshalb||why=top-100 uncovered lemma by token mass
+darauf|w|adv|||on it; to it; for it|A2|2|a|discourse||Ich freue mich darauf.|I'm looking forward to it.|da + auf.|r=worauf||why=top-100 uncovered lemma by token mass
+die meisten|c|det|||most (people/things)|A2|2|a|grammar||Die meisten Leute arbeiten von neun bis fünf.|Most people work from nine to five.|Plural; with article.|r=meistens;viel||why=high-frequency gap; superlative of viel

@@ -1,0 +1,39 @@
+# Tier 1 · high-frequency spoken items missing from the first core draft (found by tier-coverage check)
+# german|type|pos|article|plural|english|cefr|tier|mode|topics|register|example|example_en|grammar|f=|c=|r=|why=
+reden|w|verb|||to talk; to speak|A2|1|a|communication|spoken|Wir müssen mal reden.|We need to talk.|reden mit + Dat / über + Akk. More informal than sprechen.|f=redet, redete, hat geredet|c=reden mit;reden über|why=very frequent in spoken German (subtitle top 200)
+passieren|w|verb|||to happen|A2|1|a|everyday||Was ist passiert?|What happened?|aux:sein|f=passiert, passierte, ist passiert|why=very frequent in speech
+schaffen|w|verb|||to manage; to make it; to get done|A2|1|a|everyday|spoken|Schaffst du das bis Freitag?|Can you get it done by Friday?|In this sense regular. (erschaffen = create is irregular.)|f=schafft, schaffte, hat geschafft|c=es schaffen;Das schaffst du!
+aussehen|w|verb|||to look (appearance)|A2|1|a|people,everyday||Du siehst müde aus.|You look tired.|irreg;sep|f=sieht aus, sah aus, hat ausgesehen|c=gut aussehen;Wie sieht es aus?
+funktionieren|w|verb|||to work; to function|A2|1|a|technology,everyday||Das WLAN funktioniert nicht.|The Wi-Fi isn't working.||f=funktioniert, funktionierte, hat funktioniert|r=klappen
+ändern|w|verb|||to change; to alter|A2|1|a|everyday||Können wir den Termin ändern?|Can we change the appointment?|sich ändern = to change (by itself).|f=ändert, änderte, hat geändert|r=Änderung;verändern
+rufen|w|verb|||to call; to shout|A2|1|a|communication,services||Soll ich einen Krankenwagen rufen?|Shall I call an ambulance?|irreg|f=ruft, rief, hat gerufen|c=ein Taxi rufen;die Polizei rufen|r=anrufen
+ein paar|f|det|||a few; a couple of|A1|1|a|grammar||Ich habe noch ein paar Fragen.|I have a few more questions.|Lower case paar = a few; das Paar = a pair/couple.|r=Paar
+einige|w|det|||some; several; a few|A2|1|a|grammar||Einige Kollegen arbeiten von zu Hause.|Some colleagues work from home.|||r=manche
+anders|w|adv|||different; differently|A2|1|a|everyday||Das sehe ich anders.|I see that differently.|anders als = different from.||c=anders als|r=andere
+endlich|w|adv|||finally; at last|A2|1|a|time,feelings||Endlich Wochenende!|Finally, the weekend!|||
+schlimm|w|adj|||bad; serious|A2|1|a|feelings,health||Das ist nicht so schlimm.|That's not so bad.||c=nicht schlimm
+normal|w|adj|||normal; usual|A1|1|a|everyday||Das ist ganz normal.|That's completely normal.|||r=normalerweise
+echt|w|adv|||really; genuinely|A1|1|a|discourse|spoken,informal|Das ist echt gut.|That's really good.|Colloquial intensifier. As adjective: genuine (echtes Leder).||r=Echt?
+gar|w|adv|||at all (in gar nicht / gar nichts)|A2|1|a|grammar|spoken|Das ist gar nicht schlecht.|That's not bad at all.|Almost always with nicht / nichts / kein.||c=gar nicht;gar nichts;gar kein
+wahr|w|adj|||true|A2|1|a|opinions||Das ist doch nicht wahr!|That's not true!|nicht wahr? = isn't it? (tag question)||c=nicht wahr
+Recht haben|c|verb|||to be right|A2|1|a|opinions||Da hast du Recht.|You're right about that.|Also written recht haben.||why=key phrase for agreeing
+weh tun|c|verb|||to hurt|A1|1|a|healthcare,body||Mir tut der Rücken weh.|My back hurts.|+Dat;Also wehtun. Was tut Ihnen weh? = Where does it hurt?|f=tut weh, tat weh, hat wehgetan|why=needed at every doctor's visit
+auf jeden Fall|f|phrase|||definitely; in any case|A2|1|a|opinions,discourse||Ich komme auf jeden Fall.|I'm definitely coming.||r=Fall|why=very frequent in speech
+Idee|w|noun|die|Ideen|idea|A1|1|a|opinions||Hast du eine Idee?|Do you have an idea?|||r=Gute Idee
+Plan|w|noun|der|Pläne|plan; map (city/transport)|A1|1|a|everyday||Was ist der Plan für heute?|What's the plan for today?|Also: Stadtplan, Fahrplan.||r=planen;Fahrplan;Stadtplan
+Teil|w|noun|der|Teile|part; piece|A2|1|a|everyday||Ein Teil der Kosten ist schon bezahlt.|Part of the costs has already been paid.|zum Teil = partly.||c=zum Teil|r=teilen;teilnehmen
+Person|w|noun|die|Personen|person|A1|1|a|people||Ein Tisch für drei Personen, bitte.|A table for three, please.|Formal or for counting; in speech Leute / Menschen.|
+Geschichte|w|noun|die|Geschichten|story; history|A2|1|a|leisure,education||Erzähl mir die Geschichte!|Tell me the story!|||
+Gesicht|w|noun|das|Gesichter|face|A2|1|r|body||Sie hat ein freundliches Gesicht.|She has a friendly face.|||
+vorbei|w|adv|||over; past; by|A2|1|a|time,places|spoken|Der Sommer ist schon vorbei.|Summer's already over.|vorbeikommen = to drop by.||r=vorbeikommen
+her|w|adv|||here (towards the speaker); ago|A1|1|a|places|spoken|Komm mal her!|Come here!|Direction towards the speaker; hin = away from. Wo kommst du her? Das ist lange her = That was long ago.||c=lange her|r=hin;herkommen
+hin|w|adv|||there (away from the speaker)|A2|1|a|places|spoken|Wo gehst du hin?|Where are you going?|hin und her = back and forth; hin und zurück = return (ticket).||c=hin und zurück|r=her
+da-Wörter: dafür, damit, darauf, dabei|c|adv|||for it; with it; on it; while/thereby|A2|1|a|grammar|spoken|Ich habe keine Zeit dafür.|I don't have time for it.|pattern;da(r) + preposition replaces 'preposition + it/that': dafür, damit, dabei, davon, darauf, daran, darüber, dazu. Questions: wofür? womit? worauf?|r=wofür;womit;worauf|why=da-compounds are among the most frequent words in speech (dabei, dafür, darauf, damit all in the top 300)
+Vorsicht|w|noun|die|∅|caution; careful!|A1|1|a|everyday||Vorsicht, Stufe!|Mind the step!|On signs: Vorsicht! = Caution!||r=vorsichtig
+Million|w|noun|die|Millionen|million|A2|1|r|numbers||Berlin hat fast vier Millionen Einwohner.|Berlin has almost four million inhabitants.|||
+Sekunde|w|noun|die|Sekunden|second|A1|1|a|time||Warte eine Sekunde!|Wait a second!|||
+bevor|w|conj|||before|A2|1|a|grammar,time||Ruf mich an, bevor du kommst.|Call me before you come.|Sends the verb to the end. Preposition = vor.||r=nachdem
+nachdem|w|conj|||after|B1|1|a|grammar,time||Nachdem ich gegessen hatte, bin ich ins Bett gegangen.|After I had eaten, I went to bed.|Verb to the end; often with Plusquamperfekt. Preposition = nach.||r=bevor
+während|w|conj|||while; during|A2|1|a|grammar,time||Während ich koche, kannst du den Tisch decken.|While I cook, you can set the table.|Conjunction (verb to the end) or preposition + Genitiv: während der Arbeit.|
+irgendwie|w|adv|||somehow|A2|1|a|discourse|spoken|Irgendwie klappt das nicht.|Somehow that's not working.|irgend- = some/any: irgendwo, irgendwann, irgendwas.||r=irgendwo;irgendwann;irgendwas
+klappen|w|verb|||to work out|A2|1|a|everyday|spoken|Hat alles geklappt?|Did everything work out?||f=klappt, klappte, hat geklappt|r=funktionieren

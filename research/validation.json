@@ -1,0 +1,1003 @@
+{
+ "goethe": {
+  "A1": {
+   "headwords": 631,
+   "covered_by_tier<=1": 69.4,
+   "covered_anywhere": 98.3,
+   "missing_count": 11,
+   "missing_sample": [
+    "Anrede",
+    "Ansage",
+    "Apartment",
+    "Disco",
+    "Geburtsjahr",
+    "Partnerin",
+    "Reisebüro",
+    "ander",
+    "mittel",
+    "nächst",
+    "urteilen"
+   ]
+  },
+  "A2": {
+   "headwords": 1081,
+   "covered_by_tier<=2": 90.9,
+   "covered_anywhere": 96.4,
+   "missing_count": 39,
+   "missing_sample": [
+    "Apparat",
+    "Babysitter",
+    "Basketball",
+    "Cafeteria",
+    "Disco",
+    "Disko",
+    "E-Book",
+    "Ehepartner",
+    "Fotoapparat",
+    "Hamburger",
+    "Homepage",
+    "Kundin",
+    "Mittel",
+    "Nachbarin",
+    "Partnerin",
+    "Reisebüro",
+    "Rentnerin",
+    "Schirm",
+    "Schweiz",
+    "Schülerin",
+    "Sportplatz",
+    "Studentin",
+    "Tennis",
+    "Touristin",
+    "Vermieterin",
+    "Volleyball",
+    "Workshop",
+    "ander",
+    "austragen",
+    "bäckt",
+    "dium",
+    "gung",
+    "luxemburgisch",
+    "manch",
+    "mittel",
+    "schweizerisch",
+    "tschüs",
+    "tung",
+    "österreichisch"
+   ]
+  },
+  "B1": {
+   "headwords": 2788,
+   "covered_by_tier<=3": 81.9,
+   "covered_anywhere": 88.0,
+   "missing_count": 334,
+   "missing_sample": [
+    "Abfalleimer",
+    "Absenderin",
+    "Abwart",
+    "Altersheim",
+    "Ammann",
+    "Ammännin",
+    "Annonce",
+    "Anrede",
+    "Ansage",
+    "Antwortbogen",
+    "Anwältin",
+    "Apartment",
+    "Apparat",
+    "Arbeiterin",
+    "Architektin",
+    "Aushilfe",
+    "Ausländerin",
+    "Autorin",
+    "Babysitter",
+    "Bancomat",
+    "Bankomat-Karte",
+    "Basketball",
+    "Bauer",
+    "Beamtin",
+    "Bekannte",
+    "Betreuer",
+    "Betreuerin",
+    "Betriebsrätin",
+    "Bewohnerin",
+    "Bikini",
+    "Billett",
+    "Biologie",
+    "Blog",
+    "Bundeskanzlerin",
+    "Bundespräsident",
+    "Bundespräsidentin",
+    "Bundesrat",
+    "Bundesrätin",
+    "Büchse",
+    "Bürgerin",
+    "Bürgermeisterin",
+    "CD-Player",
+    "Cafeteria",
+    "Camp",
+    "Castingshow",
+    "Chip",
+    "Chipkarte",
+    "City",
+    "Coiffeur",
+    "Cousine",
+    "Dessert",
+    "Deutsche",
+    "Direktorin",
+    "Diskothek",
+    "Doktorin",
+    "Donner",
+    "Dreck",
+    "E-Book",
+    "Ehepaar",
+    "Einbrecher",
+    "Einbrecherin",
+    "Einkauf",
+    "Einwohnerin",
+    "Enkelin",
+    "Erdgeschoß",
+    "Europäer",
+    "Europäerin",
+    "Fachfrau",
+    "Fachleute",
+    "Fasching",
+    "Fauteuil",
+    "Fitness",
+    "Fleischhauer",
+    "Fleischhauerin",
+    "Fotoapparat",
+    "Fotografie",
+    "Friede",
+    "Friseurin",
+    "Fußgängerin",
+    "Gehsteig"
+   ]
+  }
+ },
+ "inflation_flags": [
+  {
+   "where": "t1-f-phrases.psv:12",
+   "german": "Wie geht's?",
+   "kind": "pragmatic routine"
+  },
+  {
+   "where": "t1-f-phrases.psv:13",
+   "german": "Mir geht's gut",
+   "kind": "pragmatic routine"
+  },
+  {
+   "where": "t1-f-phrases.psv:18",
+   "german": "Gern geschehen",
+   "kind": "pragmatic routine"
+  },
+  {
+   "where": "t1-f-phrases.psv:21",
+   "german": "Kein Problem",
+   "kind": "pragmatic routine"
+  },
+  {
+   "where": "t1-f-phrases.psv:22",
+   "german": "Das macht nichts",
+   "kind": "pragmatic routine"
+  },
+  {
+   "where": "t1-f-phrases.psv:23",
+   "german": "Wie bitte?",
+   "kind": "pragmatic routine"
+  },
+  {
+   "where": "t1-f-phrases.psv:24",
+   "german": "Können Sie das bitte wiederholen?",
+   "kind": "pragmatic routine"
+  },
+  {
+   "where": "t1-f-phrases.psv:25",
+   "german": "Was bedeutet das?",
+   "kind": "pragmatic routine"
+  },
+  {
+   "where": "t1-f-phrases.psv:26",
+   "german": "Wie sagt man das auf Deutsch?",
+   "kind": "pragmatic routine"
+  },
+  {
+   "where": "t1-f-phrases.psv:29",
+   "german": "Ich hätte gern",
+   "kind": "pragmatic routine"
+  },
+  {
+   "where": "t1-f-phrases.psv:31",
+   "german": "Wie spät ist es?",
+   "kind": "pragmatic routine"
+  },
+  {
+   "where": "t1-f-phrases.psv:32",
+   "german": "Was ist los?",
+   "kind": "pragmatic routine"
+  },
+  {
+   "where": "t1-f-phrases.psv:33",
+   "german": "Alles klar",
+   "kind": "pragmatic routine"
+  },
+  {
+   "where": "t1-f-phrases.psv:35",
+   "german": "Keine Ahnung",
+   "kind": "pragmatic routine"
+  },
+  {
+   "where": "t1-f-phrases.psv:36",
+   "german": "Ich weiß nicht",
+   "kind": "pragmatic routine"
+  },
+  {
+   "where": "t1-f-phrases.psv:37",
+   "german": "Mal sehen",
+   "kind": "pragmatic routine"
+  },
+  {
+   "where": "t1-f-phrases.psv:38",
+   "german": "Ach so",
+   "kind": "pragmatic routine"
+  },
+  {
+   "where": "t1-f-phrases.psv:39",
+   "german": "Na ja",
+   "kind": "pragmatic routine"
+  },
+  {
+   "where": "t1-f-phrases.psv:44",
+   "german": "Moment mal",
+   "kind": "pragmatic routine"
+  },
+  {
+   "where": "t1-f-phrases.psv:45",
+   "german": "Das kommt darauf an",
+   "kind": "pragmatic routine"
+  },
+  {
+   "where": "t1-f-phrases.psv:46",
+   "german": "Zusammen oder getrennt?",
+   "kind": "pragmatic routine"
+  },
+  {
+   "where": "t1-f-phrases.psv:48",
+   "german": "Sonst noch etwas?",
+   "kind": "pragmatic routine"
+  },
+  {
+   "where": "t1-f-phrases.psv:49",
+   "german": "Das war's",
+   "kind": "pragmatic routine"
+  },
+  {
+   "where": "t1-f-phrases.psv:50",
+   "german": "Zum Mitnehmen",
+   "kind": "pragmatic routine"
+  },
+  {
+   "where": "t1-f-phrases.psv:61",
+   "german": "Wie wäre es mit",
+   "kind": "pragmatic routine"
+  },
+  {
+   "where": "t1-f-phrases.psv:62",
+   "german": "Ich bin dran",
+   "kind": "pragmatic routine"
+  },
+  {
+   "where": "t2-c-bureaucracy-money.psv:39",
+   "german": "Mit freundlichen Grüßen",
+   "kind": "pragmatic routine"
+  },
+  {
+   "where": "t2-j-general-nouns.psv:57",
+   "german": "Stück für Stück",
+   "kind": "pragmatic routine"
+  },
+  {
+   "where": "t2-l-functional-phrases.psv:5",
+   "german": "Meiner Meinung nach",
+   "kind": "pragmatic routine"
+  },
+  {
+   "where": "t2-l-functional-phrases.psv:7",
+   "german": "Das sehe ich auch so",
+   "kind": "pragmatic routine"
+  },
+  {
+   "where": "t2-l-functional-phrases.psv:8",
+   "german": "Das sehe ich anders",
+   "kind": "pragmatic routine"
+  },
+  {
+   "where": "t2-l-functional-phrases.psv:9",
+   "german": "Da bin ich nicht sicher",
+   "kind": "pragmatic routine"
+  },
+  {
+   "where": "t2-l-functional-phrases.psv:13",
+   "german": "Ich hätte eine Frage",
+   "kind": "pragmatic routine"
+  },
+  {
+   "where": "t2-l-functional-phrases.psv:14",
+   "german": "Könnten Sie mir helfen?",
+   "kind": "pragmatic routine"
+  },
+  {
+   "where": "t2-l-functional-phrases.psv:16",
+   "german": "Was meinen Sie damit?",
+   "kind": "pragmatic routine"
+  },
+  {
+   "where": "t2-l-functional-phrases.psv:17",
+   "german": "Wie meinst du das?",
+   "kind": "pragmatic routine"
+  },
+  {
+   "where": "t2-l-functional-phrases.psv:19",
+   "german": "Es funktioniert nicht",
+   "kind": "pragmatic routine"
+  },
+  {
+   "where": "t2-l-functional-phrases.psv:20",
+   "german": "Was kann ich für Sie tun?",
+   "kind": "pragmatic routine"
+  },
+  {
+   "where": "t2-l-functional-phrases.psv:21",
+   "german": "Kann ich Ihnen helfen?",
+   "kind": "pragmatic routine"
+  },
+  {
+   "where": "t2-l-functional-phrases.psv:22",
+   "german": "Ich schaue nur",
+   "kind": "pragmatic routine"
+  },
+  {
+   "where": "t2-l-functional-phrases.psv:26",
+   "german": "Ich möchte gern bezahlen",
+   "kind": "pragmatic routine"
+  },
+  {
+   "where": "t2-l-functional-phrases.psv:27",
+   "german": "Wann passt es Ihnen?",
+   "kind": "pragmatic routine"
+  },
+  {
+   "where": "t2-l-functional-phrases.psv:30",
+   "german": "Kann ich eine Nachricht hinterlassen?",
+   "kind": "pragmatic routine"
+  },
+  {
+   "where": "t2-l-functional-phrases.psv:31",
+   "german": "Wer spricht da?",
+   "kind": "pragmatic routine"
+  },
+  {
+   "where": "t2-l-functional-phrases.psv:36",
+   "german": "Leider kann ich nicht",
+   "kind": "pragmatic routine"
+  },
+  {
+   "where": "t2-l-functional-phrases.psv:37",
+   "german": "Ein anderes Mal",
+   "kind": "pragmatic routine"
+  },
+  {
+   "where": "t2-l-functional-phrases.psv:39",
+   "german": "Ich bin dafür",
+   "kind": "pragmatic routine"
+  },
+  {
+   "where": "t2-l-functional-phrases.psv:40",
+   "german": "Ich bin dagegen",
+   "kind": "pragmatic routine"
+  },
+  {
+   "where": "t2-l-functional-phrases.psv:41",
+   "german": "Ich glaube schon",
+   "kind": "pragmatic routine"
+  },
+  {
+   "where": "t2-l-functional-phrases.psv:42",
+   "german": "Ich glaube nicht",
+   "kind": "pragmatic routine"
+  },
+  {
+   "where": "t2-l-functional-phrases.psv:43",
+   "german": "Wie war's?",
+   "kind": "pragmatic routine"
+  },
+  {
+   "where": "t2-l-functional-phrases.psv:45",
+   "german": "Es geht",
+   "kind": "pragmatic routine"
+  },
+  {
+   "where": "t2-l-functional-phrases.psv:46",
+   "german": "Nicht so gut",
+   "kind": "pragmatic routine"
+  },
+  {
+   "where": "t2-l-functional-phrases.psv:47",
+   "german": "Was ist passiert?",
+   "kind": "pragmatic routine"
+  },
+  {
+   "where": "t2-l-functional-phrases.psv:49",
+   "german": "Ich verstehe",
+   "kind": "pragmatic routine"
+  },
+  {
+   "where": "t2-l-functional-phrases.psv:50",
+   "german": "Wie heißt das auf Deutsch?",
+   "kind": "pragmatic routine"
+  },
+  {
+   "where": "t2-l-functional-phrases.psv:53",
+   "german": "Ist das richtig so?",
+   "kind": "pragmatic routine"
+  },
+  {
+   "where": "t2-l-functional-phrases.psv:56",
+   "german": "Bis wann?",
+   "kind": "pragmatic routine"
+  },
+  {
+   "where": "t2-l-functional-phrases.psv:57",
+   "german": "Ab wann?",
+   "kind": "pragmatic routine"
+  },
+  {
+   "where": "t2-l-functional-phrases.psv:59",
+   "german": "Ich bin neu hier",
+   "kind": "pragmatic routine"
+  },
+  {
+   "where": "t2-l-functional-phrases.psv:66",
+   "german": "Na klar",
+   "kind": "pragmatic routine"
+  },
+  {
+   "where": "t2-l-functional-phrases.psv:67",
+   "german": "Kein Wunder",
+   "kind": "pragmatic routine"
+  },
+  {
+   "where": "t2-l-functional-phrases.psv:68",
+   "german": "Zum Glück",
+   "kind": "pragmatic routine"
+  },
+  {
+   "where": "t2-l-functional-phrases.psv:69",
+   "german": "Leider nicht",
+   "kind": "pragmatic routine"
+  },
+  {
+   "where": "t3-d-society-media-law.psv:45",
+   "german": "soziale Medien",
+   "kind": "pragmatic routine"
+  },
+  {
+   "where": "t3-g-constructions-phrases.psv:5",
+   "german": "Was halten Sie davon?",
+   "kind": "pragmatic routine"
+  },
+  {
+   "where": "t3-g-constructions-phrases.psv:8",
+   "german": "Da haben Sie recht",
+   "kind": "pragmatic routine"
+  },
+  {
+   "where": "t3-g-constructions-phrases.psv:10",
+   "german": "Ganz im Gegenteil",
+   "kind": "pragmatic routine"
+  },
+  {
+   "where": "t3-g-constructions-phrases.psv:13",
+   "german": "Vor allem",
+   "kind": "pragmatic routine"
+  },
+  {
+   "where": "t3-g-constructions-phrases.psv:14",
+   "german": "Zum Beispiel",
+   "kind": "pragmatic routine"
+  },
+  {
+   "where": "t3-g-constructions-phrases.psv:15",
+   "german": "Das heißt",
+   "kind": "pragmatic routine"
+  },
+  {
+   "where": "t3-g-constructions-phrases.psv:16",
+   "german": "Mit anderen Worten",
+   "kind": "pragmatic routine"
+  },
+  {
+   "where": "t3-g-constructions-phrases.psv:17",
+   "german": "Ehrlich gesagt",
+   "kind": "pragmatic routine"
+  },
+  {
+   "where": "t3-g-constructions-phrases.psv:18",
+   "german": "Kurz gesagt",
+   "kind": "pragmatic routine"
+  },
+  {
+   "where": "t3-g-constructions-phrases.psv:20",
+   "german": "Zum Schluss",
+   "kind": "pragmatic routine"
+  },
+  {
+   "where": "t3-g-constructions-phrases.psv:29",
+   "german": "Worum geht es?",
+   "kind": "pragmatic routine"
+  },
+  {
+   "where": "t3-g-constructions-phrases.psv:32",
+   "german": "Wie schon gesagt",
+   "kind": "pragmatic routine"
+  },
+  {
+   "where": "t3-g-constructions-phrases.psv:33",
+   "german": "Wie gesagt",
+   "kind": "pragmatic routine"
+  },
+  {
+   "where": "t3-g-constructions-phrases.psv:34",
+   "german": "Darf ich kurz unterbrechen?",
+   "kind": "pragmatic routine"
+  },
+  {
+   "where": "t3-g-constructions-phrases.psv:37",
+   "german": "Das habe ich nicht ganz verstanden",
+   "kind": "pragmatic routine"
+  },
+  {
+   "where": "t3-g-constructions-phrases.psv:38",
+   "german": "Können Sie das genauer erklären?",
+   "kind": "pragmatic routine"
+  },
+  {
+   "where": "t3-g-constructions-phrases.psv:41",
+   "german": "Ich muss leider absagen",
+   "kind": "pragmatic routine"
+  },
+  {
+   "where": "t3-g-constructions-phrases.psv:43",
+   "german": "Das passt mir gut",
+   "kind": "pragmatic routine"
+  },
+  {
+   "where": "t3-g-constructions-phrases.psv:44",
+   "german": "Das ist nicht in Ordnung",
+   "kind": "pragmatic routine"
+  },
+  {
+   "where": "t3-g-constructions-phrases.psv:47",
+   "german": "Keine Sorge",
+   "kind": "pragmatic routine"
+  },
+  {
+   "where": "t3-g-constructions-phrases.psv:48",
+   "german": "Das macht mir nichts aus",
+   "kind": "pragmatic routine"
+  },
+  {
+   "where": "t3-g-constructions-phrases.psv:49",
+   "german": "Ich habe keine Lust",
+   "kind": "pragmatic routine"
+  },
+  {
+   "where": "t3-g-constructions-phrases.psv:53",
+   "german": "Ich bin gespannt",
+   "kind": "pragmatic routine"
+  },
+  {
+   "where": "t3-g-constructions-phrases.psv:58",
+   "german": "Das ist mir Wurst",
+   "kind": "pragmatic routine"
+  },
+  {
+   "where": "t3-g-constructions-phrases.psv:60",
+   "german": "Alles in Ordnung?",
+   "kind": "pragmatic routine"
+  },
+  {
+   "where": "t3-g-constructions-phrases.psv:61",
+   "german": "Schon gut",
+   "kind": "pragmatic routine"
+  },
+  {
+   "where": "t3-g-constructions-phrases.psv:62",
+   "german": "Na und?",
+   "kind": "pragmatic routine"
+  },
+  {
+   "where": "t3-g-constructions-phrases.psv:65",
+   "german": "Kommt nicht in Frage",
+   "kind": "pragmatic routine"
+  },
+  {
+   "where": "t3-g-constructions-phrases.psv:68",
+   "german": "So schnell wie möglich",
+   "kind": "pragmatic routine"
+  },
+  {
+   "where": "t3-g-constructions-phrases.psv:69",
+   "german": "Je nachdem",
+   "kind": "pragmatic routine"
+  },
+  {
+   "where": "t3-g-constructions-phrases.psv:70",
+   "german": "Unter der Woche",
+   "kind": "pragmatic routine"
+  },
+  {
+   "where": "t3-g-constructions-phrases.psv:71",
+   "german": "Nach wie vor",
+   "kind": "pragmatic routine"
+  },
+  {
+   "where": "t3-g-constructions-phrases.psv:72",
+   "german": "Ab und zu",
+   "kind": "pragmatic routine"
+  },
+  {
+   "where": "t3-g-constructions-phrases.psv:73",
+   "german": "Hin und wieder",
+   "kind": "pragmatic routine"
+  },
+  {
+   "where": "t3-g-constructions-phrases.psv:74",
+   "german": "Von Zeit zu Zeit",
+   "kind": "pragmatic routine"
+  },
+  {
+   "where": "t3-g-constructions-phrases.psv:75",
+   "german": "In letzter Zeit",
+   "kind": "pragmatic routine"
+  },
+  {
+   "where": "t3-g-constructions-phrases.psv:76",
+   "german": "Seit Langem",
+   "kind": "pragmatic routine"
+  },
+  {
+   "where": "t3-g-constructions-phrases.psv:77",
+   "german": "Bis auf Weiteres",
+   "kind": "pragmatic routine"
+  },
+  {
+   "where": "t3-g-constructions-phrases.psv:79",
+   "german": "Auf einmal",
+   "kind": "pragmatic routine"
+  },
+  {
+   "where": "t4-a-connectors-discourse.psv:74",
+   "german": "im Gegenteil",
+   "kind": "pragmatic routine"
+  }
+ ],
+ "scenarios": [
+  {
+   "scenario": "Introducing yourself (Kurs, Nachbar)",
+   "level": "A1",
+   "items": 18,
+   "available_in_time": 100.0,
+   "too_late": [],
+   "missing": []
+  },
+  {
+   "scenario": "Bakery and supermarket",
+   "level": "A1",
+   "items": 19,
+   "available_in_time": 100.0,
+   "too_late": [],
+   "missing": []
+  },
+  {
+   "scenario": "Asking the way, public transport",
+   "level": "A1",
+   "items": 17,
+   "available_in_time": 100.0,
+   "too_late": [],
+   "missing": []
+  },
+  {
+   "scenario": "Time, days, appointments",
+   "level": "A1",
+   "items": 16,
+   "available_in_time": 100.0,
+   "too_late": [],
+   "missing": []
+  },
+  {
+   "scenario": "At home: the flat",
+   "level": "A1",
+   "items": 15,
+   "available_in_time": 100.0,
+   "too_late": [],
+   "missing": []
+  },
+  {
+   "scenario": "Simple health problem",
+   "level": "A1",
+   "items": 13,
+   "available_in_time": 100.0,
+   "too_late": [],
+   "missing": []
+  },
+  {
+   "scenario": "Doctor's appointment by phone",
+   "level": "A2",
+   "items": 14,
+   "available_in_time": 100.0,
+   "too_late": [],
+   "missing": []
+  },
+  {
+   "scenario": "Registering at the Bürgeramt",
+   "level": "A2",
+   "items": 15,
+   "available_in_time": 100.0,
+   "too_late": [],
+   "missing": []
+  },
+  {
+   "scenario": "Looking for a flat",
+   "level": "A2",
+   "items": 15,
+   "available_in_time": 100.0,
+   "too_late": [],
+   "missing": []
+  },
+  {
+   "scenario": "Shopping, returns and complaints (simple)",
+   "level": "A2",
+   "items": 12,
+   "available_in_time": 100.0,
+   "too_late": [],
+   "missing": []
+  },
+  {
+   "scenario": "Small talk at work, plans",
+   "level": "A2",
+   "items": 13,
+   "available_in_time": 100.0,
+   "too_late": [],
+   "missing": []
+  },
+  {
+   "scenario": "Train travel and delays",
+   "level": "A2",
+   "items": 13,
+   "available_in_time": 100.0,
+   "too_late": [],
+   "missing": []
+  },
+  {
+   "scenario": "Job application and interview",
+   "level": "B1",
+   "items": 16,
+   "available_in_time": 100.0,
+   "too_late": [],
+   "missing": []
+  },
+  {
+   "scenario": "Problem with the landlord",
+   "level": "B1",
+   "items": 15,
+   "available_in_time": 100.0,
+   "too_late": [],
+   "missing": []
+  },
+  {
+   "scenario": "Bank and payments",
+   "level": "B1",
+   "items": 15,
+   "available_in_time": 100.0,
+   "too_late": [],
+   "missing": []
+  },
+  {
+   "scenario": "Children: Kita and school",
+   "level": "B1",
+   "items": 13,
+   "available_in_time": 100.0,
+   "too_late": [],
+   "missing": []
+  },
+  {
+   "scenario": "Discussing plans and opinions",
+   "level": "B1",
+   "items": 14,
+   "available_in_time": 100.0,
+   "too_late": [],
+   "missing": []
+  },
+  {
+   "scenario": "News and current events",
+   "level": "B1",
+   "items": 15,
+   "available_in_time": 100.0,
+   "too_late": [],
+   "missing": []
+  },
+  {
+   "scenario": "Workplace meeting",
+   "level": "B2",
+   "items": 15,
+   "available_in_time": 100.0,
+   "too_late": [],
+   "missing": []
+  },
+  {
+   "scenario": "Formal complaint letter",
+   "level": "B2",
+   "items": 13,
+   "available_in_time": 100.0,
+   "too_late": [],
+   "missing": []
+  },
+  {
+   "scenario": "Letter from an authority (Jobcenter, Finanzamt)",
+   "level": "B2",
+   "items": 15,
+   "available_in_time": 100.0,
+   "too_late": [],
+   "missing": []
+  },
+  {
+   "scenario": "Debate: social and environmental topic",
+   "level": "B2",
+   "items": 15,
+   "available_in_time": 100.0,
+   "too_late": [],
+   "missing": []
+  },
+  {
+   "scenario": "Describing a chart (exam task)",
+   "level": "B2",
+   "items": 15,
+   "available_in_time": 100.0,
+   "too_late": [],
+   "missing": []
+  },
+  {
+   "scenario": "Workers' rights: sick leave, dismissal",
+   "level": "B2",
+   "items": 15,
+   "available_in_time": 100.0,
+   "too_late": [],
+   "missing": []
+  }
+ ],
+ "heldout_summary_by_cefr_label": {
+  "A1": 95.4,
+  "A2": 89.3,
+  "B1": 97.6,
+  "B2": 100.0
+ },
+ "heldout_scenarios": [
+  {
+   "scenario": "Café and restaurant order",
+   "level": "A1",
+   "items": 15,
+   "available_in_time": 100.0,
+   "too_late": [],
+   "missing": []
+  },
+  {
+   "scenario": "Family and daily routine",
+   "level": "A1",
+   "items": 15,
+   "available_in_time": 93.3,
+   "too_late": [],
+   "missing": [
+    "jeden Tag"
+   ]
+  },
+  {
+   "scenario": "Weather and clothes",
+   "level": "A1",
+   "items": 14,
+   "available_in_time": 100.0,
+   "too_late": [],
+   "missing": []
+  },
+  {
+   "scenario": "Calling in sick to work",
+   "level": "A2",
+   "items": 12,
+   "available_in_time": 100.0,
+   "too_late": [],
+   "missing": []
+  },
+  {
+   "scenario": "Parcel and post office",
+   "level": "A2",
+   "items": 13,
+   "available_in_time": 100.0,
+   "too_late": [],
+   "missing": []
+  },
+  {
+   "scenario": "Sports club and leisure",
+   "level": "A2",
+   "items": 13,
+   "available_in_time": 100.0,
+   "too_late": [],
+   "missing": []
+  },
+  {
+   "scenario": "Car accident report (minor)",
+   "level": "B1",
+   "items": 14,
+   "available_in_time": 100.0,
+   "too_late": [],
+   "missing": []
+  },
+  {
+   "scenario": "Planning a trip with friends",
+   "level": "B1",
+   "items": 14,
+   "available_in_time": 92.9,
+   "too_late": [],
+   "missing": [
+    "sich einigen"
+   ]
+  },
+  {
+   "scenario": "Health insurance and specialist",
+   "level": "B1",
+   "items": 13,
+   "available_in_time": 100.0,
+   "too_late": [],
+   "missing": []
+  },
+  {
+   "scenario": "Radio news: economy and traffic",
+   "level": "B2",
+   "items": 14,
+   "available_in_time": 100.0,
+   "too_late": [],
+   "missing": []
+  },
+  {
+   "scenario": "Neighbourhood dispute mediation",
+   "level": "B2",
+   "items": 14,
+   "available_in_time": 100.0,
+   "too_late": [],
+   "missing": []
+  },
+  {
+   "scenario": "Salary negotiation and contract details",
+   "level": "B2",
+   "items": 14,
+   "available_in_time": 100.0,
+   "too_late": [],
+   "missing": []
+  }
+ ],
+ "heldout_summary": {
+  "A1": 97.8,
+  "A2": 100.0,
+  "B1": 97.6,
+  "B2": 100.0
+ },
+ "scenario_summary": {
+  "A1": 100.0,
+  "A2": 100.0,
+  "B1": 100.0,
+  "B2": 100.0
+ },
+ "inflation_summary": {
+  "pragmatic_routines_without_reason": 105,
+  "constructions_without_reason": []
+ }
+}

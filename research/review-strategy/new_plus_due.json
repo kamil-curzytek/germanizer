@@ -1,0 +1,44 @@
+{
+ "5 new/day | A current": {
+  "words": 1825,
+  "recall_end": 97.8,
+  "answers_per_day_month1": 22.5,
+  "month6": 47.5,
+  "month12": 64.4
+ },
+ "5 new/day | H FSRS scheduler, 90 % target": {
+  "words": 1825,
+  "recall_end": 95.2,
+  "answers_per_day_month1": 14.7,
+  "month6": 31.4,
+  "month12": 43.0
+ },
+ "5 new/day | I FSRS scheduler, 85 % target": {
+  "words": 1825,
+  "recall_end": 92.5,
+  "answers_per_day_month1": 11.2,
+  "month6": 24.6,
+  "month12": 34.3
+ },
+ "10 new/day | A current": {
+  "words": 3650,
+  "recall_end": 97.7,
+  "answers_per_day_month1": 44.2,
+  "month6": 93.4,
+  "month12": 131.7
+ },
+ "10 new/day | H FSRS scheduler, 90 % target": {
+  "words": 3650,
+  "recall_end": 95.2,
+  "answers_per_day_month1": 28.7,
+  "month6": 59.6,
+  "month12": 86.5
+ },
+ "10 new/day | I FSRS scheduler, 85 % target": {
+  "words": 3650,
+  "recall_end": 92.7,
+  "answers_per_day_month1": 21.5,
+  "month6": 48.9,
+  "month12": 69.9
+ }
+}

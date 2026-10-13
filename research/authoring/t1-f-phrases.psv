@@ -1,0 +1,63 @@
+# Tier 1 · fixed expressions & functional phrases (only chunks with independent learning value)
+# german|type|pos|article|plural|english|cefr|tier|mode|topics|register|example|example_en|grammar|forms|collocations|related|reason
+Hallo|f|phrase|||hello; hi|A1|1|a|social|spoken|Hallo, wie geht's?|Hi, how are you?|Informal; also fine in many workplaces.
+Guten Morgen|f|phrase|||good morning|A1|1|a|social||Guten Morgen! Hast du gut geschlafen?|Good morning! Did you sleep well?|Until about 10–11 am.
+Guten Tag|f|phrase|||hello; good day|A1|1|a|social|formal|Guten Tag, ich habe einen Termin um zehn.|Hello, I have an appointment at ten.|Neutral-formal greeting in shops and offices during the day.
+Guten Abend|f|phrase|||good evening|A1|1|a|social||Guten Abend, einen Tisch für zwei, bitte.|Good evening, a table for two, please.|
+Gute Nacht|f|phrase|||good night|A1|1|a|social||Gute Nacht, schlaf gut!|Good night, sleep well!|Only when going to bed or leaving late at night.
+Tschüss|f|phrase|||bye|A1|1|a|social|spoken,informal|Tschüss, bis morgen!|Bye, see you tomorrow!|
+Auf Wiedersehen|f|phrase|||goodbye|A1|1|a|social|formal|Auf Wiedersehen und einen schönen Tag noch!|Goodbye and have a nice day!|Formal goodbye. On the phone: Auf Wiederhören.
+Bis später|f|phrase|||see you later|A1|1|a|social|spoken|Ich muss los. Bis später!|I have to go. See you later!|Pattern: Bis morgen! Bis Montag! Bis bald! Bis dann!
+Herzlich willkommen|f|phrase|||welcome|A1|1|r|social||Herzlich willkommen in Hamburg!|Welcome to Hamburg!|
+Wie geht's?|f|phrase|||how are you?|A1|1|a|social|spoken|Hallo Anna, wie geht's?|Hi Anna, how are you?|Formal: Wie geht es Ihnen? Answer: Gut, danke. Und dir/Ihnen?
+Mir geht's gut|f|phrase|||I'm fine; I'm well|A1|1|a|social,feelings|spoken|Danke, mir geht's gut. Und dir?|Thanks, I'm fine. And you?|Dativ: mir geht es gut / schlecht.
+Freut mich|f|phrase|||nice to meet you|A1|1|a|social||Ich bin Tom. – Freut mich, Anna.|I'm Tom. – Nice to meet you, I'm Anna.|Longer: Freut mich, Sie kennenzulernen.
+Danke|f|phrase|||thank you; thanks|A1|1|a|social,communication||Danke für deine Hilfe!|Thanks for your help!|Danke schön / Vielen Dank = thank you very much.
+Vielen Dank|f|phrase|||thank you very much|A1|1|a|social,communication||Vielen Dank für die Einladung!|Thank you very much for the invitation!|
+Bitte|f|phrase|||please; you're welcome; here you are|A1|1|a|social,communication||Ein Wasser, bitte.|A water, please.|Bitte (schön)! = You're welcome / Here you are.
+Gern geschehen|f|phrase|||you're welcome|A1|1|a|social,communication||Danke! – Gern geschehen.|Thanks! – You're welcome.|Shorter: Gern!
+Entschuldigung|f|phrase|||excuse me; sorry|A1|1|a|social,communication||Entschuldigung, wo ist der Bahnhof?|Excuse me, where is the station?|To get attention or to apologise for small things.|c=sich entschuldigen
+Es tut mir leid|f|phrase|||I'm sorry|A1|1|a|social,communication||Es tut mir leid, ich bin zu spät.|I'm sorry, I'm late.|Stronger apology than Entschuldigung; also sympathy.
+Kein Problem|f|phrase|||no problem|A1|1|a|social,communication||Danke! – Kein Problem.|Thanks! – No problem.|
+Das macht nichts|f|phrase|||never mind; it doesn't matter|A2|1|a|social,communication||Du bist zu spät? Das macht nichts.|You're late? Never mind.|Short: Macht nichts.
+Wie bitte?|p|phrase|||pardon? sorry? (I didn't catch that)|A1|1|a|communication||Wie bitte? Können Sie das wiederholen?|Pardon? Could you repeat that?|The polite way to say you didn't understand.
+Können Sie das bitte wiederholen?|p|phrase|||could you repeat that, please?|A1|1|a|communication|formal|Entschuldigung, können Sie das bitte wiederholen?|Sorry, could you repeat that, please?|Informal: Kannst du das noch mal sagen?
+Was bedeutet das?|p|phrase|||what does that mean?|A1|1|a|communication||Was bedeutet das Wort „Anmeldung“?|What does the word 'Anmeldung' mean?|Also: Was heißt das?|r=bedeuten
+Wie sagt man das auf Deutsch?|p|phrase|||how do you say that in German?|A1|1|a|communication||Wie sagt man das auf Deutsch?|How do you say that in German?|
+Wie schreibt man das?|p|phrase|||how do you spell/write that?|A1|1|a|communication||Wie schreibt man Ihren Namen?|How do you spell your name?|pattern|r=buchstabieren
+Sprechen Sie Englisch?|p|phrase|||do you speak English?|A1|1|a|communication||Entschuldigung, sprechen Sie Englisch?|Excuse me, do you speak English?|
+Ich hätte gern|p|phrase|||I'd like (to order/have)|A1|1|a|shopping,food||Ich hätte gern zwei Brötchen.|I'd like two bread rolls.|Polite order in shops and cafés (Konjunktiv II). Alternative: Ich möchte ...|r=möchten
+Es gibt|c|phrase|||there is; there are|A1|1|a|everyday,grammar||Gibt es hier in der Nähe eine Apotheke?|Is there a pharmacy near here?|es gibt + Akkusativ: Es gibt keinen Parkplatz.|r=geben|why=existential construction; geben ≠ give here
+Wie spät ist es?|p|phrase|||what time is it?|A1|1|a|time||Entschuldigung, wie spät ist es?|Excuse me, what time is it?|Also: Wie viel Uhr ist es?
+Was ist los?|p|phrase|||what's the matter? what's going on?|A1|1|a|social,feelings|spoken|Du siehst müde aus. Was ist los?|You look tired. What's wrong?||r=los
+Alles klar|f|phrase|||all right; got it; OK|A1|1|a|discourse|spoken|Alles klar, bis morgen!|All right, see you tomorrow!|Also a question: Alles klar? = Everything OK?|r=klar
+Klar|f|phrase|||sure; of course|A1|1|a|discourse|spoken|Kannst du mir helfen? – Klar!|Can you help me? – Sure!|As adjective: clear (Das ist klar).
+Keine Ahnung|f|phrase|||no idea|A1|1|a|discourse|spoken,informal|Wo ist Tom? – Keine Ahnung.|Where's Tom? – No idea.|Polite: Das weiß ich leider nicht.
+Ich weiß nicht|p|phrase|||I don't know|A1|1|a|discourse||Ich weiß nicht, wann der Bus kommt.|I don't know when the bus is coming.|Very frequent in speech; often shortened to Weiß nicht.|r=wissen
+Mal sehen|f|phrase|||we'll see; let's see|A2|1|a|discourse|spoken|Kommst du am Samstag? – Mal sehen.|Are you coming on Saturday? – We'll see.|
+Ach so|f|phrase|||oh, I see|A1|1|a|discourse|spoken|Ach so, jetzt verstehe ich.|Oh, I see, now I understand.|
+Na ja|f|phrase|||well; oh well|A2|1|a|discourse|spoken|Na ja, das Wetter war nicht so toll.|Well, the weather wasn't that great.|Signals mild disagreement or a mixed opinion.
+Schade|f|phrase|||what a pity; too bad|A1|1|a|feelings,discourse||Du kannst nicht kommen? Schade!|You can't come? What a pity!|
+Gute Idee|f|phrase|||good idea|A1|1|a|opinions||Wollen wir ins Kino gehen? – Gute Idee!|Shall we go to the cinema? – Good idea!||r=Idee
+Echt?|f|phrase|||really?|A1|1|a|discourse|spoken,informal|Echt? Das wusste ich nicht.|Really? I didn't know that.|echt = really (Das ist echt gut). Neutral: Wirklich?
+Oh nein|f|phrase|||oh no|A1|1|r|feelings|spoken|Oh nein, ich habe den Bus verpasst!|Oh no, I've missed the bus!|
+Moment mal|f|phrase|||just a moment; hang on|A2|1|a|discourse|spoken|Moment mal, das stimmt nicht.|Hang on, that's not right.||r=Moment
+Das kommt darauf an|f|phrase|||it depends|A2|1|a|opinions||Kommst du mit? – Das kommt darauf an.|Are you coming? – It depends.|Spoken: Kommt drauf an. darauf ankommen, ob ...
+Zusammen oder getrennt?|p|phrase|||together or separately? (paying)|A1|1|a|food,money||Zusammen oder getrennt? – Getrennt, bitte.|Together or separately? – Separately, please.|Standard question from waiters in Germany.
+Stimmt so|f|phrase|||keep the change|A1|1|a|food,money|spoken|Das macht 18 Euro. – Hier sind 20, stimmt so.|That's 18 euros. – Here's 20, keep the change.|How to leave a tip when paying.|r=stimmen|why=Germany: tipping is given while paying
+Sonst noch etwas?|p|phrase|||anything else?|A1|1|a|shopping,food||Sonst noch etwas? – Nein, danke, das war's.|Anything else? – No, thanks, that's all.|Spoken: Sonst noch was?
+Das war's|f|phrase|||that's all; that's it|A1|1|a|shopping,food|spoken|Nein, danke, das war's.|No, thanks, that's all.|
+Zum Mitnehmen|f|phrase|||to take away; to go|A1|1|a|food||Einen Kaffee zum Mitnehmen, bitte.|A coffee to go, please.|Question: Zum Hieressen oder zum Mitnehmen?|r=mitnehmen
+Guten Appetit|f|phrase|||enjoy your meal|A1|1|a|food,social||Das Essen ist fertig. Guten Appetit!|Dinner's ready. Enjoy your meal!|Spoken also: Mahlzeit! (at work, around lunchtime).
+Prost|f|phrase|||cheers|A1|1|r|food,social|spoken|Prost! Auf deinen Geburtstag!|Cheers! To your birthday!|
+Gesundheit|f|phrase|||bless you (after a sneeze)|A1|1|a|social||Hatschi! – Gesundheit!|Atchoo! – Bless you!|As a noun: health.
+Gute Besserung|f|phrase|||get well soon|A1|1|a|healthcare,social||Du bist krank? Gute Besserung!|You're ill? Get well soon!|
+Alles Gute|f|phrase|||all the best|A1|1|a|social||Alles Gute zum Geburtstag!|Happy birthday!|
+Herzlichen Glückwunsch|f|phrase|||congratulations|A1|1|a|social||Herzlichen Glückwunsch zur neuen Stelle!|Congratulations on the new job!|zu + Dat: zum Geburtstag, zur Hochzeit.|r=Glückwunsch
+Viel Spaß|f|phrase|||have fun|A1|1|a|social,leisure||Viel Spaß im Urlaub!|Have fun on holiday!||r=Spaß
+Viel Glück|f|phrase|||good luck|A1|1|a|social||Viel Glück bei der Prüfung!|Good luck in the exam!||r=Glück
+Schönes Wochenende|f|phrase|||have a nice weekend|A1|1|a|social,work||Tschüss und schönes Wochenende!|Bye and have a nice weekend!|Pattern: Schönen Tag noch! Schönen Abend!
+Wie komme ich zum Bahnhof?|p|phrase|||how do I get to the station?|A1|1|a|transport,places||Entschuldigung, wie komme ich zum Bahnhof?|Excuse me, how do I get to the station?|pattern;Pattern: Wie komme ich zum/zur ...?
+Wie wäre es mit|p|phrase|||how about ...?|A2|1|a|social,opinions||Wie wäre es mit Freitag?|How about Friday?|Suggestion. Spoken: Wie wär's mit ...?
+Ich bin dran|f|phrase|||it's my turn|A2|1|a|everyday|spoken|Entschuldigung, ich glaube, ich bin dran.|Excuse me, I think it's my turn.|Wer ist dran? = Whose turn is it? Useful in queues.
+Bescheid sagen|c|verb|||to let someone know|A2|1|a|communication|spoken|Sag mir bitte Bescheid, wenn du ankommst.|Please let me know when you arrive.|jemandem (Dat) Bescheid sagen / geben. Bescheid wissen = to know about something.|r=Bescheid|why=very common in everyday and workplace speech

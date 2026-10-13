@@ -1,0 +1,80 @@
+# Tier 3 · B1 work, services, official communication
+# german|type|pos|article|plural|english|cefr|tier|mode|topics|register|example|example_en|grammar|f=|c=|r=|why=
+Angestellte|w|noun|der|Angestellten|employee (salaried)|B1|3|b|work||Sie ist Angestellte bei einer Versicherung.|She's an employee at an insurance company.|Adjectival noun: ein Angestellter, eine Angestellte.|r=anstellen
+Leiter|w|noun|der|Leiter|head; manager; leader|B1|3|r|work||Der Leiter der Abteilung ist im Urlaub.|The head of department is on holiday.|Female: die Leiterin. die Leiter = ladder.|r=leiten
+Vorgesetzte|w|noun|der|Vorgesetzten|superior; manager|A2|2|b|work|formal|Sprechen Sie mit Ihrem Vorgesetzten.|Speak to your manager.|Adjectival noun.|r=Chef|why=re-tiered after held-out scenario validation
+Stellenanzeige|w|noun|die|Stellenanzeigen|job advert|B1|3|b|work||Ich habe die Stellenanzeige im Internet gesehen.|I saw the job advert online.|||r=Stelle;Anzeige
+Anschreiben|w|noun|das|Anschreiben|cover letter|B1|3|b|work||Das Anschreiben sollte nicht länger als eine Seite sein.|The cover letter shouldn't be longer than one page.|||r=Bewerbung
+Arbeitszeugnis|w|noun|das|Arbeitszeugnisse|job reference (written)|B1|3|r|work||Ich brauche ein Arbeitszeugnis von meiner alten Firma.|I need a reference from my old company.|Coded language: 'stets zu unserer vollsten Zufriedenheit' = very good.||why=Germany: formal written references
+Qualifikation|w|noun|die|Qualifikationen|qualification|B1|3|r|work,education||Welche Qualifikationen haben Sie?|What qualifications do you have?|||
+Weiterbildung|w|noun|die|Weiterbildungen|further training|B1|3|b|work,education||Die Firma bezahlt die Weiterbildung.|The company pays for the further training.|Also: Fortbildung.|r=Fortbildung
+Fortbildung|w|noun|die|Fortbildungen|further training; professional development|B1|3|r|work||Nächste Woche bin ich auf einer Fortbildung.|Next week I'm on a training course.|||r=Weiterbildung
+Karriere|w|noun|die|Karrieren|career|B1|3|r|work||Sie hat Karriere gemacht.|She's had a successful career.|||
+Beförderung|w|noun|die|Beförderungen|promotion|B1|3|r|work||Ich habe eine Beförderung bekommen.|I got a promotion.|||
+Gehaltserhöhung|w|noun|die|Gehaltserhöhungen|pay rise|B1|3|b|work,money||Ich möchte nach einer Gehaltserhöhung fragen.|I'd like to ask for a pay rise.|||r=Gehalt;Erhöhung
+brutto|w|adv|||gross (before tax)|B1|3|b|work,money||Das Gehalt ist 3.000 Euro brutto.|The salary is 3,000 euros gross.|||r=netto
+netto|w|adv|||net (after tax)|B1|3|b|work,money||Netto bleiben etwa 2.000 Euro.|About 2,000 euros remain net.|||r=brutto
+Lohnabrechnung|w|noun|die|Lohnabrechnungen|payslip|B1|3|r|work,money||Auf der Lohnabrechnung stehen alle Abzüge.|All the deductions are on the payslip.|Also: Gehaltsabrechnung.|why=Germany: tax class, social insurance deductions
+Sozialversicherung|w|noun|die|Sozialversicherungen|social insurance|B1|3|r|work,bureaucracy||Die Sozialversicherung wird vom Gehalt abgezogen.|Social insurance is deducted from the salary.|Pension, health, care, unemployment insurance.|
+Urlaubsantrag|w|noun|der|Urlaubsanträge|holiday request|B1|3|r|work||Ich habe meinen Urlaubsantrag gestellt.|I've submitted my holiday request.|||r=Urlaub;Antrag
+Krankmeldung|w|noun|die|Krankmeldungen|sick notification; sick note|A2|2|a|work,healthcare||Die Krankmeldung muss am dritten Tag da sein.|The sick note must be in by the third day.|||r=sich krankmelden|why=re-tiered after held-out scenario validation
+Kündigungsfrist|w|noun|die|Kündigungsfristen|notice period|B1|3|b|work,housing||Die Kündigungsfrist beträgt drei Monate.|The notice period is three months.|||r=Kündigung;Frist
+befristet|w|adj|||fixed-term; temporary|B1|3|b|work||Ich habe einen befristeten Vertrag.|I have a fixed-term contract.|||r=unbefristet
+unbefristet|w|adj|||permanent; open-ended|B1|3|b|work||Endlich habe ich einen unbefristeten Vertrag.|I've finally got a permanent contract.|||r=befristet
+Selbstständigkeit|w|noun|die|∅|self-employment|B1|3|r|work||Der Schritt in die Selbstständigkeit war schwer.|Becoming self-employed was hard.|||r=selbstständig
+Unternehmen|w|noun|das|Unternehmen|company; enterprise|B1|3|b|work||Das Unternehmen hat 2.000 Mitarbeiter.|The company has 2,000 employees.|||r=Firma
+Branche|w|noun|die|Branchen|industry; sector|B1|3|r|work||In welcher Branche arbeiten Sie?|Which industry do you work in?|||
+Industrie|w|noun|die|Industrien|industry|B1|3|r|work,society||Die Industrie braucht mehr Fachkräfte.|Industry needs more skilled workers.|||
+Fabrik|w|noun|die|Fabriken|factory|B1|3|r|work||Er arbeitet in einer Fabrik.|He works in a factory.|||
+Lager|w|noun|das|Lager|warehouse; stock; camp|B1|3|r|work,shopping||Der Artikel ist nicht auf Lager.|The item isn't in stock.|||
+Ware|w|noun|die|Waren|goods; merchandise|B1|3|r|shopping,work||Die Ware wird morgen geliefert.|The goods will be delivered tomorrow.|||
+Kauf|w|noun|der|Käufe|purchase|B1|3|r|shopping||Beim Kauf erhalten Sie zwei Jahre Garantie.|With your purchase you get a two-year warranty.|||r=kaufen
+Verkauf|w|noun|der|Verkäufe|sale; sales|B1|3|r|shopping,work||Ich arbeite im Verkauf.|I work in sales.|||r=verkaufen
+Händler|w|noun|der|Händler|dealer; trader|B1|3|r|shopping,work||Der Händler repariert das Gerät kostenlos.|The dealer will repair the device free of charge.|||
+Anbieter|w|noun|der|Anbieter|provider|B1|3|b|services||Ich wechsle den Anbieter für Strom.|I'm switching my electricity provider.|||r=anbieten;Stromanbieter|why=Germany: choose your own providers
+Tarif|w|noun|der|Tarife|rate; tariff; (phone) plan|B1|3|b|services,money||Welcher Tarif ist am günstigsten?|Which plan is cheapest?|||
+Vertragslaufzeit|w|noun|die|Vertragslaufzeiten|contract term|B1|3|r|services,law|formal|Die Vertragslaufzeit beträgt 24 Monate.|The contract term is 24 months.|||r=Vertrag
+Kundennummer|w|noun|die|Kundennummern|customer number|B1|3|r|services||Bitte nennen Sie Ihre Kundennummer.|Please give your customer number.|||why=asked in every service call
+Hotline|w|noun|die|Hotlines|hotline; helpline|B1|3|r|services||Ich habe zwanzig Minuten in der Hotline gewartet.|I waited twenty minutes on the hotline.|||r=Kundenservice
+Warteschleife|w|noun|die|Warteschleifen|being on hold|B1|3|r|services|spoken|Ich hänge seit einer halben Stunde in der Warteschleife.|I've been on hold for half an hour.|||
+Techniker|w|noun|der|Techniker|technician; engineer|B1|3|b|services||Der Techniker kommt zwischen 8 und 12 Uhr.|The technician is coming between 8 and 12.|Female: die Technikerin.|
+Kostenvoranschlag|w|noun|der|Kostenvoranschläge|cost estimate; quote|B1|3|r|services,money|formal|Können Sie mir einen Kostenvoranschlag machen?|Can you give me a quote?|||
+Anzahlung|w|noun|die|Anzahlungen|deposit; down payment|B1|3|r|money,shopping||Wir verlangen 20 Prozent Anzahlung.|We require a 20 percent deposit.|||
+Ratenzahlung|w|noun|die|Ratenzahlungen|payment in instalments|B1|3|r|money,shopping||Ist Ratenzahlung möglich?|Is payment in instalments possible?|||
+Rückerstattung|w|noun|die|Rückerstattungen|refund|B1|3|r|money,shopping|formal|Die Rückerstattung dauert bis zu zwei Wochen.|The refund takes up to two weeks.|||
+reklamieren|w|verb|||to complain about (a product); to return as faulty|A2|2|b|shopping||Ich möchte diesen Artikel reklamieren.|I'd like to make a complaint about this item.||f=reklamiert, reklamierte, hat reklamiert|r=Reklamation|why=moved earlier by scenario validation (validation-report.md)
+Reklamation|w|noun|die|Reklamationen|complaint (about goods)|B1|3|r|shopping||Ihre Reklamation wird bearbeitet.|Your complaint is being processed.|||r=reklamieren
+defekt|w|adj|||defective; faulty|B1|3|b|shopping,technology||Das Gerät ist defekt.|The device is faulty.|||r=kaputt
+Ersatz|w|noun|der|∅|replacement; substitute|B1|3|r|shopping,work||Sie bekommen kostenlos Ersatz.|You'll get a free replacement.|||r=ersetzen
+Betreff|w|noun|der|Betreffe|subject (of a letter/email)|B1|3|b|communication,bureaucracy|written|Bitte geben Sie im Betreff Ihre Kundennummer an.|Please put your customer number in the subject line.|||r=betreffen
+Anhang|w|noun|der|Anhänge|attachment; appendix|B1|3|b|communication,technology||Im Anhang finden Sie meinen Lebenslauf.|Please find my CV attached.|Standard email phrase: Im Anhang finden Sie ...||why=standard formal email phrase
+Rückmeldung|w|noun|die|Rückmeldungen|feedback; reply|B1|3|b|communication,work||Ich freue mich auf Ihre Rückmeldung.|I look forward to hearing from you.|Common closing line in emails.|
+Ich freue mich auf Ihre Antwort|p|phrase|||I look forward to your reply|B1|3|a|communication|formal,written|Ich freue mich auf Ihre Antwort. Mit freundlichen Grüßen, ...|I look forward to your reply. Kind regards, ...|Standard before the formal closing.|r=sich freuen auf
+Vielen Dank im Voraus|f|phrase|||thank you in advance|B1|3|b|communication|formal,written|Vielen Dank im Voraus für Ihre Hilfe.|Thank you in advance for your help.|||
+in Bezug auf|f|phrase|||with regard to; regarding|B1|3|r|communication|formal|In Bezug auf Ihre Anfrage teilen wir Ihnen mit, ...|With regard to your enquiry, we inform you that ...|||
+Anfrage|w|noun|die|Anfragen|enquiry; request|B1|3|b|communication,services|formal|Vielen Dank für Ihre Anfrage.|Thank you for your enquiry.|||r=anfragen
+anfragen|w|verb|||to enquire; to ask|B1|3|r|communication|formal|Ich frage wegen eines Termins an.|I'm enquiring about an appointment.|sep|f=fragt an, fragte an, hat angefragt|r=Anfrage
+einreichen|w|verb|||to submit; to hand in|B1|3|b|bureaucracy,work|formal|Ich habe den Antrag gestern eingereicht.|I submitted the application yesterday.|sep|f=reicht ein, reichte ein, hat eingereicht
+vorlegen|w|verb|||to present; to submit|B1|3|r|bureaucracy|formal|Bitte legen Sie Ihren Ausweis vor.|Please present your ID.|sep|f=legt vor, legte vor, hat vorgelegt
+Nachweis|w|noun|der|Nachweise|proof; evidence (document)|B1|3|b|bureaucracy|formal|Sie brauchen einen Nachweis über Ihr Einkommen.|You need proof of your income.|||r=nachweisen
+Bearbeitung|w|noun|die|∅|processing|B1|3|r|bureaucracy|formal|Die Bearbeitung dauert vier Wochen.|Processing takes four weeks.|||r=bearbeiten
+Wartezeit|w|noun|die|Wartezeiten|waiting time|B1|3|b|services,bureaucracy||Die Wartezeit beträgt etwa 30 Minuten.|The waiting time is about 30 minutes.|||r=warten
+Sachbearbeiter|w|noun|der|Sachbearbeiter|caseworker; clerk|B1|3|r|bureaucracy,work|formal|Ihr Sachbearbeiter meldet sich bei Ihnen.|Your caseworker will contact you.|Female: die Sachbearbeiterin.|
+Dolmetscher|w|noun|der|Dolmetscher|interpreter|B1|3|r|communication,services||Kann ich einen Dolmetscher mitbringen?|Can I bring an interpreter?|Female: die Dolmetscherin.|
+beglaubigt|w|adj|||certified; notarised|B1|3|r|bureaucracy|formal|Bitte reichen Sie eine beglaubigte Kopie ein.|Please submit a certified copy.|||why=Germany: certified copies often required
+Stempel|w|noun|der|Stempel|stamp (rubber); seal|B1|3|r|bureaucracy||Ohne Stempel ist das Formular nicht gültig.|The form isn't valid without a stamp.|||
+Termin wahrnehmen|c|verb|||to attend an appointment|B1|3|r|appointments|formal|Wenn Sie den Termin nicht wahrnehmen können, sagen Sie bitte ab.|If you can't attend the appointment, please cancel.|sep;wahrnehmen = to perceive; to attend.|f=nimmt wahr, nahm wahr, hat wahrgenommen|why=official letters
+Arbeitsagentur|w|noun|die|Arbeitsagenturen|employment agency|B1|3|r|work,bureaucracy||Die Arbeitsagentur hilft bei der Jobsuche.|The employment agency helps with job hunting.|Agentur für Arbeit.|
+Elterngeld|w|noun|das|∅|parental allowance|B1|3|r|family,bureaucracy,money||Wir haben Elterngeld beantragt.|We've applied for parental allowance.|||why=Germany-specific family benefit
+Kindergeld|w|noun|das|∅|child benefit|B1|3|r|family,bureaucracy,money||Das Kindergeld kommt jeden Monat.|Child benefit comes every month.|||why=Germany-specific family benefit
+Wohngeld|w|noun|das|∅|housing benefit|B1|3|r|housing,bureaucracy,money||Mit wenig Einkommen kann man Wohngeld bekommen.|With a low income you can get housing benefit.|||why=Germany-specific benefit
+Steuerklasse|w|noun|die|Steuerklassen|tax class|B1|3|r|money,bureaucracy||Nach der Hochzeit haben wir die Steuerklasse gewechselt.|After the wedding we changed tax class.|||why=Germany-specific tax concept
+Steuer-ID|w|noun|die|Steuer-IDs|tax identification number|B1|3|r|money,bureaucracy||Mein Arbeitgeber braucht meine Steuer-ID.|My employer needs my tax ID.|Steuer-Identifikationsnummer.||why=needed when starting a job in Germany
+Rentenversicherung|w|noun|die|Rentenversicherungen|pension insurance|B1|3|r|work,money,bureaucracy||Ich habe einen Brief von der Rentenversicherung bekommen.|I got a letter from the pension insurance.|||
+Haftpflichtversicherung|w|noun|die|Haftpflichtversicherungen|personal liability insurance|B1|3|r|money,bureaucracy||Eine Haftpflichtversicherung ist in Deutschland sehr wichtig.|Personal liability insurance is very important in Germany.|Covers damage you cause to others.||why=Germany: considered essential, cheap
+Hausratversicherung|w|noun|die|Hausratversicherungen|contents insurance|B1|3|r|housing,money||Die Hausratversicherung zahlt bei einem Einbruch.|Contents insurance pays out after a burglary.|||
+Schufa|w|noun|die|∅|credit agency (Schufa)|B1|3|r|money,housing||Für die Wohnung brauche ich eine Schufa-Auskunft.|I need a Schufa credit report for the flat.|Credit report often requested by landlords.||why=Germany-specific: credit check for renting
+Girokonto|w|noun|das|Girokonten|current account; checking account|B1|3|r|money||Ich eröffne ein Girokonto bei der Sparkasse.|I'm opening a current account at the Sparkasse.|||r=Konto
+abbuchen|w|verb|||to debit|B1|3|r|money||Die Miete wird am Ersten abgebucht.|The rent is debited on the first.|sep|f=bucht ab, buchte ab, hat abgebucht|r=Lastschrift
+Dauerauftrag|w|noun|der|Daueraufträge|standing order|B1|3|r|money||Ich habe einen Dauerauftrag für die Miete eingerichtet.|I've set up a standing order for the rent.|||
+Kontoauszug|w|noun|der|Kontoauszüge|bank statement|B1|3|r|money||Den Kontoauszug kann ich online sehen.|I can see my bank statement online.|||

@@ -1,0 +1,74 @@
+# Tier 3 · society, politics, media, environment, law (B1: following the news, discussing general topics)
+# german|type|pos|article|plural|english|cefr|tier|mode|topics|register|example|example_en|grammar|f=|c=|r=|why=
+Regierung|w|noun|die|Regierungen|government|B1|3|b|politics,society||Die Regierung plant neue Gesetze.|The government is planning new laws.|Bundesregierung = federal government.|
+Partei|w|noun|die|Parteien|(political) party|B1|3|r|politics||Welche Partei hast du gewählt?|Which party did you vote for?|||
+Politiker|w|noun|der|Politiker|politician|B1|3|r|politics||Der Politiker gab ein Interview.|The politician gave an interview.|Female: die Politikerin.|r=Politik
+Bürger|w|noun|der|Bürger|citizen|B1|3|b|society,bureaucracy||Die Bürger können online abstimmen.|Citizens can vote online.|Female: die Bürgerin.|r=Bürgeramt
+Bürgermeister|w|noun|der|Bürgermeister|mayor|B1|3|r|politics,city||Der Bürgermeister eröffnet das Fest.|The mayor opens the festival.|Female: die Bürgermeisterin.|
+Bundeskanzler|w|noun|der|Bundeskanzler|Federal Chancellor|B1|3|r|politics||Der Bundeskanzler hält eine Rede.|The Chancellor is giving a speech.|Female: die Bundeskanzlerin.|
+Bundestag|w|noun|der|∅|Bundestag (German parliament)|B1|3|r|politics||Der Bundestag hat das Gesetz beschlossen.|The Bundestag has passed the law.|||
+Demokratie|w|noun|die|Demokratien|democracy|B1|3|r|politics||Deutschland ist eine Demokratie.|Germany is a democracy.|||
+Minister|w|noun|der|Minister|minister|B1|3|r|politics||Der Minister ist zurückgetreten.|The minister has resigned.|Female: die Ministerin.|
+Migration|w|noun|die|∅|migration|B1|3|r|society||Migration ist ein wichtiges Thema.|Migration is an important topic.|||
+Flüchtling|w|noun|der|Flüchtlinge|refugee|B1|3|r|society||Die Stadt hat viele Flüchtlinge aufgenommen.|The town has taken in many refugees.|Also: Geflüchtete.|
+Asyl|w|noun|das|∅|asylum|B1|3|r|society,bureaucracy||Sie hat Asyl beantragt.|She has applied for asylum.|||
+Minderheit|w|noun|die|Minderheiten|minority|B1|3|r|society||Die Rechte von Minderheiten sind wichtig.|The rights of minorities are important.|||r=Mehrheit
+Mehrheit|w|noun|die|Mehrheiten|majority|B1|3|r|society,politics||Die Mehrheit ist dafür.|The majority is in favour.|||r=Minderheit
+Gleichberechtigung|w|noun|die|∅|equality; equal rights|B1|3|r|society||Gleichberechtigung ist im Grundgesetz verankert.|Equality is enshrined in the Basic Law.|||
+Grundgesetz|w|noun|das|∅|Basic Law (German constitution)|B1|3|r|politics,law||Das Grundgesetz garantiert die Meinungsfreiheit.|The Basic Law guarantees freedom of expression.|||
+Protest|w|noun|der|Proteste|protest|B1|3|r|society||Es gab Proteste gegen das neue Gesetz.|There were protests against the new law.|||r=protestieren
+Demonstration|w|noun|die|Demonstrationen|demonstration|B1|3|r|society||Wegen einer Demonstration ist die Straße gesperrt.|The street is closed because of a demonstration.|Spoken: die Demo.|
+Armut|w|noun|die|∅|poverty|B1|3|r|society||Armut ist auch in Deutschland ein Problem.|Poverty is a problem in Germany too.|||r=arm
+Arbeitslosigkeit|w|noun|die|∅|unemployment|B1|3|r|society,work||Die Arbeitslosigkeit ist gesunken.|Unemployment has fallen.|||r=arbeitslos
+Inflation|w|noun|die|∅|inflation|B1|3|r|money,society||Die Inflation macht alles teurer.|Inflation is making everything more expensive.|||
+Klima|w|noun|das|∅|climate|B1|3|b|environment||Das Klima verändert sich.|The climate is changing.|||r=Klimawandel
+Klimawandel|w|noun|der|∅|climate change|B1|3|b|environment||Der Klimawandel betrifft uns alle.|Climate change affects us all.|||r=Klima
+Umweltschutz|w|noun|der|∅|environmental protection|B1|3|b|environment||Umweltschutz fängt zu Hause an.|Protecting the environment starts at home.|||r=Umwelt
+umweltfreundlich|w|adj|||environmentally friendly|B1|3|b|environment||Fahrradfahren ist umweltfreundlich.|Cycling is environmentally friendly.|||r=Umwelt
+nachhaltig|w|adj|||sustainable|B1|3|b|environment||Wir wollen nachhaltiger leben.|We want to live more sustainably.|||r=Nachhaltigkeit
+Plastik|w|noun|das|∅|plastic|B1|3|b|environment,shopping||Wir kaufen weniger Plastik.|We buy less plastic.|||
+recyceln|w|verb|||to recycle|B1|3|b|environment||Flaschen kann man recyceln.|Bottles can be recycled.||f=recycelt, recycelte, hat recycelt|r=Recycling
+Verpackung|w|noun|die|Verpackungen|packaging|B1|3|r|environment,shopping||Die Verpackung gehört in den gelben Sack.|The packaging goes in the yellow bag.|||r=Gelber Sack
+Gelber Sack|f|phrase|||yellow bag (for packaging waste)|B1|3|r|environment,home||Joghurtbecher kommen in den Gelben Sack.|Yoghurt pots go in the yellow bag.|Some towns use die Gelbe Tonne instead.||why=Germany: packaging recycling system
+Biomüll|w|noun|der|∅|organic waste|B1|3|r|environment,home||Kaffeesatz kommt in den Biomüll.|Coffee grounds go in the organic waste.|||r=Müll
+Sturm|w|noun|der|Stürme|storm|B1|3|r|weather||Der Sturm hat viele Bäume umgeworfen.|The storm knocked down lots of trees.|||
+Hitze|w|noun|die|∅|heat|B1|3|r|weather||Bei dieser Hitze kann ich nicht schlafen.|I can't sleep in this heat.|||r=heiß
+Glatteis|w|noun|das|∅|black ice|B1|3|r|weather,transport||Morgen früh gibt es Glatteis.|There'll be black ice tomorrow morning.|||r=glatt
+Wetterbericht|w|noun|der|Wetterberichte|weather forecast|B1|3|b|weather,media||Laut Wetterbericht regnet es morgen.|According to the forecast it'll rain tomorrow.|Also: die Wettervorhersage.|r=Wetter
+Medien|w|noun|die|Pl|media|B1|3|r|media||Die Medien berichten viel darüber.|The media are reporting a lot about it.|||
+Presse|w|noun|die|∅|press|B1|3|r|media||Die Presse war dabei.|The press were there.|||
+Journalist|w|noun|der|Journalisten|journalist|B1|3|r|media,work||Sie arbeitet als Journalistin.|She works as a journalist.|n-declension. Female: die Journalistin.|
+Nachrichten|w|noun|die|Pl|news|A2|3|b|media||Hast du die Nachrichten gesehen?|Did you see the news?|Plural: the news. Singular Nachricht = message.|r=Nachricht
+Meldung|w|noun|die|Meldungen|report; announcement|B1|3|r|media||Laut einer Meldung gibt es Stau.|According to a report there's a traffic jam.|||r=melden
+Schlagzeile|w|noun|die|Schlagzeilen|headline|B1|3|r|media||Die Geschichte macht Schlagzeilen.|The story is making headlines.|||
+Kommentar|w|noun|der|Kommentare|comment; commentary|B1|3|r|media,technology||Schreib einen Kommentar unter das Video.|Write a comment under the video.|||
+soziale Medien|f|phrase|||social media|B1|3|b|media,technology||Ich bin nicht oft in sozialen Medien.|I'm not on social media often.|||
+Daten|w|noun|die|Pl|data|B1|3|b|technology,bureaucracy||Wir speichern Ihre Daten nicht.|We don't store your data.|Plural of Datum (date) is also Daten.|r=Datenschutz
+Datenschutz|w|noun|der|∅|data protection; privacy|B1|3|r|technology,law||Lesen Sie die Datenschutzerklärung.|Read the privacy policy.|DSGVO = German name for GDPR.||why=Germany: on every website and form
+Anwalt|w|noun|der|Anwälte|lawyer|B1|3|b|law||Ich spreche mit meinem Anwalt.|I'll talk to my lawyer.|Female: die Anwältin.|
+Richter|w|noun|der|Richter|judge|B1|3|r|law||Der Richter hat entschieden.|The judge has decided.|Female: die Richterin.|
+Polizist|w|noun|der|Polizisten|police officer|B1|3|b|law,services||Fragen Sie den Polizisten.|Ask the police officer.|n-declension. Female: die Polizistin.|r=Polizei
+Dieb|w|noun|der|Diebe|thief|B1|3|r|law||Der Dieb wurde gefasst.|The thief was caught.|||r=stehlen;Diebstahl
+Diebstahl|w|noun|der|Diebstähle|theft|B1|3|r|law||Ich möchte einen Diebstahl melden.|I'd like to report a theft.|||r=Dieb
+Einbruch|w|noun|der|Einbrüche|burglary; break-in|B1|3|r|law,housing||Bei uns gab es einen Einbruch.|We had a break-in.|||r=einbrechen
+Anzeige erstatten|c|verb|||to report (a crime) to the police|B1|3|r|law||Sie sollten Anzeige erstatten.|You should report it to the police.|||r=Anzeige|why=fixed legal collocation; erstatten not predictable
+Täter|w|noun|der|Täter|perpetrator; offender|B1|3|r|law,media||Die Polizei sucht den Täter.|The police are looking for the culprit.|||
+Opfer|w|noun|das|Opfer|victim; sacrifice|B1|3|r|law,media||Die Opfer bekommen Hilfe.|The victims are getting help.|||
+Zeuge|w|noun|der|Zeugen|witness|B1|3|r|law||Gibt es Zeugen?|Are there any witnesses?|n-declension. Female: die Zeugin.|
+Gewalt|w|noun|die|∅|violence; force|B1|3|r|law,society||Gewalt ist keine Lösung.|Violence is not a solution.|||
+illegal|w|adj|||illegal|B1|3|r|law||Das ist illegal.|That's illegal.|||r=legal
+legal|w|adj|||legal|B1|3|r|law||Ist das überhaupt legal?|Is that even legal?|||r=illegal
+gesetzlich|w|adj|||legal; statutory|B1|3|b|law,bureaucracy||Die gesetzliche Krankenversicherung ist Pflicht.|Statutory health insurance is compulsory.|gesetzlich versichert = in the statutory insurance.|r=Gesetz
+Strafzettel|w|noun|der|Strafzettel|parking ticket; fine|B1|3|b|transport,law||Ich habe einen Strafzettel bekommen.|I got a parking ticket.|Spoken: das Knöllchen.|r=Strafe
+Bußgeld|w|noun|das|Bußgelder|fine (administrative)|B1|3|r|law,transport|formal|Für zu schnelles Fahren gibt es ein Bußgeld.|There's a fine for speeding.|||r=Strafe
+Verbraucher|w|noun|der|Verbraucher|consumer|B1|3|r|shopping,law||Verbraucher haben 14 Tage Widerrufsrecht.|Consumers have a 14-day right of withdrawal.|||r=Verbraucherzentrale|why=consumer rights in Germany
+Verbraucherzentrale|w|noun|die|Verbraucherzentralen|consumer advice centre|B1|3|r|shopping,services||Die Verbraucherzentrale berät Sie kostenlos.|The consumer advice centre advises you free of charge.|||why=Germany: helps with contract problems
+Widerruf|w|noun|der|Widerrufe|withdrawal; cancellation (of a contract)|B1|3|r|shopping,law|formal|Den Widerruf müssen Sie schriftlich erklären.|You must declare the withdrawal in writing.|||r=widerrufen
+Glaube|w|noun|der|∅|faith; belief|B1|3|r|society||Der Glaube ist ihm wichtig.|His faith is important to him.|n-declension: den Glauben.|r=glauben
+Karneval|w|noun|der|∅|carnival|B1|3|r|society,leisure||In Köln feiert man Karneval.|In Cologne they celebrate carnival.|Also Fasching (south), Fastnacht.|
+Volk|w|noun|das|Völker|people; nation|B1|3|r|society|formal|Das deutsche Volk hat gewählt.|The German people have voted.|||
+Europa|w|noun|das|∅|Europe|A2|3|a|places||Ich bin in Europa viel gereist.|I've travelled a lot in Europe.|||r=europäisch
+Europäische Union|f|phrase|||European Union|B1|3|r|politics,places||Polen ist seit 2004 in der Europäischen Union.|Poland has been in the European Union since 2004.|Abbreviation EU.|
+Umfrage|w|noun|die|Umfragen|survey; poll|B1|3|r|media,society||Laut einer Umfrage ist die Mehrheit dafür.|According to a survey the majority is in favour.|||
+Statistik|w|noun|die|Statistiken|statistics|B1|3|r|media,numbers||Die Statistik zeigt einen klaren Trend.|The statistics show a clear trend.|||
+Trend|w|noun|der|Trends|trend|B1|3|r|media||Das ist gerade ein großer Trend.|That's a big trend at the moment.|||

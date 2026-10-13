@@ -1,0 +1,89 @@
+# Tier 1 · function words: determiners, pronouns, question words, prepositions, conjunctions
+# german|type|pos|article|plural|english|cefr|tier|mode|topics|register|example|example_en|grammar|forms|collocations|related|reason
+der, die, das|w|det|||the|A1|1|a|grammar||Der Bus ist heute voll, die Bahn ist leer.|The bus is full today, the train is empty.|Definite article. der (m), die (f), das (n), die (plural); changes with case: den, dem, des.|r=dieser;welcher|why=most frequent word family in every corpus
+ein, eine|w|det|||a; an; one|A1|1|a|grammar||Ich hätte gern einen Kaffee und ein Wasser.|I'd like a coffee and a water.|Indefinite article: ein (m/n), eine (f); accusative masculine einen. No plural.|r=kein;eins
+kein, keine|w|det|||no; not a; not any|A1|1|a|grammar||Ich habe heute keine Zeit.|I don't have time today.|Negates nouns that would have ein or no article. Same endings as ein, plus plural keine.|c=keine Ahnung;kein Problem;keine Lust
+dieser, diese, dieses|w|det|||this; these|A1|1|a|grammar||Diese Jacke gefällt mir.|I like this jacket.|Endings like der/die/das: dieser Tag, diese Woche, dieses Jahr.|c=diese Woche;dieses Jahr
+jeder, jede, jedes|w|det|||every; each|A1|1|a|grammar||Der Bus fährt jeden Tag um sieben.|The bus runs every day at seven.|Singular only. Endings like der/die/das.|c=jeden Tag;jede Woche;jedes Mal
+alle|w|det|||all; everyone|A1|1|a|grammar||Alle sind schon da.|Everyone is already here.|alle (plural) = all, everyone; alles = everything.|c=alle zusammen;vor allem|r=alles
+alles|w|pron|||everything|A1|1|a|grammar||Ist alles in Ordnung?|Is everything all right?||c=alles klar;alles Gute;vor allem|r=alle
+mein, meine|w|det|||my|A1|1|a|people,grammar||Das ist meine Wohnung.|This is my flat.|Possessive, endings like ein: mein Bruder, meine Schwester, meinen Bruder (Akk).|r=dein;sein;ihr;unser;euer;Ihr
+dein, deine|w|det|||your (informal, one person)|A1|1|a|people,grammar||Ist das dein Handy?|Is that your phone?|Possessive for du. Endings like ein.|r=mein;euer
+sein, seine|w|det|||his; its|A1|1|a|people,grammar||Mein Kollege hat sein Auto verkauft.|My colleague sold his car.|Possessive for er/es. Endings like ein.|r=ihr
+ihr, ihre|w|det|||her; their|A1|1|a|people,grammar||Anna und ihre Kinder wohnen in Köln.|Anna and her children live in Cologne.|Possessive for sie (she/they). Capitalised Ihr = your (formal).|r=Ihr
+Ihr, Ihre|w|det|||your (formal)|A1|1|a|people,grammar,bureaucracy|formal|Wie ist Ihre Adresse?|What's your address?|Possessive for Sie, always capitalised.|r=Sie
+unser, unsere|w|det|||our|A1|1|a|people,grammar||Unsere Nachbarn sind sehr nett.|Our neighbours are very nice.|Endings like ein.|r=mein
+euer, eure|w|det|||your (informal, several people)|A1|1|a|people,grammar||Wo ist euer Auto?|Where is your car?|Possessive for ihr (you all). euer → eure (the e drops).|r=dein
+welcher, welche, welches|w|det|||which|A1|1|a|grammar||Welchen Bus muss ich nehmen?|Which bus do I have to take?|Question word with der-endings.|c=was für ein
+viel, viele|w|det|||much; many; a lot|A1|1|a|grammar||Wir haben viel Arbeit und viele Termine.|We have a lot of work and many appointments.|viel + singular (viel Zeit), viele + plural (viele Leute). Comparative mehr.|c=vielen Dank;viel Spaß;viel Glück|r=mehr; meist
+wenig, wenige|w|det|||little; few|A1|1|a|grammar||Ich habe heute nur wenig Zeit.|I only have a little time today.|wenig + singular, wenige + plural. ein wenig = a little.|r=weniger
+mehr|w|adv|||more|A1|1|a|grammar||Kann ich noch mehr Wasser haben?|Can I have some more water?|Comparative of viel. nicht mehr = no longer.|c=nicht mehr;immer mehr;mehr als
+beide|w|det|||both|A1|1|a|grammar||Beide Kinder gehen schon zur Schule.|Both children already go to school.|
+andere|w|det|||other; different|A1|1|a|grammar||Haben Sie das auch in einer anderen Farbe?|Do you have that in another colour too?|Adjective endings: der andere, ein anderer.|c=unter anderem;etwas anderes|r=anders
+etwas|w|pron|||something; somewhat; a little|A1|1|a|grammar||Möchtest du etwas trinken?|Would you like something to drink?|etwas = something; also 'a bit' before adjectives (etwas teuer).|c=etwas anderes;noch etwas|r=nichts
+nichts|w|pron|||nothing|A1|1|a|grammar||Ich habe heute noch nichts gegessen.|I haven't eaten anything yet today.||c=gar nichts;nichts mehr;macht nichts|r=etwas
+jemand|w|pron|||someone; anyone|A1|1|a|people,grammar||Hat jemand meinen Schlüssel gesehen?|Has anyone seen my key?||r=niemand
+niemand|w|pron|||nobody; no one|A1|1|a|people,grammar||Niemand hat angerufen.|Nobody called.||r=jemand
+man|w|pron|||one; you; people (in general)|A1|1|a|grammar||Hier darf man nicht parken.|You can't park here.|Generic subject, verb in 3rd person singular. Very common in instructions and rules.
+ich|w|pron|||I|A1|1|a|grammar||Ich heiße Anna und komme aus Polen.|My name is Anna and I'm from Poland.|Forms: mich (Akk), mir (Dat).
+du|w|pron|||you (informal, one person)|A1|1|a|grammar,social||Kommst du heute Abend mit?|Are you coming along this evening?|Forms: dich (Akk), dir (Dat). Used with friends, family, children and many colleagues.|r=Sie
+er|w|pron|||he; it (masculine nouns)|A1|1|a|grammar||Wo ist der Schlüssel? – Er liegt auf dem Tisch.|Where's the key? – It's on the table.|Refers to people and to masculine nouns. Forms: ihn (Akk), ihm (Dat).
+sie|w|pron|||she; it (feminine nouns); they|A1|1|a|grammar||Meine Schwester wohnt in Berlin. Sie ist Ärztin.|My sister lives in Berlin. She's a doctor.|sie = she / they. Forms: sie (Akk), ihr (Dat, she) / ihnen (Dat, they).|r=Sie
+es|w|pron|||it|A1|1|a|grammar||Es regnet schon wieder.|It's raining again.|Also the dummy subject: es gibt, es regnet, es geht.|c=es gibt;wie geht es
+wir|w|pron|||we|A1|1|a|grammar||Wir treffen uns um acht vor dem Kino.|We're meeting at eight in front of the cinema.|Forms: uns (Akk/Dat).
+ihr|w|pron|||you (informal, several people)|A1|1|a|grammar||Habt ihr am Samstag Zeit?|Are you (guys) free on Saturday?|Verb ending -t: ihr habt, ihr kommt. Forms: euch (Akk/Dat).
+Sie|w|pron|||you (formal)|A1|1|a|grammar,social|formal|Können Sie mir bitte helfen?|Could you help me, please?|Always capitalised. Use with strangers, in shops, offices and at work unless offered du. Forms: Sie (Akk), Ihnen (Dat).|r=du;siezen;duzen
+sich|w|pron|||oneself; himself; herself; themselves; each other|A1|1|a|grammar||Die beiden kennen sich schon lange.|The two have known each other for a long time.|Reflexive pronoun for er/sie/es/sie/Sie: sich freuen, sich treffen.
+was|w|pron|||what|A1|1|a|grammar||Was machst du am Wochenende?|What are you doing at the weekend?|Also short for etwas in speech: Ich hab was vergessen.|c=was für ein;was ist los
+wer|w|pron|||who|A1|1|a|grammar||Wer ist das auf dem Foto?|Who's that in the photo?|Forms: wen (Akk), wem (Dat).
+wo|w|adv|||where|A1|1|a|grammar,places||Wo ist hier die Toilette?|Where is the toilet here?|Location. Movement uses wohin, origin woher.|r=wohin;woher
+wohin|w|adv|||where (to)|A1|1|a|grammar,places,travel||Wohin fährst du im Urlaub?|Where are you going on holiday?|
+woher|w|adv|||where from|A1|1|a|grammar,people||Woher kommen Sie?|Where are you from?|
+wann|w|adv|||when|A1|1|a|grammar,time||Wann fährt der nächste Zug nach Hamburg?|When does the next train to Hamburg leave?|Question word only. For 'when' in statements use wenn/als.
+wie|w|adv|||how; like; as|A1|1|a|grammar||Wie komme ich zum Bahnhof?|How do I get to the station?|Also in comparisons: so groß wie = as big as.|c=wie viel;wie lange;wie bitte;wie geht's
+wie viel|c|adv|||how much; how many|A1|1|a|grammar,shopping,numbers||Wie viel kostet das?|How much does that cost?|Written as two words; wie viele + plural: Wie viele Leute kommen?
+warum|w|adv|||why|A1|1|a|grammar||Warum bist du so müde?|Why are you so tired?||r=wieso;weshalb
+wieso|w|adv|||why; how come|A2|1|a|grammar|spoken|Wieso kommt der Bus nicht?|How come the bus isn't coming?|Same meaning as warum, very common in speech.
+in|w|prep|||in; into|A1|1|a|grammar,places||Ich wohne in Hamburg.|I live in Hamburg.|Two-way preposition: wo? + Dat (im Kino), wohin? + Akk (ins Kino). im = in dem, ins = in das.|c=im Moment;in der Nähe
+an|w|prep|||at; on; to|A1|1|a|grammar,places,time||Das Bild hängt an der Wand.|The picture is hanging on the wall.|Two-way preposition. Time: am Montag, am Abend. am = an dem.|c=am Wochenende;an der Kasse
+auf|w|prep|||on; onto; at|A1|1|a|grammar,places||Das Handy liegt auf dem Tisch.|The phone is on the table.|Two-way preposition. Also: auf Deutsch, auf Wiedersehen.|c=auf Deutsch;auf jeden Fall
+aus|w|prep|||from; out of|A1|1|a|grammar,people||Ich komme aus Polen.|I'm from Poland.|Always + Dativ. Also: aus sein = to be over/off.
+bei|w|prep|||at (someone's place); near; with|A1|1|a|grammar,places||Ich wohne noch bei meinen Eltern.|I still live with my parents.|Always + Dativ. beim = bei dem: beim Arzt, beim Essen.|c=beim Arzt;bei der Arbeit
+mit|w|prep|||with; by (transport)|A1|1|a|grammar,transport||Ich fahre mit dem Fahrrad zur Arbeit.|I cycle to work.|Always + Dativ. mit dem Bus/Zug/Auto = by bus/train/car.|c=mit dem Bus;mit Karte bezahlen
+nach|w|prep|||to (cities, countries); after; past (time)|A1|1|a|grammar,places,time||Nach der Arbeit fahre ich nach Hause.|After work I'm going home.|Always + Dativ. nach Berlin, nach Hause; zehn nach drei.|c=nach Hause;nach rechts
+von|w|prep|||from; of; by|A1|1|a|grammar||Das ist ein Geschenk von meiner Mutter.|That's a present from my mother.|Always + Dativ. vom = von dem. Also: von 9 bis 17 Uhr.|c=von ... bis
+zu|w|prep|||to; at; too (+ adjective)|A1|1|a|grammar,places||Ich muss heute noch zum Arzt.|I still have to go to the doctor today.|Always + Dativ: zum = zu dem, zur = zu der. zu Hause = at home. zu teuer = too expensive.|c=zu Hause;zum Beispiel;zu Fuß
+für|w|prep|||for|A1|1|a|grammar||Das Geschenk ist für dich.|The present is for you.|Always + Akkusativ.|c=für mich;Danke für
+über|w|prep|||over; above; about; via|A1|1|a|grammar,places||Wir sprechen morgen über das Projekt.|We'll talk about the project tomorrow.|Two-way preposition. über + Akk = about (a topic).|c=über Nacht
+unter|w|prep|||under; below; among|A1|1|a|grammar,places||Die Katze schläft unter dem Bett.|The cat is sleeping under the bed.|Two-way preposition.|c=unter anderem
+vor|w|prep|||in front of; before; ago|A1|1|a|grammar,places,time||Ich warte vor dem Kino auf dich.|I'll wait for you in front of the cinema.|Two-way preposition. Time + Dat: vor einer Woche = a week ago.|c=vor allem;vor kurzem
+hinter|w|prep|||behind|A1|1|a|grammar,places||Der Parkplatz ist hinter dem Haus.|The car park is behind the building.|Two-way preposition.
+neben|w|prep|||next to|A1|1|a|grammar,places||Die Apotheke ist neben der Bank.|The pharmacy is next to the bank.|Two-way preposition.
+zwischen|w|prep|||between|A1|1|a|grammar,places,time||Ich bin zwischen 14 und 15 Uhr zu Hause.|I'm at home between 2 and 3 pm.|Two-way preposition.
+durch|w|prep|||through|A1|1|a|grammar,places||Wir gehen durch den Park nach Hause.|We walk home through the park.|Always + Akkusativ.
+gegen|w|prep|||against; around (time)|A1|1|a|grammar,time||Ich komme gegen acht Uhr.|I'll come at around eight.|Always + Akkusativ.
+ohne|w|prep|||without|A1|1|a|grammar||Ich trinke Kaffee ohne Zucker.|I drink coffee without sugar.|Always + Akkusativ.
+um|w|prep|||at (clock time); around|A1|1|a|grammar,time||Der Kurs beginnt um neun Uhr.|The course starts at nine.|Always + Akkusativ. um ... zu = in order to.|c=um ... Uhr;um die Ecke
+seit|w|prep|||since; for (time up to now)|A1|1|a|grammar,time||Ich wohne seit drei Jahren in Berlin.|I've lived in Berlin for three years.|Always + Dativ, with the present tense in German.
+ab|w|prep|||from (a time or place)|A1|1|a|grammar,time||Ab Montag habe ich Urlaub.|I'm on holiday from Monday.|ab sofort = starting now. Also as verb prefix (abfahren).|c=ab sofort
+bis|w|prep|||until; by; to|A1|1|a|grammar,time||Ich arbeite heute bis sechs.|I'm working until six today.|bis morgen / bis später = see you tomorrow/later.|c=bis bald;bis morgen;bis zu
+gegenüber|w|prep|||opposite|A2|1|a|grammar,places||Die Haltestelle ist gegenüber vom Supermarkt.|The stop is opposite the supermarket.|+ Dativ, often with von: gegenüber von.
+wegen|w|prep|||because of; due to|A2|1|a|grammar||Wegen des Streiks fährt heute kein Zug.|Because of the strike there are no trains today.|+ Genitiv in writing, often + Dativ in speech.
+und|w|conj|||and|A1|1|a|grammar||Ich trinke Kaffee und mein Mann trinkt Tee.|I drink coffee and my husband drinks tea.|Does not change word order.
+oder|w|conj|||or|A1|1|a|grammar||Möchtest du Tee oder Kaffee?|Would you like tea or coffee?|Does not change word order.
+aber|w|conj|||but|A1|1|a|grammar||Das Zimmer ist klein, aber gemütlich.|The room is small but cosy.|Does not change word order. Also a particle: Das ist aber teuer!
+denn|w|conj|||because; (question particle)|A1|1|a|grammar,discourse||Ich bleibe zu Hause, denn ich bin krank.|I'm staying home because I'm ill.|Conjunction without verb-final order. In questions a softening particle: Was ist denn los?
+sondern|w|conj|||but (rather)|A2|1|a|grammar||Das ist nicht mein Handy, sondern deins.|That's not my phone, it's yours.|After a negation: nicht ..., sondern ...|why=nicht nur ..., sondern auch
+weil|w|conj|||because|A2|1|a|grammar,opinions||Ich komme nicht, weil ich arbeiten muss.|I'm not coming because I have to work.|Sends the verb to the end of the clause.|r=denn
+dass|w|conj|||that|A2|1|a|grammar,opinions||Ich glaube, dass er recht hat.|I think (that) he's right.|Sends the verb to the end. Often after glauben, denken, wissen, hoffen.
+wenn|w|conj|||if; when(ever)|A2|1|a|grammar||Wenn du Zeit hast, ruf mich an.|If you have time, give me a call.|Sends the verb to the end. For a single event in the past use als.|r=als
+ob|w|conj|||whether; if|A2|1|a|grammar||Weißt du, ob der Supermarkt noch offen ist?|Do you know if the supermarket is still open?|Indirect yes/no questions. Verb goes to the end.
+als|w|conj|||when (past); than; as|A2|1|a|grammar||Als ich in Berlin ankam, regnete es.|When I arrived in Berlin, it was raining.|als + single past event; comparative: größer als; role: als Lehrerin arbeiten.|c=als Kind
+also|w|adv|||so; well; therefore|A1|1|a|discourse|spoken|Also, wann treffen wir uns?|So, when are we meeting?|Discourse marker to start or conclude. Not English 'also' (= auch).|r=auch
+dann|w|adv|||then|A1|1|a|time,discourse||Erst essen wir, dann gehen wir ins Kino.|First we'll eat, then we'll go to the cinema.|Also: Dann bis morgen! = See you tomorrow then.|c=bis dann;na dann
+deshalb|w|adv|||that's why; therefore|A2|1|a|grammar,opinions||Ich war krank, deshalb konnte ich nicht kommen.|I was ill, that's why I couldn't come.|Verb comes right after it (position 2).|r=deswegen
+trotzdem|w|adv|||anyway; still; nevertheless|A2|1|a|grammar,opinions||Es regnet, aber wir gehen trotzdem spazieren.|It's raining, but we're still going for a walk.|
+außerdem|w|adv|||besides; in addition|A2|1|a|grammar,opinions||Die Wohnung ist zu teuer und außerdem zu klein.|The flat is too expensive and also too small.|
+sonst|w|adv|||otherwise; else|A2|1|a|grammar||Beeil dich, sonst verpassen wir den Zug.|Hurry up, otherwise we'll miss the train.|Sonst noch etwas? = Anything else? (in shops)|c=sonst noch etwas
+zuerst|w|adv|||first; at first|A2|1|a|time,discourse||Zuerst muss ich das Formular ausfüllen.|First I have to fill in the form.||r=danach
+danach|w|adv|||afterwards; after that|A2|1|a|time,discourse||Danach gehen wir etwas essen.|Afterwards we'll go and get something to eat.|

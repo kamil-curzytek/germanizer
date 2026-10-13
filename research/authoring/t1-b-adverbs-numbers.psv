@@ -1,0 +1,90 @@
+# Tier 1 · adverbs, particles, discourse markers, numbers
+# german|type|pos|article|plural|english|cefr|tier|mode|topics|register|example|example_en|grammar|forms|collocations|related|reason
+nicht|w|adv|||not|A1|1|a|grammar||Ich verstehe das nicht.|I don't understand that.|Negates verbs, adjectives and nouns with der/die/das. Nouns with ein / no article take kein.|c=gar nicht;noch nicht;nicht mehr|r=kein
+nie|w|adv|||never|A1|1|a|time||Ich trinke nie Kaffee am Abend.|I never drink coffee in the evening.||c=noch nie|r=niemals
+immer|w|adv|||always|A1|1|a|time||Der Bus ist immer pünktlich.|The bus is always on time.||c=immer noch;immer mehr;wie immer
+oft|w|adv|||often|A1|1|a|time||Wir gehen oft zusammen essen.|We often go out to eat together.|Comparative öfter.
+manchmal|w|adv|||sometimes|A1|1|a|time||Manchmal arbeite ich von zu Hause.|Sometimes I work from home.|
+meistens|w|adv|||mostly; usually|A2|1|a|time||Meistens fahre ich mit dem Rad zur Arbeit.|I usually cycle to work.|
+schon|w|adv|||already; yet; (reassuring particle)|A1|1|a|time,discourse||Bist du schon fertig?|Are you finished already?|Also reassuring: Das klappt schon. = It'll work out.|c=schon mal;schon wieder
+noch|w|adv|||still; yet; another|A1|1|a|time||Ich bin noch im Büro.|I'm still at the office.|noch nicht = not yet; noch ein Bier = another beer.|c=noch nicht;noch einmal;immer noch
+erst|w|adv|||only (not until); first|A1|1|a|time||Der Zug kommt erst um zehn.|The train doesn't come until ten.|Time: erst = 'only/not until'; zuerst/erst = first.|r=nur
+nur|w|adv|||only; just|A1|1|a|grammar||Ich habe nur zehn Euro dabei.|I've only got ten euros on me.||why=nicht nur ... sondern auch
+auch|w|adv|||also; too; as well|A1|1|a|grammar||Ich komme auch mit.|I'm coming too.||c=ich auch;auch nicht
+sehr|w|adv|||very; very much|A1|1|a|grammar||Vielen Dank, das ist sehr nett.|Thank you, that's very kind.||c=sehr gut;sehr gern
+ganz|w|adv|||quite; completely; whole|A1|1|a|grammar||Das Essen war ganz gut.|The food was quite good.|ganz = 'quite' with positive adjectives, 'completely' otherwise (ganz neu). As adjective: der ganze Tag.|c=ganz gut;im Ganzen
+ziemlich|w|adv|||quite; rather; pretty|A2|1|a|grammar,opinions||Die Miete ist ziemlich hoch.|The rent is pretty high.|
+fast|w|adv|||almost; nearly|A1|1|a|grammar||Ich bin fast fertig.|I'm almost finished.|
+genau|w|adv|||exactly; precisely; (agreement) right|A1|1|a|discourse|spoken|Genau, so machen wir das.|Exactly, that's how we'll do it.|Very common in speech to agree: Genau!|c=ganz genau;genau so
+etwa|w|adv|||about; approximately|A2|1|a|numbers||Die Fahrt dauert etwa eine Stunde.|The journey takes about an hour.||r=ungefähr
+ungefähr|w|adv|||about; approximately; roughly|A2|1|a|numbers||Wir sind ungefähr zwanzig Leute.|We're about twenty people.||r=etwa
+hier|w|adv|||here|A1|1|a|places||Wohnen Sie hier?|Do you live here?||c=hier in der Nähe
+da|w|adv|||there; here; then|A1|1|a|places,time||Ist Herr Weber da?|Is Mr Weber there?|In speech often instead of dort or hier. da sein = to be present.|c=da drüben|r=dort
+dort|w|adv|||there|A1|1|a|places||Dort drüben ist der Bahnhof.|The station is over there.||c=dort drüben
+jetzt|w|adv|||now|A1|1|a|time||Ich habe jetzt leider keine Zeit.|Unfortunately I don't have time right now.||c=bis jetzt;jetzt gleich
+heute|w|adv|||today|A1|1|a|time||Heute habe ich frei.|I'm off today.||c=heute Abend;heute Morgen
+morgen|w|adv|||tomorrow|A1|1|a|time||Morgen fahre ich nach Köln.|Tomorrow I'm going to Cologne.|Lower case morgen = tomorrow; der Morgen = the morning. morgen früh = tomorrow morning.|c=morgen früh;bis morgen|r=Morgen
+gestern|w|adv|||yesterday|A1|1|a|time||Gestern war ich beim Arzt.|Yesterday I was at the doctor's.||c=gestern Abend|r=vorgestern
+übermorgen|w|adv|||the day after tomorrow|A2|1|a|time||Übermorgen ist Feiertag.|The day after tomorrow is a public holiday.||r=vorgestern
+bald|w|adv|||soon|A1|1|a|time||Bis bald!|See you soon!||c=bis bald;so bald wie möglich
+später|w|adv|||later|A1|1|a|time||Ich rufe dich später an.|I'll call you later.||c=bis später|r=spät
+gleich|w|adv|||right away; in a moment; same|A1|1|a|time||Ich komme gleich!|I'll be right there!|As adjective: the same (das gleiche Problem).|c=bis gleich
+sofort|w|adv|||immediately; right away|A1|1|a|time||Bitte rufen Sie sofort einen Arzt.|Please call a doctor immediately.||c=ab sofort
+wieder|w|adv|||again; back|A1|1|a|time||Der Aufzug ist schon wieder kaputt.|The lift is broken again.||c=schon wieder;immer wieder|r=wiederholen
+einmal|w|adv|||once; one time|A1|1|a|time,numbers||Ich war einmal in München.|I've been to Munich once.|In speech shortened to mal. noch einmal = once more.|c=noch einmal;auf einmal|r=mal
+mal|w|part|||(softening particle); just; times|A1|1|a|discourse|spoken|Kannst du mal kurz kommen?|Can you come here for a sec?|Softens requests: Warte mal! Also: dreimal = three times.|c=mal sehen;schon mal|r=einmal
+zusammen|w|adv|||together|A1|1|a|people||Wir wohnen seit zwei Jahren zusammen.|We've been living together for two years.|Zusammen oder getrennt? = Paying together or separately? (in restaurants)|c=alle zusammen
+allein|w|adv|||alone; on one's own|A1|1|a|people||Ich wohne allein.|I live alone.|Also alleine in speech.
+natürlich|w|adv|||of course; naturally|A1|1|a|discourse||Natürlich helfe ich dir.|Of course I'll help you.|
+vielleicht|w|adv|||maybe; perhaps|A1|1|a|discourse,opinions||Vielleicht komme ich später.|Maybe I'll come later.|
+wirklich|w|adv|||really; truly|A1|1|a|discourse||Das ist wirklich lecker.|That's really delicious.|Wirklich? = Really?
+eigentlich|w|adv|||actually; in fact|A2|1|a|discourse||Eigentlich habe ich heute keine Zeit.|Actually, I don't have time today.|Also softens questions: Wie spät ist es eigentlich?
+leider|w|adv|||unfortunately|A1|1|a|discourse||Ich kann leider nicht kommen.|Unfortunately I can't come.||c=leider nicht
+gern|w|adv|||gladly; with pleasure; (like doing)|A1|1|a|feelings,discourse||Ich koche gern für Freunde.|I like cooking for friends.|verb + gern = like doing it. Gern! / Gern geschehen! = You're welcome. Comparative lieber, superlative am liebsten.|c=gern geschehen;sehr gern;lieber; am liebsten
+lieber|w|adv|||rather; preferably|A1|1|a|opinions||Ich trinke lieber Tee.|I'd rather have tea.|Comparative of gern. am liebsten = most of all.|c=am liebsten|r=gern
+links|w|adv|||left; on the left|A1|1|a|places,transport||Gehen Sie hier links.|Turn left here.||c=nach links|r=rechts
+rechts|w|adv|||right; on the right|A1|1|a|places,transport||Die Toilette ist rechts.|The toilet is on the right.||c=nach rechts|r=links
+geradeaus|w|adv|||straight ahead|A1|1|a|places,transport||Gehen Sie immer geradeaus.|Keep going straight ahead.|
+oben|w|adv|||up; upstairs; above|A1|1|a|places||Das Bad ist oben.|The bathroom is upstairs.||c=nach oben|r=unten
+unten|w|adv|||down; downstairs; below|A1|1|a|places||Ich warte unten auf dich.|I'll wait for you downstairs.||c=nach unten|r=oben
+draußen|w|adv|||outside|A1|1|a|places||Die Kinder spielen draußen.|The children are playing outside.||r=drinnen
+zurück|w|adv|||back|A1|1|a|places||Ich bin um sechs zurück.|I'll be back at six.|Also a verb prefix: zurückrufen, zurückgeben.|r=zurückkommen
+weg|w|adv|||away; gone|A1|1|a|places||Mein Fahrrad ist weg!|My bike is gone!|
+los|w|adv|||off; away; going on|A1|1|a|discourse|spoken|Was ist los?|What's going on?|Los geht's! = Let's go! Ich muss los. = I have to go.|c=was ist los;los geht's
+doch|w|part|||yes (contradicting); after all; (emphasis)|A1|1|a|discourse|spoken|Kommst du nicht mit? – Doch!|Aren't you coming? – Yes, I am!|Answers a negative question with 'yes'. As a particle: Komm doch mit! = Do come along!|r=ja
+ja|w|part|||yes; (particle) as you know|A1|1|a|discourse||Ja, gern.|Yes, please.|Also a particle: Das ist ja toll! = That's great!|r=nein
+nein|w|part|||no|A1|1|a|discourse||Nein, danke.|No, thank you.|
+so|w|adv|||so; like this; such|A1|1|a|discourse||Das macht man so.|You do it like this.|In speech often a filler: So, jetzt fangen wir an.|c=so ... wie;ach so;oder so
+okay|w|intj|||okay; OK|A1|1|a|discourse|spoken,informal|Okay, dann bis morgen!|Okay, see you tomorrow then!|Very frequent in spoken German; written OK or okay.
+na|w|intj|||well; so|A2|1|a|discourse|spoken,informal|Na, wie war's?|So, how was it?|Opens questions or reactions: Na und? Na gut.|c=na ja;na gut;na und
+ach|w|intj|||oh|A2|1|a|discourse|spoken|Ach, das wusste ich nicht.|Oh, I didn't know that.|Surprise or realisation. ach so = oh, I see.|c=ach so
+selbst|w|adv|||oneself; myself; even|A2|1|a|grammar||Das habe ich selbst gemacht.|I made that myself.|Also selber in speech.
+sogar|w|adv|||even|A2|1|a|grammar||Er spricht sogar Japanisch.|He even speaks Japanese.|
+genug|w|adv|||enough|A1|1|a|grammar||Haben wir genug Brot für morgen?|Do we have enough bread for tomorrow?|
+überall|w|adv|||everywhere|A2|1|a|places||Ich habe überall gesucht.|I've looked everywhere.|
+bestimmt|w|adv|||certainly; definitely; surely|A2|1|a|opinions||Das klappt bestimmt.|That'll definitely work out.|As adjective: certain/specific (ein bestimmter Tag).|r=sicher
+sicher|w|adj|||sure; safe; certain|A1|1|a|opinions||Bist du sicher?|Are you sure?|Also safe: Ist das sicher?|c=ganz sicher|r=Sicherheit
+wahrscheinlich|w|adv|||probably|A2|1|a|opinions||Ich komme wahrscheinlich etwas später.|I'll probably be a bit late.|
+null|w|num|||zero|A1|1|a|numbers||Die Vorwahl beginnt mit null.|The area code starts with zero.|
+eins|w|num|||one|A1|1|a|numbers||Wir treffen uns um eins.|We're meeting at one.|Counting: eins; before nouns ein/eine: ein Kaffee. In speech also 'eins' for the clock.|r=ein
+zwei|w|num|||two|A1|1|a|numbers||Ich habe zwei Kinder.|I have two children.|On the phone often zwo, to avoid confusion with drei.
+drei|w|num|||three|A1|1|a|numbers||Das kostet drei Euro.|That costs three euros.|
+vier|w|num|||four|A1|1|a|numbers||Wir sind vier Personen.|There are four of us.|
+fünf|w|num|||five|A1|1|a|numbers||Der Bus kommt in fünf Minuten.|The bus comes in five minutes.|
+sechs|w|num|||six|A1|1|a|numbers||Ich stehe um sechs Uhr auf.|I get up at six.|
+sieben|w|num|||seven|A1|1|a|numbers||Die Woche hat sieben Tage.|The week has seven days.|
+acht|w|num|||eight|A1|1|a|numbers||Ich arbeite acht Stunden am Tag.|I work eight hours a day.|
+neun|w|num|||nine|A1|1|a|numbers||Der Laden öffnet um neun.|The shop opens at nine.|
+zehn|w|num|||ten|A1|1|a|numbers||Ich brauche zehn Minuten.|I need ten minutes.|
+elf|w|num|||eleven|A1|1|a|numbers||Mein Sohn ist elf Jahre alt.|My son is eleven years old.|
+zwölf|w|num|||twelve|A1|1|a|numbers||Die Mittagspause beginnt um zwölf.|The lunch break starts at twelve.|
+dreizehn bis neunzehn|c|num|||thirteen to nineteen|A1|1|a|numbers||Sie ist siebzehn und geht noch zur Schule.|She's seventeen and still goes to school.|pattern;Pattern: dreizehn, vierzehn, fünfzehn, sechzehn (no s), siebzehn (no en), achtzehn, neunzehn.
+zwanzig|w|num|||twenty|A1|1|a|numbers||Das Ticket kostet zwanzig Euro.|The ticket costs twenty euros.|21 = einundzwanzig: the unit comes first. Tens: dreißig (ß!), vierzig, fünfzig, sechzig, siebzig, achtzig, neunzig.|r=dreißig;vierzig;fünfzig
+hundert|w|num|||hundred|A1|1|a|numbers||Das Zimmer kostet hundert Euro pro Nacht.|The room costs a hundred euros a night.||r=tausend
+tausend|w|num|||thousand|A1|1|a|numbers||Die Miete ist fast tausend Euro.|The rent is almost a thousand euros.||r=Million
+erste, zweite, dritte|c|num|||first, second, third|A1|1|a|numbers,time||Ich wohne im dritten Stock.|I live on the third floor.|pattern;Ordinals: -te up to 19 (vierte, siebte), -ste from 20 (zwanzigste). Dates: am ersten Mai.
+halb|w|adj|||half|A1|1|a|numbers,time||Wir treffen uns um halb acht.|We're meeting at half past seven.|Clock: halb acht = 7:30 (half to eight). Viertel nach/vor = quarter past/to.|c=halb so viel|r=Hälfte
+Viertel|w|noun|das|Viertel|quarter|A1|1|a|numbers,time,city||Es ist Viertel nach drei.|It's a quarter past three.|Also: neighbourhood (ein ruhiges Viertel).|c=Viertel nach;Viertel vor
+Prozent|w|noun|das|Prozent|percent|A2|1|r|numbers,money||Heute gibt es zwanzig Prozent Rabatt.|There's twenty percent off today.|Plural same form: zehn Prozent.
+Euro|w|noun|der|Euro|euro|A1|1|a|money,shopping||Das macht zwölf Euro fünfzig.|That comes to twelve euros fifty.|Plural same form with numbers: fünf Euro.|r=Cent
+Cent|w|noun|der|Cent|cent|A1|1|a|money,shopping||Die Tüte kostet zwanzig Cent.|The bag costs twenty cents.|

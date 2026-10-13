@@ -1,0 +1,75 @@
+# Tier 2 · housing & home (Germany-specific renting vocabulary has priority over frequency here)
+# german|type|pos|article|plural|english|cefr|tier|mode|topics|register|example|example_en|grammar|f=|c=|r=|why=
+Mieter|w|noun|der|Mieter|tenant|A2|2|a|housing||Als Mieter haben Sie in Deutschland viele Rechte.|As a tenant you have many rights in Germany.|Female: die Mieterin.|r=mieten;Vermieter;Mieterverein|why=Germany: most people rent
+Mietvertrag|w|noun|der|Mietverträge|tenancy agreement; lease|A2|2|a|housing,bureaucracy||Lesen Sie den Mietvertrag genau, bevor Sie unterschreiben.|Read the lease carefully before you sign.|||c=den Mietvertrag unterschreiben;den Mietvertrag kündigen|r=Vertrag;Miete|why=Germany-essential housing document
+Kaution|w|noun|die|Kautionen|deposit (rent)|A2|2|a|housing,money||Die Kaution beträgt drei Monatsmieten.|The deposit is three months' rent.|By law at most three months' cold rent.||why=Germany-essential: deposit rules
+Nebenkosten|w|noun|die|Pl|additional costs; utilities|A2|2|a|housing,money||Die Miete beträgt 700 Euro plus Nebenkosten.|The rent is 700 euros plus utilities.|Plural only. Water, rubbish, building costs; heating often included. Yearly statement: Nebenkostenabrechnung.|r=Nebenkostenabrechnung;Warmmiete|why=Germany-essential: in every flat advert
+Kaltmiete|w|noun|die|Kaltmieten|basic rent (without utilities)|A2|2|a|housing,money||Die Kaltmiete ist 650 Euro, warm sind es 820.|The basic rent is 650 euros, 820 including utilities.|||r=Warmmiete;Miete|why=Germany: adverts compare kalt vs warm
+Warmmiete|w|noun|die|Warmmieten|rent including heating and utilities|A2|2|a|housing,money||Die Warmmiete ist für die Lage günstig.|The total rent is good value for the location.|||r=Kaltmiete;Nebenkosten
+Hausverwaltung|w|noun|die|Hausverwaltungen|property management|B1|2|a|housing||Bei Problemen wenden Sie sich bitte an die Hausverwaltung.|If there are problems, please contact the property management.|||r=Vermieter;Hausmeister|why=often the real contact instead of the landlord
+Hausmeister|w|noun|der|Hausmeister|caretaker; building manager|A2|2|a|housing||Der Hausmeister repariert die Heizung morgen.|The caretaker is fixing the heating tomorrow.|Female: die Hausmeisterin.|
+WG|w|noun|die|WGs|flat share|A2|2|a|housing|spoken|Ich wohne in einer WG mit drei Studenten.|I live in a flat share with three students.|Short for Wohngemeinschaft.|r=Wohngemeinschaft;Mitbewohner|why=very common way of living in Germany
+Wohnungssuche|w|noun|die|∅|flat hunting|B1|2|r|housing||Die Wohnungssuche in München ist schwierig.|Finding a flat in Munich is difficult.|||
+Besichtigung|w|noun|die|Besichtigungen|viewing (of a flat)|B1|2|a|housing||Die Besichtigung ist am Dienstag um 18 Uhr.|The viewing is on Tuesday at 6 pm.|||r=besichtigen
+besichtigen|w|verb|||to view; to visit (sights)|A1|2|a|housing,travel||Wann kann ich die Wohnung besichtigen?|When can I view the flat?|insep|f=besichtigt, besichtigte, hat besichtigt|r=Besichtigung;Sehenswürdigkeit
+einziehen|w|verb|||to move in|A2|2|a|housing||Wir ziehen am ersten März ein.|We're moving in on the first of March.|irreg;sep;aux:sein|f=zieht ein, zog ein, ist eingezogen|r=ausziehen;Umzug
+ausziehen|w|verb|||to move out; to take off (clothes)|A2|2|a|housing,clothing||Wir ziehen Ende des Monats aus.|We're moving out at the end of the month.|irreg;sep;aux:sein (move out); haben (clothes)|f=zieht aus, zog aus, ist ausgezogen|r=einziehen;anziehen
+Umzug|w|noun|der|Umzüge|move (house); removal|A2|2|a|housing||Kannst du mir beim Umzug helfen?|Can you help me with the move?|||r=umziehen
+vermieten|w|verb|||to rent out; to let|A1|2|a|housing||Wir vermieten das Zimmer an Studenten.|We rent out the room to students.||f=vermietet, vermietete, hat vermietet|r=Vermieter;mieten
+kündigen|w|verb|||to give notice; to cancel; to quit|A2|2|a|housing,work,bureaucracy||Ich habe meine Wohnung zum 31. Mai gekündigt.|I've given notice on my flat for 31 May.|Notice must usually be in writing. Tenants: 3 months.|f=kündigt, kündigte, hat gekündigt|c=die Wohnung kündigen;den Vertrag kündigen|r=Kündigung|why=Germany: written notice rules
+Kündigung|w|noun|die|Kündigungen|notice (of termination); cancellation|B1|2|a|housing,work,bureaucracy||Die Kündigung muss schriftlich erfolgen.|Notice must be given in writing.|||r=kündigen;Kündigungsfrist
+Heizung|w|noun|die|Heizungen|heating; radiator|A2|2|a|housing,home||Die Heizung funktioniert nicht.|The heating isn't working.|||c=die Heizung anmachen|r=heizen
+heizen|w|verb|||to heat|B1|2|a|housing,home||Im Winter heizen wir nur das Wohnzimmer.|In winter we only heat the living room.||f=heizt, heizte, hat geheizt|r=Heizung
+Strom|w|noun|der|∅|electricity; power|A2|2|a|housing,money||Der Strom ist in Deutschland ziemlich teuer.|Electricity is pretty expensive in Germany.|Stromanbieter = electricity provider (you choose and contract yourself).|r=Stromanbieter|why=Germany: tenants register their own electricity contract
+Müll|w|noun|der|∅|rubbish; trash|A2|2|a|home,housing,environment||Kannst du bitte den Müll rausbringen?|Can you take out the rubbish, please?|Mülltrennung = separating rubbish: Restmüll, Biomüll, Papier, Gelber Sack/Gelbe Tonne.|c=den Müll rausbringen;Müll trennen|r=Mülltrennung;Mülltonne|why=Germany: strict waste separation
+Mülltonne|w|noun|die|Mülltonnen|wheelie bin; dustbin|B1|2|r|home,housing,environment||Die Mülltonnen stehen im Hof.|The bins are in the courtyard.|||r=Müll
+trennen|w|verb|||to separate; to sort|B1|2|a|home,environment||In Deutschland trennt man den Müll.|In Germany you sort your rubbish.||f=trennt, trennte, hat getrennt|r=sich trennen;Mülltrennung
+Briefkasten|w|noun|der|Briefkästen|letterbox; postbox|A2|2|a|home,communication||Der Schlüssel liegt im Briefkasten.|The key is in the letterbox.|||r=Brief;Post
+Klingel|w|noun|die|Klingeln|doorbell|A2|2|a|home||Dein Name steht noch nicht an der Klingel.|Your name isn't on the doorbell yet.|Names on the bell matter for post and deliveries.|r=klingeln
+Paket|w|noun|das|Pakete|parcel; package|A2|2|a|communication,services||Ein Nachbar hat mein Paket angenommen.|A neighbour took in my parcel.||c=ein Paket abholen;ein Paket schicken|r=Päckchen;Post
+Wohnzimmer|w|noun|das|Wohnzimmer|living room|A2|2|a|home||Wir sitzen abends im Wohnzimmer.|In the evening we sit in the living room.|||r=Zimmer
+Schlafzimmer|w|noun|das|Schlafzimmer|bedroom|A1|1|a|home||Das Schlafzimmer ist zum Hof.|The bedroom faces the courtyard.|||r=Zimmer|why=moved earlier by scenario validation (validation-report.md)
+Kinderzimmer|w|noun|das|Kinderzimmer|children's room|A2|2|r|home||Das Kinderzimmer ist sehr hell.|The children's room is very bright.|||r=Zimmer
+Flur|w|noun|der|Flure|hallway; corridor|A2|2|a|home||Die Schuhe stehen im Flur.|The shoes are in the hallway.|||
+Balkon|w|noun|der|Balkone|balcony|A1|1|a|home,housing||Die Wohnung hat einen schönen Balkon.|The flat has a lovely balcony.|Plural also Balkons.||why=moved earlier by scenario validation (validation-report.md)
+Keller|w|noun|der|Keller|cellar; basement|A2|2|a|home,housing||Das Fahrrad steht im Keller.|The bike is in the cellar.|Many flats come with a Kellerraum (storage room).|
+Treppe|w|noun|die|Treppen|stairs; staircase|A1|2|a|home||Bitte nehmen Sie die Treppe.|Please take the stairs.|||r=Treppenhaus
+Erdgeschoss|w|noun|das|Erdgeschosse|ground floor|A2|2|a|housing||Die Praxis ist im Erdgeschoss.|The practice is on the ground floor.|Abbreviation EG. 1. OG = first floor (one up).|r=Stock
+Hof|w|noun|der|Höfe|courtyard; yard; farm|B1|2|r|housing||Die Fahrräder stehen im Hof.|The bikes are in the courtyard.|||
+Wand|w|noun|die|Wände|wall|A2|2|a|home||Darf ich ein Bild an die Wand hängen?|May I hang a picture on the wall?|||
+Boden|w|noun|der|Böden|floor; ground|A2|2|a|home||Die Kinder sitzen auf dem Boden.|The children are sitting on the floor.|||
+Decke|w|noun|die|Decken|ceiling; blanket|B1|2|a|home||Die Decke im Bad ist feucht.|The ceiling in the bathroom is damp.|Also: blanket (Ich brauche eine Decke).|
+Möbel|w|noun|die|Pl|furniture|A1|2|a|home||Die Wohnung ist ohne Möbel.|The flat is unfurnished.|Usually plural. möbliert = furnished.|r=möbliert
+möbliert|w|adj|||furnished|A2|2|a|housing||Wir suchen ein möbliertes Zimmer.|We're looking for a furnished room.|||r=Möbel
+Sofa|w|noun|das|Sofas|sofa|A1|2|a|home||Du kannst auf dem Sofa schlafen.|You can sleep on the sofa.|Also: die Couch.|
+Schrank|w|noun|der|Schränke|cupboard; wardrobe|A1|1|a|home||Die Gläser sind im Schrank.|The glasses are in the cupboard.|||r=Kleiderschrank;Kühlschrank|why=moved earlier by scenario validation (validation-report.md)
+Regal|w|noun|das|Regale|shelf; shelves|A2|2|a|home||Das Buch steht im Regal.|The book is on the shelf.|||
+Lampe|w|noun|die|Lampen|lamp; light|A2|2|a|home||Die Lampe ist kaputt.|The lamp is broken.|||
+Spiegel|w|noun|der|Spiegel|mirror|B1|2|r|home||Im Bad hängt ein großer Spiegel.|There's a big mirror in the bathroom.|||
+Kühlschrank|w|noun|der|Kühlschränke|fridge|A1|2|a|home,food||Die Milch ist im Kühlschrank.|The milk is in the fridge.|||
+Herd|w|noun|der|Herde|cooker; stove|A1|2|a|home||Mach bitte den Herd aus!|Please turn off the cooker!|In Germany rented flats sometimes come without a kitchen (ohne Einbauküche).|r=Einbauküche
+Einbauküche|w|noun|die|Einbauküchen|fitted kitchen|B1|2|a|housing||Die Wohnung hat eine Einbauküche.|The flat has a fitted kitchen.|Not always included in German rentals.||why=Germany: flats can be let without a kitchen
+Waschmaschine|w|noun|die|Waschmaschinen|washing machine|A2|2|a|home||Die Waschmaschine ist im Keller.|The washing machine is in the cellar.|||r=waschen
+Spülmaschine|w|noun|die|Spülmaschinen|dishwasher|A2|2|a|home||Kannst du die Spülmaschine ausräumen?|Can you empty the dishwasher?|Also: Geschirrspüler.|r=spülen
+Wäsche|w|noun|die|∅|laundry; washing|A2|2|a|home||Die Wäsche ist noch nicht trocken.|The washing isn't dry yet.||c=Wäsche waschen|r=waschen
+Geschirr|w|noun|das|∅|dishes; crockery|A2|2|a|home||Wer spült heute das Geschirr?|Who's doing the dishes today?||c=Geschirr spülen|
+aufräumen|w|verb|||to tidy up|A2|2|a|home||Ich muss noch mein Zimmer aufräumen.|I still have to tidy my room.|sep|f=räumt auf, räumte auf, hat aufgeräumt
+spülen|w|verb|||to wash up; to rinse; to flush|A2|2|a|home||Ich spüle, du trocknest ab.|I'll wash up, you dry.||f=spült, spülte, hat gespült|r=Spülmaschine
+Schaden|w|noun|der|Schäden|damage|B1|2|a|housing,bureaucracy||Den Schaden muss die Versicherung bezahlen.|The insurance has to pay for the damage.|||r=beschädigen;Haftpflichtversicherung
+feucht|w|adj|||damp; moist|B1|2|a|housing||Das Bad ist feucht, es gibt Schimmel.|The bathroom is damp, there's mould.|||r=Schimmel
+Schimmel|w|noun|der|∅|mould|B1|2|a|housing||Im Schlafzimmer ist Schimmel an der Wand.|There's mould on the bedroom wall.|Lüften (airing) several times a day helps prevent it.|r=lüften|why=common tenant problem in Germany
+lüften|w|verb|||to air (a room)|B1|2|a|home,housing||Bitte lüften Sie zweimal am Tag.|Please air the flat twice a day.||f=lüftet, lüftete, hat gelüftet|why=Germany: Stoßlüften is expected by landlords
+Lärm|w|noun|der|∅|noise|B1|2|a|housing,home||Der Lärm von der Straße stört mich.|The noise from the street bothers me.|Ruhezeiten = quiet hours (often 22–6 Uhr and Sundays).|r=laut;Ruhezeit
+Ruhe|w|noun|die|∅|quiet; peace; calm|A2|2|a|home,feelings||Ich brauche ein bisschen Ruhe.|I need a bit of peace and quiet.|Lass mich in Ruhe! = Leave me alone!|c=in Ruhe lassen|r=ruhig;Ruhezeit
+stören|w|verb|||to disturb; to bother|A2|2|a|home,social||Entschuldigung, störe ich?|Sorry, am I disturbing you?||f=stört, störte, hat gestört|r=Störung
+Hausordnung|w|noun|die|Hausordnungen|house rules|B1|2|r|housing||Laut Hausordnung ist ab 22 Uhr Ruhe.|According to the house rules it must be quiet from 10 pm.|||why=Germany: buildings have written house rules
+Nachbarschaft|w|noun|die|∅|neighbourhood; the neighbours|B1|2|r|housing,social||Wir haben eine sehr nette Nachbarschaft.|We have very nice neighbours.|||r=Nachbar
+Gegend|w|noun|die|Gegenden|area; region|B1|2|a|housing,places||Ist das eine sichere Gegend?|Is it a safe area?|||
+Lage|w|noun|die|Lagen|location; situation|B1|2|a|housing,places||Die Wohnung hat eine gute Lage.|The flat is in a good location.|||r=liegen
+zentral|w|adj|||central|B1|2|a|housing,places||Die Wohnung liegt sehr zentral.|The flat is very central.|||r=Zentrum
+Quadratmeter|w|noun|der|Quadratmeter|square metre|A2|2|a|housing,numbers||Die Wohnung hat 60 Quadratmeter.|The flat is 60 square metres.|Written m² or qm.|
+Haustier|w|noun|das|Haustiere|pet|A2|2|a|home,housing||Sind Haustiere erlaubt?|Are pets allowed?|||r=Tier
+Katze|w|noun|die|Katzen|cat|A2|2|a|home,nature||Unsere Katze schläft den ganzen Tag.|Our cat sleeps all day.|||
+Tier|w|noun|das|Tiere|animal|A2|2|a|nature||Mögen deine Kinder Tiere?|Do your children like animals?|||r=Haustier
+Zuhause|w|noun|das|∅|home|B1|2|r|home,feelings||Hamburg ist jetzt mein Zuhause.|Hamburg is my home now.|Noun. Adverbial: zu Hause.|r=zu Hause
+Gartenarbeit|w|noun|die|∅|gardening|B1|2|r|home,leisure||Am Wochenende mache ich Gartenarbeit.|At the weekend I do some gardening.|||r=Garten

@@ -1,0 +1,160 @@
+# Tier 3 · gap fill against Goethe B1 (Germany-standard items only; A/CH variants excluded)
+# german|type|pos|article|plural|english|cefr|tier|mode|topics|register|example|example_en|grammar|f=|c=|r=|why=
+Briefumschlag|w|noun|der|Briefumschläge|envelope|B1|3|b|communication||Ich brauche einen Briefumschlag und eine Briefmarke.|I need an envelope and a stamp.|Also: das Kuvert.|r=Brief
+Einschreiben|w|noun|das|Einschreiben|registered letter|B1|3|b|communication,bureaucracy||Die Kündigung schicke ich per Einschreiben.|I'm sending the notice by registered mail.|||why=Germany: used for notices and deadlines
+Briefträger|w|noun|der|Briefträger|postman|B1|3|r|communication,services||Der Briefträger kommt meistens um elf.|The postman usually comes at eleven.|Female: die Briefträgerin.|
+Kopierer|w|noun|der|Kopierer|photocopier|B1|3|r|work,technology||Der Kopierer ist schon wieder kaputt.|The photocopier is broken again.|||r=kopieren
+Ordner|w|noun|der|Ordner|folder; file; binder|B1|3|b|work,technology||Die Rechnungen sind im blauen Ordner.|The bills are in the blue folder.|||
+Mappe|w|noun|die|Mappen|folder; portfolio|B1|3|r|work,education||Die Unterlagen sind in der Mappe.|The documents are in the folder.|Bewerbungsmappe = application folder.|
+Gebrauchsanweisung|w|noun|die|Gebrauchsanweisungen|instructions for use|B1|3|b|shopping,technology||Lesen Sie zuerst die Gebrauchsanweisung.|Read the instructions first.|||r=Anleitung
+Visitenkarte|w|noun|die|Visitenkarten|business card|B1|3|r|work||Hier ist meine Visitenkarte.|Here's my business card.|||
+Terminkalender|w|noun|der|Terminkalender|diary; appointment book|B1|3|r|appointments,work||Ich trage den Termin in meinen Terminkalender ein.|I'll put the appointment in my diary.|||r=Kalender
+Rufnummer|w|noun|die|Rufnummern|telephone number|B1|3|r|communication|formal|Die Rufnummer lautet 030 123456.|The number is 030 123456.|Formal for Telefonnummer.|r=Telefonnummer
+Anrufbeantworter|w|noun|der|Anrufbeantworter|answering machine|B1|3|r|communication||Sprechen Sie auf den Anrufbeantworter.|Leave a message on the answering machine.|||r=Mailbox
+Bankleitzahl|w|noun|die|Bankleitzahlen|bank sort code|B1|3|r|money||Die Bankleitzahl ist in der IBAN enthalten.|The sort code is contained in the IBAN.|||r=IBAN
+Zinsen|w|noun|die|Pl|interest (on money)|B1|3|r|money||Für das Konto bekommt man kaum Zinsen.|You hardly get any interest on the account.|||
+Einzahlung|w|noun|die|Einzahlungen|deposit (payment in)|B1|3|r|money||Ich möchte eine Einzahlung machen.|I'd like to make a deposit.|||r=einzahlen
+einzahlen|w|verb|||to pay in; to deposit|B1|3|r|money||Ich zahle das Geld am Automaten ein.|I'm paying the money in at the machine.|sep|f=zahlt ein, zahlte ein, hat eingezahlt
+Mehrwertsteuer|w|noun|die|∅|VAT|B1|3|r|money,shopping||Die Preise sind inklusive Mehrwertsteuer.|Prices include VAT.|Abbreviation MwSt.|
+Sonderangebot|w|noun|das|Sonderangebote|special offer|B1|3|b|shopping||Die Butter ist im Sonderangebot.|The butter is on special offer.|||r=Angebot
+Schaufenster|w|noun|das|Schaufenster|shop window|B1|3|r|shopping,city||Die Jacke im Schaufenster gefällt mir.|I like the jacket in the shop window.|||
+Buchhandlung|w|noun|die|Buchhandlungen|bookshop|B1|3|r|shopping||In der Buchhandlung kann man Bücher bestellen.|You can order books at the bookshop.|||
+Umtausch|w|noun|der|∅|exchange (of goods)|B1|3|r|shopping||Umtausch nur mit Kassenbon.|Exchange only with receipt.|||r=umtauschen
+Nichtraucher|w|noun|der|Nichtraucher|non-smoker|B1|3|r|everyday,health||Ich bin Nichtraucher.|I'm a non-smoker.|Female: die Nichtraucherin.|r=Raucher
+Raucher|w|noun|der|Raucher|smoker|B1|3|r|everyday,health||Raucher müssen draußen rauchen.|Smokers have to smoke outside.|Female: die Raucherin.|r=rauchen
+Einbahnstraße|w|noun|die|Einbahnstraßen|one-way street|B1|3|r|transport||Das ist eine Einbahnstraße.|That's a one-way street.|||
+Vorfahrt|w|noun|die|∅|right of way|B1|3|r|transport||Rechts vor links: Wer von rechts kommt, hat Vorfahrt.|Right before left: whoever comes from the right has right of way.|||why=German traffic rule
+Verkehrszeichen|w|noun|das|Verkehrszeichen|traffic sign|B1|3|r|transport||Achten Sie auf die Verkehrszeichen.|Pay attention to the traffic signs.|||
+Bremse|w|noun|die|Bremsen|brake|B1|3|r|transport||Die Bremsen am Fahrrad funktionieren nicht.|The brakes on the bike don't work.|||r=bremsen
+bremsen|w|verb|||to brake|B1|3|r|transport||Der Fahrer musste stark bremsen.|The driver had to brake hard.||f=bremst, bremste, hat gebremst
+anschnallen|c|verb|||to fasten one's seatbelt|B1|3|r|transport||Bitte schnallen Sie sich an.|Please fasten your seatbelt.|refl;sep|f=schnallt sich an, schnallte sich an, hat sich angeschnallt
+überholen|w|verb|||to overtake|B1|3|r|transport||Hier darf man nicht überholen.|No overtaking here.|insep|f=überholt, überholte, hat überholt
+überqueren|w|verb|||to cross|B1|3|r|transport||Überqueren Sie die Straße an der Ampel.|Cross the road at the lights.|insep|f=überquert, überquerte, hat überquert
+Rückfahrt|w|noun|die|Rückfahrten|return journey|B1|3|r|transport,travel||Die Rückfahrt dauert länger.|The return journey takes longer.|||r=Hinfahrt
+Hinfahrt|w|noun|die|Hinfahrten|outward journey|B1|3|r|transport,travel||Für die Hinfahrt brauchen wir drei Stunden.|The journey there takes us three hours.|||r=Rückfahrt
+Speisewagen|w|noun|der|Speisewagen|dining car|B1|3|r|transport,food||Der Speisewagen ist in der Mitte des Zuges.|The dining car is in the middle of the train.|In ICE trains: Bordbistro / Bordrestaurant.|
+Eisenbahn|w|noun|die|Eisenbahnen|railway|B1|3|r|transport||Die Eisenbahn verbindet die beiden Städte.|The railway connects the two cities.|||r=Bahn
+Treffpunkt|w|noun|der|Treffpunkte|meeting point|B1|3|b|social,travel||Unser Treffpunkt ist am Haupteingang.|Our meeting point is at the main entrance.|||
+Souvenir|w|noun|das|Souvenirs|souvenir|B1|3|r|travel,shopping||Ich bringe dir ein Souvenir mit.|I'll bring you a souvenir.|||
+Heimweh|w|noun|das|∅|homesickness|B1|3|b|feelings,travel||Am Anfang hatte ich oft Heimweh.|At first I was often homesick.|||why=common feeling for people living abroad
+Dialekt|w|noun|der|Dialekte|dialect|B1|3|b|communication,society||In Bayern spricht man Dialekt.|In Bavaria people speak dialect.|||
+Zweitsprache|w|noun|die|Zweitsprachen|second language|B1|3|r|communication,education||Deutsch ist meine Zweitsprache.|German is my second language.|||r=Fremdsprache;Muttersprache
+Muttersprache|w|noun|die|Muttersprachen|native language; mother tongue|A2|3|b|communication||Meine Muttersprache ist Polnisch.|My native language is Polish.|||
+Fremdsprache|w|noun|die|Fremdsprachen|foreign language|A2|3|b|communication,education||Welche Fremdsprachen sprechen Sie?|Which foreign languages do you speak?|||
+Wörterbuch|w|noun|das|Wörterbücher|dictionary|A2|3|b|education||Schau im Wörterbuch nach.|Look it up in the dictionary.|||r=nachschlagen
+nachschlagen|w|verb|||to look up|B1|3|r|education||Ich schlage das Wort im Wörterbuch nach.|I'll look the word up in the dictionary.|irreg;sep|f=schlägt nach, schlug nach, hat nachgeschlagen
+Alphabet|w|noun|das|∅|alphabet|B1|3|r|education||Das deutsche Alphabet hat 26 Buchstaben und Umlaute.|The German alphabet has 26 letters plus umlauts.|||
+Überschrift|w|noun|die|Überschriften|heading; headline|B1|3|r|education,media||Lesen Sie die Überschrift.|Read the heading.|||
+Abschnitt|w|noun|der|Abschnitte|section; paragraph|B1|3|r|education,bureaucracy||Lesen Sie den zweiten Abschnitt.|Read the second section.|||
+Zeile|w|noun|die|Zeilen|line (of text)|B1|3|r|education||Schreiben Sie in die erste Zeile Ihren Namen.|Write your name on the first line.|||
+Referat|w|noun|das|Referate|presentation (at school/university)|B1|3|r|education||Ich halte morgen ein Referat.|I'm giving a presentation tomorrow.|||
+Berufsschule|w|noun|die|Berufsschulen|vocational school|B1|3|r|education,work||Zweimal pro Woche gehe ich in die Berufsschule.|I go to vocational school twice a week.|Part of the dual Ausbildung system.||why=Germany: dual training system
+Azubi|w|noun|der|Azubis|trainee; apprentice|B1|3|b|work,education|spoken|Wir suchen einen Azubi für nächstes Jahr.|We're looking for an apprentice for next year.|Short for Auszubildende(r).|r=Ausbildung
+Lehrstelle|w|noun|die|Lehrstellen|apprenticeship (place)|B1|3|r|work,education||Er sucht eine Lehrstelle als Mechatroniker.|He's looking for an apprenticeship as a mechatronics technician.|||r=Ausbildung
+Praktikant|w|noun|der|Praktikanten|intern|B1|3|r|work||Die Praktikantin hilft im Büro.|The intern helps out in the office.|n-declension. Female: die Praktikantin.|r=Praktikum
+Gymnasium|w|noun|das|Gymnasien|grammar school; academic secondary school|B1|3|r|education||Meine Tochter geht aufs Gymnasium.|My daughter goes to grammar school.|Ends with Abitur.||why=Germany: school system
+Abitur|w|noun|das|∅|school-leaving exam (A levels)|B1|3|r|education||Nach dem Abitur möchte ich studieren.|After my A levels I'd like to go to university.|Spoken: das Abi.|
+Nachhilfe|w|noun|die|∅|private tutoring|B1|3|r|education||Mein Sohn bekommt Nachhilfe in Mathe.|My son gets tutoring in maths.|||
+Klassenarbeit|w|noun|die|Klassenarbeiten|class test|B1|3|r|education||Morgen schreiben wir eine Klassenarbeit.|We have a class test tomorrow.|||
+Mensa|w|noun|die|Mensen|university canteen|B1|3|r|education,food||Wir essen mittags in der Mensa.|We eat in the canteen at lunchtime.|||
+Semester|w|noun|das|Semester|semester; term|B1|3|r|education||Ich bin im dritten Semester.|I'm in my third semester.|||
+Seminar|w|noun|das|Seminare|seminar|B1|3|r|education,work||Das Seminar ist am Donnerstag.|The seminar is on Thursday.|||
+Diplom|w|noun|das|Diplome|diploma; degree|B1|3|r|education||Sie hat ein Diplom in Informatik.|She has a degree in computer science.|||
+Zertifikat|w|noun|das|Zertifikate|certificate|B1|3|r|education,work||Nach dem Kurs bekommen Sie ein Zertifikat.|You'll get a certificate after the course.|||
+Intensivkurs|w|noun|der|Intensivkurse|intensive course|B1|3|r|education||Im Sommer mache ich einen Intensivkurs Deutsch.|In summer I'm doing an intensive German course.|||r=Kurs
+Kursleiter|w|noun|der|Kursleiter|course instructor|B1|3|r|education||Die Kursleiterin ist sehr nett.|The course instructor is very nice.|Female: die Kursleiterin.|
+Lexikon|w|noun|das|Lexika|encyclopaedia|B1|3|r|education||Das steht im Lexikon.|It's in the encyclopaedia.|||
+Altenheim|w|noun|das|Altenheime|old people's home|B1|3|r|society,family||Meine Oma wohnt im Altenheim.|My grandma lives in an old people's home.|Also: Seniorenheim, Pflegeheim.|
+Senioren|w|noun|die|Pl|senior citizens|B1|3|r|society||Das Angebot ist für Senioren.|The offer is for senior citizens.|||r=Rentner
+Sozialarbeiter|w|noun|der|Sozialarbeiter|social worker|B1|3|r|work,society||Die Sozialarbeiterin hilft Familien.|The social worker helps families.|Female: die Sozialarbeiterin.|
+Architekt|w|noun|der|Architekten|architect|B1|3|r|work||Mein Bruder ist Architekt.|My brother is an architect.|n-declension. Female: die Architektin.|
+Ingenieur|w|noun|der|Ingenieure|engineer|B1|3|r|work||Sie arbeitet als Ingenieurin bei Bosch.|She works as an engineer at Bosch.|Female: die Ingenieurin.|
+Mechaniker|w|noun|der|Mechaniker|mechanic|B1|3|r|work,transport||Der Mechaniker repariert das Auto.|The mechanic is repairing the car.|||
+Krankenschwester|w|noun|die|Krankenschwestern|nurse|B1|3|r|work,healthcare||Die Krankenschwester misst Fieber.|The nurse is taking a temperature.|Older term; officially Pflegefachfrau/-mann.|r=Krankenpfleger
+Sekretär|w|noun|der|Sekretäre|secretary|B1|3|r|work||Die Sekretärin vereinbart die Termine.|The secretary arranges the appointments.|Female: die Sekretärin.|
+Wissenschaftler|w|noun|der|Wissenschaftler|scientist|B1|3|r|work,education||Die Wissenschaftler haben ein neues Medikament entwickelt.|The scientists have developed a new medicine.|||
+Künstler|w|noun|der|Künstler|artist|B1|3|r|leisure,work||Der Künstler stellt im Museum aus.|The artist is exhibiting at the museum.|||r=Kunst
+Kunst|w|noun|die|Künste|art|A2|3|b|leisure,education||Ich interessiere mich für moderne Kunst.|I'm interested in modern art.|||
+Musiker|w|noun|der|Musiker|musician|B1|3|r|leisure,work||Er ist Musiker in einer Band.|He's a musician in a band.|||
+Band|w|noun|die|Bands|band (music)|A2|3|r|leisure||Die Band spielt heute Abend im Club.|The band is playing at the club tonight.|das Band = ribbon/tape; der Band = volume (book).|
+Sänger|w|noun|der|Sänger|singer|B1|3|r|leisure||Die Sängerin hat eine tolle Stimme.|The singer has a great voice.|||
+Schauspieler|w|noun|der|Schauspieler|actor|B1|3|r|leisure,media||Der Schauspieler ist sehr bekannt.|The actor is very famous.|Female: die Schauspielerin.|
+Publikum|w|noun|das|∅|audience|B1|3|r|leisure||Das Publikum war begeistert.|The audience was thrilled.|||
+Bühne|w|noun|die|Bühnen|stage|B1|3|r|leisure||Die Band steht schon auf der Bühne.|The band is already on stage.|||
+Oper|w|noun|die|Opern|opera|B1|3|r|leisure||Wir gehen heute in die Oper.|We're going to the opera tonight.|||
+Krimi|w|noun|der|Krimis|crime novel; detective story|B1|3|r|leisure,media||Sonntagabend schaue ich den Tatort-Krimi.|On Sunday evening I watch the Tatort crime series.|||why=Germany: Tatort is a Sunday tradition
+Roman|w|noun|der|Romane|novel|B1|3|r|leisure||Ich lese gerade einen spannenden Roman.|I'm reading an exciting novel.|||
+Märchen|w|noun|das|Märchen|fairy tale|B1|3|r|leisure||Die Kinder hören gern Märchen.|The children like listening to fairy tales.|||
+Gedicht|w|noun|das|Gedichte|poem|B1|3|r|leisure,education||Sie schreibt Gedichte.|She writes poems.|||
+Literatur|w|noun|die|∅|literature|B1|3|r|leisure,education||Er studiert deutsche Literatur.|He studies German literature.|||
+Galerie|w|noun|die|Galerien|gallery|B1|3|r|leisure||In der Galerie gibt es eine neue Ausstellung.|There's a new exhibition at the gallery.|||
+Stadion|w|noun|das|Stadien|stadium|B1|3|r|leisure||Das Stadion war voll.|The stadium was full.|||
+Sportart|w|noun|die|Sportarten|(type of) sport|B1|3|r|leisure||Welche Sportart machst du?|Which sport do you do?|||
+Mountainbike|w|noun|das|Mountainbikes|mountain bike|B1|3|r|leisure,transport||Am Wochenende fahre ich Mountainbike.|At the weekend I go mountain biking.|||
+Hallenbad|w|noun|das|Hallenbäder|indoor swimming pool|B1|3|r|leisure||Im Winter gehen wir ins Hallenbad.|In winter we go to the indoor pool.|||r=Freibad;Schwimmbad
+Freibad|w|noun|das|Freibäder|outdoor swimming pool|B1|3|r|leisure||Im Sommer ist das Freibad voll.|In summer the outdoor pool is full.|||r=Hallenbad
+Terrasse|w|noun|die|Terrassen|terrace; patio|B1|3|r|home,food||Wir sitzen draußen auf der Terrasse.|We're sitting outside on the terrace.|||
+Picknick|w|noun|das|Picknicks|picnic|B1|3|r|leisure,food||Am Sonntag machen wir ein Picknick im Park.|On Sunday we're having a picnic in the park.|||
+Grill|w|noun|der|Grills|grill; barbecue|B1|3|r|food,leisure||Der Grill steht auf dem Balkon.|The barbecue is on the balcony.|||r=grillen
+Gaststätte|w|noun|die|Gaststätten|restaurant; inn|B1|3|r|food|formal|Die Gaststätte hat montags Ruhetag.|The restaurant is closed on Mondays.|Ruhetag = closing day.|r=Restaurant;Kneipe
+Wirt|w|noun|der|Wirte|landlord (pub); host|B1|3|r|food||Der Wirt kennt alle Gäste.|The landlord knows all the guests.|Female: die Wirtin.|
+Nachspeise|w|noun|die|Nachspeisen|dessert|B1|3|r|food||Als Nachspeise gibt es Eis.|There's ice cream for dessert.|||r=Nachtisch
+Gebäck|w|noun|das|∅|pastries; biscuits|B1|3|r|food||Zum Kaffee gibt es Gebäck.|There are biscuits with the coffee.|||
+Marmelade|w|noun|die|Marmeladen|jam|B1|3|r|food||Brötchen mit Butter und Marmelade.|Rolls with butter and jam.|||
+Hackfleisch|w|noun|das|∅|mince; ground meat|B1|3|r|food||Für die Soße brauche ich Hackfleisch.|I need mince for the sauce.|||
+Schnitzel|w|noun|das|Schnitzel|schnitzel; escalope|B1|3|r|food||Ich nehme das Schnitzel mit Pommes.|I'll have the schnitzel with chips.|||
+Mineralwasser|w|noun|das|Mineralwässer|mineral water|B1|3|r|food||Ein Mineralwasser, bitte – mit Kohlensäure.|A mineral water, please – sparkling.|Mit / ohne Kohlensäure = sparkling / still.|
+Kanne|w|noun|die|Kannen|pot; jug|B1|3|r|food,home||Eine Kanne Kaffee, bitte.|A pot of coffee, please.|||
+Dose|w|noun|die|Dosen|can; tin|B1|3|r|food,shopping||Eine Dose Tomaten, bitte.|A tin of tomatoes, please.|||
+Schüssel|w|noun|die|Schüsseln|bowl|B1|3|r|food,home||Die Schüssel mit dem Salat steht auf dem Tisch.|The bowl of salad is on the table.|||
+Waschmittel|w|noun|das|Waschmittel|washing powder; detergent|B1|3|r|home,shopping||Wir brauchen neues Waschmittel.|We need new washing powder.|||
+Staubsauger|w|noun|der|Staubsauger|vacuum cleaner|B1|3|r|home||Wo ist der Staubsauger?|Where's the vacuum cleaner?|||r=staubsaugen
+staubsaugen|w|verb|||to vacuum; to hoover|B1|3|r|home||Ich muss noch staubsaugen.|I still have to vacuum.|Also separable: Staub saugen.|f=staubsaugt, staubsaugte, hat gestaubsaugt
+abwaschen|w|verb|||to wash up|B1|3|r|home||Wer wäscht heute ab?|Who's washing up today?|irreg;sep|f=wäscht ab, wusch ab, hat abgewaschen|r=spülen
+Zahnbürste|w|noun|die|Zahnbürsten|toothbrush|B1|3|r|home,healthcare||Ich habe meine Zahnbürste vergessen.|I've forgotten my toothbrush.|||
+Taschentuch|w|noun|das|Taschentücher|tissue; handkerchief|B1|3|b|everyday,healthcare||Hast du ein Taschentuch?|Have you got a tissue?|Paper tissues are often called Tempo (brand).|
+Salbe|w|noun|die|Salben|ointment|B1|3|r|healthcare||Tragen Sie die Salbe zweimal täglich auf.|Apply the ointment twice a day.|||
+Schmerzmittel|w|noun|das|Schmerzmittel|painkiller|B1|3|b|healthcare||Haben Sie ein Schmerzmittel?|Do you have a painkiller?|||
+sich erkälten|c|verb|||to catch a cold|B1|3|b|healthcare||Ich habe mich erkältet.|I've caught a cold.|refl;insep|f=erkältet sich, erkältete sich, hat sich erkältet|r=Erkältung;erkältet
+Kranke|w|noun|der|Kranken|sick person; patient|B1|3|r|healthcare||Die Kranken liegen im ersten Stock.|The patients are on the first floor.|Adjectival noun.|r=krank
+Sucht|w|noun|die|Süchte|addiction|B1|3|r|healthcare||Rauchen kann zur Sucht werden.|Smoking can become an addiction.|||r=süchtig
+Vitamin|w|noun|das|Vitamine|vitamin|B1|3|r|healthcare,food||Obst hat viele Vitamine.|Fruit has lots of vitamins.|||
+Frisur|w|noun|die|Frisuren|hairstyle|B1|3|r|people||Du hast eine neue Frisur!|You've got a new hairstyle!|||
+Bart|w|noun|der|Bärte|beard|B1|3|r|people,body||Er hat einen Bart.|He has a beard.|||
+Schmuck|w|noun|der|∅|jewellery|B1|3|r|clothing||Sie trägt keinen Schmuck.|She doesn't wear jewellery.|||
+Ring|w|noun|der|Ringe|ring|A2|3|r|clothing||Sie trägt einen goldenen Ring.|She's wearing a gold ring.|||
+Kette|w|noun|die|Ketten|necklace; chain|A2|3|r|clothing||Die Kette ist ein Geschenk von meiner Oma.|The necklace is a present from my grandma.|||
+Strumpf|w|noun|der|Strümpfe|stocking; sock|B1|3|r|clothing||Die Strümpfe sind im Schrank.|The stockings are in the wardrobe.|||r=Socke
+Leder|w|noun|das|∅|leather|B1|3|r|clothing,shopping||Die Jacke ist aus Leder.|The jacket is made of leather.|||
+Wolle|w|noun|die|∅|wool|B1|3|r|clothing||Der Pullover ist aus Wolle.|The jumper is made of wool.|||
+Stoff|w|noun|der|Stoffe|fabric; material; substance|B1|3|r|clothing||Der Stoff ist sehr weich.|The fabric is very soft.|||
+Metall|w|noun|das|Metalle|metal|B1|3|r|everyday||Der Tisch ist aus Metall.|The table is made of metal.|||
+Holz|w|noun|das|Hölzer|wood|B1|3|r|home,nature||Die Möbel sind aus Holz.|The furniture is made of wood.|||
+Kunststoff|w|noun|der|Kunststoffe|plastic (material)|B1|3|r|everyday||Die Flasche ist aus Kunststoff.|The bottle is made of plastic.|||r=Plastik
+Gold|w|noun|das|∅|gold|B1|3|r|everyday,money||Der Ring ist aus Gold.|The ring is made of gold.|||
+Fleck|w|noun|der|Flecken|stain; spot|B1|3|r|clothing,home||Ich habe einen Fleck auf dem Hemd.|I've got a stain on my shirt.|||
+Schmutz|w|noun|der|∅|dirt|B1|3|r|home||Wo kommt der Schmutz her?|Where's the dirt coming from?|||r=schmutzig
+Staub|w|noun|der|∅|dust|B1|3|r|home||Auf dem Schrank liegt viel Staub.|There's a lot of dust on the wardrobe.|||r=staubsaugen
+Streichholz|w|noun|das|Streichhölzer|match (for lighting)|B1|3|r|home||Hast du Streichhölzer?|Have you got any matches?|||r=Feuerzeug
+Feuerzeug|w|noun|das|Feuerzeuge|lighter|B1|3|r|everyday||Hast du ein Feuerzeug?|Have you got a lighter?|||
+Kerze|w|noun|die|Kerzen|candle|B1|3|r|home||Auf dem Tisch stehen Kerzen.|There are candles on the table.|||
+Vase|w|noun|die|Vasen|vase|B1|3|r|home||Stell die Blumen in die Vase.|Put the flowers in the vase.|||
+Sessel|w|noun|der|Sessel|armchair|B1|3|r|home||Opa sitzt im Sessel.|Grandpa is sitting in the armchair.|||
+Couch|w|noun|die|Couches|couch|B1|3|r|home|spoken|Wir sitzen auf der Couch.|We're sitting on the couch.|||r=Sofa
+Garderobe|w|noun|die|Garderoben|cloakroom; coat rack|B1|3|r|home,leisure||Hängen Sie die Jacke an die Garderobe.|Hang your jacket on the coat rack.|||
+Fernbedienung|w|noun|die|Fernbedienungen|remote control|B1|3|r|home,technology||Wo ist die Fernbedienung?|Where's the remote?|||
+Lautsprecher|w|noun|der|Lautsprecher|loudspeaker|B1|3|r|technology||Die Lautsprecher sind zu laut.|The speakers are too loud.|||
+Monitor|w|noun|der|Monitore|monitor|B1|3|r|technology||Der Monitor bleibt schwarz.|The monitor stays black.|||r=Bildschirm
+Festplatte|w|noun|die|Festplatten|hard drive|B1|3|r|technology||Die Festplatte ist voll.|The hard drive is full.|||
+hochladen|w|verb|||to upload|B1|3|b|technology||Laden Sie das Dokument hier hoch.|Upload the document here.|irreg;sep|f=lädt hoch, lud hoch, hat hochgeladen|r=herunterladen
+googeln|w|verb|||to google|B1|3|r|technology|informal|Ich googel das mal schnell.|I'll google that quickly.||f=googelt, googelte, hat gegoogelt
+mailen|w|verb|||to email|B1|3|r|technology|spoken|Ich maile dir die Datei.|I'll email you the file.||f=mailt, mailte, hat gemailt
+abonnieren|w|verb|||to subscribe|B1|3|r|media,technology||Ich habe den Newsletter abonniert.|I've subscribed to the newsletter.||f=abonniert, abonnierte, hat abonniert|r=Abonnement;Abo
+Abonnement|w|noun|das|Abonnements|subscription|B1|3|r|media,money||Das Abonnement kostet zehn Euro im Monat.|The subscription costs ten euros a month.|Spoken: das Abo.|r=abonnieren
+Wohnsitz|w|noun|der|Wohnsitze|place of residence|B1|3|r|bureaucracy|formal|Ihr Wohnsitz muss in Deutschland sein.|Your place of residence must be in Germany.|Hauptwohnsitz / Nebenwohnsitz.|r=Wohnort
+Personalien|w|noun|die|Pl|personal details|B1|3|r|bureaucracy|formal|Die Polizei hat meine Personalien aufgenommen.|The police took down my personal details.|||
+Urkunde|w|noun|die|Urkunden|certificate (official)|B1|3|r|bureaucracy||Für die Hochzeit braucht man mehrere Urkunden.|You need several certificates for the wedding.|Geburtsurkunde, Heiratsurkunde.|
+Beleg|w|noun|der|Belege|receipt; proof|B1|3|r|money,bureaucracy||Heben Sie alle Belege für die Steuer auf.|Keep all receipts for your taxes.|||r=Quittung
+Konsulat|w|noun|das|Konsulate|consulate|B1|3|r|bureaucracy,travel||Den Pass kann ich beim Konsulat verlängern.|I can renew my passport at the consulate.|||r=Botschaft
+Botschaft|w|noun|die|Botschaften|embassy; message|B1|3|r|bureaucracy,communication||Die polnische Botschaft ist in Berlin.|The Polish embassy is in Berlin.|||
+Notruf|w|noun|der|Notrufe|emergency call; emergency number|B1|3|b|services,healthcare||Der Notruf ist 112.|The emergency number is 112.|||r=Notfall

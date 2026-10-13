@@ -1,0 +1,73 @@
+# Tier 2 · bureaucracy, documents, money & banking (high practical value in Germany, often low frequency)
+# german|type|pos|article|plural|english|cefr|tier|mode|topics|register|example|example_en|grammar|f=|c=|r=|why=
+Amt|w|noun|das|Ämter|(government) office; authority|A2|2|a|bureaucracy||Ich muss morgen zum Amt.|I have to go to the authorities tomorrow.|Bürgeramt, Finanzamt, Jobcenter, Standesamt.|r=Bürgeramt;Finanzamt;Behörde|why=Germany: most procedures go through an Amt
+Bürgeramt|w|noun|das|Bürgerämter|citizens' office; registry office|A2|2|a|bureaucracy||Beim Bürgeramt bekommt man nur mit Termin einen Platz.|At the citizens' office you only get seen with an appointment.|Also Bürgerbüro, Einwohnermeldeamt (older).|r=Amt;Anmeldung|why=Germany-essential: address registration
+Behörde|w|noun|die|Behörden|authority; public agency|B1|2|a|bureaucracy|formal|Die Behörde schickt Ihnen einen Bescheid.|The authority will send you an official decision.|||r=Amt;Ausländerbehörde
+Ausländerbehörde|w|noun|die|Ausländerbehörden|immigration office|B1|2|a|bureaucracy||Für die Verlängerung muss ich zur Ausländerbehörde.|I have to go to the immigration office for the extension.|||r=Aufenthaltstitel|why=Germany-essential for non-EU residents
+anmelden|w|verb|||to register; to sign up|A2|2|a|bureaucracy,education||Sie müssen sich innerhalb von zwei Wochen anmelden.|You must register within two weeks.|sep;sich anmelden = register oneself (address, course).|f=meldet an, meldete an, hat angemeldet|c=sich beim Bürgeramt anmelden;sich für einen Kurs anmelden|r=Anmeldung;abmelden;ummelden
+abmelden|w|verb|||to deregister; to cancel registration|B1|2|a|bureaucracy||Vor dem Umzug ins Ausland müssen Sie sich abmelden.|Before moving abroad you have to deregister.|sep|f=meldet ab, meldete ab, hat abgemeldet|r=anmelden
+Meldebescheinigung|w|noun|die|Meldebescheinigungen|certificate of registration|B1|2|a|bureaucracy||Für das Konto brauche ich eine Meldebescheinigung.|I need a registration certificate for the account.|||r=Anmeldung;Bescheinigung|why=Germany: needed for bank, tax ID, contracts
+Bescheinigung|w|noun|die|Bescheinigungen|certificate; confirmation (document)|B1|2|a|bureaucracy,work||Können Sie mir eine Bescheinigung ausstellen?|Could you issue me a certificate?|||c=eine Bescheinigung ausstellen
+Bescheid|w|noun|der|Bescheide|official notice/decision; information|A2|2|a|bureaucracy||Der Bescheid kommt in drei Wochen.|The official decision will come in three weeks.|Bescheid sagen = let someone know (spoken).|c=Bescheid sagen;Bescheid wissen|why=key word in official letters
+Antrag|w|noun|der|Anträge|application (form)|B1|2|a|bureaucracy||Den Antrag können Sie auch online stellen.|You can also submit the application online.||c=einen Antrag stellen|r=beantragen
+beantragen|w|verb|||to apply for|B1|2|a|bureaucracy||Ich möchte einen neuen Pass beantragen.|I'd like to apply for a new passport.|insep|f=beantragt, beantragte, hat beantragt|r=Antrag
+Unterlagen|w|noun|die|Pl|documents; paperwork|B1|2|a|bureaucracy,work||Bitte bringen Sie alle Unterlagen mit.|Please bring all your documents.|Plural only.|r=Dokument
+Dokument|w|noun|das|Dokumente|document|B1|2|a|bureaucracy||Welche Dokumente brauche ich?|Which documents do I need?|||r=Unterlagen
+Kopie|w|noun|die|Kopien|copy|A2|2|a|bureaucracy||Bringen Sie bitte eine Kopie Ihres Passes mit.|Please bring a copy of your passport.|||r=kopieren
+Original|w|noun|das|Originale|original|B1|2|r|bureaucracy||Das Original müssen Sie vorlegen.|You have to present the original.|||
+Frist|w|noun|die|Fristen|deadline; time limit|B1|2|a|bureaucracy,work||Die Frist endet am 30. Juni.|The deadline is 30 June.|||c=eine Frist einhalten|why=key word in official letters
+gültig|w|adj|||valid|A1|2|a|bureaucracy,travel||Ihr Ausweis ist nicht mehr gültig.|Your ID card is no longer valid.|||r=ungültig
+abgelaufen|w|adj|||expired|B1|2|a|bureaucracy||Mein Pass ist abgelaufen.|My passport has expired.|||r=ablaufen
+verlängern|w|verb|||to extend; to renew|B1|2|a|bureaucracy||Ich muss mein Visum verlängern.|I have to extend my visa.|insep|f=verlängert, verlängerte, hat verlängert|r=Verlängerung
+Visum|w|noun|das|Visa|visa|B1|2|a|bureaucracy,travel||Brauche ich ein Visum für Deutschland?|Do I need a visa for Germany?|||
+Aufenthaltstitel|w|noun|der|Aufenthaltstitel|residence permit|B1|2|a|bureaucracy||Mein Aufenthaltstitel gilt noch zwei Jahre.|My residence permit is valid for two more years.|Also: Aufenthaltserlaubnis.|r=Ausländerbehörde|why=Germany-essential for non-EU residents
+Staatsangehörigkeit|w|noun|die|Staatsangehörigkeiten|nationality; citizenship|B1|2|a|bureaucracy||Welche Staatsangehörigkeit haben Sie?|What's your nationality?|On forms. In speech: Nationalität.|r=Nationalität
+Geburtsdatum|w|noun|das|Geburtsdaten|date of birth|A1|2|a|bureaucracy||Bitte tragen Sie Ihr Geburtsdatum ein.|Please enter your date of birth.|||r=geboren
+Geburtsort|w|noun|der|Geburtsorte|place of birth|A1|2|a|bureaucracy||Geburtsort: Warschau.|Place of birth: Warsaw.|||r=geboren
+Familienstand|w|noun|der|∅|marital status|A1|2|a|bureaucracy||Familienstand: verheiratet.|Marital status: married.|On forms: ledig, verheiratet, geschieden, verwitwet.|r=ledig;verheiratet
+Postleitzahl|w|noun|die|Postleitzahlen|postcode; ZIP code|A1|2|a|bureaucracy,communication||Wie ist die Postleitzahl?|What's the postcode?|Abbreviation PLZ.|
+Wohnort|w|noun|der|Wohnorte|place of residence|A1|2|a|bureaucracy||Name, Alter und Wohnort, bitte.|Name, age and place of residence, please.|||
+eintragen|w|verb|||to enter; to fill in|A2|2|a|bureaucracy||Tragen Sie hier Ihre Adresse ein.|Enter your address here.|irreg;sep|f=trägt ein, trug ein, hat eingetragen
+ankreuzen|w|verb|||to tick; to mark with a cross|A1|2|a|bureaucracy,education||Bitte kreuzen Sie das Richtige an.|Please tick the right answer.|sep|f=kreuzt an, kreuzte an, hat angekreuzt
+schriftlich|w|adj|||in writing; written|A2|2|a|bureaucracy||Bitte bestätigen Sie das schriftlich.|Please confirm that in writing.|||r=mündlich
+bestätigen|w|verb|||to confirm|A2|2|a|bureaucracy,communication||Können Sie mir den Termin bestätigen?|Can you confirm the appointment?|insep|f=bestätigt, bestätigte, hat bestätigt|r=Bestätigung
+Bestätigung|w|noun|die|Bestätigungen|confirmation|B1|2|a|bureaucracy,communication||Sie bekommen eine Bestätigung per E-Mail.|You'll get a confirmation by email.|||r=bestätigen
+Wartenummer|w|noun|die|Wartenummern|queue number; ticket number|A2|2|r|bureaucracy,services||Ziehen Sie bitte eine Wartenummer.|Please take a number.|||r=warten
+zuständig|w|adj|||responsible; in charge|B1|2|a|bureaucracy,work||Wer ist dafür zuständig?|Who is responsible for that?|zuständig für + Akk.|why=key question in German offices
+Auskunft|w|noun|die|Auskünfte|information; enquiries|A1|2|a|bureaucracy,services||Wo bekomme ich Auskunft?|Where can I get information?|||
+Sehr geehrte Damen und Herren|f|phrase|||Dear Sir or Madam|A2|2|a|bureaucracy,communication|formal,written|Sehr geehrte Damen und Herren, ich schreibe Ihnen wegen ...|Dear Sir or Madam, I'm writing to you about ...|Formal letter opening; Sehr geehrte Frau Weber / Sehr geehrter Herr Weber.|
+Mit freundlichen Grüßen|f|phrase|||kind regards; yours sincerely|A2|2|a|bureaucracy,communication|formal,written|Vielen Dank im Voraus. Mit freundlichen Grüßen, Anna Nowak.|Thank you in advance. Kind regards, Anna Nowak.|Standard formal closing. Less formal: Viele Grüße.|r=Viele Grüße
+Viele Grüße|f|phrase|||best wishes; regards|A1|2|a|communication|written|Viele Grüße aus Berlin!|Best wishes from Berlin!|Informal: Liebe Grüße (LG).|r=Liebe Grüße
+Steuer|w|noun|die|Steuern|tax|B1|2|a|money,bureaucracy||Von meinem Gehalt gehen viele Steuern ab.|A lot of tax comes off my salary.|Steuererklärung = tax return; Steuer-ID = tax number.|r=Steuererklärung;Finanzamt
+Steuererklärung|w|noun|die|Steuererklärungen|tax return|B1|2|a|money,bureaucracy||Hast du deine Steuererklärung schon gemacht?|Have you done your tax return yet?|||r=Steuer|why=Germany: many employees get money back by filing
+Finanzamt|w|noun|das|Finanzämter|tax office|B1|2|a|money,bureaucracy||Das Finanzamt hat mir einen Brief geschickt.|The tax office sent me a letter.|||r=Steuer
+Rundfunkbeitrag|w|noun|der|Rundfunkbeiträge|broadcasting fee (TV licence)|B1|2|r|money,bureaucracy,media||Den Rundfunkbeitrag zahlt jeder Haushalt.|Every household pays the broadcasting fee.|Often still called GEZ.||why=Germany: compulsory per-household fee, frequent first letter after moving
+Versicherung|w|noun|die|Versicherungen|insurance|A2|2|a|money,bureaucracy||Die Versicherung bezahlt den Schaden.|The insurance pays for the damage.|Haftpflichtversicherung = personal liability insurance (very common in Germany).|r=versichern;Krankenversicherung;Haftpflichtversicherung
+versichert|w|adj|||insured|A2|2|a|healthcare,bureaucracy||Ich bin bei der TK versichert.|I'm insured with TK.|||r=Versicherung;Krankenkasse
+Konto|w|noun|das|Konten|(bank) account|A1|2|a|money||Ich möchte ein Konto eröffnen.|I'd like to open an account.||c=ein Konto eröffnen;Geld aufs Konto überweisen|r=Girokonto;Bank
+IBAN|w|noun|die|IBANs|IBAN (bank account number)|A2|2|a|money||Können Sie mir Ihre IBAN schicken?|Can you send me your IBAN?|||r=Konto
+überweisen|w|verb|||to transfer (money)|A1|2|a|money||Ich überweise dir das Geld morgen.|I'll transfer you the money tomorrow.|irreg;insep|f=überweist, überwies, hat überwiesen|r=Überweisung
+Überweisung|w|noun|die|Überweisungen|bank transfer; (medical) referral|A2|2|a|money,healthcare||Die Überweisung dauert ein bis zwei Tage.|The transfer takes one or two days.|At the doctor's: a referral to a specialist.|r=überweisen|why=two everyday meanings in Germany (bank, doctor)
+Lastschrift|w|noun|die|Lastschriften|direct debit|B1|2|r|money||Die Miete wird per Lastschrift abgebucht.|The rent is collected by direct debit.|||r=abbuchen
+abheben|w|verb|||to withdraw (money)|A2|2|a|money||Ich muss noch Geld abheben.|I still need to withdraw some money.|irreg;sep|f=hebt ab, hob ab, hat abgehoben|c=Geld abheben
+Geldautomat|w|noun|der|Geldautomaten|cash machine; ATM|A2|2|a|money,services||Gibt es hier einen Geldautomaten?|Is there a cash machine around here?|n-declension.|r=Automat
+Bargeld|w|noun|das|∅|cash|A2|2|a|money||Hast du Bargeld dabei?|Do you have any cash on you?|||r=bar
+Kreditkarte|w|noun|die|Kreditkarten|credit card|A2|2|a|money,shopping||Kann ich mit Kreditkarte zahlen?|Can I pay by credit card?|Many places in Germany accept only debit (EC/Girocard) or cash.|r=Karte;EC-Karte
+EC-Karte|w|noun|die|EC-Karten|debit card (Girocard)|A2|2|a|money,shopping|spoken|Zahlen Sie mit EC-Karte?|Are you paying by debit card?|Officially Girocard; everybody says EC-Karte.||why=Germany-specific payment term
+Gebühr|w|noun|die|Gebühren|fee; charge|B1|2|a|money,bureaucracy||Für den Pass gibt es eine Gebühr von 70 Euro.|There's a 70-euro fee for the passport.|||r=kostenlos
+kostenlos|w|adj|||free (of charge)|A2|2|a|money,shopping||Der Eintritt ist kostenlos.|Admission is free.|Also: gratis, umsonst.|r=umsonst;gratis
+umsonst|w|adv|||for free; in vain|B1|2|a|money|spoken|Der Kaffee ist heute umsonst.|The coffee's free today.|Also 'in vain': Ich bin umsonst gekommen.|r=kostenlos
+sparen|w|verb|||to save (money)|A2|2|a|money||Wir sparen für den Urlaub.|We're saving for the holiday.||f=spart, sparte, hat gespart
+ausgeben|w|verb|||to spend (money)|A2|2|a|money,shopping||Wie viel gibst du im Monat für Essen aus?|How much do you spend on food a month?|irreg;sep|f=gibt aus, gab aus, hat ausgegeben|c=Geld ausgeben
+verdienen|w|verb|||to earn; to deserve|A1|2|a|money,work||Er verdient nicht schlecht.|He earns quite well.|insep|f=verdient, verdiente, hat verdient|r=Verdienst
+Kosten|w|noun|die|Pl|costs; expenses|A2|2|a|money||Die Kosten übernimmt die Firma.|The company covers the costs.|Plural only.|r=kosten;Nebenkosten
+Betrag|w|noun|der|Beträge|amount (of money)|B1|2|a|money,bureaucracy|written|Bitte überweisen Sie den Betrag bis zum 15.|Please transfer the amount by the 15th.|||
+Quittung|w|noun|die|Quittungen|receipt|A2|2|a|shopping,money||Kann ich bitte eine Quittung bekommen?|Can I get a receipt, please?|In shops usually der Kassenbon / Kassenzettel.|r=Kassenbon
+Kassenbon|w|noun|der|Kassenbons|receipt (till)|A2|2|a|shopping||Ohne Kassenbon können wir das nicht umtauschen.|We can't exchange it without a receipt.|||r=Quittung
+Schulden|w|noun|die|Pl|debts|B1|2|r|money||Er hat viele Schulden.|He's got a lot of debt.|Plural only in this sense.|
+leihen|w|verb|||to lend; to borrow|A2|2|a|money,everyday||Kannst du mir zehn Euro leihen?|Can you lend me ten euros?|irreg;jemandem etwas leihen = lend; sich etwas leihen = borrow.|f=leiht, lieh, hat geliehen|r=ausleihen
+Vertrag|w|noun|der|Verträge|contract|A2|2|a|work,housing,bureaucracy||Der Vertrag läuft zwei Jahre.|The contract runs for two years.||c=einen Vertrag unterschreiben;einen Vertrag kündigen|r=Mietvertrag;Arbeitsvertrag;Handyvertrag
+Kundenservice|w|noun|der|∅|customer service|B1|2|a|services||Ich habe beim Kundenservice angerufen.|I called customer service.|||r=Kunde;Hotline
+Beschwerde|w|noun|die|Beschwerden|complaint|B1|2|a|services,shopping||Ich möchte eine Beschwerde einreichen.|I'd like to make a complaint.|Plural Beschwerden also = symptoms (at the doctor's).|r=sich beschweren
+sich beschweren|c|verb|||to complain|A2|2|a|services,shopping||Ich möchte mich beschweren.|I'd like to make a complaint.|refl;sich beschweren über + Akk / bei + Dat.|f=beschwert sich, beschwerte sich, hat sich beschwert|r=Beschwerde
+Mahnung|w|noun|die|Mahnungen|reminder (for an unpaid bill)|B1|2|r|money,bureaucracy||Ich habe eine Mahnung bekommen, weil ich vergessen habe zu zahlen.|I got a payment reminder because I forgot to pay.|||why=common official letter

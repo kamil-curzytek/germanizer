@@ -1,0 +1,55 @@
+# Tier 1 · gap fill after checking against Goethe A1 + A1 scenarios
+# german|type|pos|article|plural|english|cefr|tier|mode|topics|register|example|example_en|grammar|f=|c=|r=|why=
+Abfahrt|w|noun|die|Abfahrten|departure|A1|1|a|transport,travel||Die Abfahrt ist um 7:15 Uhr.|Departure is at 7:15.||r=abfahren|why=on every timetable and station display
+Ankunft|w|noun|die|Ankünfte|arrival|A1|1|a|transport,travel||Nach der Ankunft rufe ich dich an.|I'll call you after I arrive.||r=ankommen|why=on every timetable and station display
+Eingang|w|noun|der|Eingänge|entrance|A1|1|a|places,city||Wir treffen uns am Eingang.|We'll meet at the entrance.||r=Ausgang;einsteigen|why=signs and directions
+Ausgang|w|noun|der|Ausgänge|exit|A1|1|a|places,transport||Wo ist der Ausgang?|Where's the exit?||r=Eingang;Notausgang|why=signs and directions
+Aufzug|w|noun|der|Aufzüge|lift; elevator|A1|1|a|housing,places||Der Aufzug ist leider kaputt.|Unfortunately the lift is broken.|Also: der Fahrstuhl.|r=Fahrstuhl
+Anruf|w|noun|der|Anrufe|(phone) call|A1|1|a|communication||Danke für Ihren Anruf.|Thank you for your call.||r=anrufen
+Fehler|w|noun|der|Fehler|mistake; error|A1|1|a|everyday,education||Das war mein Fehler, entschuldige.|That was my mistake, sorry.||c=einen Fehler machen|r=fehlen
+Reise|w|noun|die|Reisen|journey; trip|A1|1|a|travel||Gute Reise!|Have a good trip!||c=eine Reise machen|r=reisen;Reisebüro
+Flugzeug|w|noun|das|Flugzeuge|aeroplane|A1|1|a|travel,transport||Das Flugzeug landet um zehn.|The plane lands at ten.||r=fliegen;Flug
+Ausland|w|noun|das|∅|abroad; foreign countries|A1|1|a|travel,places||Mein Bruder arbeitet im Ausland.|My brother works abroad.|im Ausland = abroad (location), ins Ausland = abroad (direction).|r=Ausländer;ausländisch
+Garten|w|noun|der|Gärten|garden; yard|A1|1|a|home||Die Kinder spielen im Garten.|The children are playing in the garden.|||r=Kleingarten
+Hund|w|noun|der|Hunde|dog|A1|1|a|home,nature||Darf man hier mit dem Hund rein?|Are dogs allowed in here?|||r=Katze
+Geschenk|w|noun|das|Geschenke|present; gift|A1|1|a|social||Ich brauche noch ein Geschenk für meine Mutter.|I still need a present for my mother.||r=schenken
+Einladung|w|noun|die|Einladungen|invitation|A1|1|a|social||Danke für die Einladung!|Thanks for the invitation!||r=einladen
+Kurs|w|noun|der|Kurse|course; class|A1|1|a|education||Ich mache einen Kurs an der Volkshochschule.|I'm doing a course at the adult education centre.|||r=Deutschkurs;Integrationskurs
+Lehrer|w|noun|der|Lehrer|teacher|A1|1|a|education,work||Unsere Lehrerin erklärt sehr gut.|Our teacher explains really well.|Female: die Lehrerin.|r=Lehrerin
+Schüler|w|noun|der|Schüler|pupil; school student|A1|1|a|education||Die Schüler haben heute frei.|The pupils have the day off today.|Female: die Schülerin.|r=Schule
+Student|w|noun|der|Studenten|(university) student|A1|1|a|education||Mein Mitbewohner ist Student.|My flatmate is a student.|n-declension. Female: die Studentin.|r=studieren;Studium
+Prüfung|w|noun|die|Prüfungen|exam; test|A1|1|a|education||Morgen habe ich eine Prüfung.|I have an exam tomorrow.||c=eine Prüfung machen;eine Prüfung bestehen
+Polizei|w|noun|die|∅|police|A1|1|a|services,society||Rufen Sie die Polizei!|Call the police!|Emergency numbers: 110 police, 112 fire/ambulance.|why=emergencies
+Fieber|w|noun|das|∅|fever; temperature|A1|1|a|healthcare||Ich habe seit gestern Fieber.|I've had a temperature since yesterday.||c=Fieber haben;Fieber messen
+Arm|w|noun|der|Arme|arm|A1|1|a|body||Mir tut der Arm weh.|My arm hurts.|||
+Bein|w|noun|das|Beine|leg|A1|1|a|body||Er hat sich das Bein gebrochen.|He broke his leg.|||
+Dusche|w|noun|die|Duschen|shower|A1|1|a|home,housing||Das Zimmer hat eine eigene Dusche.|The room has its own shower.||r=duschen
+Computer|w|noun|der|Computer|computer|A1|1|a|technology,work||Mein Computer ist so langsam.|My computer is so slow.|||r=Laptop
+Tasche|w|noun|die|Taschen|bag; pocket|A1|1|a|everyday,clothing||Das Handy ist in meiner Tasche.|The phone is in my bag.|||r=Handtasche
+Butter|w|noun|die|∅|butter|A1|1|a|food||Brot mit Butter, bitte.|Bread and butter, please.|||
+Salat|w|noun|der|Salate|salad; lettuce|A1|1|a|food||Ich nehme einen Salat.|I'll have a salad.|||
+Speisekarte|w|noun|die|Speisekarten|menu|A1|1|a|food||Können wir bitte die Speisekarte haben?|Could we have the menu, please?|In speech also: die Karte.|r=Karte
+Meer|w|noun|das|Meere|sea|A1|1|a|travel,nature||Im Urlaub fahren wir ans Meer.|On holiday we're going to the seaside.|ans Meer fahren = go to the seaside.|r=See
+Unterschrift|w|noun|die|Unterschriften|signature|A1|1|a|bureaucracy||Hier fehlt noch Ihre Unterschrift.|Your signature is still missing here.||r=unterschreiben
+Vermieter|w|noun|der|Vermieter|landlord|A1|1|a|housing||Ich muss den Vermieter wegen der Heizung anrufen.|I have to call the landlord about the heating.|Female: die Vermieterin.|r=vermieten;Mieter;Miete|why=housing: central contact for tenants in Germany
+abholen|w|verb|||to pick up; to collect|A1|1|a|everyday,transport||Kannst du mich vom Bahnhof abholen?|Can you pick me up from the station?|sep|f=holt ab, holte ab, hat abgeholt|c=ein Paket abholen
+bedeuten|w|verb|||to mean|A1|1|a|communication||Was bedeutet dieses Wort?|What does this word mean?||f=bedeutet, bedeutete, hat bedeutet|r=Bedeutung
+bitten|w|verb|||to ask (for); to request|A1|1|a|communication||Darf ich Sie um einen Gefallen bitten?|May I ask you a favour?|irreg;bitten um + Akk = to ask for.|f=bittet, bat, hat gebeten|c=um Hilfe bitten|r=Bitte;bitte
+regnen|w|verb|||to rain|A1|1|a|weather||Es regnet schon den ganzen Tag.|It's been raining all day.|Only with es.|f=regnet, regnete, hat geregnet|r=Regen
+schmecken|w|verb|||to taste; to taste good|A1|1|a|food||Schmeckt es dir?|Do you like it? (food)|+Dat;Das schmeckt mir = I like the taste.|f=schmeckt, schmeckte, hat geschmeckt
+telefonieren|w|verb|||to phone; to be on the phone|A1|1|a|communication||Ich telefoniere gerade, kann ich dich zurückrufen?|I'm on the phone right now, can I call you back?|telefonieren mit + Dat.|f=telefoniert, telefonierte, hat telefoniert|r=Telefon
+frühstücken|w|verb|||to have breakfast|A1|1|a|food||Wir frühstücken am Wochenende immer zusammen.|We always have breakfast together at the weekend.||f=frühstückt, frühstückte, hat gefrühstückt|r=Frühstück
+anmachen|w|verb|||to switch on; to turn on|A1|1|a|home|spoken|Mach bitte das Licht an.|Please turn on the light.|sep|f=macht an, machte an, hat angemacht|r=ausmachen;einschalten
+ausmachen|w|verb|||to switch off; to arrange (a time); to mind|A1|1|a|home|spoken|Kannst du den Fernseher ausmachen?|Can you turn off the TV?|sep;Also: einen Termin ausmachen = to arrange an appointment; Macht es Ihnen etwas aus? = Do you mind?|f=macht aus, machte aus, hat ausgemacht|c=einen Termin ausmachen|r=anmachen
+schenken|w|verb|||to give (as a present)|A1|1|a|social||Was schenkst du deiner Mutter zum Geburtstag?|What are you giving your mother for her birthday?|jemandem (Dat) etwas (Akk) schenken.|f=schenkt, schenkte, hat geschenkt|r=Geschenk
+bar|w|adv|||in cash|A1|1|a|money,shopping||Kann ich bar bezahlen?|Can I pay in cash?|Many small shops and cafés in Germany still prefer cash.|c=bar bezahlen|r=Bargeld|why=Germany: cash is still widely used
+geboren|w|adj|||born|A1|1|a|people,bureaucracy||Ich bin 1995 in Krakau geboren.|I was born in Kraków in 1995.|Ich bin ... geboren (present tense form). On forms: geboren am.|r=Geburtsdatum;Geburtsort
+hoch|w|adj|||high; tall|A1|1|a|everyday||Die Miete ist sehr hoch.|The rent is very high.|Before nouns: hoh- (ein hohes Gebäude). Comparative höher.|f=höher, am höchsten
+bisschen|w|det|||a bit; a little|A1|1|a|grammar||Ich spreche ein bisschen Deutsch.|I speak a little German.|Always ein bisschen.|
+gerade|w|adv|||just; right now; straight|A1|1|a|time||Ich bin gerade beim Einkaufen.|I'm doing the shopping right now.|gerade = at the moment / just now; as adjective: straight, even.|
+hinten|w|adv|||at the back; behind|A1|1|a|places||Der Ausgang ist hinten rechts.|The exit is at the back on the right.|||r=vorne
+vorne|w|adv|||at the front|A1|1|a|places||Wir sitzen ganz vorne.|We're sitting right at the front.|Also vorn.|r=hinten
+weiter|w|adv|||further; on; continue|A1|1|a|everyday,transport||Gehen Sie hier weiter bis zur Ampel.|Carry on down here as far as the traffic lights.|Common as verb prefix: weitermachen, weitergehen.|r=weitermachen
+früher|w|adv|||earlier; in the past; used to|A1|1|a|time||Früher habe ich in Polen gewohnt.|I used to live in Poland.|||r=früh
+verboten|w|adj|||forbidden; not allowed|A1|1|a|everyday,society||Rauchen verboten.|No smoking.|Common on signs.||r=verbieten
+klingeln|w|verb|||to ring (bell, phone)|A1|1|a|home,communication||Es hat geklingelt, kannst du aufmachen?|Someone rang the bell, can you open the door?||f=klingelt, klingelte, hat geklingelt|r=Klingel

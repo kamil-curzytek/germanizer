@@ -3,3 +3,6 @@ dist
 .env
 .env.local
 .env.*.local
+
+# third-party research data (licenses do not allow redistribution)
+research/sources/

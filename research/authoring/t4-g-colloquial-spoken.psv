@@ -1,0 +1,69 @@
+# Tier 4 · colloquial spoken German for listening comprehension (receptive; register-marked).
+# Evidence: high subtitle-corpus rank, absent from Goethe lists; learners hear these daily but should use them with care.
+# german|type|pos|article|plural|english|cefr|tier|mode|topics|register|example|example_en|grammar|f=|c=|r=|why=
+Kerl|w|noun|der|Kerle|guy; bloke|B2|4|r|people|informal|Er ist ein netter Kerl.|He's a nice guy.|||r=Typ||why=high subtitle frequency
+Mist|w|noun|der|∅|rubbish; damn (exclamation)|B2|4|r|feelings|informal|Mist, ich habe den Schlüssel vergessen!|Damn, I've forgotten the key!|Mild; acceptable in most settings.||why=very frequent mild expletive
+Scheiße|w|noun|die|∅|shit (vulgar)|B2|4|r|feelings|vulgar|Scheiße, der Zug ist weg!|Shit, the train's gone!|Vulgar; very frequent in speech. Avoid at work.||why=top-50 uncovered subtitle lemma; must be understood
+verdammt|w|adj|||damn(ed)|B2|4|r|feelings|informal|Es ist verdammt kalt heute.|It's damn cold today.|Intensifier and curse.||why=high subtitle frequency
+Quatsch|w|noun|der|∅|nonsense|B2|4|b|discourse|informal|Quatsch, das stimmt doch nicht!|Nonsense, that's not true!|||r=Unsinn;Blödsinn
+Blödsinn|w|noun|der|∅|nonsense; rubbish|B2|4|r|discourse|informal|Red keinen Blödsinn!|Don't talk rubbish!|||r=Quatsch
+Unsinn|w|noun|der|∅|nonsense|B2|4|r|discourse||Das ist doch Unsinn.|That's nonsense.|Neutral register.|r=Quatsch
+quatschen|w|verb|||to chat; to talk nonsense|B2|4|r|communication|informal|Wir haben stundenlang gequatscht.|We chatted for hours.||f=quatscht, quatschte, hat gequatscht
+labern|w|verb|||to babble; to waffle|B2|4|r|communication|informal|Was laberst du da?|What are you going on about?||f=labert, laberte, hat gelabert
+kapieren|w|verb|||to get (understand)|B2|4|r|communication|informal|Hast du das kapiert?|Did you get that?||f=kapiert, kapierte, hat kapiert|r=verstehen
+abhauen|w|verb|||to clear off; to run away|B2|4|r|everyday|informal|Hau ab!|Get lost!|sep;aux:sein|f=haut ab, haute ab, ist abgehauen
+pennen|w|verb|||to kip; to sleep|B2|4|r|everyday|informal|Ich habe bis zehn gepennt.|I slept till ten.||f=pennt, pennte, hat gepennt|r=schlafen
+spinnen|w|verb|||to be crazy|B2|4|r|people|informal|Du spinnst wohl!|You must be crazy!|irreg|f=spinnt, spann, hat gesponnen|why=very common spoken reaction
+nerven|w|verb|||to annoy; to get on one's nerves|B2|4|b|feelings|informal|Das nervt total!|That's really annoying!||f=nervt, nervte, hat genervt|r=Nerv
+zocken|w|verb|||to play (video) games; to gamble|B2|4|r|leisure|informal|Die Jungs zocken den ganzen Abend.|The boys are gaming all evening.||f=zockt, zockte, hat gezockt
+chillen|w|verb|||to chill; to relax|B2|4|r|leisure|informal|Am Wochenende will ich nur chillen.|At the weekend I just want to chill.||f=chillt, chillte, hat gechillt
+jobben|w|verb|||to do casual jobs|B2|4|r|work|informal|Im Sommer jobbe ich im Café.|In summer I work in a café.||f=jobbt, jobbte, hat gejobbt
+Bock|w|noun|der|∅|desire (have no 'Bock')|B2|4|r|feelings|informal|Ich habe keinen Bock auf Arbeit.|I can't be bothered with work.|Bock haben auf = Lust haben auf.||why=very frequent youth/spoken idiom
+geil|w|adj|||awesome; (also sexual)|B2|4|r|description|informal|Das Konzert war geil!|The concert was awesome!|Very informal; avoid in formal settings.|
+krass|w|adj|||extreme; crazy; wow|B2|4|r|description|informal|Krass, wie schnell das ging!|Crazy how fast that went!|||
+mies|w|adj|||lousy; rotten|B2|4|r|description|informal|Mir geht's heute mies.|I feel lousy today.|||
+fies|w|adj|||nasty; mean|B2|4|r|people|informal|Das war echt fies von dir.|That was really mean of you.|||
+doof|w|adj|||stupid; dumb|B2|4|r|description|informal|Das ist echt doof gelaufen.|That went really badly.|||r=blöd
+bescheuert|w|adj|||idiotic; stupid|B2|4|r|description|informal|Die Idee ist total bescheuert.|The idea is totally stupid.|||
+irre|w|adj|||crazy; amazing|B2|4|r|description|informal|Das war ein irres Erlebnis.|That was an amazing experience.|||r=Wahnsinn
+ätzend|w|adj|||awful; lousy|B2|4|r|description|informal|Das Wetter ist ätzend.|The weather is awful.|Literally: corrosive.|
+abgefahren|w|adj|||far-out; wild|B2|4|r|description|informal|Der Film ist total abgefahren.|The film is totally wild.|||
+Wahnsinn|w|noun|der|∅|madness; incredible|B2|4|b|feelings|informal|Wahnsinn, ist das schön hier!|Wow, it's beautiful here!|Also: Das ist Wahnsinn! = That's insane!|r=wahnsinnig
+Idiot|w|noun|der|Idioten|idiot|B2|4|r|people|informal|So ein Idiot!|What an idiot!|n-declension.|
+Arsch|w|noun|der|Ärsche|arse (vulgar)|B2|4|r|people|vulgar|Beweg deinen Arsch!|Move your arse!|Vulgar.|why=high subtitle frequency
+Teufel|w|noun|der|Teufel|devil|B2|4|r|society|informal|Was zum Teufel ist hier los?|What the devil is going on here?|||
+Hölle|w|noun|die|∅|hell|B2|4|r|society|informal|Der Verkehr war die Hölle.|The traffic was hell.|||
+Bulle|w|noun|der|Bullen|cop (slang); bull|B2|4|r|law|informal|Die Bullen sind da!|The cops are here!|Slang; offensive to police.|r=Polizist
+Klappe|w|noun|die|Klappen|flap; (slang) mouth|B2|4|r|communication|vulgar|Halt die Klappe!|Shut up!|Rude.||why=high subtitle frequency; must be understood
+Schnauze|w|noun|die|Schnauzen|snout; (slang) mouth|B2|4|r|communication|vulgar|Ich hab die Schnauze voll!|I've had it up to here!|Rude.|c=die Schnauze voll haben
+Kram|w|noun|der|∅|stuff; junk|B2|4|r|everyday|informal|Räum deinen Kram weg!|Put your stuff away!|||r=Zeug
+Klo|w|noun|das|Klos|loo|B2|4|r|home|informal|Wo ist hier das Klo?|Where's the loo?|||r=Toilette
+Glotze|w|noun|die|Glotzen|telly|B2|4|r|media|informal|Er sitzt den ganzen Tag vor der Glotze.|He sits in front of the telly all day.|||r=Fernseher
+Karre|w|noun|die|Karren|old car; banger|B2|4|r|transport|informal|Die alte Karre springt nicht an.|The old banger won't start.|||r=Auto
+Zoff|w|noun|der|∅|trouble; row|B2|4|r|people|informal|Bei den Nachbarn gibt's wieder Zoff.|The neighbours are rowing again.|||r=Streit
+Knete|w|noun|die|∅|dough (money)|B2|4|r|money|informal|Ich habe keine Knete mehr.|I'm out of cash.|||r=Kohle;Geld
+Tja|w|intj|||well (resignation)|B2|4|r|discourse|spoken|Tja, da kann man nichts machen.|Well, nothing can be done.|||why=very frequent discourse particle
+Hä?|w|intj|||huh? what?|B2|4|r|discourse|informal|Hä? Was hast du gesagt?|Huh? What did you say?|Impolite; use 'Wie bitte?'.|r=Wie bitte?
+Ups|w|intj|||oops|B2|4|r|discourse|informal|Ups, das wollte ich nicht.|Oops, I didn't mean that.|||
+Igitt|w|intj|||yuck|B2|4|r|feelings|informal|Igitt, da ist ein Haar in der Suppe!|Yuck, there's a hair in the soup!|||
+Aua|w|intj|||ouch|B2|4|r|health|informal|Aua, das tut weh!|Ouch, that hurts!|||
+Ach was!|f|phrase|||nonsense!; you don't say!|B2|4|r|discourse|spoken|Ach was, das ist doch kein Problem!|Nonsense, that's no problem!|||why=fixed reaction; not derivable
+Glück gehabt!|f|phrase|||lucky!; that was lucky!|B2|4|r|feelings|spoken|Glück gehabt – der Bus war noch da!|Lucky – the bus was still there!|||why=fixed elliptical reaction
+Das gibt's doch nicht!|f|phrase|||I don't believe it!|B2|4|r|feelings|spoken|Das gibt's doch nicht! Du hier?|I don't believe it! You here?|||why=fixed exclamation
+Ich glaub, ich spinne!|f|phrase|||I don't believe this!|B2|4|r|feelings|informal|Ich glaub, ich spinne! Wer hat das gemacht?|I don't believe this! Who did that?|||why=fixed exclamation of outrage
+Mach dir nichts draus.|f|phrase|||don't worry about it.|B2|4|r|feelings|spoken|Mach dir nichts draus, das passiert jedem.|Don't let it get to you, it happens to everyone.|||why=fixed comforting routine
+Mach's gut!|f|phrase|||take care!; bye!|B1|4|b|social|informal|Mach's gut, bis bald!|Take care, see you soon!|||why=fixed farewell
+Na klar doch!|f|phrase|||of course!|B2|4|r|discourse|spoken|Kommst du mit? – Na klar doch!|Are you coming? – Of course!|pattern|r=Na klar||why=frequent spoken reply variant
+Keine Panik!|f|phrase|||don't panic!|B2|4|r|feelings|spoken|Keine Panik, wir haben noch Zeit.|Don't panic, we still have time.|||why=fixed reassurance
+Schwein haben|c|verb|||to be lucky|B2|4|r|feelings|informal|Da hast du aber Schwein gehabt!|You were lucky there!|irreg|f=hat Schwein, hatte Schwein, hat Schwein gehabt||why=opaque idiom (pig = luck)
+auf den Keks gehen|c|verb|||to get on someone's nerves|B2|4|r|feelings|informal|Der Lärm geht mir auf den Keks.|The noise is getting on my nerves.|irreg;+Dat;aux:sein|f=geht auf den Keks, ging auf den Keks, ist auf den Keks gegangen|r=nerven||why=opaque idiom
+die Nase voll haben|c|verb|||to be fed up|B2|4|b|feelings|informal|Ich habe die Nase voll von dem Regen.|I'm fed up with the rain.|prep:von|f=hat die Nase voll, hatte die Nase voll, hat die Nase voll gehabt||why=opaque idiom; very frequent
+ins Fettnäpfchen treten|c|verb|||to put one's foot in it|B2|4|r|people|informal|Da bin ich ins Fettnäpfchen getreten.|I really put my foot in it there.|irreg;aux:sein|f=tritt ins Fettnäpfchen, trat ins Fettnäpfchen, ist ins Fettnäpfchen getreten||why=opaque idiom
+auf dem Schlauch stehen|c|verb|||to be slow on the uptake|B2|4|r|communication|informal|Sorry, ich stehe gerade auf dem Schlauch.|Sorry, I'm not getting it right now.|irreg|f=steht auf dem Schlauch, stand auf dem Schlauch, hat auf dem Schlauch gestanden||why=opaque idiom; very frequent
+Tomaten auf den Augen haben|c|verb|||to be blind to something obvious|B2|4|r|people|informal|Hast du Tomaten auf den Augen?|Are you blind?|irreg|f=hat Tomaten auf den Augen, hatte Tomaten auf den Augen, hat Tomaten auf den Augen gehabt||why=opaque idiom
+jemandem einen Bären aufbinden|c|verb|||to pull someone's leg|B2|4|r|people|informal|Du willst mir einen Bären aufbinden!|You're pulling my leg!|sep;+Dat|f=bindet einen Bären auf, band einen Bären auf, hat einen Bären aufgebunden||why=opaque idiom
+Alles in Butter.|f|phrase|||everything's fine.|B2|4|r|feelings|informal|Keine Sorge, alles in Butter!|Don't worry, everything's fine!|||why=opaque idiom
+Das ist nicht mein Bier.|f|phrase|||that's not my problem.|B2|4|r|discourse|informal|Das ist nicht mein Bier, frag den Chef.|That's not my problem, ask the boss.|pattern||why=opaque idiom
+Feierabend machen|c|verb|||to finish work for the day|B1|4|b|work|spoken|Ich mache heute früher Feierabend.|I'm finishing work early today.||f=macht Feierabend, machte Feierabend, hat Feierabend gemacht|r=Feierabend||why=core German work-life routine
+blaumachen|w|verb|||to skip work/school|B2|4|r|work|informal|Er hat gestern blaugemacht.|He skipped work yesterday.|sep|f=macht blau, machte blau, hat blaugemacht||why=opaque compound verb
+Stress haben|c|verb|||to be stressed; to be in trouble|B2|4|b|feelings|spoken|Ich habe gerade viel Stress auf der Arbeit.|I'm under a lot of stress at work right now.|irreg|f=hat Stress, hatte Stress, hat Stress gehabt|r=gestresst||why=frequent spoken construction (also: Stress mit jemandem haben)

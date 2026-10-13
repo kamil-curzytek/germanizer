@@ -1,0 +1,157 @@
+# Tier 4 · concrete everyday nouns at B2 breadth (home, DIY, garden, animals, nature, food, body care, office, transport)
+# Regional variants (Semmel, Kloß, Tram) excluded per Germany-standard rule.
+# german|type|pos|article|plural|english|cefr|tier|mode|topics|register|example|example_en|grammar|f=|c=|r=|why=
+Hammer|w|noun|der|Hämmer|hammer|B2|4|r|home||Hast du einen Hammer für den Nagel?|Have you got a hammer for the nail?|||
+Nagel|w|noun|der|Nägel|nail|B2|4|r|home,body||Ich schlage einen Nagel in die Wand.|I'm knocking a nail into the wall.|Also fingernail.|
+Schraube|w|noun|die|Schrauben|screw|B2|4|r|home||Die Schraube ist locker.|The screw is loose.|||
+Zange|w|noun|die|Zangen|pliers|B2|4|r|home||Gib mir mal die Zange.|Pass me the pliers.|||
+Bürste|w|noun|die|Bürsten|brush|B2|4|r|home||Mit der Bürste geht der Schmutz ab.|The dirt comes off with the brush.|||
+Besen|w|noun|der|Besen|broom|B2|4|r|home||Der Besen steht im Keller.|The broom is in the cellar.|||
+Eimer|w|noun|der|Eimer|bucket|B2|4|r|home||Füll den Eimer mit Wasser.|Fill the bucket with water.|||
+Lappen|w|noun|der|Lappen|cloth; rag|B2|4|r|home||Wisch den Tisch mit einem Lappen ab.|Wipe the table with a cloth.|||
+Schwamm|w|noun|der|Schwämme|sponge|B2|4|r|home||Der Schwamm liegt neben der Spüle.|The sponge is next to the sink.|||c=Schwamm drüber!
+Kleber|w|noun|der|Kleber|glue|B2|4|r|home,education||Ich brauche Kleber und eine Schere.|I need glue and scissors.|||r=kleben
+Faden|w|noun|der|Fäden|thread|B2|4|r|clothing||Ich brauche Nadel und Faden.|I need a needle and thread.|||
+Nadel|w|noun|die|Nadeln|needle; pin|B2|4|r|clothing,healthcare||Die Nadel ist sehr dünn.|The needle is very thin.|||
+Reißverschluss|w|noun|der|Reißverschlüsse|zip|B2|4|r|clothing||Der Reißverschluss ist kaputt.|The zip is broken.|||
+Gürtel|w|noun|der|Gürtel|belt|B2|4|r|clothing||Die Hose braucht einen Gürtel.|The trousers need a belt.|||
+Ärmel|w|noun|der|Ärmel|sleeve|B2|4|r|clothing||Die Ärmel sind zu lang.|The sleeves are too long.|||
+Kragen|w|noun|der|Kragen|collar|B2|4|r|clothing||Der Kragen ist schmutzig.|The collar is dirty.|||
+Pinsel|w|noun|der|Pinsel|paintbrush|B2|4|r|home,leisure||Wasch den Pinsel nach dem Streichen aus.|Wash out the brush after painting.|||
+Tapete|w|noun|die|Tapeten|wallpaper|B2|4|r|housing||Beim Auszug muss die Tapete weg.|The wallpaper has to come off when you move out.|||why=tenancy: Schönheitsreparaturen
+Abfluss|w|noun|der|Abflüsse|drain|B2|4|r|housing||Der Abfluss ist verstopft.|The drain is blocked.|||why=common repair request to landlord
+Rohr|w|noun|das|Rohre|pipe|B2|4|r|housing||Ein Rohr in der Küche ist undicht.|A pipe in the kitchen is leaking.|||
+Heizkörper|w|noun|der|Heizkörper|radiator|B2|4|r|housing||Der Heizkörper wird nicht warm.|The radiator isn't getting warm.|||r=Heizung
+Rauchmelder|w|noun|der|Rauchmelder|smoke detector|B2|4|r|housing,emergency||Der Rauchmelder piept.|The smoke detector is beeping.|||why=Germany: mandatory in flats
+Dachboden|w|noun|der|Dachböden|attic; loft|B2|4|r|housing||Die alten Möbel stehen auf dem Dachboden.|The old furniture is in the attic.|||
+Zaun|w|noun|der|Zäune|fence|B2|4|r|home||Der Hund springt über den Zaun.|The dog jumps over the fence.|||
+Hecke|w|noun|die|Hecken|hedge|B2|4|r|home,nature||Wir müssen die Hecke schneiden.|We need to cut the hedge.|||
+Beet|w|noun|das|Beete|flower bed; vegetable patch|B2|4|r|home,nature||Im Beet wachsen Tomaten.|Tomatoes are growing in the bed.|||
+Rasenmäher|w|noun|der|Rasenmäher|lawnmower|B2|4|r|home||Sonntags darf man den Rasenmäher nicht benutzen.|You're not allowed to use the lawnmower on Sundays.|||why=Germany: Sunday quiet rules
+Gießkanne|w|noun|die|Gießkannen|watering can|B2|4|r|home||Die Gießkanne steht auf dem Balkon.|The watering can is on the balcony.|||r=gießen
+Schaufel|w|noun|die|Schaufeln|shovel; spade|B2|4|r|home||Die Kinder spielen mit Eimer und Schaufel.|The children are playing with a bucket and spade.|||
+Ast|w|noun|der|Äste|branch|B2|4|r|nature||Ein Ast ist auf das Auto gefallen.|A branch fell on the car.|||
+Wurzel|w|noun|die|Wurzeln|root|B2|4|r|nature||Der Baum hat tiefe Wurzeln.|The tree has deep roots.|||
+Blüte|w|noun|die|Blüten|blossom; flower|B2|4|r|nature||Im Frühling sind die Bäume voller Blüten.|In spring the trees are full of blossom.|||r=blühen
+Zweig|w|noun|der|Zweige|twig; branch|B2|4|r|nature||Der Vogel sitzt auf einem Zweig.|The bird is sitting on a twig.|||
+Laub|w|noun|das|∅|leaves (fallen)|B2|4|r|nature||Im Herbst müssen wir das Laub fegen.|In autumn we have to sweep up the leaves.|||
+Rose|w|noun|die|Rosen|rose|B2|4|r|nature||Er schenkt ihr rote Rosen.|He gives her red roses.|||
+Biene|w|noun|die|Bienen|bee|B2|4|r|nature||Bienen sind wichtig für die Natur.|Bees are important for nature.|||
+Wespe|w|noun|die|Wespen|wasp|B2|4|r|nature||Vorsicht, eine Wespe!|Careful, a wasp!|||
+Fliege|w|noun|die|Fliegen|fly|B2|4|r|nature||In der Küche ist eine Fliege.|There's a fly in the kitchen.|||
+Spinne|w|noun|die|Spinnen|spider|B2|4|r|nature||Ich habe Angst vor Spinnen.|I'm afraid of spiders.|||
+Ameise|w|noun|die|Ameisen|ant|B2|4|r|nature||In der Küche sind Ameisen.|There are ants in the kitchen.|||
+Wurm|w|noun|der|Würmer|worm|B2|4|r|nature||Nach dem Regen kommen die Würmer raus.|The worms come out after the rain.|||
+Ratte|w|noun|die|Ratten|rat|B2|4|r|nature||Im Hof gibt es Ratten.|There are rats in the yard.|||
+Taube|w|noun|die|Tauben|pigeon; dove|B2|4|r|nature,city||Bitte die Tauben nicht füttern!|Please don't feed the pigeons!|||why=common sign
+Möwe|w|noun|die|Möwen|seagull|B2|4|r|nature,travel||An der Ostsee gibt es viele Möwen.|There are lots of seagulls on the Baltic coast.|||
+Ente|w|noun|die|Enten|duck|B2|4|r|nature,food||Die Kinder füttern die Enten.|The children are feeding the ducks.|||
+Frosch|w|noun|der|Frösche|frog|B2|4|r|nature||Im Teich sitzt ein Frosch.|There's a frog in the pond.|||
+Hase|w|noun|der|Hasen|hare; rabbit|B2|4|r|nature||An Ostern versteckt der Hase die Eier.|At Easter the bunny hides the eggs.|n-declension.|why=Germany: Easter tradition
+Schaf|w|noun|das|Schafe|sheep|B2|4|r|nature||Auf dem Deich stehen Schafe.|There are sheep on the dyke.|||
+Bär|w|noun|der|Bären|bear|B2|4|r|nature||Der Bär ist das Wappentier von Berlin.|The bear is Berlin's heraldic animal.|n-declension.|
+Löwe|w|noun|der|Löwen|lion|B2|4|r|nature||Im Zoo gibt es zwei Löwen.|There are two lions at the zoo.|n-declension.|
+Affe|w|noun|der|Affen|monkey; ape|B2|4|r|nature||Die Kinder lieben die Affen im Zoo.|The children love the monkeys at the zoo.|n-declension.|
+Elefant|w|noun|der|Elefanten|elephant|B2|4|r|nature||Der Elefant ist sehr groß.|The elephant is very big.|n-declension.|
+Schildkröte|w|noun|die|Schildkröten|tortoise; turtle|B2|4|r|nature||Unsere Schildkröte ist 30 Jahre alt.|Our tortoise is 30 years old.|||
+Hügel|w|noun|der|Hügel|hill|B2|4|r|nature||Das Haus steht auf einem Hügel.|The house stands on a hill.|||r=Berg
+Gipfel|w|noun|der|Gipfel|summit; peak|B2|4|r|nature,politics||Wir sind bis zum Gipfel gewandert.|We hiked up to the summit.|Also political summit.|
+Höhle|w|noun|die|Höhlen|cave|B2|4|r|nature||Die Kinder haben eine Höhle gebaut.|The children built a den.|||
+Bach|w|noun|der|Bäche|stream; brook|B2|4|r|nature||Hinter dem Haus fließt ein Bach.|A stream flows behind the house.|||
+Teich|w|noun|der|Teiche|pond|B2|4|r|nature||Im Teich schwimmen Fische.|There are fish swimming in the pond.|||
+Ozean|w|noun|der|Ozeane|ocean|B2|4|r|nature||Der Atlantische Ozean ist riesig.|The Atlantic Ocean is huge.|||r=Meer
+Wüste|w|noun|die|Wüsten|desert|B2|4|r|nature||Die Sahara ist die größte Wüste.|The Sahara is the largest desert.|||
+Tropfen|w|noun|der|Tropfen|drop|B2|4|r|everyday,healthcare||Nehmen Sie dreimal täglich zehn Tropfen.|Take ten drops three times a day.|||
+Scheibe|w|noun|die|Scheiben|slice; pane|B2|4|r|food,home||Eine Scheibe Brot, bitte.|A slice of bread, please.|||
+Torte|w|noun|die|Torten|gateau; cake|B2|4|r|food||Zum Geburtstag gibt es eine Torte.|There's a cake for the birthday.|||r=Kuchen
+Bohne|w|noun|die|Bohnen|bean|B2|4|r|food||Grüne Bohnen sind gesund.|Green beans are healthy.|||
+Möhre|w|noun|die|Möhren|carrot|B2|4|r|food||Ich schneide die Möhren klein.|I'm chopping the carrots.|Also: Karotte.|r=Karotte
+Kirsche|w|noun|die|Kirschen|cherry|B2|4|r|food||Im Juni gibt es frische Kirschen.|There are fresh cherries in June.|||
+Pflaume|w|noun|die|Pflaumen|plum|B2|4|r|food||Oma backt Pflaumenkuchen mit Pflaumen aus dem Garten.|Grandma bakes plum cake with plums from the garden.|||
+Aprikose|w|noun|die|Aprikosen|apricot|B2|4|r|food||Die Aprikosen sind reif.|The apricots are ripe.|||
+Pfirsich|w|noun|der|Pfirsiche|peach|B2|4|r|food||Der Pfirsich ist sehr süß.|The peach is very sweet.|||
+Birne|w|noun|die|Birnen|pear; light bulb|B2|4|r|food,home||Die Birne in der Lampe ist kaputt.|The bulb in the lamp has gone.|||
+Knoblauch|w|noun|der|∅|garlic|B2|4|r|food||In die Soße kommt viel Knoblauch.|Lots of garlic goes into the sauce.|||
+Petersilie|w|noun|die|∅|parsley|B2|4|r|food||Etwas Petersilie darüber, fertig!|A little parsley on top, done!|||
+Senf|w|noun|der|∅|mustard|B2|4|r|food||Bratwurst mit Senf, bitte.|Bratwurst with mustard, please.|||c=seinen Senf dazugeben
+Ketchup|w|noun|der|∅|ketchup|B2|4|r|food||Pommes mit Ketchup.|Chips with ketchup.|Also: das Ketchup.|
+Hefe|w|noun|die|∅|yeast|B2|4|r|food||Für den Teig braucht man Hefe.|You need yeast for the dough.|||
+Teig|w|noun|der|Teige|dough; batter|B2|4|r|food||Der Teig muss eine Stunde ruhen.|The dough has to rest for an hour.|||
+Sahne|w|noun|die|∅|cream|B2|4|r|food||Kuchen mit Sahne, bitte.|Cake with cream, please.|||
+Quark|w|noun|der|∅|quark (curd cheese); rubbish (slang)|B2|4|r|food||Zum Frühstück esse ich Quark mit Obst.|For breakfast I eat quark with fruit.|Slang: Quark = nonsense.|why=Germany: staple dairy product
+Brühe|w|noun|die|Brühen|broth; stock|B2|4|r|food||Die Suppe kocht man mit Brühe.|You make the soup with stock.|||
+Eintopf|w|noun|der|Eintöpfe|stew|B2|4|r|food||Im Winter kochen wir gern Eintopf.|In winter we like to make stew.|||
+Auflauf|w|noun|der|Aufläufe|bake; casserole|B2|4|r|food||Heute gibt es Nudelauflauf – einen Auflauf mit Käse.|Today there's pasta bake – a bake with cheese.|||
+Knödel|w|noun|der|Knödel|dumpling|B2|4|r|food||Schweinebraten mit Knödeln.|Roast pork with dumplings.|Southern German; common nationwide on menus.|
+Krümel|w|noun|der|Krümel|crumb|B2|4|r|food,home||Überall sind Krümel!|There are crumbs everywhere!|||
+Snack|w|noun|der|Snacks|snack|B2|4|r|food||Ich nehme einen kleinen Snack mit.|I'll take a small snack with me.|||
+Limonade|w|noun|die|Limonaden|lemonade; soft drink|B2|4|r|food||Die Kinder trinken Limonade.|The children are drinking lemonade.|||
+Kakao|w|noun|der|∅|cocoa; hot chocolate|B2|4|r|food||Einen Kakao, bitte.|A hot chocolate, please.|||
+Sekt|w|noun|der|∅|sparkling wine|B2|4|r|food,social||Zu Silvester trinken wir Sekt.|We drink sparkling wine on New Year's Eve.|||why=Germany: celebrations
+Schnaps|w|noun|der|Schnäpse|schnapps; spirits|B2|4|r|food||Nach dem Essen gibt es einen Schnaps.|There's a schnapps after the meal.|||
+Rind|w|noun|das|Rinder|cattle; beef|B2|4|r|food||Ist das Rind oder Schwein?|Is that beef or pork?|||r=Rindfleisch
+Steak|w|noun|das|Steaks|steak|B2|4|r|food||Wie möchten Sie das Steak?|How would you like your steak?|||
+Schinken|w|noun|der|Schinken|ham|B2|4|r|food||Ein Brötchen mit Schinken, bitte.|A roll with ham, please.|||
+Speck|w|noun|der|∅|bacon|B2|4|r|food||Kartoffeln mit Speck und Zwiebeln.|Potatoes with bacon and onions.|||
+Lachs|w|noun|der|Lachse|salmon|B2|4|r|food||Ich nehme den Lachs.|I'll have the salmon.|||
+Thunfisch|w|noun|der|Thunfische|tuna|B2|4|r|food||Eine Pizza mit Thunfisch.|A tuna pizza.|||
+Creme|w|noun|die|Cremes|cream (cosmetic)|B2|4|r|healthcare||Die Creme hilft gegen trockene Haut.|The cream helps with dry skin.|||
+Shampoo|w|noun|das|Shampoos|shampoo|B2|4|r|home||Das Shampoo ist leer.|The shampoo is empty.|||
+Kamm|w|noun|der|Kämme|comb|B2|4|r|home||Hast du einen Kamm?|Have you got a comb?|||
+Föhn|w|noun|der|Föhne|hairdryer; warm wind|B2|4|r|home,weather||Im Hotelzimmer gibt es einen Föhn.|There's a hairdryer in the hotel room.|||
+Rasierer|w|noun|der|Rasierer|razor; shaver|B2|4|r|home||Ich habe meinen Rasierer vergessen.|I've forgotten my razor.|||
+Parfüm|w|noun|das|Parfüms|perfume|B2|4|r|shopping||Das Parfüm riecht gut.|The perfume smells nice.|||
+Kosmetik|w|noun|die|∅|cosmetics|B2|4|r|shopping||Kosmetik gibt es in der Drogerie.|You can get cosmetics at the drugstore.|||
+Bademantel|w|noun|der|Bademäntel|bathrobe|B2|4|r|home,clothing||Im Hotel gibt es Bademäntel.|There are bathrobes at the hotel.|||
+Hausschuhe|w|noun|die|Pl|slippers|B2|4|r|home,clothing||Zieh bitte Hausschuhe an.|Please put on slippers.|||why=Germany: shoes off at home
+Schlafanzug|w|noun|der|Schlafanzüge|pyjamas|B2|4|r|clothing||Die Kinder sind schon im Schlafanzug.|The children are already in their pyjamas.|||
+Unterwäsche|w|noun|die|∅|underwear|B2|4|r|clothing||Pack genug Unterwäsche ein.|Pack enough underwear.|||
+Badeanzug|w|noun|der|Badeanzüge|swimsuit|B2|4|r|clothing,leisure||Ich habe meinen Badeanzug vergessen.|I've forgotten my swimsuit.|||
+Brieftasche|w|noun|die|Brieftaschen|wallet|B2|4|r|everyday||Meine Brieftasche wurde gestohlen.|My wallet was stolen.|||r=Geldbeutel
+Puppe|w|noun|die|Puppen|doll|B2|4|r|family||Das Mädchen spielt mit der Puppe.|The girl is playing with the doll.|||
+Kostüm|w|noun|das|Kostüme|costume|B2|4|r|leisure||Was für ein Kostüm trägst du an Karneval?|What costume are you wearing for carnival?|||why=Germany: Karneval/Fasching
+Uniform|w|noun|die|Uniformen|uniform|B2|4|r|work||Der Pilot trägt eine Uniform.|The pilot is wearing a uniform.|||
+Kuli|w|noun|der|Kulis|biro; pen|B2|4|r|education|informal|Hast du einen Kuli für mich?|Have you got a pen for me?|Short for Kugelschreiber.|r=Kugelschreiber
+Bleistift|w|noun|der|Bleistifte|pencil|B2|4|r|education||Schreiben Sie mit Bleistift.|Write in pencil.|||
+Radiergummi|w|noun|der|Radiergummis|rubber; eraser|B2|4|r|education||Darf ich deinen Radiergummi benutzen?|May I use your rubber?|||
+Lineal|w|noun|das|Lineale|ruler|B2|4|r|education||Zieh die Linie mit dem Lineal.|Draw the line with the ruler.|||
+Locher|w|noun|der|Locher|hole punch|B2|4|r|work||Wo ist der Locher?|Where's the hole punch?|||why=German office: everything goes in Ordner
+Büroklammer|w|noun|die|Büroklammern|paper clip|B2|4|r|work||Mach eine Büroklammer an die Blätter.|Put a paper clip on the sheets.|||
+Folie|w|noun|die|Folien|foil; slide|B2|4|r|work,food||Auf der nächsten Folie sehen Sie die Zahlen.|On the next slide you'll see the figures.|||
+Katalog|w|noun|der|Kataloge|catalogue|B2|4|r|shopping||Ich habe das Sofa im Katalog gesehen.|I saw the sofa in the catalogue.|||
+Broschüre|w|noun|die|Broschüren|brochure|B2|4|r|travel,shopping||Nehmen Sie eine Broschüre mit.|Take a brochure.|||
+Poster|w|noun|das|Poster|poster|B2|4|r|home||An der Wand hängt ein Poster.|There's a poster on the wall.|||r=Plakat
+Puzzle|w|noun|das|Puzzles|jigsaw puzzle|B2|4|r|leisure||Wir machen ein Puzzle mit 1000 Teilen.|We're doing a 1,000-piece jigsaw.|||
+Quiz|w|noun|das|∅|quiz|B2|4|r|leisure,media||Im Fernsehen läuft ein Quiz.|There's a quiz on TV.|||
+Zirkus|w|noun|der|Zirkusse|circus|B2|4|r|leisure||Der Zirkus ist in der Stadt.|The circus is in town.|Spoken: Was für ein Zirkus! = What a fuss!|
+Orchester|w|noun|das|Orchester|orchestra|B2|4|r|leisure||Das Orchester spielt Beethoven.|The orchestra is playing Beethoven.|||
+Chor|w|noun|der|Chöre|choir|B2|4|r|leisure||Sie singt im Chor.|She sings in a choir.|||
+Geige|w|noun|die|Geigen|violin|B2|4|r|leisure||Mein Sohn spielt Geige.|My son plays the violin.|||
+Flöte|w|noun|die|Flöten|flute; recorder|B2|4|r|leisure||In der Schule lernen viele Kinder Flöte.|Many children learn the recorder at school.|||
+Trommel|w|noun|die|Trommeln|drum|B2|4|r|leisure||Er spielt Trommel in einer Band.|He plays drums in a band.|||
+Jazz|w|noun|der|∅|jazz|B2|4|r|leisure||Ich höre gern Jazz.|I like listening to jazz.|||
+Ballett|w|noun|das|Ballette|ballet|B2|4|r|leisure||Meine Tochter geht zum Ballett.|My daughter goes to ballet.|||
+Hütte|w|noun|die|Hütten|hut; cabin|B2|4|r|travel,nature||Wir übernachten in einer Hütte in den Bergen.|We're staying overnight in a mountain hut.|||
+Pension|w|noun|die|Pensionen|guesthouse; pension (civil servants)|B2|4|r|travel||Wir wohnen in einer kleinen Pension.|We're staying in a small guesthouse.|||
+Buffet|w|noun|das|Buffets|buffet|B2|4|r|food,travel||Das Frühstück ist ein Buffet.|Breakfast is a buffet.|||
+Rundgang|w|noun|der|Rundgänge|tour; walk round|B2|4|r|leisure||Wir machen einen Rundgang durch die Altstadt.|We're taking a walk round the old town.|||
+Rundfahrt|w|noun|die|Rundfahrten|round trip; tour (by vehicle)|B2|4|r|travel||Die Hafenrundfahrt dauert eine Stunde – die Rundfahrt lohnt sich.|The harbour tour lasts an hour – the tour is worth it.|||
+Notausgang|w|noun|der|Notausgänge|emergency exit|B2|4|r|emergency||Der Notausgang muss frei bleiben.|The emergency exit must be kept clear.|||why=safety signs
+Einfahrt|w|noun|die|Einfahrten|entrance (for vehicles); driveway|B2|4|r|transport||Einfahrt freihalten!|Keep driveway clear!|||why=very common sign
+Fahrbahn|w|noun|die|Fahrbahnen|carriageway; road surface|B2|4|r|transport|formal|Die Fahrbahn ist glatt.|The road is slippery.|||why=traffic reports
+Gehweg|w|noun|der|Gehwege|pavement|B2|4|r|transport,city||Fahrräder dürfen nicht auf dem Gehweg fahren.|Bicycles aren't allowed on the pavement.|||r=Bürgersteig
+Radweg|w|noun|der|Radwege|cycle path|B2|4|r|transport||Bitte benutzen Sie den Radweg.|Please use the cycle path.|||
+Zebrastreifen|w|noun|der|Zebrastreifen|zebra crossing|B2|4|r|transport||Am Zebrastreifen haben Fußgänger Vorrang.|Pedestrians have priority at the zebra crossing.|||
+Tunnel|w|noun|der|Tunnel|tunnel|B2|4|r|transport||Im Tunnel gibt es keinen Empfang.|There's no reception in the tunnel.|||
+Kofferraum|w|noun|der|Kofferräume|boot (of a car)|B2|4|r|transport||Die Koffer passen in den Kofferraum.|The cases fit in the boot.|||
+Lenkrad|w|noun|das|Lenkräder|steering wheel|B2|4|r|transport||Beide Hände ans Lenkrad!|Both hands on the wheel!|||
+Scheinwerfer|w|noun|der|Scheinwerfer|headlight; spotlight|B2|4|r|transport||Ein Scheinwerfer ist kaputt.|One headlight is broken.|||
+Scheibenwischer|w|noun|der|Scheibenwischer|windscreen wiper|B2|4|r|transport||Die Scheibenwischer funktionieren nicht.|The wipers don't work.|||
+Blinker|w|noun|der|Blinker|indicator|B2|4|r|transport||Er fährt ohne Blinker.|He drives without indicating.|||
+Hupe|w|noun|die|Hupen|horn|B2|4|r|transport||Er drückt auf die Hupe.|He's pressing the horn.|||
+Motorroller|w|noun|der|Motorroller|scooter|B2|4|r|transport||Sie fährt mit dem Motorroller zur Uni.|She rides her scooter to university.|||
+E-Bike|w|noun|das|E-Bikes|e-bike|B2|4|r|transport||Mit dem E-Bike ist der Berg kein Problem.|With an e-bike the hill is no problem.|||
+Wohnmobil|w|noun|das|Wohnmobile|camper van; motorhome|B2|4|r|travel||Wir fahren mit dem Wohnmobil nach Italien.|We're driving to Italy in the camper van.|||
+Waschanlage|w|noun|die|Waschanlagen|car wash|B2|4|r|transport||Das Auto muss in die Waschanlage.|The car needs to go through the car wash.|||
+Lift|w|noun|der|Lifte|lift; ski lift|B2|4|r|leisure,housing||Wir fahren mit dem Lift nach oben.|We're taking the lift up.|||r=Aufzug
+Terminal|w|noun|das|Terminals|terminal|B2|4|r|travel||Der Flug geht von Terminal 2.|The flight leaves from terminal 2.|Also: der Terminal (Goethe lists der; Duden: der/das).|

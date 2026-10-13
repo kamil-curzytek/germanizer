@@ -1,0 +1,84 @@
+# Tier 4 · B2 connectors, prepositions of formal written German, stance and discourse adverbs
+# german|type|pos|article|plural|english|cefr|tier|mode|topics|register|example|example_en|grammar|f=|c=|r=|why=
+dennoch|w|adv|||nevertheless; still|B2|4|b|discourse||Es regnete, dennoch gingen wir spazieren.|It was raining; nevertheless we went for a walk.|Verb follows directly (position 1).|r=trotzdem
+folglich|w|adv|||consequently|B2|4|r|discourse|formal|Der Zug fiel aus, folglich kamen wir zu spät.|The train was cancelled; consequently we were late.|||r=deshalb;also
+sofern|w|conj|||provided that; if|B2|4|r|discourse|formal|Sofern nichts dazwischenkommt, sind wir um acht da.|Provided nothing comes up, we'll be there at eight.|Verb at the end.|r=falls
+anstatt|w|conj|||instead of|B2|4|b|discourse||Anstatt zu warten, rief ich direkt an.|Instead of waiting, I called directly.|anstatt … zu + infinitive; also preposition + Gen.|r=statt
+stattdessen|w|adv|||instead|B2|4|b|discourse||Der Kurs fällt aus, stattdessen gibt es ein Online-Seminar.|The course is cancelled; there's an online seminar instead.|||r=statt
+gemäß|w|prep|||according to; in accordance with|B2|4|r|bureaucracy,law|formal|Gemäß § 5 des Vertrags beträgt die Kündigungsfrist drei Monate.|According to section 5 of the contract, the notice period is three months.|+Dat; often after the noun.|r=laut;nach||why=contracts and official letters
+zufolge|w|prep|||according to|B2|4|r|media|formal|Dem Bericht zufolge steigen die Mieten weiter.|According to the report, rents keep rising.|+Dat; placed after the noun.|r=laut
+angesichts|w|prep|||in view of|B2|4|r|media|formal|Angesichts der hohen Preise sparen viele Familien.|In view of the high prices, many families are saving.|+Gen.|
+bezüglich|w|prep|||regarding|B2|4|b|communication|formal|Bezüglich Ihrer Anfrage melden wir uns morgen.|Regarding your enquiry, we'll get back to you tomorrow.|+Gen. Abbreviation: bzgl.||why=standard opening in business emails
+hinsichtlich|w|prep|||with regard to|B2|4|r|communication|formal|Hinsichtlich der Kosten gibt es noch Fragen.|There are still questions with regard to the costs.|+Gen.|r=bezüglich
+infolge|w|prep|||as a result of|B2|4|r|media|formal|Infolge des Sturms fielen viele Züge aus.|As a result of the storm many trains were cancelled.|+Gen.|r=wegen
+mithilfe|w|prep|||with the help of|B2|4|r|discourse|formal|Mithilfe einer App lässt sich der Verbrauch messen.|Consumption can be measured with the help of an app.|+Gen; also: mit Hilfe.|
+anhand|w|prep|||by means of; on the basis of|B2|4|r|education|formal|Erklären Sie die Regel anhand eines Beispiels.|Explain the rule using an example.|+Gen.|
+zugunsten|w|prep|||in favour of|B2|4|r|law,money|formal|Das Gericht entschied zugunsten des Mieters.|The court ruled in favour of the tenant.|+Gen.|
+seitens|w|prep|||on the part of|B2|4|r|bureaucracy|formal|Seitens der Firma gab es keine Antwort.|There was no response on the part of the company.|+Gen.|
+bzw.|w|conj|||or; respectively|B2|4|b|discourse|written|Bitte rufen Sie an bzw. schreiben Sie eine E-Mail.|Please call or write an email.|Short for beziehungsweise.|r=beziehungsweise||why=extremely frequent in written texts
+beziehungsweise|w|conj|||or rather; respectively|B2|4|r|discourse|formal|Die Kurse finden montags beziehungsweise mittwochs statt.|The courses take place on Mondays and Wednesdays respectively.|||r=bzw.
+zumal|w|conj|||especially as|B2|4|r|discourse||Ich bleibe zu Hause, zumal es regnet.|I'm staying at home, especially as it's raining.|Verb at the end.|
+wohingegen|w|conj|||whereas|B2|4|r|discourse|formal|Er liebt den Winter, wohingegen sie den Sommer vorzieht.|He loves winter, whereas she prefers summer.|Verb at the end.|r=während
+sowie|w|conj|||as well as; as soon as|B2|4|b|discourse|written|Mitzubringen sind Ausweis sowie Meldebescheinigung.|Bring your ID as well as your registration certificate.|Formal for und.|r=und||why=most frequent uncovered lemma in web text
+zudem|w|adv|||moreover; in addition|B2|4|b|discourse|written|Die Wohnung ist hell, zudem ist sie günstig.|The flat is bright; moreover it's cheap.|||r=außerdem||why=top uncovered lemma in web/news
+ferner|w|adv|||furthermore|B2|4|r|discourse|formal|Ferner bitten wir um Ihre Unterschrift.|Furthermore, we ask for your signature.|||r=außerdem
+überdies|w|adv|||moreover|B2|4|r|discourse|formal|Das Angebot ist teuer und überdies befristet.|The offer is expensive and moreover time-limited.|||r=außerdem
+insbesondere|w|adv|||in particular; especially|B2|4|b|discourse|written|Insbesondere ältere Menschen sind betroffen.|Older people in particular are affected.|||r=besonders
+beispielsweise|w|adv|||for example|B2|4|b|discourse|written|Man kann beispielsweise online bezahlen.|You can, for example, pay online.|||r=zum Beispiel
+letztlich|w|adv|||ultimately; in the end|B2|4|r|discourse||Letztlich entscheidet der Chef.|Ultimately the boss decides.|||r=letztendlich;schließlich
+letztendlich|w|adv|||in the end; ultimately|B2|4|b|discourse||Letztendlich hat alles geklappt.|In the end everything worked out.|||r=letztlich
+ohnehin|w|adv|||anyway; in any case|B2|4|r|discourse||Ich muss ohnehin in die Stadt.|I have to go into town anyway.|||r=sowieso
+immerhin|w|adv|||at least; after all|B2|4|b|discourse||Immerhin hat er sich entschuldigt.|At least he apologised.|||r=wenigstens
+durchaus|w|adv|||quite; definitely|B2|4|r|discourse||Das ist durchaus möglich.|That's quite possible.|||
+keineswegs|w|adv|||by no means|B2|4|r|discourse||Das ist keineswegs selbstverständlich.|That's by no means a matter of course.|||r=keinesfalls
+keinesfalls|w|adv|||under no circumstances|B2|4|r|discourse|formal|Lassen Sie das Gepäck keinesfalls unbeaufsichtigt.|Never leave your luggage unattended.|||r=auf keinen Fall
+gewiss|w|adv|||certainly|B2|4|r|discourse|formal|Das wird gewiss nicht leicht.|That certainly won't be easy.|Also adjective: ein gewisser Herr Müller = a certain Mr Müller.|r=sicher
+anscheinend|w|adv|||apparently|B2|4|b|discourse||Anscheinend ist niemand zu Hause.|Apparently nobody's home.|||r=offenbar;scheinbar
+scheinbar|w|adv|||seemingly; (colloquial) apparently|B2|4|r|discourse||Das Problem ist nur scheinbar einfach.|The problem only seems simple.|Strictly 'seemingly (but not really)'; colloquially = anscheinend.|r=anscheinend
+womöglich|w|adv|||possibly|B2|4|r|discourse||Womöglich hat er den Termin vergessen.|He may have forgotten the appointment.|||r=vielleicht;möglicherweise
+bislang|w|adv|||so far; up to now|B2|4|r|time|written|Bislang gibt es keine Informationen.|There's no information so far.|||r=bisher
+derzeit|w|adv|||currently|B2|4|b|time|formal|Das Büro ist derzeit nicht besetzt.|The office is currently unstaffed.|||r=zurzeit;momentan
+momentan|w|adv|||at the moment|B2|4|b|time||Momentan habe ich viel zu tun.|I've got a lot on at the moment.|||r=zurzeit
+heutzutage|w|adv|||nowadays|B2|4|b|time||Heutzutage hat jeder ein Smartphone.|Nowadays everyone has a smartphone.|||
+künftig|w|adv|||in future|B2|4|r|time|formal|Künftig gelten neue Öffnungszeiten.|New opening hours will apply in future.|||r=zukünftig
+zuvor|w|adv|||before; previously|B2|4|r|time||Am Tag zuvor war alles noch in Ordnung.|The day before everything was still fine.|||r=vorher
+erneut|w|adv|||again; once more|B2|4|r|time|written|Bitte versuchen Sie es später erneut.|Please try again later.|||r=wieder||why=standard error message
+stets|w|adv|||always|B2|4|r|time|formal|Er war stets freundlich und hilfsbereit.|He was always friendly and helpful.|||r=immer||why=German reference letters (Arbeitszeugnis)
+jederzeit|w|adv|||at any time|B2|4|b|time||Sie können mich jederzeit anrufen.|You can call me any time.|||
+lediglich|w|adv|||merely; only|B2|4|r|discourse|formal|Es fehlt lediglich eine Unterschrift.|Only a signature is missing.|||r=nur
+weitgehend|w|adv|||largely|B2|4|r|discourse|formal|Die Arbeiten sind weitgehend abgeschlossen.|The work is largely complete.|||
+teilweise|w|adv|||partly|B2|4|b|discourse||Ich bin teilweise einverstanden.|I partly agree.|||r=zum Teil
+größtenteils|w|adv|||for the most part|B2|4|r|discourse||Die Gäste waren größtenteils Familie.|The guests were mostly family.|||
+überwiegend|w|adv|||predominantly|B2|4|r|discourse|formal|Das Wetter bleibt überwiegend sonnig.|The weather stays predominantly sunny.|||why=weather forecasts
+vorwiegend|w|adv|||mainly|B2|4|r|discourse|formal|Die Kunden sind vorwiegend junge Leute.|The customers are mainly young people.|||r=hauptsächlich
+hauptsächlich|w|adv|||mainly; mostly|B2|4|b|discourse||Ich arbeite hauptsächlich von zu Hause.|I mainly work from home.|||
+anschließend|w|adv|||afterwards; subsequently|B2|4|b|time||Wir essen und gehen anschließend ins Kino.|We'll eat and then go to the cinema.|||r=danach
+daraufhin|w|adv|||thereupon; as a result|B2|4|r|time|written|Er beschwerte sich, daraufhin bekam er sein Geld zurück.|He complained, whereupon he got his money back.|||
+somit|w|adv|||thus; therefore|B2|4|r|discourse|formal|Die Prüfung ist bestanden, somit erhalten Sie das Zertifikat.|You've passed the exam and will therefore receive the certificate.|||r=also;deshalb
+demnach|w|adv|||accordingly; according to that|B2|4|r|discourse|formal|Demnach müssen wir die Miete nicht erhöhen.|Accordingly, we don't need to raise the rent.|||
+hierbei|w|adv|||here; in this case|B2|4|r|discourse|formal|Hierbei handelt es sich um ein Missverständnis.|This is a misunderstanding.|||c=es handelt sich um
+hierzu|w|adv|||on this; for this|B2|4|r|discourse|formal|Hierzu gibt es weitere Informationen online.|There is further information on this online.|||
+wobei|w|conj|||whereby; although|B2|4|b|discourse|spoken|Ich komme mit, wobei ich nicht lange bleiben kann.|I'll come along, although I can't stay long.|Verb at the end; spoken: correction marker.|
+zugleich|w|adv|||at the same time|B2|4|r|discourse||Sie ist Mutter und zugleich Chefin.|She's a mother and at the same time a boss.|||r=gleichzeitig
+hingegen|w|adv|||on the other hand; by contrast|B2|4|r|discourse|formal|Im Süden regnet es, im Norden hingegen scheint die Sonne.|It's raining in the south; in the north, by contrast, the sun is shining.|||r=dagegen
+dementsprechend|w|adv|||accordingly|B2|4|r|discourse||Er war krank und dementsprechend müde.|He was ill and accordingly tired.|||r=entsprechend
+entsprechend|w|adj|||corresponding; appropriate|B2|4|b|discourse||Füllen Sie das entsprechende Formular aus.|Fill in the relevant form.|Also preposition + Dat: entsprechend Ihrem Wunsch.|why=top uncovered lemma in web text
+gegebenenfalls|w|adv|||if necessary|B2|4|r|bureaucracy|formal|Gegebenenfalls schicken wir Ihnen weitere Unterlagen.|If necessary we'll send you further documents.|Abbreviation: ggf.||why=very common in official letters
+ggf.|w|adv|||if necessary (abbr.)|B2|4|r|bureaucracy|written|Bitte ggf. Kopie beilegen.|Please enclose a copy if applicable.|Read: gegebenenfalls.|r=gegebenenfalls
+z. B.|w|adv|||e.g.|A2|4|r|discourse|written|Obst, z. B. Äpfel und Birnen.|Fruit, e.g. apples and pears.|Read: zum Beispiel.|r=zum Beispiel
+usw.|w|adv|||etc.|A2|4|r|discourse|written|Brot, Milch, Käse usw.|Bread, milk, cheese, etc.|Read: und so weiter.|
+d. h.|w|adv|||i.e.|B2|4|r|discourse|written|Die Praxis ist geschlossen, d. h. Sie müssen zum Notdienst.|The practice is closed, i.e. you have to go to the emergency service.|Read: das heißt.|r=das heißt
+u. a.|w|adv|||among others|B2|4|r|discourse|written|Es kamen Gäste aus u. a. Polen und Spanien.|Guests came from Poland and Spain, among others.|Read: unter anderem.|r=unter anderem
+unter anderem|f|phrase|||among other things|B2|4|b|discourse||Wir sprachen unter anderem über die Miete.|We talked about the rent, among other things.|||why=very frequent fixed unit; prepositions alone don't give its meaning
+im Grunde|f|phrase|||basically|B2|4|b|discourse||Im Grunde hast du recht.|Basically you're right.|||r=eigentlich||why=idiomatic, not derivable
+im Gegenteil|f|phrase|||on the contrary|B2|4|b|discourse||Ich bin nicht müde, im Gegenteil!|I'm not tired, quite the opposite!|||r=Gegenteil
+im Allgemeinen|f|phrase|||in general|B2|4|b|discourse||Im Allgemeinen ist der Service gut.|In general the service is good.|||r=allgemein
+in der Regel|f|phrase|||as a rule; usually|B2|4|b|discourse||In der Regel antworten wir innerhalb von zwei Tagen.|As a rule we reply within two days.|||why=very frequent in service communication
+im Hinblick auf|f|phrase|||with a view to; regarding|B2|4|r|discourse|formal|Im Hinblick auf die Prüfung lernen wir mehr.|With the exam in mind we're studying more.|+Akk.|
+im Laufe|f|phrase|||in the course of|B2|4|r|time||Im Laufe des Tages wird es wärmer.|It'll get warmer in the course of the day.|+Gen.||why=weather forecasts, news
+im Rahmen|f|phrase|||as part of; within the framework of|B2|4|r|discourse|formal|Im Rahmen des Projekts gibt es kostenlose Kurse.|There are free courses as part of the project.|+Gen.||why=top uncovered lemma (Rahmen) in web text
+zum einen … zum anderen|c|conj|||on the one hand … on the other|B2|4|r|discourse||Zum einen fehlt Zeit, zum anderen Geld.|For one thing there's a lack of time, for another money.|pattern|r=einerseits
+nicht nur … sondern auch|c|conj|||not only … but also|B1|4|b|discourse||Sie spricht nicht nur Deutsch, sondern auch Spanisch.|She speaks not only German but also Spanish.|pattern|r=sowohl … als auch
+weder … noch|c|conj|||neither … nor|B1|4|b|discourse||Ich habe weder Zeit noch Lust.|I have neither the time nor the inclination.|pattern
+je … desto|c|conj|||the … the|B1|4|b|discourse||Je früher wir anfangen, desto besser.|The earlier we start, the better.|pattern|r=umso
+geschweige denn|f|phrase|||let alone|B2|4|r|discourse||Ich kann kaum laufen, geschweige denn tanzen.|I can barely walk, let alone dance.|||why=opaque fixed expression

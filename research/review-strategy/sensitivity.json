@@ -1,0 +1,258 @@
+{
+ "sensitivity": {
+  "baseline (spread 0.6, MC gain 0.6, recognition 0.5)": {
+   "A current": {
+    "words_introduced": 356,
+    "mean_recall_end": 98.0,
+    "known_words_end": 349,
+    "known_per_100_answers": 9.5,
+    "answers_total": 3650
+   },
+   "B + weekly cumulative quiz": {
+    "words_introduced": 362.3,
+    "mean_recall_end": 98.4,
+    "known_words_end": 356.7,
+    "known_per_100_answers": 5.9,
+    "answers_total": 6024.3
+   },
+   "C + 2 random strong words/day": {
+    "words_introduced": 392.3,
+    "mean_recall_end": 97.9,
+    "known_words_end": 384,
+    "known_per_100_answers": 8.8,
+    "answers_total": 4364
+   },
+   "G = D + E + F": {
+    "words_introduced": 397,
+    "mean_recall_end": 96.8,
+    "known_words_end": 385,
+    "known_per_100_answers": 10.5,
+    "answers_total": 3650
+   },
+   "H FSRS scheduler, 90 % target": {
+    "words_introduced": 528,
+    "mean_recall_end": 95.1,
+    "known_words_end": 502,
+    "known_per_100_answers": 13.8,
+    "answers_total": 3650
+   },
+   "I FSRS scheduler, 85 % target": {
+    "words_introduced": 652.3,
+    "mean_recall_end": 92.7,
+    "known_words_end": 604.7,
+    "known_per_100_answers": 16.5,
+    "answers_total": 3650
+   }
+  },
+  "words more alike (spread 0.3)": {
+   "A current": {
+    "words_introduced": 356,
+    "mean_recall_end": 98.0,
+    "known_words_end": 349,
+    "known_per_100_answers": 9.6,
+    "answers_total": 3650
+   },
+   "B + weekly cumulative quiz": {
+    "words_introduced": 362,
+    "mean_recall_end": 98.4,
+    "known_words_end": 356.3,
+    "known_per_100_answers": 5.9,
+    "answers_total": 6028.7
+   },
+   "C + 2 random strong words/day": {
+    "words_introduced": 395,
+    "mean_recall_end": 98.0,
+    "known_words_end": 387,
+    "known_per_100_answers": 8.9,
+    "answers_total": 4364
+   },
+   "G = D + E + F": {
+    "words_introduced": 404.3,
+    "mean_recall_end": 96.9,
+    "known_words_end": 392,
+    "known_per_100_answers": 10.8,
+    "answers_total": 3650
+   },
+   "H FSRS scheduler, 90 % target": {
+    "words_introduced": 529.7,
+    "mean_recall_end": 95.1,
+    "known_words_end": 503.7,
+    "known_per_100_answers": 13.8,
+    "answers_total": 3650
+   },
+   "I FSRS scheduler, 85 % target": {
+    "words_introduced": 660,
+    "mean_recall_end": 92.9,
+    "known_words_end": 613,
+    "known_per_100_answers": 16.8,
+    "answers_total": 3650
+   }
+  },
+  "words very unequal (spread 1.0)": {
+   "A current": {
+    "words_introduced": 353.7,
+    "mean_recall_end": 97.6,
+    "known_words_end": 345.3,
+    "known_per_100_answers": 9.4,
+    "answers_total": 3650
+   },
+   "B + weekly cumulative quiz": {
+    "words_introduced": 353.3,
+    "mean_recall_end": 98.1,
+    "known_words_end": 346.7,
+    "known_per_100_answers": 5.8,
+    "answers_total": 6001.3
+   },
+   "C + 2 random strong words/day": {
+    "words_introduced": 386.3,
+    "mean_recall_end": 97.8,
+    "known_words_end": 378.3,
+    "known_per_100_answers": 8.7,
+    "answers_total": 4364
+   },
+   "G = D + E + F": {
+    "words_introduced": 388.7,
+    "mean_recall_end": 96.7,
+    "known_words_end": 375.7,
+    "known_per_100_answers": 10.3,
+    "answers_total": 3650
+   },
+   "H FSRS scheduler, 90 % target": {
+    "words_introduced": 516.7,
+    "mean_recall_end": 95.1,
+    "known_words_end": 491.3,
+    "known_per_100_answers": 13.5,
+    "answers_total": 3650
+   },
+   "I FSRS scheduler, 85 % target": {
+    "words_introduced": 637,
+    "mean_recall_end": 92.6,
+    "known_words_end": 589.3,
+    "known_per_100_answers": 16.1,
+    "answers_total": 3650
+   }
+  },
+  "multiple choice nearly as good as recall (0.9)": {
+   "A current": {
+    "words_introduced": 359.7,
+    "mean_recall_end": 97.9,
+    "known_words_end": 352.3,
+    "known_per_100_answers": 9.7,
+    "answers_total": 3650
+   },
+   "B + weekly cumulative quiz": {
+    "words_introduced": 363,
+    "mean_recall_end": 98.4,
+    "known_words_end": 357.3,
+    "known_per_100_answers": 5.9,
+    "answers_total": 6027.7
+   },
+   "C + 2 random strong words/day": {
+    "words_introduced": 398.7,
+    "mean_recall_end": 98.1,
+    "known_words_end": 391,
+    "known_per_100_answers": 9.0,
+    "answers_total": 4364
+   },
+   "G = D + E + F": {
+    "words_introduced": 397.7,
+    "mean_recall_end": 96.9,
+    "known_words_end": 385.3,
+    "known_per_100_answers": 10.5,
+    "answers_total": 3650
+   },
+   "H FSRS scheduler, 90 % target": {
+    "words_introduced": 543.3,
+    "mean_recall_end": 95.2,
+    "known_words_end": 517.3,
+    "known_per_100_answers": 14.2,
+    "answers_total": 3650
+   },
+   "I FSRS scheduler, 85 % target": {
+    "words_introduced": 690,
+    "mean_recall_end": 92.8,
+    "known_words_end": 640.3,
+    "known_per_100_answers": 17.6,
+    "answers_total": 3650
+   }
+  },
+  "multiple choice weak (0.3), recognition easy (0.3)": {
+   "A current": {
+    "words_introduced": 350,
+    "mean_recall_end": 97.7,
+    "known_words_end": 342,
+    "known_per_100_answers": 9.4,
+    "answers_total": 3650
+   },
+   "B + weekly cumulative quiz": {
+    "words_introduced": 359.7,
+    "mean_recall_end": 98.4,
+    "known_words_end": 354,
+    "known_per_100_answers": 5.9,
+    "answers_total": 6014
+   },
+   "C + 2 random strong words/day": {
+    "words_introduced": 389.7,
+    "mean_recall_end": 97.8,
+    "known_words_end": 381.3,
+    "known_per_100_answers": 8.7,
+    "answers_total": 4364
+   },
+   "G = D + E + F": {
+    "words_introduced": 398.7,
+    "mean_recall_end": 96.9,
+    "known_words_end": 386.3,
+    "known_per_100_answers": 10.6,
+    "answers_total": 3650
+   },
+   "H FSRS scheduler, 90 % target": {
+    "words_introduced": 523.3,
+    "mean_recall_end": 95.1,
+    "known_words_end": 498.3,
+    "known_per_100_answers": 13.7,
+    "answers_total": 3650
+   },
+   "I FSRS scheduler, 85 % target": {
+    "words_introduced": 630.7,
+    "mean_recall_end": 92.8,
+    "known_words_end": 585.3,
+    "known_per_100_answers": 16.0,
+    "answers_total": 3650
+   }
+  }
+ },
+ "milestones": {
+  "A current @ 10/day": {
+   "761": null,
+   "1839": null
+  },
+  "G = D + E + F @ 10/day": {
+   "761": 845,
+   "1839": null
+  },
+  "H FSRS scheduler, 90 % target @ 10/day": {
+   "761": 648,
+   "1839": null
+  },
+  "I FSRS scheduler, 85 % target @ 10/day": {
+   "761": 465,
+   "1839": null
+  },
+  "A current @ 20/day": {
+   "761": 403,
+   "1839": null
+  },
+  "G = D + E + F @ 20/day": {
+   "761": 344,
+   "1839": 1109
+  },
+  "H FSRS scheduler, 90 % target @ 20/day": {
+   "761": 205,
+   "1839": 806
+  },
+  "I FSRS scheduler, 85 % target @ 20/day": {
+   "761": 151,
+   "1839": 613
+  }
+ }
+}

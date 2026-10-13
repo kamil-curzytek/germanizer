@@ -1,0 +1,191 @@
+# Tier 4 · B2 verbs (formal written, media, work and argumentation; ordered roughly by candidate priority)
+# german|type|pos|article|plural|english|cefr|tier|mode|topics|register|example|example_en|grammar|f=|c=|r=|why=
+erfolgen|w|verb|||to take place; to be effected|B2|4|r|bureaucracy|formal|Die Zahlung erfolgt per Überweisung.|Payment is made by bank transfer.|aux:sein|f=erfolgt, erfolgte, ist erfolgt||why=top uncovered verb in web text; official style
+ermöglichen|w|verb|||to make possible; to enable|B2|4|b|discourse|formal|Das Stipendium ermöglicht mir das Studium.|The scholarship makes my studies possible.|insep;+Akk|f=ermöglicht, ermöglichte, hat ermöglicht||why=top uncovered verb in web text
+durchführen|w|verb|||to carry out|B2|4|b|work|formal|Wir führen eine Umfrage durch.|We're carrying out a survey.|sep|f=führt durch, führte durch, hat durchgeführt|r=Durchführung
+gestalten|w|verb|||to design; to shape|B2|4|r|work,leisure||Wir gestalten den Garten neu.|We're redesigning the garden.|insep|f=gestaltet, gestaltete, hat gestaltet
+umsetzen|w|verb|||to implement; to put into practice|B2|4|b|work||Wir müssen den Plan jetzt umsetzen.|We need to implement the plan now.|sep|f=setzt um, setzte um, hat umgesetzt|r=Umsetzung
+umfassen|w|verb|||to comprise; to include|B2|4|r|discourse|formal|Der Kurs umfasst zehn Termine.|The course comprises ten sessions.|insep|f=umfasst, umfasste, hat umfasst
+verfügen|w|verb|||to have at one's disposal|B2|4|r|discourse|formal|Die Wohnung verfügt über einen Balkon.|The flat has a balcony.|insep;prep:über|f=verfügt, verfügte, hat verfügt|c=verfügen über|r=Verfügung
+berücksichtigen|w|verb|||to take into account|B2|4|b|discourse|formal|Bitte berücksichtigen Sie die Lieferzeit.|Please take the delivery time into account.|insep;+Akk|f=berücksichtigt, berücksichtigte, hat berücksichtigt
+verpflichten|w|verb|||to oblige; to commit|B2|4|r|law,work|formal|Der Vermieter ist verpflichtet, die Heizung zu reparieren.|The landlord is obliged to repair the heating.|insep|f=verpflichtet, verpflichtete, hat verpflichtet|c=verpflichtet sein|r=Pflicht
+erheben|w|verb|||to raise; to charge (a fee); to collect (data)|B2|4|r|bureaucracy|formal|Für die Bearbeitung wird eine Gebühr erhoben.|A fee is charged for processing.|irreg;insep|f=erhebt, erhob, hat erhoben
+betragen|w|verb|||to amount to|B2|4|b|money|formal|Die Miete beträgt 800 Euro.|The rent amounts to 800 euros.|irreg;insep|f=beträgt, betrug, hat betragen||why=standard in contracts and bills
+vorliegen|w|verb|||to be available; to exist|B2|4|r|bureaucracy|formal|Uns liegen noch keine Unterlagen vor.|We don't have the documents yet.|irreg;sep|f=liegt vor, lag vor, hat vorgelegen
+profitieren|w|verb|||to benefit|B2|4|r|money,work||Alle profitieren von dem neuen Angebot.|Everyone benefits from the new offer.|prep:von|f=profitiert, profitierte, hat profitiert
+erweitern|w|verb|||to expand; to extend|B2|4|r|work,education||Ich möchte meine Kenntnisse erweitern.|I'd like to extend my knowledge.|insep|f=erweitert, erweiterte, hat erweitert
+verarbeiten|w|verb|||to process|B2|4|r|technology,law|formal|Ihre Daten werden vertraulich verarbeitet.|Your data are processed confidentially.|insep|f=verarbeitet, verarbeitete, hat verarbeitet||why=data-protection notices (DSGVO)
+engagieren|w|verb|||to get involved; to hire|B2|4|r|society||Sie engagiert sich für Flüchtlinge.|She's involved in helping refugees.|refl;prep:für|f=engagiert sich, engagierte sich, hat sich engagiert|r=Engagement
+stärken|w|verb|||to strengthen|B2|4|r|society,health||Sport stärkt das Immunsystem.|Sport strengthens the immune system.|+Akk|f=stärkt, stärkte, hat gestärkt|r=stark;Stärke
+vermitteln|w|verb|||to convey; to arrange; to mediate|B2|4|r|work,education||Die Agentur vermittelt Wohnungen.|The agency arranges flats.|insep|f=vermittelt, vermittelte, hat vermittelt|r=Vermittlung
+bilden|w|verb|||to form; to educate|B2|4|r|discourse,education||Bilden Sie Gruppen zu dritt.|Form groups of three.|+Akk|f=bildet, bildete, hat gebildet|r=Bildung
+ergeben|w|verb|||to result in; to yield|B2|4|r|discourse||Die Umfrage ergab ein klares Bild.|The survey produced a clear picture.|irreg;insep|f=ergibt, ergab, hat ergeben|c=sich ergeben aus
+zulassen|w|verb|||to allow; to register (car)|B2|4|r|bureaucracy,transport||Das Auto ist auf mich zugelassen.|The car is registered in my name.|irreg;sep|f=lässt zu, ließ zu, hat zugelassen|r=Zulassung
+eintreten|w|verb|||to enter; to occur; to join|B2|4|r|everyday||Bitte treten Sie ein.|Please come in.|irreg;sep;aux:sein|f=tritt ein, trat ein, ist eingetreten
+auflösen|w|verb|||to dissolve; to break up|B2|4|r|everyday||Die Tablette in Wasser auflösen.|Dissolve the tablet in water.|sep|f=löst auf, löste auf, hat aufgelöst
+aufführen|w|verb|||to perform; to list|B2|4|r|leisure||Das Theater führt ein neues Stück auf.|The theatre is staging a new play.|sep|f=führt auf, führte auf, hat aufgeführt
+beschädigen|w|verb|||to damage|B2|4|r|everyday,law||Das Paket wurde beim Transport beschädigt.|The parcel was damaged in transit.|insep|f=beschädigt, beschädigte, hat beschädigt|r=Schaden
+ereignen|w|verb|||to happen; to occur|B2|4|r|media|formal|Der Unfall ereignete sich gegen 8 Uhr.|The accident happened at around 8 o'clock.|refl;insep|f=ereignet sich, ereignete sich, hat sich ereignet|r=Ereignis||why=news reports
+entschließen|w|verb|||to decide; to make up one's mind|B2|4|r|everyday||Wir haben uns entschlossen umzuziehen.|We've decided to move.|irreg;refl;insep|f=entschließt sich, entschloss sich, hat sich entschlossen|r=Entschluss
+angreifen|w|verb|||to attack|B2|4|r|media||Der Hund hat ein Kind angegriffen.|The dog attacked a child.|irreg;sep|f=greift an, griff an, hat angegriffen|r=Angriff
+aufbauen|w|verb|||to build up; to set up|B2|4|b|work,home||Kannst du mir helfen, das Regal aufzubauen?|Can you help me put up the shelf?|sep|f=baut auf, baute auf, hat aufgebaut
+erziehen|w|verb|||to bring up; to educate|B2|4|r|family||Sie erzieht ihre Kinder zweisprachig.|She's bringing up her children bilingually.|irreg;insep|f=erzieht, erzog, hat erzogen|r=Erziehung
+vergeben|w|verb|||to forgive; to award|B2|4|r|people||Ich habe ihm vergeben.|I've forgiven him.|irreg;insep|f=vergibt, vergab, hat vergeben|r=verzeihen
+befreien|w|verb|||to free; to exempt|B2|4|r|society,bureaucracy||Er ist von der Gebühr befreit.|He's exempt from the fee.|insep|f=befreit, befreite, hat befreit
+zurückkehren|w|verb|||to return|B2|4|r|travel|formal|Nach zehn Jahren kehrte sie nach Polen zurück.|After ten years she returned to Poland.|sep;aux:sein|f=kehrt zurück, kehrte zurück, ist zurückgekehrt|r=zurückkommen
+angehen|w|verb|||to concern; to tackle|B2|4|r|discourse|spoken|Das geht dich nichts an!|That's none of your business!|irreg;sep|f=geht an, ging an, ist angegangen|c=Das geht dich nichts an.
+betrachten|w|verb|||to look at; to regard|B2|4|r|discourse||Ich betrachte das als Chance.|I regard it as an opportunity.|insep|f=betrachtet, betrachtete, hat betrachtet|c=betrachten als
+bereiten|w|verb|||to cause; to prepare|B2|4|r|discourse||Das bereitet mir Sorgen.|That worries me.|insep|f=bereitet, bereitete, hat bereitet|c=Sorgen bereiten;Freude bereiten
+vergehen|w|verb|||to pass (time)|B2|4|r|time||Die Zeit vergeht so schnell.|Time passes so quickly.|irreg;insep;aux:sein|f=vergeht, verging, ist vergangen|r=vergangen
+stoßen|w|verb|||to push; to bump; to come across|B2|4|r|everyday||Ich bin auf ein Problem gestoßen.|I came across a problem.|irreg|f=stößt, stieß, ist/hat gestoßen|c=stoßen auf
+drohen|w|verb|||to threaten|B2|4|r|media,law||Den Mietern droht die Kündigung.|The tenants are threatened with eviction.|+Dat|f=droht, drohte, hat gedroht|r=Drohung
+trauen|w|verb|||to trust; to dare|B2|4|r|feelings||Ich traue mich nicht, ihn zu fragen.|I don't dare ask him.|refl;+Dat|f=traut, traute, hat getraut|r=vertrauen
+auftauchen|w|verb|||to turn up; to emerge|B2|4|r|everyday||Plötzlich tauchte mein Schlüssel wieder auf.|Suddenly my key turned up again.|sep;aux:sein|f=taucht auf, tauchte auf, ist aufgetaucht
+eingehen|w|verb|||to go into; to accept; to arrive|B2|4|r|discourse,work|formal|Ihre Zahlung ist bei uns eingegangen.|We have received your payment.|irreg;sep;aux:sein|f=geht ein, ging ein, ist eingegangen|c=eingehen auf;ein Risiko eingehen
+verwandeln|w|verb|||to transform|B2|4|r|everyday||Der Regen verwandelte den Weg in Schlamm.|The rain turned the path into mud.|insep|f=verwandelt, verwandelte, hat verwandelt
+anstrengen|w|verb|||to make an effort|B2|4|b|work,health||Du musst dich mehr anstrengen.|You need to try harder.|refl;sep|f=strengt sich an, strengte sich an, hat sich angestrengt|r=anstrengend
+entsorgen|w|verb|||to dispose of|B2|4|r|home,environment||Alte Batterien muss man richtig entsorgen.|Old batteries have to be disposed of properly.|insep|f=entsorgt, entsorgte, hat entsorgt||why=Germany: waste separation rules
+anhalten|w|verb|||to stop; to continue (weather)|B2|4|r|transport,weather||Der Bus hält hier nicht an.|The bus doesn't stop here.|irreg;sep|f=hält an, hielt an, hat angehalten
+versäumen|w|verb|||to miss; to fail to do|B2|4|r|bureaucracy|formal|Wer die Frist versäumt, muss eine Gebühr zahlen.|Anyone who misses the deadline must pay a fee.|insep|f=versäumt, versäumte, hat versäumt|r=verpassen
+bezeichnen|w|verb|||to call; to describe as|B2|4|r|discourse||Man bezeichnet ihn als Experten.|He's described as an expert.|insep|f=bezeichnet, bezeichnete, hat bezeichnet|c=bezeichnen als
+entkommen|w|verb|||to escape|B2|4|r|media||Der Täter ist entkommen.|The culprit has escaped.|irreg;insep;aux:sein|f=entkommt, entkam, ist entkommen
+streiken|w|verb|||to strike|B2|4|b|work,transport||Die Lokführer streiken morgen.|The train drivers are on strike tomorrow.||f=streikt, streikte, hat gestreikt|r=Streik||why=Germany: frequent transport strikes
+aktivieren|w|verb|||to activate|B2|4|r|technology||Aktivieren Sie Ihr Konto über den Link.|Activate your account via the link.||f=aktiviert, aktivierte, hat aktiviert
+sperren|w|verb|||to block; to close off|B2|4|b|money,transport||Ich muss meine Karte sperren lassen.|I need to have my card blocked.||f=sperrt, sperrte, hat gesperrt|r=gesperrt||why=lost card: Sperr-Notruf 116 116
+bewahren|w|verb|||to keep; to preserve|B2|4|r|everyday|formal|Bewahren Sie die Quittung gut auf.|Keep the receipt safe.|insep|f=bewahrt, bewahrte, hat bewahrt|c=aufbewahren;Ruhe bewahren
+verteidigen|w|verb|||to defend|B2|4|r|society,law||Er verteidigt seine Meinung.|He's defending his opinion.|insep|f=verteidigt, verteidigte, hat verteidigt
+beziehen|w|verb|||to refer; to receive (benefit); to move into|B2|4|r|bureaucracy|formal|Ich beziehe mich auf Ihr Schreiben vom 3. Mai.|I refer to your letter of 3 May.|irreg;insep;refl;prep:auf|f=bezieht, bezog, hat bezogen||why=standard formal-letter opening
+herrschen|w|verb|||to prevail; to rule|B2|4|r|media||In der Stadt herrscht Chaos.|Chaos reigns in the city.||f=herrscht, herrschte, hat geherrscht
+vorgehen|w|verb|||to proceed; (clock) to be fast|B2|4|r|discourse||Wie sollen wir vorgehen?|How should we proceed?|irreg;sep;aux:sein|f=geht vor, ging vor, ist vorgegangen|c=Was geht hier vor?
+auslösen|w|verb|||to trigger|B2|4|r|media||Der Rauch hat den Alarm ausgelöst.|The smoke set off the alarm.|sep|f=löst aus, löste aus, hat ausgelöst
+berühren|w|verb|||to touch|B2|4|r|everyday,feelings||Bitte nicht berühren!|Please do not touch!|insep|f=berührt, berührte, hat berührt
+sicherstellen|w|verb|||to ensure; to seize|B2|4|r|work,law|formal|Wir müssen sicherstellen, dass alle informiert sind.|We need to ensure that everyone is informed.|sep|f=stellt sicher, stellte sicher, hat sichergestellt
+füllen|w|verb|||to fill|B2|4|r|everyday||Füll die Flasche mit Wasser.|Fill the bottle with water.||f=füllt, füllte, hat gefüllt|r=ausfüllen
+verbreiten|w|verb|||to spread|B2|4|r|media||Die Nachricht verbreitete sich schnell.|The news spread quickly.|insep|f=verbreitet, verbreitete, hat verbreitet
+überlassen|w|verb|||to leave (to someone)|B2|4|r|discourse||Das überlasse ich dir.|I'll leave that to you.|irreg;insep|f=überlässt, überließ, hat überlassen
+anlegen|w|verb|||to create (account); to invest; to put on|B2|4|r|technology,money||Legen Sie ein neues Benutzerkonto an.|Create a new user account.|sep|f=legt an, legte an, hat angelegt
+reißen|w|verb|||to tear; to rip|B2|4|r|everyday||Die Tüte ist gerissen.|The bag has torn.|irreg|f=reißt, riss, ist/hat gerissen
+beeindrucken|w|verb|||to impress|B2|4|r|feelings||Die Aussicht hat uns sehr beeindruckt.|The view really impressed us.|insep|f=beeindruckt, beeindruckte, hat beeindruckt|r=beeindruckend
+versorgen|w|verb|||to supply; to look after|B2|4|r|healthcare,family||Sie versorgt ihre kranke Mutter.|She looks after her sick mother.|insep|f=versorgt, versorgte, hat versorgt|r=Versorgung
+begeistern|w|verb|||to inspire; to thrill|B2|4|r|feelings||Der Film hat mich begeistert.|I loved the film.|insep|f=begeistert, begeisterte, hat begeistert|r=begeistert
+entsprechen|w|verb|||to correspond to; to meet|B2|4|r|discourse|formal|Das entspricht nicht unseren Erwartungen.|That doesn't meet our expectations.|irreg;insep;+Dat|f=entspricht, entsprach, hat entsprochen|r=entsprechend
+besiegen|w|verb|||to defeat|B2|4|r|leisure||Sie haben den Weltmeister besiegt.|They defeated the world champion.|insep|f=besiegt, besiegte, hat besiegt|r=Sieg
+anpassen|w|verb|||to adapt; to adjust|B2|4|b|everyday,work||Ich habe mich schnell angepasst.|I adapted quickly.|sep;refl|f=passt an, passte an, hat angepasst|r=Anpassung
+betreiben|w|verb|||to run; to operate|B2|4|r|work||Die Familie betreibt ein kleines Hotel.|The family runs a small hotel.|irreg;insep|f=betreibt, betrieb, hat betrieben|r=Betrieb
+empfinden|w|verb|||to feel; to perceive|B2|4|r|feelings||Wie empfinden Sie die Situation?|How do you feel about the situation?|irreg;insep|f=empfindet, empfand, hat empfunden
+absehen|w|verb|||to foresee; to disregard|B2|4|r|discourse||Ein Ende ist nicht abzusehen.|There's no end in sight.|irreg;sep|f=sieht ab, sah ab, hat abgesehen|c=abgesehen von
+aufstellen|w|verb|||to set up; to put up|B2|4|r|everyday||Wir stellen das Zelt hier auf.|We'll put the tent up here.|sep|f=stellt auf, stellte auf, hat aufgestellt
+aussetzen|w|verb|||to abandon; to suspend; to stop|B2|4|r|everyday||Der Motor setzt immer wieder aus.|The engine keeps cutting out.|sep|f=setzt aus, setzte aus, hat ausgesetzt
+betreten|w|verb|||to enter; to step on|B2|4|r|everyday|formal|Betreten der Baustelle verboten!|No entry to the construction site!|irreg;insep|f=betritt, betrat, hat betreten||why=common sign
+blicken|w|verb|||to look; to glance|B2|4|r|everyday||Sie blickte aus dem Fenster.|She looked out of the window.||f=blickt, blickte, hat geblickt|r=Blick
+schminken|w|verb|||to put on make-up|B2|4|r|everyday||Sie schminkt sich jeden Morgen.|She puts on make-up every morning.|refl|f=schminkt sich, schminkte sich, hat sich geschminkt
+identifizieren|w|verb|||to identify|B2|4|r|law,technology||Der Täter wurde identifiziert.|The culprit was identified.||f=identifiziert, identifizierte, hat identifiziert
+bedrohen|w|verb|||to threaten|B2|4|r|media,law||Viele Tierarten sind bedroht.|Many species are endangered.|insep;+Akk|f=bedroht, bedrohte, hat bedroht|r=Bedrohung;drohen
+kehren|w|verb|||to sweep; to turn|B2|4|r|home||Wer kehrt heute den Hof?|Who's sweeping the yard today?||f=kehrt, kehrte, hat gekehrt|why=Kehrwoche in shared buildings
+streichen|w|verb|||to paint; to spread; to cancel|B2|4|r|home,work||Wir streichen das Wohnzimmer.|We're painting the living room.|irreg|f=streicht, strich, hat gestrichen
+befürchten|w|verb|||to fear|B2|4|r|feelings|formal|Ich befürchte, dass es zu spät ist.|I'm afraid it's too late.|insep|f=befürchtet, befürchtete, hat befürchtet|r=fürchten
+versetzen|w|verb|||to transfer; to stand someone up|B2|4|r|work,people||Er wurde nach Hamburg versetzt.|He was transferred to Hamburg.|insep|f=versetzt, versetzte, hat versetzt
+begreifen|w|verb|||to grasp; to understand|B2|4|r|discourse||Ich kann das einfach nicht begreifen.|I just can't grasp it.|irreg;insep|f=begreift, begriff, hat begriffen|r=verstehen
+überwachen|w|verb|||to monitor|B2|4|r|technology,law||Der Parkplatz wird per Video überwacht.|The car park is under video surveillance.|insep|f=überwacht, überwachte, hat überwacht
+erfassen|w|verb|||to record; to grasp|B2|4|r|bureaucracy,technology|formal|Ihre Daten wurden erfasst.|Your data has been recorded.|insep|f=erfasst, erfasste, hat erfasst
+ausführen|w|verb|||to carry out; to take out (dog)|B2|4|r|work,home||Wer führt heute den Hund aus?|Who's taking the dog out today?|sep|f=führt aus, führte aus, hat ausgeführt
+zusammenarbeiten|w|verb|||to cooperate; to work together|B2|4|b|work||Wir arbeiten eng mit der Stadt zusammen.|We work closely with the city.|sep|f=arbeitet zusammen, arbeitete zusammen, hat zusammengearbeitet|r=Zusammenarbeit
+gefährden|w|verb|||to endanger|B2|4|r|health,society||Rauchen gefährdet die Gesundheit.|Smoking endangers your health.|insep|f=gefährdet, gefährdete, hat gefährdet|r=Gefahr
+aufwachsen|w|verb|||to grow up|B2|4|b|family||Ich bin in Krakau aufgewachsen.|I grew up in Kraków.|irreg;sep;aux:sein|f=wächst auf, wuchs auf, ist aufgewachsen
+investieren|w|verb|||to invest|B2|4|r|money||Die Firma investiert in neue Technik.|The company is investing in new technology.|prep:in|f=investiert, investierte, hat investiert|r=Investition
+bekämpfen|w|verb|||to combat; to fight|B2|4|r|society,health||Die Stadt will die Armut bekämpfen.|The city wants to combat poverty.|insep|f=bekämpft, bekämpfte, hat bekämpft
+decken|w|verb|||to cover; to set (table)|B2|4|r|home,money||Kannst du bitte den Tisch decken?|Can you lay the table, please?||f=deckt, deckte, hat gedeckt|c=den Tisch decken
+verbergen|w|verb|||to hide; to conceal|B2|4|r|feelings|formal|Er konnte seine Freude nicht verbergen.|He couldn't hide his delight.|irreg;insep|f=verbirgt, verbarg, hat verborgen|r=verstecken
+binden|w|verb|||to tie; to bind|B2|4|r|everyday||Er bindet sich die Schuhe.|He's tying his shoelaces.|irreg|f=bindet, band, hat gebunden
+erzeugen|w|verb|||to produce; to generate|B2|4|r|environment,technology||Die Anlage erzeugt Strom aus Wind.|The plant generates electricity from wind.|insep|f=erzeugt, erzeugte, hat erzeugt
+beherrschen|w|verb|||to master; to control|B2|4|r|education,feelings||Sie beherrscht drei Sprachen.|She has a command of three languages.|insep|f=beherrscht, beherrschte, hat beherrscht||why=CV language: Sprachkenntnisse
+verlegen|w|verb|||to postpone; to move; to misplace|B2|4|r|work,appointments||Das Meeting wurde auf Freitag verlegt.|The meeting was moved to Friday.|insep|f=verlegt, verlegte, hat verlegt|r=verschieben
+betonen|w|verb|||to emphasise|B2|4|r|communication||Ich möchte betonen, dass das freiwillig ist.|I'd like to emphasise that this is voluntary.|insep|f=betont, betonte, hat betont
+versagen|w|verb|||to fail|B2|4|r|everyday||Die Bremsen haben versagt.|The brakes failed.|insep|f=versagt, versagte, hat versagt
+basieren|w|verb|||to be based on|B2|4|r|discourse||Der Film basiert auf einer wahren Geschichte.|The film is based on a true story.|prep:auf|f=basiert, basierte, hat basiert
+widmen|w|verb|||to dedicate; to devote|B2|4|r|discourse||Heute widmen wir uns dem Thema Umwelt.|Today we'll turn to the topic of the environment.|refl;+Dat|f=widmet, widmete, hat gewidmet
+verhandeln|w|verb|||to negotiate|B2|4|b|work,money||Wir verhandeln noch über den Preis.|We're still negotiating the price.|insep;prep:über|f=verhandelt, verhandelte, hat verhandelt|r=Verhandlung||why=salary and rent negotiations
+befragen|w|verb|||to question; to survey|B2|4|r|media,law||Die Polizei befragt die Zeugen.|The police are questioning the witnesses.|insep|f=befragt, befragte, hat befragt|r=Befragung
+bedenken|w|verb|||to consider|B2|4|r|discourse||Bedenke, dass die Läden sonntags zu sind.|Bear in mind that shops are closed on Sundays.|irreg;insep|f=bedenkt, bedachte, hat bedacht|r=Bedenken
+ermitteln|w|verb|||to investigate; to determine|B2|4|r|law,media||Die Polizei ermittelt gegen den Fahrer.|The police are investigating the driver.|insep|f=ermittelt, ermittelte, hat ermittelt|r=Ermittlung
+lehnen|w|verb|||to lean|B2|4|r|everyday||Das Fahrrad lehnt an der Wand.|The bike is leaning against the wall.||f=lehnt, lehnte, hat gelehnt|r=ablehnen
+scheitern|w|verb|||to fail|B2|4|r|work,society||Das Projekt ist gescheitert.|The project failed.|aux:sein|f=scheitert, scheiterte, ist gescheitert
+räumen|w|verb|||to clear; to vacate|B2|4|r|housing||Die Wohnung muss bis Ende Mai geräumt sein.|The flat must be vacated by the end of May.||f=räumt, räumte, hat geräumt|c=aufräumen;ausräumen
+ignorieren|w|verb|||to ignore|B2|4|r|people||Er hat meine Nachricht ignoriert.|He ignored my message.||f=ignoriert, ignorierte, hat ignoriert
+abhalten|w|verb|||to hold (meeting); to keep from|B2|4|r|work|formal|Die Versammlung wird im Rathaus abgehalten.|The meeting will be held at the town hall.|irreg;sep|f=hält ab, hielt ab, hat abgehalten
+zurückgehen|w|verb|||to go back; to decline|B2|4|r|economy||Die Zahl der Arbeitslosen geht zurück.|The number of unemployed is falling.|irreg;sep;aux:sein|f=geht zurück, ging zurück, ist zurückgegangen
+einbringen|w|verb|||to contribute; to bring in|B2|4|r|work||Jeder kann seine Ideen einbringen.|Everyone can contribute their ideas.|irreg;sep|f=bringt ein, brachte ein, hat eingebracht
+kontaktieren|w|verb|||to contact|B2|4|b|communication||Bitte kontaktieren Sie uns per E-Mail.|Please contact us by email.||f=kontaktiert, kontaktierte, hat kontaktiert
+durchsuchen|w|verb|||to search|B2|4|r|law,technology||Die Polizei durchsuchte die Wohnung.|The police searched the flat.|insep|f=durchsucht, durchsuchte, hat durchsucht
+antreten|w|verb|||to start (job); to compete|B2|4|r|work|formal|Sie tritt die Stelle am 1. Juni an.|She starts the job on 1 June.|irreg;sep|f=tritt an, trat an, hat angetreten
+austauschen|w|verb|||to exchange; to replace|B2|4|r|communication,technology||Wir tauschen uns regelmäßig aus.|We exchange ideas regularly.|sep|f=tauscht aus, tauschte aus, hat ausgetauscht|r=Austausch
+abschalten|w|verb|||to switch off; to unwind|B2|4|r|technology,leisure||Im Urlaub kann ich richtig abschalten.|On holiday I can really unwind.|sep|f=schaltet ab, schaltete ab, hat abgeschaltet
+vorsehen|w|verb|||to plan; to provide for|B2|4|r|work|formal|Der Plan sieht drei Phasen vor.|The plan provides for three phases.|irreg;sep|f=sieht vor, sah vor, hat vorgesehen|c=vorgesehen sein
+eintreffen|w|verb|||to arrive|B2|4|r|transport|formal|Der Zug trifft mit Verspätung ein.|The train will arrive late.|irreg;sep;aux:sein|f=trifft ein, traf ein, ist eingetroffen||why=station announcements
+feststehen|w|verb|||to be certain|B2|4|r|discourse||Der Termin steht noch nicht fest.|The date hasn't been fixed yet.|irreg;sep|f=steht fest, stand fest, hat festgestanden
+wehren|w|verb|||to defend oneself; to resist|B2|4|r|society||Sie hat sich gegen die Kündigung gewehrt.|She fought the dismissal.|refl;prep:gegen|f=wehrt sich, wehrte sich, hat sich gewehrt
+blockieren|w|verb|||to block|B2|4|r|transport,technology||Ein Lkw blockiert die Einfahrt.|A lorry is blocking the entrance.||f=blockiert, blockierte, hat blockiert
+entwerfen|w|verb|||to design; to draft|B2|4|r|work||Sie entwirft Möbel.|She designs furniture.|irreg;insep|f=entwirft, entwarf, hat entworfen|r=Entwurf
+ablegen|w|verb|||to take off; to file; to take (exam)|B2|4|r|education,work||Sie hat die Prüfung erfolgreich abgelegt.|She successfully passed the exam.|sep|f=legt ab, legte ab, hat abgelegt|c=eine Prüfung ablegen
+abbrechen|w|verb|||to break off; to cancel|B2|4|r|education,technology||Er hat das Studium abgebrochen.|He dropped out of university.|irreg;sep|f=bricht ab, brach ab, hat abgebrochen
+belegen|w|verb|||to prove; to take (a course)|B2|4|r|education,bureaucracy||Welche Kurse hast du belegt?|Which courses have you signed up for?|insep|f=belegt, belegte, hat belegt|r=Beleg
+vereinen|w|verb|||to unite; to combine|B2|4|r|society||Die Stelle vereint Beruf und Familie.|The job combines work and family.|insep|f=vereint, vereinte, hat vereint
+abschneiden|w|verb|||to cut off; to perform (in a test)|B2|4|r|education||Er hat in der Prüfung gut abgeschnitten.|He did well in the exam.|irreg;sep|f=schneidet ab, schnitt ab, hat abgeschnitten
+beitragen|w|verb|||to contribute|B2|4|r|society|formal|Jeder kann zum Umweltschutz beitragen.|Everyone can contribute to protecting the environment.|irreg;sep;prep:zu|f=trägt bei, trug bei, hat beigetragen|r=Beitrag
+errichten|w|verb|||to erect; to establish|B2|4|r|city|formal|Hier wird ein neues Wohnhaus errichtet.|A new block of flats is being built here.|insep|f=errichtet, errichtete, hat errichtet
+ausbilden|w|verb|||to train|B2|4|r|work,education||Der Betrieb bildet jedes Jahr fünf Azubis aus.|The company trains five apprentices every year.|sep|f=bildet aus, bildete aus, hat ausgebildet|r=Ausbildung
+erteilen|w|verb|||to give; to grant|B2|4|r|bureaucracy|formal|Die Genehmigung wurde erteilt.|The permit was granted.|insep|f=erteilt, erteilte, hat erteilt|c=Auskunft erteilen
+erzielen|w|verb|||to achieve; to score|B2|4|r|work,leisure|formal|Wir haben gute Ergebnisse erzielt.|We've achieved good results.|insep|f=erzielt, erzielte, hat erzielt
+drängen|w|verb|||to push; to urge|B2|4|r|everyday||Die Zeit drängt.|Time is pressing.||f=drängt, drängte, hat gedrängt
+beseitigen|w|verb|||to remove; to eliminate|B2|4|r|everyday|formal|Der Schaden wird schnell beseitigt.|The damage will be repaired quickly.|insep|f=beseitigt, beseitigte, hat beseitigt
+abziehen|w|verb|||to deduct; to withdraw|B2|4|r|money||Die Steuer wird vom Lohn abgezogen.|Tax is deducted from wages.|irreg;sep|f=zieht ab, zog ab, hat abgezogen|r=Abzug
+überwinden|w|verb|||to overcome|B2|4|r|feelings||Sie hat ihre Angst überwunden.|She overcame her fear.|irreg;insep|f=überwindet, überwand, hat überwunden
+lenken|w|verb|||to steer; to direct|B2|4|r|transport||Er lenkte das Auto an den Rand.|He steered the car to the side.||f=lenkt, lenkte, hat gelenkt|c=die Aufmerksamkeit lenken auf
+beurteilen|w|verb|||to judge; to assess|B2|4|r|work,discourse||Das kann ich nicht beurteilen.|I can't judge that.|insep|f=beurteilt, beurteilte, hat beurteilt|r=Urteil
+verdanken|w|verb|||to owe (thanks)|B2|4|r|discourse||Ihm verdanke ich meine Stelle.|I owe my job to him.|insep;+Dat|f=verdankt, verdankte, hat verdankt
+überstehen|w|verb|||to get through; to survive|B2|4|r|health||Sie hat die Operation gut überstanden.|She came through the operation well.|irreg;insep|f=übersteht, überstand, hat überstanden
+beauftragen|w|verb|||to commission; to instruct|B2|4|r|work|formal|Wir haben eine Firma mit der Renovierung beauftragt.|We've hired a company for the renovation.|insep|f=beauftragt, beauftragte, hat beauftragt|r=Auftrag
+bewundern|w|verb|||to admire|B2|4|r|feelings||Ich bewundere deine Geduld.|I admire your patience.|insep|f=bewundert, bewunderte, hat bewundert
+anbringen|w|verb|||to attach; to put up|B2|4|r|home||Wir bringen das Schild an der Tür an.|We'll put the sign up on the door.|irreg;sep|f=bringt an, brachte an, hat angebracht
+infizieren|w|verb|||to infect|B2|4|r|healthcare||Er hat sich mit dem Virus infiziert.|He's caught the virus.|refl|f=infiziert, infizierte, hat infiziert|r=Infektion
+locken|w|verb|||to lure; to attract|B2|4|r|media||Das Wetter lockt viele Menschen ins Freie.|The weather is drawing many people outdoors.||f=lockt, lockte, hat gelockt
+durchgehen|w|verb|||to go through; to check|B2|4|r|work||Lass uns den Plan noch einmal durchgehen.|Let's go through the plan once more.|irreg;sep;aux:sein|f=geht durch, ging durch, ist durchgegangen
+ergreifen|w|verb|||to seize; to take (measures)|B2|4|r|society|formal|Die Stadt ergreift Maßnahmen gegen den Lärm.|The city is taking measures against the noise.|irreg;insep|f=ergreift, ergriff, hat ergriffen|c=Maßnahmen ergreifen
+einleiten|w|verb|||to initiate|B2|4|r|law|formal|Die Polizei hat ein Verfahren eingeleitet.|The police have initiated proceedings.|sep|f=leitet ein, leitete ein, hat eingeleitet
+erweisen|w|verb|||to prove (to be)|B2|4|r|discourse|formal|Der Tipp hat sich als nützlich erwiesen.|The tip proved useful.|irreg;insep;refl|f=erweist sich, erwies sich, hat sich erwiesen|c=sich erweisen als
+überschreiten|w|verb|||to exceed; to cross|B2|4|r|transport,law||Er hat die Geschwindigkeit überschritten.|He exceeded the speed limit.|irreg;insep|f=überschreitet, überschritt, hat überschritten
+unterzeichnen|w|verb|||to sign|B2|4|r|bureaucracy|formal|Der Vertrag wurde gestern unterzeichnet.|The contract was signed yesterday.|insep|f=unterzeichnet, unterzeichnete, hat unterzeichnet|r=unterschreiben
+veranstalten|w|verb|||to organise; to hold|B2|4|r|events||Die Schule veranstaltet ein Sommerfest.|The school is holding a summer party.|insep|f=veranstaltet, veranstaltete, hat veranstaltet|r=Veranstaltung
+beschleunigen|w|verb|||to accelerate|B2|4|r|transport,work||Wie können wir das Verfahren beschleunigen?|How can we speed up the procedure?|insep|f=beschleunigt, beschleunigte, hat beschleunigt
+programmieren|w|verb|||to program|B2|4|r|technology||Er programmiert Apps.|He programs apps.||f=programmiert, programmierte, hat programmiert
+heilen|w|verb|||to heal; to cure|B2|4|r|healthcare||Die Wunde heilt gut.|The wound is healing well.||f=heilt, heilte, ist/hat geheilt
+befördern|w|verb|||to promote; to transport|B2|4|r|work,transport||Sie wurde zur Teamleiterin befördert.|She was promoted to team leader.|insep|f=befördert, beförderte, hat befördert|r=Beförderung
+spenden|w|verb|||to donate|B2|4|r|society||Wir spenden Kleidung für Flüchtlinge.|We donate clothes for refugees.||f=spendet, spendete, hat gespendet|c=Blut spenden|r=Spende
+einbauen|w|verb|||to install; to fit|B2|4|r|home||Wir lassen eine neue Küche einbauen.|We're having a new kitchen fitted.|sep|f=baut ein, baute ein, hat eingebaut
+übersehen|w|verb|||to overlook|B2|4|r|everyday||Ich habe die E-Mail übersehen.|I overlooked the email.|irreg;insep|f=übersieht, übersah, hat übersehen
+ausdrücken|w|verb|||to express|B2|4|b|communication||Ich weiß nicht, wie ich es ausdrücken soll.|I don't know how to put it.|sep;refl|f=drückt aus, drückte aus, hat ausgedrückt|r=Ausdruck
+beinhalten|w|verb|||to contain; to include|B2|4|r|discourse|formal|Der Preis beinhaltet die Reinigung.|The price includes cleaning.|insep|f=beinhaltet, beinhaltete, hat beinhaltet|r=enthalten
+hinzufügen|w|verb|||to add|B2|4|r|technology,communication||Fügen Sie eine Datei hinzu.|Add a file.|sep|f=fügt hinzu, fügte hinzu, hat hinzugefügt
+äußern|w|verb|||to express; to voice|B2|4|r|communication|formal|Er äußerte sich nicht zu dem Thema.|He didn't comment on the subject.|refl;prep:zu|f=äußert, äußerte, hat geäußert|r=Äußerung
+ausstatten|w|verb|||to equip|B2|4|r|housing,work||Die Küche ist modern ausgestattet.|The kitchen is fitted with modern equipment.|sep|f=stattet aus, stattete aus, hat ausgestattet|r=Ausstattung
+deuten|w|verb|||to point; to interpret|B2|4|r|discourse||Alles deutet darauf hin, dass es regnet.|Everything points to rain.|prep:auf|f=deutet, deutete, hat gedeutet
+befassen|w|verb|||to deal with|B2|4|r|work,discourse|formal|Der Kurs befasst sich mit dem deutschen Mietrecht.|The course deals with German tenancy law.|refl;insep;prep:mit|f=befasst sich, befasste sich, hat sich befasst
+verstoßen|w|verb|||to violate|B2|4|r|law|formal|Das verstößt gegen die Hausordnung.|That violates the house rules.|irreg;insep;prep:gegen|f=verstößt, verstieß, hat verstoßen|r=Verstoß
+steigern|w|verb|||to increase|B2|4|r|economy,work||Wir wollen den Umsatz steigern.|We want to increase sales.|insep|f=steigert, steigerte, hat gesteigert|r=steigen
+abwarten|w|verb|||to wait and see|B2|4|b|everyday||Wir müssen abwarten, was der Arzt sagt.|We have to wait and see what the doctor says.|sep|f=wartet ab, wartete ab, hat abgewartet|c=Abwarten und Tee trinken.
+verweigern|w|verb|||to refuse|B2|4|r|law,work|formal|Er verweigerte die Aussage.|He refused to testify.|insep|f=verweigert, verweigerte, hat verweigert|r=weigern
+qualifizieren|w|verb|||to qualify|B2|4|r|work,leisure||Die Mannschaft hat sich für das Finale qualifiziert.|The team qualified for the final.|refl;prep:für|f=qualifiziert, qualifizierte, hat qualifiziert|r=Qualifikation
+regieren|w|verb|||to govern|B2|4|r|politics||Wer regiert gerade in Berlin?|Who's in government in Berlin at the moment?||f=regiert, regierte, hat regiert|r=Regierung
+weitergeben|w|verb|||to pass on|B2|4|r|communication||Geben Sie die Information bitte weiter.|Please pass the information on.|irreg;sep|f=gibt weiter, gab weiter, hat weitergegeben
+vornehmen|w|verb|||to plan; to carry out|B2|4|b|everyday||Ich habe mir vorgenommen, mehr Sport zu machen.|I've resolved to do more sport.|irreg;sep;refl;+Dat|f=nimmt vor, nahm vor, hat vorgenommen|c=sich etwas vornehmen
+einhalten|w|verb|||to keep to; to meet (deadline)|B2|4|b|work,bureaucracy||Bitte halten Sie die Frist ein.|Please meet the deadline.|irreg;sep|f=hält ein, hielt ein, hat eingehalten
+erwerben|w|verb|||to acquire|B2|4|r|money,education|formal|Tickets können online erworben werden.|Tickets can be purchased online.|irreg;insep|f=erwirbt, erwarb, hat erworben|r=kaufen
+gewähren|w|verb|||to grant|B2|4|r|money,bureaucracy|formal|Wir gewähren Ihnen zehn Prozent Rabatt.|We'll grant you a ten percent discount.|insep|f=gewährt, gewährte, hat gewährt
+abstellen|w|verb|||to put down; to park; to turn off|B2|4|r|transport,home||Hier dürfen keine Fahrräder abgestellt werden.|No bicycles may be left here.|sep|f=stellt ab, stellte ab, hat abgestellt
+kommunizieren|w|verb|||to communicate|B2|4|r|communication,work||Wir kommunizieren meistens per Mail.|We mostly communicate by email.||f=kommuniziert, kommunizierte, hat kommuniziert|r=Kommunikation
+auflegen|w|verb|||to hang up (phone)|B2|4|b|communication||Sie hat einfach aufgelegt.|She just hung up.|sep|f=legt auf, legte auf, hat aufgelegt
+kooperieren|w|verb|||to cooperate|B2|4|r|work||Die beiden Firmen kooperieren seit Jahren.|The two companies have cooperated for years.||f=kooperiert, kooperierte, hat kooperiert|r=Kooperation
+nachweisen|w|verb|||to prove; to provide evidence|B2|4|r|bureaucracy|formal|Sie müssen Ihr Einkommen nachweisen.|You must provide proof of your income.|irreg;sep|f=weist nach, wies nach, hat nachgewiesen|r=Nachweis
+bescheinigen|w|verb|||to certify|B2|4|r|bureaucracy|formal|Der Arzt bescheinigt die Arbeitsunfähigkeit.|The doctor certifies the incapacity to work.|insep|f=bescheinigt, bescheinigte, hat bescheinigt|r=Bescheinigung
+einwenden|w|verb|||to object|B2|4|r|communication|formal|Dagegen ist nichts einzuwenden.|There's no objection to that.|sep|f=wendet ein, wandte ein, hat eingewandt|r=Einwand
+hervorheben|w|verb|||to emphasise; to highlight|B2|4|r|communication|formal|Ich möchte besonders hervorheben, wie wichtig das ist.|I'd especially like to highlight how important that is.|irreg;sep|f=hebt hervor, hob hervor, hat hervorgehoben|r=betonen

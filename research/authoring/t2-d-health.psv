@@ -1,0 +1,66 @@
+# Tier 2 · healthcare & body
+# german|type|pos|article|plural|english|cefr|tier|mode|topics|register|example|example_en|grammar|f=|c=|r=|why=
+Hausarzt|w|noun|der|Hausärzte|GP; family doctor|A2|2|a|healthcare||Ich gehe zuerst zum Hausarzt.|I'll go to my GP first.|Female: die Hausärztin. The GP usually refers you to specialists.|r=Arzt;Facharzt|why=Germany: first point of contact
+Facharzt|w|noun|der|Fachärzte|specialist (doctor)|B1|2|a|healthcare||Für einen Termin beim Facharzt wartet man oft Wochen.|You often wait weeks for a specialist appointment.|Female: die Fachärztin.|r=Hausarzt
+Zahnarzt|w|noun|der|Zahnärzte|dentist|A2|2|a|healthcare||Ich habe morgen einen Termin beim Zahnarzt.|I have a dentist appointment tomorrow.|Female: die Zahnärztin.|r=Zahn
+Ärztin|w|noun|die|Ärztinnen|doctor (female)|A1|2|a|healthcare||Die Ärztin hat mich krankgeschrieben.|The doctor has signed me off sick.|||r=Arzt
+Praxis|w|noun|die|Praxen|(doctor's) practice; surgery|A1|1|a|healthcare,places||Die Praxis ist mittwochnachmittags geschlossen.|The practice is closed on Wednesday afternoons.|Also: Praxis = practice (vs theory).|r=Arztpraxis|why=moved earlier by scenario validation (validation-report.md)
+Wartezimmer|w|noun|das|Wartezimmer|waiting room|A2|2|a|healthcare||Nehmen Sie bitte im Wartezimmer Platz.|Please take a seat in the waiting room.|||r=warten
+Sprechstunde|w|noun|die|Sprechstunden|consulting hours; office hours|A2|2|a|healthcare,education||Die Sprechstunde ist von 8 bis 12 Uhr.|Consulting hours are from 8 to 12.|||why=on every practice sign and website
+Versichertenkarte|w|noun|die|Versichertenkarten|health insurance card|A2|2|a|healthcare,bureaucracy||Bitte geben Sie mir Ihre Versichertenkarte.|Please give me your insurance card.|Also: Gesundheitskarte, Krankenversicherungskarte.|r=Krankenkasse|why=asked for at every doctor's visit in Germany
+Patient|w|noun|der|Patienten|patient|B1|2|a|healthcare||Der Arzt hat heute viele Patienten.|The doctor has a lot of patients today.|n-declension. Female: die Patientin.|r=Patientin
+untersuchen|w|verb|||to examine|A2|2|a|healthcare||Der Arzt untersucht Ihr Knie.|The doctor will examine your knee.|insep|f=untersucht, untersuchte, hat untersucht|r=Untersuchung
+Untersuchung|w|noun|die|Untersuchungen|examination; check-up|B1|2|a|healthcare||Die Untersuchung dauert nur zehn Minuten.|The examination only takes ten minutes.|||r=untersuchen;Vorsorgeuntersuchung
+krankschreiben|w|verb|||to sign off sick|A2|2|a|healthcare,work||Die Ärztin hat mich für drei Tage krankgeschrieben.|The doctor signed me off sick for three days.|irreg;sep|f=schreibt krank, schrieb krank, hat krankgeschrieben|r=Krankschreibung;krankgeschrieben|why=Germany: needed for work from day 1–3 of illness
+Krankschreibung|w|noun|die|Krankschreibungen|sick note|B1|2|a|healthcare,work||Ich brauche eine Krankschreibung für meinen Arbeitgeber.|I need a sick note for my employer.|Formal: Arbeitsunfähigkeitsbescheinigung (AU).|r=krankschreiben|why=Germany-essential at work
+krankgeschrieben|w|adj|||on sick leave; signed off sick|A2|2|a|healthcare,work||Ich bin bis Freitag krankgeschrieben.|I'm signed off sick until Friday.|||r=krankschreiben
+sich krankmelden|c|verb|||to call in sick|B1|2|a|work,healthcare||Ich muss mich heute krankmelden.|I have to call in sick today.|refl;sep|f=meldet sich krank, meldete sich krank, hat sich krankgemeldet
+Rezept|w|noun|das|Rezepte|prescription; recipe|A2|2|a|healthcare,food||Für das Medikament brauchen Sie ein Rezept.|You need a prescription for this medicine.|||c=ein Rezept ausstellen|r=rezeptfrei
+rezeptfrei|w|adj|||over the counter (no prescription)|B1|2|r|healthcare||Dieses Medikament ist rezeptfrei.|This medicine is available without a prescription.|||r=Rezept
+Tablette|w|noun|die|Tabletten|tablet; pill|A1|1|a|healthcare||Nehmen Sie eine Tablette nach dem Essen.|Take one tablet after meals.|||r=Medikament|why=moved earlier by scenario validation (validation-report.md)
+Notfall|w|noun|der|Notfälle|emergency|B1|2|a|healthcare,services||Im Notfall rufen Sie die 112 an.|In an emergency call 112.|Ärztlicher Bereitschaftsdienst (116 117) = out-of-hours doctor.|r=Notaufnahme;Notruf|why=safety-critical
+Notaufnahme|w|noun|die|Notaufnahmen|A&E; emergency room|B1|2|a|healthcare,places||Wir mussten nachts in die Notaufnahme.|We had to go to A&E at night.|||r=Notfall
+Krankenwagen|w|noun|der|Krankenwagen|ambulance|A2|2|a|healthcare,services||Rufen Sie bitte einen Krankenwagen!|Please call an ambulance!|||r=Notfall
+Unfall|w|noun|der|Unfälle|accident|A2|2|a|healthcare,transport||Auf der Autobahn gab es einen Unfall.|There was an accident on the motorway.||c=einen Unfall haben
+verletzen|w|verb|||to injure; to hurt|A2|2|a|healthcare||Ich habe mich am Knie verletzt.|I've injured my knee.|insep;sich verletzen = to hurt oneself.|f=verletzt, verletzte, hat verletzt|r=Verletzung;verletzt
+Verletzung|w|noun|die|Verletzungen|injury|B1|2|r|healthcare||Die Verletzung ist nicht schlimm.|The injury isn't serious.|||r=verletzen
+Krankheit|w|noun|die|Krankheiten|illness; disease|A2|2|a|healthcare||Das ist eine harmlose Krankheit.|It's a harmless illness.|||r=krank
+Erkältung|w|noun|die|Erkältungen|cold (illness)|A2|2|a|healthcare||Ich habe eine schlimme Erkältung.|I've got a bad cold.|||r=erkältet
+erkältet|w|adj|||having a cold|A2|2|a|healthcare||Ich bin leider erkältet.|Unfortunately I've got a cold.|||r=Erkältung
+Grippe|w|noun|die|∅|flu|A2|2|a|healthcare||Er liegt mit Grippe im Bett.|He's in bed with flu.|||
+Husten|w|noun|der|∅|cough|A2|2|a|healthcare||Ich habe seit einer Woche Husten.|I've had a cough for a week.|||r=husten
+husten|w|verb|||to cough|A2|2|a|healthcare||Das Kind hustet die ganze Nacht.|The child coughs all night.||f=hustet, hustete, hat gehustet|r=Husten
+Schnupfen|w|noun|der|∅|runny nose; head cold|A2|2|a|healthcare||Ich habe nur einen leichten Schnupfen.|I just have a slight cold.|||
+Kopfschmerzen|w|noun|die|Pl|headache|A2|2|a|healthcare||Ich habe starke Kopfschmerzen.|I have a bad headache.|Usually plural.|r=Kopf;Schmerz
+Bauchschmerzen|w|noun|die|Pl|stomach ache|A2|2|a|healthcare||Das Kind hat Bauchschmerzen.|The child has a stomach ache.|Usually plural.|r=Bauch;Schmerz
+Halsschmerzen|w|noun|die|Pl|sore throat|A2|2|a|healthcare||Ich habe Halsschmerzen und Fieber.|I have a sore throat and a temperature.|Usually plural.|r=Hals;Schmerz
+schwindlig|w|adj|||dizzy|B1|2|a|healthcare||Mir ist schwindlig.|I feel dizzy.|Mir ist schwindlig (Dativ).|
+übel|w|adj|||sick; nauseous|B1|2|r|healthcare||Mir ist übel.|I feel sick.|Mir ist übel = Mir ist schlecht.|r=schlecht
+allergisch|w|adj|||allergic|B1|2|a|healthcare,food||Ich bin allergisch gegen Nüsse.|I'm allergic to nuts.|allergisch gegen + Akk.|r=Allergie
+Allergie|w|noun|die|Allergien|allergy|B1|2|a|healthcare||Haben Sie Allergien?|Do you have any allergies?|||r=allergisch
+Blut|w|noun|das|∅|blood|A2|2|a|healthcare,body||Wir müssen Ihnen Blut abnehmen.|We need to take a blood sample.||c=Blut abnehmen
+Impfung|w|noun|die|Impfungen|vaccination|B1|2|a|healthcare||Haben Sie alle Impfungen?|Have you had all your vaccinations?|||r=impfen;Impfpass
+Operation|w|noun|die|Operationen|operation; surgery|B1|2|r|healthcare||Die Operation ist gut gelaufen.|The operation went well.|||r=operieren
+Gesundheit|w|noun|die|∅|health|A2|2|a|healthcare||Rauchen schadet der Gesundheit.|Smoking damages your health.|Said after a sneeze: Gesundheit!|r=gesund
+Körper|w|noun|der|Körper|body|A2|2|a|body||Sport ist gut für Körper und Kopf.|Sport is good for body and mind.|||
+Rücken|w|noun|der|Rücken|back|A2|2|a|body||Ich habe Rückenschmerzen.|I have back pain.|||r=Rückenschmerzen
+Hals|w|noun|der|Hälse|neck; throat|A2|2|a|body||Mein Hals tut weh.|My throat hurts.|||r=Halsschmerzen
+Nase|w|noun|die|Nasen|nose|A2|2|a|body||Meine Nase läuft.|My nose is running.|||
+Mund|w|noun|der|Münder|mouth|A1|2|a|body||Bitte machen Sie den Mund auf.|Please open your mouth.|||
+Zahn|w|noun|der|Zähne|tooth|A2|2|a|body,healthcare||Mir tut ein Zahn weh.|One of my teeth hurts.||c=Zähne putzen|r=Zahnarzt
+Ohr|w|noun|das|Ohren|ear|A2|2|a|body||Ich habe Ohrenschmerzen.|I have earache.|||
+Knie|w|noun|das|Knie|knee|B1|2|a|body||Mein Knie ist geschwollen.|My knee is swollen.|Plural Knie (pronounced Kni-e).|
+Finger|w|noun|der|Finger|finger|B1|2|a|body||Ich habe mich in den Finger geschnitten.|I cut my finger.|||
+Herz|w|noun|das|Herzen|heart|A2|2|a|body,feelings||Mein Herz schlägt so schnell.|My heart is beating so fast.|n-declension (irregular): dem Herzen.|
+Haut|w|noun|die|Häute|skin|B1|2|r|body||Ich habe sehr trockene Haut.|I have very dry skin.|||
+Magen|w|noun|der|Mägen|stomach|A2|2|a|body,healthcare||Mir tut der Magen weh.|My stomach hurts.|||r=Bauch
+Brille|w|noun|die|Brillen|glasses; spectacles|A2|2|a|healthcare,everyday||Ich brauche eine neue Brille.|I need new glasses.|Singular for one pair.|
+messen|w|verb|||to measure; to take (temperature)|B1|2|a|healthcare||Haben Sie schon Fieber gemessen?|Have you taken your temperature?|irreg;du misst.|f=misst, maß, hat gemessen|c=Fieber messen;Blutdruck messen
+behandeln|w|verb|||to treat|B1|2|a|healthcare||Welcher Arzt behandelt Sie?|Which doctor is treating you?|insep|f=behandelt, behandelte, hat behandelt|r=Behandlung
+Behandlung|w|noun|die|Behandlungen|treatment|B1|2|r|healthcare||Die Behandlung zahlt die Krankenkasse.|The health insurance pays for the treatment.|||r=behandeln
+Pflege|w|noun|die|∅|care; nursing|B1|2|r|healthcare,work||Ihre Mutter braucht Pflege.|Her mother needs care.|Pfleger / Pflegerin = nurse, carer.|r=pflegen;Krankenpfleger
+Krankenpfleger|w|noun|der|Krankenpfleger|nurse (male)|A2|2|a|healthcare,work||Er arbeitet als Krankenpfleger im Klinikum.|He works as a nurse at the hospital.|Female: die Krankenpflegerin; official title Pflegefachkraft.|r=Pflege
+Termin vereinbaren|c|verb|||to make an appointment|A2|2|a|appointments,healthcare|formal|Ich möchte einen Termin vereinbaren.|I'd like to make an appointment.|insep;Spoken also: einen Termin ausmachen / machen.|f=vereinbart, vereinbarte, hat vereinbart|r=Termin;vereinbaren|why=the standard phrase for phone calls to practices and offices
+vereinbaren|w|verb|||to arrange; to agree|A2|2|a|appointments,work||Wir haben ein Treffen für Montag vereinbart.|We've arranged a meeting for Monday.|insep|f=vereinbart, vereinbarte, hat vereinbart|r=Vereinbarung
+absagen|w|verb|||to cancel (appointment, event)|A2|2|a|appointments||Ich muss den Termin leider absagen.|Unfortunately I have to cancel the appointment.|sep|f=sagt ab, sagte ab, hat abgesagt|r=Absage;zusagen
+verschieben|w|verb|||to postpone; to reschedule; to move|A2|2|a|appointments,work||Können wir die Besprechung auf Freitag verschieben?|Can we move the meeting to Friday?|irreg;insep|f=verschiebt, verschob, hat verschoben

@@ -1,0 +1,107 @@
+# Tier 2 · transport, travel, city, shopping, services, food
+# german|type|pos|article|plural|english|cefr|tier|mode|topics|register|example|example_en|grammar|f=|c=|r=|why=
+S-Bahn|w|noun|die|S-Bahnen|suburban train; S-Bahn|A1|2|a|transport||Die S-Bahn fährt alle zehn Minuten zum Flughafen.|The S-Bahn runs to the airport every ten minutes.|||r=U-Bahn;Bahn
+Bahnsteig|w|noun|der|Bahnsteige|platform|A1|2|a|transport||Der Zug fährt heute am Bahnsteig gegenüber.|Today the train leaves from the opposite platform.|In announcements usually Gleis.|r=Gleis
+Fahrplan|w|noun|der|Fahrpläne|timetable|A2|2|a|transport||Laut Fahrplan kommt der Bus um 8:12.|According to the timetable the bus comes at 8:12.|||r=Plan
+Anschluss|w|noun|der|Anschlüsse|connection (train, phone)|A1|2|a|transport,communication||Ich habe meinen Anschluss verpasst.|I've missed my connection.|Also internet/phone connection.|c=den Anschluss verpassen
+verpassen|w|verb|||to miss (train, opportunity)|A2|2|a|transport||Beeil dich, sonst verpassen wir den Zug!|Hurry up, or we'll miss the train!|insep|f=verpasst, verpasste, hat verpasst
+ausfallen|w|verb|||to be cancelled; to break down|B1|2|a|transport,work||Der Zug fällt heute aus.|The train is cancelled today.|irreg;sep;aux:sein|f=fällt aus, fiel aus, ist ausgefallen|r=Ausfall|why=standard in German transport announcements
+Durchsage|w|noun|die|Durchsagen|announcement (public address)|A1|2|a|transport||Achtung, eine Durchsage zu Gleis drei.|Attention, an announcement for platform three.|||r=Ansage
+Fahrgast|w|noun|der|Fahrgäste|passenger|B1|2|r|transport||Liebe Fahrgäste, der Zug endet hier.|Dear passengers, this train terminates here.|||r=Passagier
+entwerten|w|verb|||to validate (a ticket)|B1|2|r|transport||Vergessen Sie nicht, die Fahrkarte zu entwerten.|Don't forget to validate your ticket.|insep;Some cities require stamping paper tickets.|f=entwertet, entwertete, hat entwertet|why=Germany: fines for unvalidated tickets
+Kontrolle|w|noun|die|Kontrollen|check; inspection|B1|2|a|transport,bureaucracy||Bei der Kontrolle hatte ich kein Ticket dabei.|I didn't have a ticket on me at the inspection.|Schwarzfahren = riding without a ticket.|r=kontrollieren
+Deutschlandticket|w|noun|das|Deutschlandtickets|Germany-wide monthly transport ticket|A2|2|a|transport||Mit dem Deutschlandticket fahre ich mit allen Regionalzügen.|With the Deutschlandticket I can use all regional trains.|Monthly subscription for local and regional transport across Germany.||why=Germany-specific, widely used
+Stau|w|noun|der|Staus|traffic jam|A2|2|a|transport||Auf der A7 ist ein langer Stau.|There's a long traffic jam on the A7.||c=im Stau stehen
+Ampel|w|noun|die|Ampeln|traffic lights|A2|2|a|transport,city||An der Ampel links abbiegen.|Turn left at the traffic lights.|In Germany pedestrians wait for green even when the road is empty.|
+Kreuzung|w|noun|die|Kreuzungen|crossroads; junction|A2|2|a|transport,city||An der Kreuzung geradeaus.|Straight on at the crossroads.|||
+abbiegen|w|verb|||to turn (off)|A2|2|a|transport||Biegen Sie an der zweiten Straße rechts ab.|Take the second road on the right.|irreg;sep;aux:sein|f=biegt ab, bog ab, ist abgebogen
+Autobahn|w|noun|die|Autobahnen|motorway; highway|A1|2|a|transport||Auf der Autobahn gibt es oft Baustellen.|There are often roadworks on the motorway.|||
+Baustelle|w|noun|die|Baustellen|building site; roadworks|A2|2|a|transport,city||Wegen der Baustelle fährt der Bus eine Umleitung.|Because of the roadworks the bus takes a diversion.|||r=Umleitung
+Umleitung|w|noun|die|Umleitungen|diversion; detour|B1|2|r|transport||Folgen Sie der Umleitung.|Follow the diversion.|||
+Führerschein|w|noun|der|Führerscheine|driving licence|A2|2|a|transport,bureaucracy||Mein ausländischer Führerschein gilt nur sechs Monate.|My foreign driving licence is only valid for six months.|||c=den Führerschein machen|why=Germany: conversion rules for foreign licences
+tanken|w|verb|||to fill up (with fuel)|A2|2|a|transport||Ich muss noch tanken.|I still need to get petrol.||f=tankt, tankte, hat getankt|r=Tankstelle
+Tankstelle|w|noun|die|Tankstellen|petrol station|A2|2|a|transport,places||Die Tankstelle hat rund um die Uhr offen.|The petrol station is open 24 hours.|||r=tanken
+Fahrer|w|noun|der|Fahrer|driver|A1|2|a|transport||Der Fahrer hat lange gewartet.|The driver waited a long time.|Female: die Fahrerin.|r=fahren
+Rad fahren|c|verb|||to cycle; to ride a bike|A1|2|a|transport,leisure||Ich fahre jeden Tag Rad.|I cycle every day.|irreg;aux:sein|f=fährt Rad, fuhr Rad, ist Rad gefahren|r=Fahrrad|why=verb choice and spelling rule (two words)
+zu Fuß gehen|c|verb|||to walk; to go on foot|A1|2|a|transport||Wir gehen zu Fuß, es ist nicht weit.|We'll walk, it isn't far.|irreg;aux:sein||r=Fuß|why=idiomatic preposition zu
+Flug|w|noun|der|Flüge|flight|A2|2|a|travel||Der Flug hat Verspätung.|The flight is delayed.|||r=fliegen;Flugzeug
+Abflug|w|noun|der|Abflüge|departure (flight)|A1|2|a|travel||Der Abflug ist um 6:40 Uhr.|Departure is at 6:40.|||r=Ankunft
+Gepäck|w|noun|das|∅|luggage; baggage|A1|2|a|travel||Wo kann ich mein Gepäck abgeben?|Where can I drop off my luggage?||c=Gepäck aufgeben
+Koffer|w|noun|der|Koffer|suitcase|A1|2|a|travel||Mein Koffer ist zu schwer.|My suitcase is too heavy.|||c=den Koffer packen
+Rucksack|w|noun|der|Rucksäcke|backpack; rucksack|A2|2|a|travel,everyday||Ich nehme nur einen Rucksack mit.|I'm only taking a backpack.|||
+packen|w|verb|||to pack|A2|2|a|travel||Hast du schon gepackt?|Have you packed yet?||f=packt, packte, hat gepackt|r=einpacken;auspacken
+buchen|w|verb|||to book|A2|2|a|travel||Ich habe ein Hotel in Hamburg gebucht.|I've booked a hotel in Hamburg.||f=bucht, buchte, hat gebucht|r=Buchung
+reservieren|w|verb|||to reserve; to book|A2|2|a|travel,food||Ich möchte einen Tisch für vier Personen reservieren.|I'd like to reserve a table for four.||f=reserviert, reservierte, hat reserviert|r=Reservierung
+Reservierung|w|noun|die|Reservierungen|reservation; booking|A2|2|a|travel,food||Haben Sie eine Reservierung?|Do you have a reservation?|||r=reservieren
+Unterkunft|w|noun|die|Unterkünfte|accommodation|A2|2|a|travel,housing||Wir suchen noch eine Unterkunft für drei Nächte.|We're still looking for somewhere to stay for three nights.|||
+übernachten|w|verb|||to stay overnight|A1|2|a|travel||Wir übernachten bei Freunden.|We're staying with friends.|insep|f=übernachtet, übernachtete, hat übernachtet|r=Übernachtung
+Einzelzimmer|w|noun|das|Einzelzimmer|single room|A1|2|a|travel||Ein Einzelzimmer kostet 80 Euro pro Nacht.|A single room costs 80 euros a night.|||r=Doppelzimmer
+Doppelzimmer|w|noun|das|Doppelzimmer|double room|A1|2|a|travel||Haben Sie noch ein Doppelzimmer frei?|Do you still have a double room available?|||r=Einzelzimmer
+Rezeption|w|noun|die|Rezeptionen|reception (desk)|A1|2|a|travel||Der Schlüssel liegt an der Rezeption.|The key is at reception.|||
+Sehenswürdigkeit|w|noun|die|Sehenswürdigkeiten|sight; tourist attraction|A1|2|a|travel,leisure||Welche Sehenswürdigkeiten gibt es in Köln?|What sights are there in Cologne?|||r=besichtigen
+Tourist|w|noun|der|Touristen|tourist|A2|2|a|travel||Im Sommer sind viele Touristen in der Stadt.|In summer there are lots of tourists in town.|n-declension. Female: die Touristin.|
+Ausflug|w|noun|der|Ausflüge|trip; outing; excursion|A1|2|a|travel,leisure||Am Sonntag machen wir einen Ausflug an den See.|On Sunday we're taking a trip to the lake.||c=einen Ausflug machen
+See|w|noun|der|Seen|lake|A1|2|a|nature,travel||Wir gehen im See schwimmen.|We're going swimming in the lake.|die See = the sea (rare); der See = lake.|r=Meer
+Strand|w|noun|der|Strände|beach|A2|2|a|travel,nature||Wir liegen den ganzen Tag am Strand.|We lie on the beach all day.|||
+Berg|w|noun|der|Berge|mountain|A2|2|a|nature,travel||Im Urlaub fahren wir in die Berge.|On holiday we're going to the mountains.|||
+Dorf|w|noun|das|Dörfer|village|A1|2|a|places||Meine Eltern wohnen in einem kleinen Dorf.|My parents live in a small village.|||
+Innenstadt|w|noun|die|Innenstädte|town centre; city centre|A2|2|a|city,places||Wir treffen uns in der Innenstadt.|We'll meet in the town centre.|||r=Zentrum;Stadtmitte
+Rathaus|w|noun|das|Rathäuser|town hall|A2|2|a|city,bureaucracy||Das Bürgeramt ist im Rathaus.|The citizens' office is in the town hall.|||
+Kirche|w|noun|die|Kirchen|church|A2|2|a|city,society||Die Kirche ist aus dem 14. Jahrhundert.|The church dates from the 14th century.|Kirchensteuer = church tax (if registered as a member).|
+Museum|w|noun|das|Museen|museum|A2|2|a|leisure,city||Am Sonntag gehen wir ins Museum.|On Sunday we're going to the museum.|||
+Brücke|w|noun|die|Brücken|bridge|A2|2|a|city||Das Café ist direkt an der Brücke.|The café is right by the bridge.|||
+Gebäude|w|noun|das|Gebäude|building|B1|2|a|city||Das Büro ist im dritten Stock des Gebäudes.|The office is on the third floor of the building.|||
+Markt|w|noun|der|Märkte|market|A2|2|a|shopping,city||Samstags gehe ich auf den Markt.|On Saturdays I go to the market.|||r=Wochenmarkt;Flohmarkt
+Kiosk|w|noun|der|Kioske|kiosk; corner shop|A1|2|r|shopping|spoken|Am Kiosk gibt es Zeitungen und Getränke.|You can get newspapers and drinks at the kiosk.|In some regions: Späti (Berlin), Büdchen (Rhineland).|
+Drogerie|w|noun|die|Drogerien|chemist's; drugstore|A2|2|a|shopping||Shampoo kaufe ich in der Drogerie.|I buy shampoo at the drugstore.|For toiletries and cosmetics (dm, Rossmann); medicines are in the Apotheke.||why=Germany: Drogerie vs Apotheke distinction
+Öffnungszeiten|w|noun|die|Pl|opening hours|A2|2|a|shopping,services||Die Öffnungszeiten stehen an der Tür.|The opening hours are on the door.|Usually plural.|r=öffnen|why=Germany: Sunday closing makes opening hours matter
+Verkäufer|w|noun|der|Verkäufer|sales assistant; seller|A1|2|a|shopping,work||Der Verkäufer hat mir gut geholfen.|The sales assistant helped me a lot.|Female: die Verkäuferin.|r=verkaufen
+umtauschen|w|verb|||to exchange (goods)|A2|2|a|shopping||Kann ich die Hose umtauschen?|Can I exchange the trousers?|sep|f=tauscht um, tauschte um, hat umgetauscht|r=tauschen
+zurückgeben|w|verb|||to give back; to return|A2|2|a|shopping||Ich möchte das Handy zurückgeben.|I'd like to return the phone.|irreg;sep|f=gibt zurück, gab zurück, hat zurückgegeben
+anprobieren|w|verb|||to try on|A2|2|a|shopping,clothing||Kann ich die Jacke anprobieren?|Can I try on the jacket?|sep|f=probiert an, probierte an, hat anprobiert|r=probieren;Umkleidekabine
+probieren|w|verb|||to try; to taste|A2|2|a|food,shopping||Darf ich mal probieren?|Can I have a taste?||f=probiert, probierte, hat probiert|r=anprobieren
+Größe|w|noun|die|Größen|size; height|A1|2|a|shopping,clothing||Haben Sie die Jacke auch in Größe M?|Do you have the jacket in size M too?|||r=groß
+Rabatt|w|noun|der|Rabatte|discount|B1|2|a|shopping,money||Heute gibt es zwanzig Prozent Rabatt.|There's twenty percent off today.|||
+Pfand|w|noun|das|∅|deposit (on bottles)|A2|2|a|shopping,environment||Auf der Flasche sind 25 Cent Pfand.|There's a 25-cent deposit on the bottle.|Return bottles at the machine in the supermarket.||why=Germany-specific everyday system
+liefern|w|verb|||to deliver|A2|2|a|shopping,services||Das Sofa wird am Montag geliefert.|The sofa will be delivered on Monday.||f=liefert, lieferte, hat geliefert|r=Lieferung
+Lieferung|w|noun|die|Lieferungen|delivery|B1|2|a|shopping,services||Die Lieferung kommt heute zwischen 10 und 14 Uhr.|The delivery comes today between 10 and 2.|||r=liefern
+Bestellung|w|noun|die|Bestellungen|order|A2|2|a|shopping,food||Ihre Bestellung ist unterwegs.|Your order is on its way.|||r=bestellen
+Kellner|w|noun|der|Kellner|waiter|A1|1|a|food,work||Der Kellner bringt die Rechnung.|The waiter brings the bill.|Female: die Kellnerin. Spoken address: Entschuldigung! (not 'Kellner!')||why=re-tiered after held-out scenario validation
+Trinkgeld|w|noun|das|∅|tip|A1|1|a|food,money||In Deutschland gibt man etwa zehn Prozent Trinkgeld.|In Germany you tip about ten percent.|Usually given when paying: 'Machen Sie 20.'||why=Germany: tipping custom; re-tiered after held-out scenario validation
+Vorspeise|w|noun|die|Vorspeisen|starter; appetiser|A2|2|a|food||Als Vorspeise nehme ich die Suppe.|I'll have the soup as a starter.|||r=Hauptgericht;Nachtisch
+Hauptgericht|w|noun|das|Hauptgerichte|main course|A2|2|a|food||Das Hauptgericht war sehr lecker.|The main course was very tasty.|||
+Nachtisch|w|noun|der|Nachtische|dessert|A2|2|a|food||Was gibt es zum Nachtisch?|What's for dessert?|Also: das Dessert.|
+Gericht|w|noun|das|Gerichte|dish; court|A2|2|a|food,law||Das ist ein typisches Gericht aus Bayern.|That's a typical dish from Bavaria.|Also: court (of law).|
+Teller|w|noun|der|Teller|plate|A2|2|a|food,home||Kannst du die Teller auf den Tisch stellen?|Can you put the plates on the table?|||
+Tasse|w|noun|die|Tassen|cup|A2|2|a|food,home||Möchtest du eine Tasse Tee?|Would you like a cup of tea?|||
+Löffel|w|noun|der|Löffel|spoon|A2|2|a|food,home||Ich brauche noch einen Löffel.|I still need a spoon.|||r=Gabel;Messer
+Gabel|w|noun|die|Gabeln|fork|A2|2|a|food,home||Messer und Gabel liegen neben dem Teller.|The knife and fork are next to the plate.|||
+Messer|w|noun|das|Messer|knife|A2|2|a|food,home||Das Messer ist sehr scharf.|The knife is very sharp.|||
+Lebensmittel|w|noun|das|Lebensmittel|food; groceries|B1|2|a|food,shopping||Lebensmittel sind teurer geworden.|Food has become more expensive.|Usually plural.|
+Hähnchen|w|noun|das|Hähnchen|chicken (food)|A1|2|a|food||Ich nehme das Hähnchen mit Pommes.|I'll have the chicken with chips.|||
+Rindfleisch|w|noun|das|∅|beef|A2|2|a|food||Das Gulasch ist mit Rindfleisch.|The goulash is made with beef.|||r=Schweinefleisch
+Schweinefleisch|w|noun|das|∅|pork|A2|2|a|food||Ich esse kein Schweinefleisch.|I don't eat pork.|||
+Nudeln|w|noun|die|Pl|pasta; noodles|A2|2|a|food||Heute gibt es Nudeln mit Tomatensoße.|Today there's pasta with tomato sauce.|Usually plural.|
+Reis|w|noun|der|∅|rice|A1|2|a|food||Zum Curry gibt es Reis.|There's rice with the curry.|||
+Tomate|w|noun|die|Tomaten|tomato|A1|2|a|food||Ein Kilo Tomaten, bitte.|A kilo of tomatoes, please.|||
+Zwiebel|w|noun|die|Zwiebeln|onion|A2|2|a|food||Schneid bitte die Zwiebeln.|Please cut the onions.|||
+Banane|w|noun|die|Bananen|banana|A1|2|a|food||Die Bananen sind im Angebot.|The bananas are on offer.|||
+Orange|w|noun|die|Orangen|orange|A2|2|a|food||Ich presse frische Orangen.|I'm squeezing fresh oranges.|||
+Joghurt|w|noun|der|Joghurts|yoghurt|A2|2|a|food||Zum Frühstück esse ich Joghurt mit Obst.|For breakfast I have yoghurt with fruit.|Also das Joghurt in some regions.|
+Schokolade|w|noun|die|Schokoladen|chocolate|A2|2|a|food||Ich esse gern Schokolade.|I like eating chocolate.|||
+Eis|w|noun|das|∅|ice cream; ice|A2|2|a|food,weather||Wollen wir ein Eis essen?|Shall we have an ice cream?|||
+vegetarisch|w|adj|||vegetarian|A2|2|a|food||Haben Sie auch etwas Vegetarisches?|Do you have anything vegetarian?|||r=vegan
+satt|w|adj|||full (after eating)|B1|2|a|food||Danke, ich bin satt.|Thanks, I'm full.|||
+frisch|w|adj|||fresh|A2|2|a|food||Das Brot ist ganz frisch.|The bread is really fresh.|||
+süß|w|adj|||sweet; cute|A2|2|a|food,people||Der Kuchen ist mir zu süß.|The cake is too sweet for me.|Also: cute (Das Baby ist so süß!).|
+scharf|w|adj|||spicy; sharp|A2|2|a|food||Ist das Essen sehr scharf?|Is the food very spicy?|||
+salzig|w|adj|||salty|B1|2|r|food||Die Suppe ist zu salzig.|The soup is too salty.|||
+Bäcker|w|noun|der|Bäcker|baker; bakery|A1|2|a|shopping,food,work||Ich gehe schnell zum Bäcker.|I'm just popping to the baker's.|zum Bäcker gehen = go to the bakery.|r=Bäckerei
+Metzgerei|w|noun|die|Metzgereien|butcher's (shop)|A2|2|r|shopping,food||Die Wurst ist aus der Metzgerei.|The sausage is from the butcher's.|North: Fleischerei. Person: Metzger / Fleischer.|
+Friseur|w|noun|der|Friseure|hairdresser|A2|2|a|services||Ich habe morgen einen Termin beim Friseur.|I have a hairdresser's appointment tomorrow.|Female: die Friseurin.|
+Werkstatt|w|noun|die|Werkstätten|workshop; garage (repairs)|A2|2|a|services,transport||Das Auto ist in der Werkstatt.|The car is at the garage.|||
+Reinigung|w|noun|die|Reinigungen|dry cleaner's; cleaning|A2|2|r|services||Ich bringe den Anzug in die Reinigung.|I'm taking the suit to the dry cleaner's.|||
+Handwerker|w|noun|der|Handwerker|tradesman; craftsman|B1|2|a|services,housing||Der Handwerker kommt erst nächste Woche.|The tradesman isn't coming until next week.|||
+Reparatur|w|noun|die|Reparaturen|repair|A1|2|a|services,home||Die Reparatur kostet 120 Euro.|The repair costs 120 euros.|||r=reparieren
+Schild|w|noun|das|Schilder|sign|A1|2|a|city,transport||Was steht auf dem Schild?|What does the sign say?|||
+Automat|w|noun|der|Automaten|vending machine; ticket machine|A1|2|a|transport,shopping||Die Fahrkarte kaufst du am Automaten.|You buy the ticket at the machine.|n-declension.|r=Fahrkartenautomat;Geldautomat

@@ -1,0 +1,47 @@
+# Tier 4 · residual high-frequency lemmas from the final top-1000 inclusion check (subtitles/web/news)
+# german|type|pos|article|plural|english|cefr|tier|mode|topics|register|example|example_en|grammar|f=|c=|r=|why=
+niemals|w|adv|||never (emphatic)|B2|4|r|discourse||Das hätte ich niemals gedacht.|I'd never have thought that.|||r=nie||why=top-1000 subtitle lemma
+irgendwas|w|pron|||something; anything|B2|4|b|discourse|spoken|Brauchst du noch irgendwas?|Do you need anything else?|Spoken for irgendetwas.|r=etwas||why=top-1000 subtitle lemma
+darin|w|adv|||in it; in that|B2|4|r|discourse||Der Schrank ist alt, aber darin ist viel Platz.|The wardrobe is old, but there's a lot of room in it.|da + in; spoken: drin.||why=top-1000 news lemma
+darunter|w|adv|||among them; underneath|B2|4|r|discourse||Es kamen 50 Gäste, darunter viele Kinder.|50 guests came, among them many children.|||why=top-1000 news lemma
+hinzu|w|adv|||in addition|B2|4|r|discourse|formal|Hinzu kommt, dass die Miete steigt.|On top of that, the rent is rising.|||c=Hinzu kommt, dass ...||why=top-1000 news lemma
+erstmals|w|adv|||for the first time|B2|4|r|time|written|Erstmals gewann eine Frau den Preis.|For the first time a woman won the prize.|||r=zum ersten Mal||why=top-1000 news lemma
+unklar|w|adj|||unclear|B2|4|r|discourse||Die Ursache ist noch unklar.|The cause is still unclear.|||r=klar||why=top-1000 news lemma
+jener|w|det|||that (formal)|B2|4|r|grammar|formal|In jener Zeit gab es kein Internet.|At that time there was no internet.|Declines like dieser; mostly written.||why=top-1000 news lemma
+relevant|w|adj|||relevant|B2|4|r|discourse||Das ist für uns nicht relevant.|That's not relevant to us.|||why=top-1000 web lemma
+optimal|w|adj|||optimal; ideal|B2|4|r|discourse||Die Lage ist optimal.|The location is ideal.|||why=top-1000 web lemma
+extern|w|adj|||external|B2|4|r|work||Wir arbeiten mit einer externen Firma.|We work with an external company.|||r=intern||why=top-1000 web lemma
+fachlich|w|adj|||professional; technical|B2|4|r|work||Sie ist fachlich sehr gut.|She's very good at her job.|||r=Fach||why=top-1000 web lemma
+betroffen|w|adj|||affected; upset|B2|4|b|society,media||Von dem Streik sind viele Pendler betroffen.|Many commuters are affected by the strike.|||c=betroffen sein von||why=top-1000 web lemma
+Präsident|w|noun|der|Präsidenten|president|B2|4|r|politics||Der Präsident hält eine Rede.|The president is giving a speech.|n-declension. Female: die Präsidentin.||why=top-1000 lemma in subtitles and news
+Bundesregierung|w|noun|die|Bundesregierungen|federal government|B2|4|r|politics||Die Bundesregierung plant neue Gesetze.|The federal government is planning new laws.|||r=Regierung||why=top-1000 news lemma
+Staatsanwaltschaft|w|noun|die|Staatsanwaltschaften|public prosecutor's office|B2|4|r|law,media|formal|Die Staatsanwaltschaft ermittelt.|The public prosecutor's office is investigating.|||why=top-1000 news lemma
+Angriff|w|noun|der|Angriffe|attack|B2|4|r|media,politics||Bei dem Angriff wurden Menschen verletzt.|People were injured in the attack.|||r=angreifen||why=top-1000 news lemma
+Waffe|w|noun|die|Waffen|weapon|B2|4|r|media,law||Die Polizei fand eine Waffe.|The police found a weapon.|||why=top-1000 subtitle lemma
+Soldat|w|noun|der|Soldaten|soldier|B2|4|r|politics,history||Sein Großvater war Soldat.|His grandfather was a soldier.|n-declension.||why=top-1000 subtitle lemma
+Befehl|w|noun|der|Befehle|order; command|B2|4|r|work,technology||Das ist ein Befehl!|That's an order!|Also computer command.||why=top-1000 subtitle lemma
+Seele|w|noun|die|Seelen|soul|B2|4|r|feelings,society||Sie ist eine gute Seele.|She's a good soul.|||why=top-1000 subtitle lemma
+Geist|w|noun|der|Geister|spirit; mind; ghost|B2|4|r|feelings,leisure||Er hat einen wachen Geist.|He has an alert mind.|||c=auf den Geist gehen||why=top-1000 subtitle lemma
+Liebling|w|noun|der|Lieblinge|darling; favourite|B2|4|r|people|informal|Gute Nacht, Liebling!|Good night, darling!|Prefix Lieblings- = favourite.|r=Schatz||why=top-1000 subtitle lemma
+Schatz|w|noun|der|Schätze|treasure; darling|B2|4|r|people|informal|Schatz, kannst du mal kommen?|Darling, can you come here a second?|||r=Liebling||why=top-1000 subtitle lemma
+Boss|w|noun|der|Bosse|boss|B2|4|r|work|informal|Der Boss ist heute schlecht gelaunt.|The boss is in a bad mood today.|||r=Chef||why=top-1000 subtitle lemma
+Position|w|noun|die|Positionen|position|B2|4|r|work,discourse||Sie hat eine leitende Position.|She has a senior position.|||why=top-1000 news lemma
+Fokus|w|noun|der|Fokusse|focus|B2|4|r|discourse,work||Der Fokus liegt auf der Praxis.|The focus is on practice.|||r=Schwerpunkt||why=top-1000 web lemma
+Bestandteil|w|noun|der|Bestandteile|component; part|B2|4|r|discourse||Sport ist ein fester Bestandteil meines Alltags.|Sport is an integral part of my everyday life.|||why=top-1000 web lemma
+Ansprechpartner|w|noun|der|Ansprechpartner|contact person|B2|4|b|work,bureaucracy||Wer ist mein Ansprechpartner?|Who is my contact person?|Female: die Ansprechpartnerin.||why=top-1000 web lemma
+Einwilligung|w|noun|die|Einwilligungen|consent|B2|4|r|law,technology|formal|Ohne Ihre Einwilligung geben wir keine Daten weiter.|We don't pass on data without your consent.|||r=Zustimmung||why=top-1000 web lemma; GDPR
+Erkrankung|w|noun|die|Erkrankungen|illness; disease|B2|4|r|healthcare|formal|Er hat eine chronische Erkrankung.|He has a chronic illness.|||r=Krankheit||why=top-1000 web lemma
+Fachkraft|w|noun|die|Fachkräfte|skilled worker|B2|4|r|work,society||In der Pflege fehlen Fachkräfte.|There's a shortage of skilled workers in care.|Fachkräftemangel = skills shortage.||why=top-1000 web lemma; key German labour-market term
+Hochschule|w|noun|die|Hochschulen|university; college|B2|4|r|education||Sie studiert an einer Hochschule für Technik.|She's studying at a technical university.|||r=Universität||why=top-1000 web lemma
+Fakultät|w|noun|die|Fakultäten|faculty|B2|4|r|education||Die Fakultät für Medizin ist im Neubau.|The medical faculty is in the new building.|||why=top-1000 web lemma
+Nutzer|w|noun|der|Nutzer|user|B2|4|r|technology||Die App hat Millionen Nutzer.|The app has millions of users.|Female: die Nutzerin.|r=nutzen||why=top-1000 web lemma
+Website|w|noun|die|Websites|website|B2|4|b|technology||Alle Infos finden Sie auf unserer Website.|You can find all the information on our website.|Also: Webseite, Internetseite.|r=Internetseite||why=top-1000 web lemma
+Internetseite|w|noun|die|Internetseiten|web page; website|B2|4|r|technology||Die Formulare stehen auf der Internetseite der Stadt.|The forms are on the city's website.|||r=Website||why=top-1000 web lemma
+Browser|w|noun|der|Browser|browser|B2|4|r|technology||Aktualisieren Sie Ihren Browser.|Update your browser.|||why=top-1000 web lemma
+Cookie|w|noun|das|Cookies|cookie (web)|B2|4|r|technology||Diese Website verwendet Cookies.|This website uses cookies.|||why=top-1000 web lemma; every cookie banner
+Newsletter|w|noun|der|Newsletter|newsletter|B2|4|r|technology,media||Melden Sie sich für unseren Newsletter an.|Sign up for our newsletter.|||why=top-1000 web lemma
+Gestaltung|w|noun|die|Gestaltungen|design; arrangement|B2|4|r|work||Die Gestaltung der Website ist modern.|The website's design is modern.|||r=gestalten||why=top-1000 web lemma
+Bewertung|w|noun|die|Bewertungen|rating; review; assessment|B2|4|b|shopping,work||Das Hotel hat gute Bewertungen.|The hotel has good reviews.|||r=bewerten||why=top-1000 web lemma
+Vorjahr|w|noun|das|Vorjahre|previous year|B2|4|r|economy,media|written|Im Vergleich zum Vorjahr stiegen die Preise.|Compared with the previous year prices rose.|||why=top-1000 news lemma
+Pandemie|w|noun|die|Pandemien|pandemic|B2|4|r|healthcare,media||Während der Pandemie haben viele im Homeoffice gearbeitet.|During the pandemic many people worked from home.|||why=top-1000 web lemma
+erarbeiten|w|verb|||to work out; to develop|B2|4|r|work,education||Wir erarbeiten gemeinsam eine Lösung.|We're working out a solution together.|insep|f=erarbeitet, erarbeitete, hat erarbeitet||why=top-1000 web lemma

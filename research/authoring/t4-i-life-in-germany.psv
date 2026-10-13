@@ -1,0 +1,69 @@
+# Tier 4 · B2 practical life in Germany: work law, benefits, tax, insurance, tenancy, residence, driving, schools.
+# Selected by scenario need (B2 scenarios: dispute with landlord, employment contract, authority letters), not frequency.
+# german|type|pos|article|plural|english|cefr|tier|mode|topics|register|example|example_en|grammar|f=|c=|r=|why=
+Abmahnung|w|noun|die|Abmahnungen|formal warning (employment)|B2|4|r|work,law||Er hat wegen Zuspätkommens eine Abmahnung bekommen.|He got a formal warning for being late.|||why=German labour law step before dismissal
+Arbeitsamt|w|noun|das|Arbeitsämter|job centre (colloquial)|B2|4|r|work,bureaucracy|spoken|Ich muss morgen zum Arbeitsamt.|I have to go to the job centre tomorrow.|Official: Agentur für Arbeit.|r=Arbeitsagentur
+Bürgergeld|w|noun|das|∅|basic income support|B2|4|r|bureaucracy,money||Er bekommt Bürgergeld vom Jobcenter.|He receives basic income support from the job centre.|||why=Germany: main welfare benefit since 2023
+Arbeitslosengeld|w|noun|das|∅|unemployment benefit|B2|4|r|bureaucracy,money||Ich habe Anspruch auf Arbeitslosengeld.|I'm entitled to unemployment benefit.|||
+Elternzeit|w|noun|die|∅|parental leave|B2|4|b|work,family||Mein Mann nimmt zwei Monate Elternzeit.|My husband is taking two months' parental leave.|||why=Germany: statutory parental leave
+Mutterschutz|w|noun|der|∅|maternity protection|B2|4|r|work,family||Im Mutterschutz darf sie nicht arbeiten.|During maternity protection she isn't allowed to work.|||
+Krankengeld|w|noun|das|∅|sick pay (from insurer)|B2|4|r|healthcare,money||Nach sechs Wochen zahlt die Krankenkasse Krankengeld.|After six weeks the health insurer pays sick pay.|||why=Germany: Lohnfortzahlung then Krankengeld
+Arbeitsunfähigkeitsbescheinigung|w|noun|die|Arbeitsunfähigkeitsbescheinigungen|sick note|B2|4|r|healthcare,work|formal|Die Arbeitsunfähigkeitsbescheinigung geht jetzt digital an den Arbeitgeber.|The sick note now goes digitally to the employer.|Short: AU, Krankschreibung.|r=Krankmeldung
+Bereitschaftsdienst|w|noun|der|Bereitschaftsdienste|out-of-hours medical service|B2|4|b|healthcare||Am Wochenende rufen Sie den Bereitschaftsdienst unter 116 117 an.|At weekends call the out-of-hours service on 116 117.|||why=Germany: 116 117 for non-emergencies
+Vorsorge|w|noun|die|∅|preventive care; provision|B1|3|b|healthcare,money||Die Vorsorgeuntersuchung ist Teil der Vorsorge.|The check-up is part of preventive care.||||why=re-tiered after held-out scenario validation
+Impfpass|w|noun|der|Impfpässe|vaccination record|B2|4|r|healthcare||Bringen Sie bitte Ihren Impfpass mit.|Please bring your vaccination record.|||
+Pflegeheim|w|noun|das|Pflegeheime|care home|B2|4|r|healthcare,family||Die Plätze im Pflegeheim sind knapp.|Places in care homes are scarce.|||r=Altenheim
+Pflegekraft|w|noun|die|Pflegekräfte|care worker; nurse|B2|4|r|healthcare,work||Es fehlen viele Pflegekräfte.|There's a shortage of care workers.|||why=Germany: major recruitment field for migrants
+Lohnsteuer|w|noun|die|∅|income tax (on wages)|B2|4|r|money,work||Die Lohnsteuer wird direkt vom Gehalt abgezogen.|Income tax is deducted directly from the salary.|||r=Steuer
+Selbstbeteiligung|w|noun|die|Selbstbeteiligungen|excess; deductible|B2|4|r|money||Die Versicherung hat 300 Euro Selbstbeteiligung.|The insurance has a 300-euro excess.|||
+Mitgliedschaft|w|noun|die|Mitgliedschaften|membership|B2|4|r|leisure,money||Ich möchte meine Mitgliedschaft im Fitnessstudio kündigen.|I'd like to cancel my gym membership.|||r=Mitglied
+Laufzeit|w|noun|die|Laufzeiten|term; duration (of contract)|B2|4|b|money,law||Der Handyvertrag hat eine Laufzeit von 24 Monaten.|The phone contract runs for 24 months.|||why=Germany: long minimum contract terms
+Verlängerung|w|noun|die|Verlängerungen|extension; renewal|B2|4|r|bureaucracy,law||Ich beantrage eine Verlängerung meines Visums.|I'm applying for an extension of my visa.|||r=verlängern
+Widerrufsrecht|w|noun|das|∅|right of withdrawal|B2|4|r|shopping,law|formal|Sie haben ein Widerrufsrecht von 14 Tagen.|You have a 14-day right of withdrawal.|||why=online shopping consumer right
+Inkasso|w|noun|das|∅|debt collection|B2|4|r|money,law||Die Rechnung ist jetzt beim Inkasso.|The bill has been passed to debt collection.|||why=common scam/debt letters
+Einzugsermächtigung|w|noun|die|Einzugsermächtigungen|direct debit authorisation|B2|4|r|money|formal|Bitte erteilen Sie uns eine Einzugsermächtigung.|Please give us a direct debit authorisation.|Now officially: SEPA-Lastschriftmandat.|r=Lastschrift
+Dispo|w|noun|der|Dispos|overdraft (facility)|B2|4|r|money|spoken|Ich bin schon wieder im Dispo.|I'm in my overdraft again.|Short for Dispositionskredit.|
+Rate|w|noun|die|Raten|instalment; rate|B2|4|b|money||Sie können in Raten bezahlen.|You can pay in instalments.|||c=in Raten zahlen
+Nebenkostenabrechnung|w|noun|die|Nebenkostenabrechnungen|utility bill statement|B1|3|b|housing,money||Die Nebenkostenabrechnung kam mit einer Nachzahlung.|The service-charge statement came with a back payment.|||why=Germany: annual tenancy statement; moved earlier by scenario validation (validation-report.md)
+Untermiete|w|noun|die|∅|subletting|B2|4|r|housing||Ich wohne zur Untermiete.|I'm renting a room as a subtenant.|||r=Untermieter
+Untermieter|w|noun|der|Untermieter|subtenant|B2|4|r|housing||Für einen Untermieter brauchen Sie die Erlaubnis des Vermieters.|You need the landlord's permission for a subtenant.|||
+Wohngemeinschaft|w|noun|die|Wohngemeinschaften|flat share|B2|4|b|housing||Ich suche ein Zimmer in einer Wohngemeinschaft.|I'm looking for a room in a flat share.|Short: WG.|r=WG
+Ruhezeiten|w|noun|die|Pl|quiet hours|B2|4|r|housing||Bitte halten Sie die Ruhezeiten ein.|Please observe the quiet hours.|||why=Germany: Mittagsruhe/Nachtruhe in house rules
+Mieterverein|w|noun|der|Mietervereine|tenants' association|B2|4|r|housing,law||Der Mieterverein hilft bei Problemen mit dem Vermieter.|The tenants' association helps with landlord problems.|||
+Mietspiegel|w|noun|der|Mietspiegel|rent index|B2|4|r|housing||Laut Mietspiegel ist die Miete zu hoch.|According to the rent index the rent is too high.|||
+Eigentümer|w|noun|der|Eigentümer|owner|B2|4|r|housing,law||Der Eigentümer der Wohnung wohnt in Hamburg.|The owner of the flat lives in Hamburg.|||r=Besitzer;Vermieter
+Eigentum|w|noun|das|∅|property; ownership|B2|4|r|housing,law||Die Wohnung ist unser Eigentum.|The flat is our property.|Eigentumswohnung = owner-occupied flat.|
+Makler|w|noun|der|Makler|estate agent|B2|4|r|housing||Der Makler zeigt uns die Wohnung.|The estate agent is showing us the flat.|||
+Provision|w|noun|die|Provisionen|commission|B2|4|r|housing,money||Die Provision zahlt der Vermieter.|The landlord pays the commission.|||why=Germany: Bestellerprinzip
+Übergabe|w|noun|die|Übergaben|handover|B2|4|r|housing||Bei der Übergabe bekommen Sie die Schlüssel.|You'll get the keys at the handover.|||
+Übergabeprotokoll|w|noun|das|Übergabeprotokolle|handover report|B2|4|r|housing||Notieren Sie alle Schäden im Übergabeprotokoll.|Note all damage in the handover report.|||why=protects deposit (Kaution)
+Renovierung|w|noun|die|Renovierungen|renovation|B2|4|r|housing||Die Renovierung dauert drei Wochen.|The renovation takes three weeks.|||r=renovieren
+Mängel|w|noun|die|Pl|defects|B2|4|r|housing,law||Bitte beheben Sie die Mängel bis Ende des Monats.|Please fix the defects by the end of the month.|||why=tenancy complaint letters
+Abmeldung|w|noun|die|Abmeldungen|deregistration|B2|4|r|bureaucracy||Vor dem Umzug ins Ausland brauchen Sie eine Abmeldung.|Before moving abroad you need to deregister.|||r=Anmeldung
+Arbeitserlaubnis|w|noun|die|Arbeitserlaubnisse|work permit|B2|4|r|bureaucracy,work||Haben Sie eine Arbeitserlaubnis?|Do you have a work permit?|||
+Niederlassungserlaubnis|w|noun|die|Niederlassungserlaubnisse|permanent residence permit|B2|4|r|bureaucracy||Nach fünf Jahren kann man eine Niederlassungserlaubnis beantragen.|After five years you can apply for permanent residence.|||
+Einbürgerungstest|w|noun|der|Einbürgerungstests|citizenship test|B2|4|r|bureaucracy||Der Einbürgerungstest hat 33 Fragen.|The citizenship test has 33 questions.|||
+Fahrschule|w|noun|die|Fahrschulen|driving school|B2|4|r|transport||Ich melde mich bei einer Fahrschule an.|I'm signing up with a driving school.|||
+Fahrprüfung|w|noun|die|Fahrprüfungen|driving test|B2|4|r|transport||Ich habe die Fahrprüfung bestanden!|I passed my driving test!|||
+TÜV|w|noun|der|∅|vehicle inspection (MOT)|B2|4|r|transport||Das Auto muss nächsten Monat zum TÜV.|The car has to go for its MOT next month.|||why=Germany: mandatory inspection
+Zulassungsstelle|w|noun|die|Zulassungsstellen|vehicle registration office|B2|4|r|transport,bureaucracy||Das Auto melde ich bei der Zulassungsstelle an.|I'm registering the car at the registration office.|||
+Punkte|w|noun|die|Pl|penalty points|B2|4|r|transport,law||Für das Handy am Steuer gibt es einen Punkt in Flensburg – mit acht Punkten ist der Führerschein weg.|Using a phone while driving gets you a point in Flensburg – with eight points you lose your licence.|||why=Germany: Flensburg points register
+Blitzer|w|noun|der|Blitzer|speed camera|B2|4|r|transport|informal|Vorsicht, da vorne steht ein Blitzer!|Careful, there's a speed camera up ahead!|||
+Krippe|w|noun|die|Krippen|crèche; nursery (under 3)|B2|4|r|family,education||Unser Sohn geht ab einem Jahr in die Krippe.|Our son is going to nursery from age one.|||r=Kita
+Tagesmutter|w|noun|die|Tagesmütter|childminder|B2|4|r|family||Die Tagesmutter betreut vier Kinder.|The childminder looks after four children.|||
+Realschule|w|noun|die|Realschulen|secondary school (intermediate)|B2|4|r|education||Nach der Realschule macht sie eine Ausbildung.|After Realschule she's doing an apprenticeship.|||why=Germany: tiered school system
+Hauptschule|w|noun|die|Hauptschulen|secondary school (basic)|B2|4|r|education||Er hat den Hauptschulabschluss an der Hauptschule gemacht.|He got his basic school-leaving certificate at Hauptschule.|||
+Gesamtschule|w|noun|die|Gesamtschulen|comprehensive school|B2|4|r|education||An der Gesamtschule kann man alle Abschlüsse machen.|At a comprehensive you can get any qualification.|||
+Elternabend|w|noun|der|Elternabende|parents' evening|B1|3|b|education,family||Am Dienstag ist Elternabend in der Schule.|There's a parents' evening at school on Tuesday.||||why=moved earlier by scenario validation (validation-report.md)
+Ausbildungsplatz|w|noun|der|Ausbildungsplätze|apprenticeship place|B2|4|r|work,education||Sie sucht noch einen Ausbildungsplatz.|She's still looking for an apprenticeship.|||r=Lehrstelle
+Umschulung|w|noun|die|Umschulungen|retraining|B2|4|r|work,education||Das Jobcenter bezahlt die Umschulung.|The job centre pays for the retraining.|||
+Anerkennungsverfahren|w|noun|das|Anerkennungsverfahren|recognition procedure|B2|4|r|bureaucracy,work||Das Anerkennungsverfahren für mein Diplom dauert drei Monate.|The recognition procedure for my diploma takes three months.|||why=Germany: foreign qualifications
+Gehaltsabrechnung|w|noun|die|Gehaltsabrechnungen|payslip|B2|4|b|work,money||Auf der Gehaltsabrechnung sehen Sie Brutto und Netto.|On the payslip you see gross and net.|||r=Lohnabrechnung
+Gleitzeit|w|noun|die|∅|flexitime|B2|4|r|work||Bei uns gibt es Gleitzeit.|We have flexitime.|||
+Schichtarbeit|w|noun|die|∅|shift work|B2|4|r|work||Schichtarbeit ist anstrengend.|Shift work is tiring.|||r=Schicht
+Minijob|w|noun|der|Minijobs|marginal job (up to a monthly limit)|B2|4|r|work||Neben dem Studium hat sie einen Minijob.|She has a mini-job alongside her studies.|||why=Germany-specific employment type
+Dienstreise|w|noun|die|Dienstreisen|business trip|B2|4|r|work,travel||Nächste Woche bin ich auf Dienstreise.|I'm on a business trip next week.|||
+Spesen|w|noun|die|Pl|expenses|B2|4|r|work,money||Die Spesen werden erstattet.|Expenses are reimbursed.|||
+Resturlaub|w|noun|der|∅|remaining holiday|B2|4|r|work||Ich habe noch fünf Tage Resturlaub.|I still have five days' holiday left.|||
+Brückentag|w|noun|der|Brückentage|bridge day (between holiday and weekend)|B2|4|r|work,time||Am Brückentag nehmen viele frei.|Many people take the bridge day off.|||why=Germany-specific concept
+Betriebsferien|w|noun|die|Pl|company holidays|B2|4|r|work||Im August haben wir drei Wochen Betriebsferien.|We have three weeks' company holiday in August.|||

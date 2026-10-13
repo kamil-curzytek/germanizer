@@ -1,0 +1,381 @@
+{
+ "gender_cues": {
+  "nouns": 2194,
+  "rules": [
+   {
+    "ending": "-ung",
+    "article": "die",
+    "nouns": 229,
+    "accuracy": 99.6,
+    "exceptions_sample": [
+     "Sprung"
+    ]
+   },
+   {
+    "ending": "-heit",
+    "article": "die",
+    "nouns": 18,
+    "accuracy": 100.0,
+    "exceptions_sample": []
+   },
+   {
+    "ending": "-keit",
+    "article": "die",
+    "nouns": 22,
+    "accuracy": 100.0,
+    "exceptions_sample": []
+   },
+   {
+    "ending": "-schaft",
+    "article": "die",
+    "nouns": 16,
+    "accuracy": 100.0,
+    "exceptions_sample": []
+   },
+   {
+    "ending": "-ion",
+    "article": "die",
+    "nouns": 44,
+    "accuracy": 97.7,
+    "exceptions_sample": [
+     "Stadion"
+    ]
+   },
+   {
+    "ending": "-tät",
+    "article": "die",
+    "nouns": 9,
+    "accuracy": 100.0,
+    "exceptions_sample": []
+   },
+   {
+    "ending": "-ei",
+    "article": "die",
+    "nouns": 6,
+    "accuracy": 83.3,
+    "exceptions_sample": [
+     "Ei"
+    ]
+   },
+   {
+    "ending": "-ie",
+    "article": "die",
+    "nouns": 28,
+    "accuracy": 89.3,
+    "exceptions_sample": [
+     "Knie",
+     "Portemonnaie",
+     "Cookie"
+    ]
+   },
+   {
+    "ending": "-ik",
+    "article": "die",
+    "nouns": 12,
+    "accuracy": 83.3,
+    "exceptions_sample": [
+     "Streik",
+     "Plastik"
+    ]
+   },
+   {
+    "ending": "-enz",
+    "article": "die",
+    "nouns": 6,
+    "accuracy": 100.0,
+    "exceptions_sample": []
+   },
+   {
+    "ending": "-anz",
+    "article": "die",
+    "nouns": 4,
+    "accuracy": 75.0,
+    "exceptions_sample": [
+     "Tanz"
+    ]
+   },
+   {
+    "ending": "-ur",
+    "article": "die",
+    "nouns": 19,
+    "accuracy": 73.7,
+    "exceptions_sample": [
+     "Flur",
+     "Friseur",
+     "Ingenieur",
+     "Abitur",
+     "Regisseur"
+    ]
+   },
+   {
+    "ending": "-e",
+    "article": "die",
+    "nouns": 406,
+    "accuracy": 87.4,
+    "exceptions_sample": [
+     "Ende",
+     "Name",
+     "Auge",
+     "Junge",
+     "Kaffee",
+     "Wochenende"
+    ]
+   },
+   {
+    "ending": "-chen",
+    "article": "das",
+    "nouns": 14,
+    "accuracy": 78.6,
+    "exceptions_sample": [
+     "Kuchen",
+     "Fundsachen",
+     "Knochen"
+    ]
+   },
+   {
+    "ending": "-lein",
+    "article": "das",
+    "nouns": 0,
+    "accuracy": null,
+    "exceptions_sample": []
+   },
+   {
+    "ending": "-ment",
+    "article": "das",
+    "nouns": 10,
+    "accuracy": 90.0,
+    "exceptions_sample": [
+     "Moment"
+    ]
+   },
+   {
+    "ending": "-um",
+    "article": "das",
+    "nouns": 21,
+    "accuracy": 71.4,
+    "exceptions_sample": [
+     "Raum",
+     "Baum",
+     "Traum",
+     "Zeitraum",
+     "Reichtum",
+     "Kofferraum"
+    ]
+   },
+   {
+    "ending": "-nis",
+    "article": "das",
+    "nouns": 18,
+    "accuracy": 66.7,
+    "exceptions_sample": [
+     "Erlaubnis",
+     "Kenntnis",
+     "Erkenntnis",
+     "Aufenthaltserlaubnis",
+     "Arbeitserlaubnis",
+     "Niederlassungserlaubnis"
+    ]
+   },
+   {
+    "ending": "-ling",
+    "article": "der",
+    "nouns": 4,
+    "accuracy": 75.0,
+    "exceptions_sample": [
+     "Recycling"
+    ]
+   },
+   {
+    "ending": "-ismus",
+    "article": "der",
+    "nouns": 2,
+    "accuracy": 100.0,
+    "exceptions_sample": []
+   },
+   {
+    "ending": "-or",
+    "article": "der",
+    "nouns": 11,
+    "accuracy": 90.9,
+    "exceptions_sample": [
+     "Tor"
+    ]
+   },
+   {
+    "ending": "-ist",
+    "article": "der",
+    "nouns": 8,
+    "accuracy": 75.0,
+    "exceptions_sample": [
+     "Frist",
+     "Kündigungsfrist"
+    ]
+   },
+   {
+    "ending": "-ant",
+    "article": "der",
+    "nouns": 4,
+    "accuracy": 75.0,
+    "exceptions_sample": [
+     "Restaurant"
+    ]
+   },
+   {
+    "ending": "-er",
+    "article": "der",
+    "nouns": 199,
+    "accuracy": 68.3,
+    "exceptions_sample": [
+     "Mutter",
+     "Wasser",
+     "Alter",
+     "Tochter",
+     "Nummer",
+     "Schwester"
+    ]
+   }
+  ],
+  "covered_by_some_rule_pct": 50.6,
+  "covered_by_rules_90pct_reliable": 16.7,
+  "article_distribution": {
+   "das": 404,
+   "der": 800,
+   "die": 990
+  }
+ },
+ "exercise_material": {
+  "case after dative preposition (mit dem, bei der …)": {
+   "sentences": 110,
+   "app_seed": 12,
+   "examples": [
+    "Ich lerne seit einem Jahr Deutsch.",
+    "Ich fahre mit dem Fahrrad zur Arbeit.",
+    "Morgen fahre ich mit dem Zug nach München."
+   ]
+  },
+  "case after accusative preposition (für den …)": {
+   "sentences": 94,
+   "app_seed": 8,
+   "examples": [
+    "Wir gehen durch den Park nach Hause.",
+    "Darf ich Sie um einen Gefallen bitten?",
+    "Danke für deine Hilfe!"
+   ]
+  },
+  "two-way preposition + article (in der / in die …)": {
+   "sentences": 300,
+   "app_seed": 11,
+   "examples": [
+    "Gibt es hier in der Nähe eine Apotheke?",
+    "Wir treffen uns um acht vor dem Kino.",
+    "Wo ist der Schlüssel? – Er liegt auf dem Tisch."
+   ]
+  },
+  "article + adjective + noun (adjective ending)": {
+   "sentences": 312,
+   "app_seed": 12,
+   "examples": [
+    "Das war das erste Mal.",
+    "Wann fährt der nächste Zug nach Hamburg?",
+    "Ich wünsche dir einen schönen Tag!"
+   ]
+  },
+  "Perfekt (haben/sein … participle at the end)": {
+   "sentences": 167,
+   "app_seed": 2,
+   "examples": [
+    "Ich habe heute noch nichts gegessen.",
+    "Wir haben lange gewartet.",
+    "Sie haben die falsche Nummer gewählt."
+   ]
+  },
+  "modal verb … infinitive at the end": {
+   "sentences": 271,
+   "app_seed": 43,
+   "examples": [
+    "Ich muss heute länger arbeiten.",
+    "Der Arzt sagt, ich soll mehr trinken.",
+    "Hier darf man nicht parken."
+   ]
+  },
+  "subordinate clause: verb to the end (weil, dass, wenn, ob …)": {
+   "sentences": 79,
+   "app_seed": 6,
+   "examples": [
+    "Ich glaube, dass er recht hat.",
+    "Ich komme nicht, weil ich arbeiten muss.",
+    "Weißt du, ob der Supermarkt noch offen ist?"
+   ]
+  },
+  "inversion: sentence starts with time/place, then the verb": {
+   "sentences": 273,
+   "app_seed": 16,
+   "examples": [
+    "Hier darf man nicht parken.",
+    "Heute habe ich frei.",
+    "Dort drüben ist der Bahnhof."
+   ]
+  },
+  "question with verb first (Kommst du …?)": {
+   "sentences": 229,
+   "app_seed": 30,
+   "examples": [
+    "Hast du heute Abend Zeit?",
+    "Können Sie mir bitte helfen?",
+    "Gibt es hier in der Nähe eine Apotheke?"
+   ]
+  },
+  "negation with nicht / kein": {
+   "sentences": 282,
+   "app_seed": 20,
+   "examples": [
+    "Ich verstehe das nicht.",
+    "Ich habe heute keine Zeit.",
+    "Hier darf man nicht parken."
+   ]
+  },
+  "reflexive pronoun (mich, dich, sich …)": {
+   "sentences": 290,
+   "app_seed": 22,
+   "examples": [
+    "Wir treffen uns um acht vor dem Kino.",
+    "Also, wann treffen wir uns?",
+    "Wir treffen uns um acht Uhr."
+   ]
+  },
+  "zu + infinitive": {
+   "sentences": 23,
+   "app_seed": 2,
+   "examples": [
+    "Ich freue mich, dich zu sehen.",
+    "Mein Ziel ist es, gut Deutsch zu sprechen.",
+    "Ich lerne Deutsch, um in Deutschland zu arbeiten."
+   ]
+  },
+  "comparative / superlative": {
+   "sentences": 12,
+   "app_seed": 1,
+   "examples": [
+    "Wie komme ich am besten zum Flughafen?",
+    "Im Juli ist es am heißesten.",
+    "Mein Großvater hat früher als Bäcker gearbeitet."
+   ]
+  },
+  "separable verb split (prefix at the end)": {
+   "sentences": 113,
+   "tagged_separable_verbs": 254,
+   "examples": [
+    "Wann fängst du mit der neuen Arbeit an?",
+    "Ich rufe dich morgen an.",
+    "Wann kommt der Zug in Berlin an?"
+   ]
+  },
+  "verbs with stored forms (3sg, preterite, perfect)": {
+   "sentences": 1031
+  },
+  "nouns with a plural (plural drill)": {
+   "sentences": 1888
+  }
+ },
+ "sentences_scanned": 4788
+}

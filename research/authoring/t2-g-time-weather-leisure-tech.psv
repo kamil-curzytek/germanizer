@@ -1,0 +1,106 @@
+# Tier 2 · time, months, seasons, weather, nature, clothing, leisure, media, technology
+# german|type|pos|article|plural|english|cefr|tier|mode|topics|register|example|example_en|grammar|f=|c=|r=|why=
+Januar|w|noun|der|∅|January|A1|2|a|time||Im Januar ist es oft sehr kalt.|In January it's often very cold.|All months are masculine: im Januar.|
+Februar|w|noun|der|∅|February|A1|2|a|time||Im Februar ist Karneval.|Carnival is in February.|||
+März|w|noun|der|∅|March|A1|2|a|time||Der Kurs beginnt im März.|The course starts in March.|||
+April|w|noun|der|∅|April|A1|2|a|time||Im April ist das Wetter wechselhaft.|In April the weather is changeable.|||
+Mai|w|noun|der|∅|May|A1|2|a|time||Am ersten Mai ist Feiertag.|The first of May is a public holiday.|||
+Juni|w|noun|der|∅|June|A1|2|a|time||Im Juni haben wir Urlaub.|We're on holiday in June.|Spoken also Juno, to avoid confusion with Juli.|
+Juli|w|noun|der|∅|July|A1|2|a|time||Im Juli ist es am heißesten.|July is the hottest.|Spoken also Julei.|
+August|w|noun|der|∅|August|A1|2|a|time||Im August sind Sommerferien.|The summer holidays are in August.|||
+September|w|noun|der|∅|September|A1|2|a|time||Im September beginnt die Schule wieder.|School starts again in September.|||
+Oktober|w|noun|der|∅|October|A1|2|a|time||Im Oktober ist das Oktoberfest zu Ende.|The Oktoberfest ends in October.|||
+November|w|noun|der|∅|November|A1|2|a|time||Der November ist oft grau.|November is often grey.|||
+Dezember|w|noun|der|∅|December|A1|2|a|time||Im Dezember gibt es überall Weihnachtsmärkte.|In December there are Christmas markets everywhere.|||
+Frühling|w|noun|der|Frühlinge|spring|A1|2|a|time,weather||Im Frühling blühen die Bäume.|In spring the trees blossom.|||
+Sommer|w|noun|der|Sommer|summer|A1|1|a|time,weather||Im Sommer fahren wir ans Meer.|In summer we go to the seaside.||||why=re-tiered after held-out scenario validation
+Herbst|w|noun|der|Herbste|autumn; fall|A1|2|a|time,weather||Im Herbst wird es früh dunkel.|In autumn it gets dark early.|||
+Winter|w|noun|der|Winter|winter|A1|1|a|time,weather||Im Winter fahren wir Ski.|In winter we go skiing.||||why=re-tiered after held-out scenario validation
+Feiertag|w|noun|der|Feiertage|public holiday|A2|2|a|time,society||Am Montag ist Feiertag, die Läden sind zu.|Monday is a public holiday, the shops are closed.|Holidays differ between Bundesländer.||why=Germany: shops closed, rules vary by state
+Ferien|w|noun|die|Pl|holidays (school, university)|A2|2|a|time,education||In den Ferien fahren wir zu den Großeltern.|In the holidays we're going to the grandparents'.|Plural only. Work holiday = Urlaub.|r=Urlaub;Sommerferien
+täglich|w|adj|||daily; every day|A2|2|a|time||Der Laden ist täglich geöffnet.|The shop is open daily.|||r=Tag
+morgens|w|adv|||in the morning(s)|A2|2|a|time||Morgens trinke ich nur Kaffee.|In the mornings I only drink coffee.|-s = regularly: mittags, nachmittags, abends, nachts, montags.|r=abends;nachts
+abends|w|adv|||in the evening(s)|A1|1|a|time||Abends bin ich meistens zu Hause.|In the evenings I'm usually at home.|||r=morgens|why=re-tiered after held-out scenario validation
+nachts|w|adv|||at night|A2|2|a|time||Nachts fährt die U-Bahn nur jede Stunde.|At night the underground only runs every hour.|||
+damals|w|adv|||back then; at that time|A2|2|a|time||Damals habe ich in Polen gewohnt.|Back then I lived in Poland.|||r=früher
+vorher|w|adv|||beforehand; before|A2|2|a|time||Ruf mich bitte vorher an.|Please call me beforehand.|||r=nachher
+nachher|w|adv|||afterwards; later|A2|2|a|time|spoken|Wir sehen uns nachher.|See you later.|||r=vorher
+inzwischen|w|adv|||meanwhile; by now|B1|2|a|time||Inzwischen wohne ich schon fünf Jahre hier.|By now I've lived here for five years.|||
+plötzlich|w|adv|||suddenly|A2|2|a|time||Plötzlich ging das Licht aus.|Suddenly the light went out.|||
+rechtzeitig|w|adv|||in time; on time|B1|2|a|time||Bitte melden Sie sich rechtzeitig an.|Please register in good time.|||r=pünktlich
+selten|w|adv|||rarely; seldom|A2|2|a|time||Ich gehe selten ins Kino.|I rarely go to the cinema.|||r=oft
+regelmäßig|w|adj|||regular; regularly|B1|2|a|time||Ich mache regelmäßig Sport.|I do sport regularly.|||
+zurzeit|w|adv|||at the moment; currently|A1|2|a|time||Zurzeit arbeite ich von zu Hause.|At the moment I'm working from home.|||r=gerade;im Moment
+Temperatur|w|noun|die|Temperaturen|temperature|B1|2|a|weather||Morgen steigen die Temperaturen auf 30 Grad.|Tomorrow temperatures will rise to 30 degrees.|||r=Grad
+Grad|w|noun|der|Grad|degree|A1|1|a|weather,numbers||Heute sind es minus fünf Grad.|It's minus five degrees today.||||why=re-tiered after held-out scenario validation
+Schnee|w|noun|der|∅|snow|A1|1|a|weather||Morgen soll es Schnee geben.|It's supposed to snow tomorrow.|||r=schneien|why=re-tiered after held-out scenario validation
+schneien|w|verb|||to snow|A2|2|a|weather||Es schneit!|It's snowing!||f=schneit, schneite, hat geschneit|r=Schnee
+Wind|w|noun|der|Winde|wind|A1|2|a|weather||Heute ist viel Wind.|It's very windy today.|||r=windig
+Wolke|w|noun|die|Wolken|cloud|A2|2|r|weather||Am Himmel sind keine Wolken.|There are no clouds in the sky.|||r=bewölkt
+Gewitter|w|noun|das|Gewitter|thunderstorm|A2|2|a|weather||Am Abend gibt es ein Gewitter.|There'll be a thunderstorm in the evening.|||
+sonnig|w|adj|||sunny|A2|2|a|weather||Morgen wird es sonnig.|It'll be sunny tomorrow.|||r=Sonne
+Regenschirm|w|noun|der|Regenschirme|umbrella|A2|2|a|weather,clothing||Nimm einen Regenschirm mit!|Take an umbrella with you!|Short: der Schirm.|r=Regen
+Himmel|w|noun|der|∅|sky; heaven|A2|2|a|weather,nature||Der Himmel ist ganz blau.|The sky is completely blue.|||
+Natur|w|noun|die|∅|nature|A2|2|a|nature,leisure||Am Wochenende sind wir gern in der Natur.|At the weekend we like being out in nature.|||
+Wald|w|noun|der|Wälder|forest; woods|A2|2|a|nature||Wir gehen im Wald spazieren.|We're going for a walk in the woods.|||
+Baum|w|noun|der|Bäume|tree|A1|2|a|nature||Vor dem Haus steht ein großer Baum.|There's a big tree in front of the house.|||
+Blume|w|noun|die|Blumen|flower|A1|2|a|nature,social||Ich bringe Blumen mit.|I'll bring flowers.|Common gift when invited to someone's home.|
+Pflanze|w|noun|die|Pflanzen|plant|A2|2|a|nature,home||Kannst du im Urlaub meine Pflanzen gießen?|Can you water my plants while I'm on holiday?|||
+Fluss|w|noun|der|Flüsse|river|A2|2|a|nature,places||Köln liegt am Rhein, einem großen Fluss.|Cologne is on the Rhine, a big river.|||
+Umwelt|w|noun|die|∅|environment|B1|2|a|environment,society||Wir müssen mehr für die Umwelt tun.|We need to do more for the environment.|||r=umweltfreundlich
+Norden|w|noun|der|∅|north|A1|2|a|places||Hamburg liegt im Norden.|Hamburg is in the north.|||r=Süden;Osten;Westen
+Süden|w|noun|der|∅|south|A1|2|a|places||München liegt im Süden.|Munich is in the south.|||r=Norden
+Osten|w|noun|der|∅|east|A1|2|a|places||Dresden liegt im Osten von Deutschland.|Dresden is in the east of Germany.|||
+Westen|w|noun|der|∅|west|A1|2|a|places||Köln liegt im Westen.|Cologne is in the west.|||
+Welt|w|noun|die|Welten|world|A2|2|a|places,society||Sie ist um die ganze Welt gereist.|She's travelled all over the world.|||
+Hemd|w|noun|das|Hemden|shirt|A2|2|a|clothing||Ich muss das Hemd noch bügeln.|I still have to iron the shirt.|||
+T-Shirt|w|noun|das|T-Shirts|T-shirt|A2|2|a|clothing||Das T-Shirt war im Angebot.|The T-shirt was on offer.|||
+Pullover|w|noun|der|Pullover|jumper; sweater|A2|2|a|clothing||Zieh einen Pullover an, es ist kalt.|Put on a jumper, it's cold.|Spoken: der Pulli.|
+Kleid|w|noun|das|Kleider|dress|A2|2|a|clothing||Das Kleid steht dir gut.|The dress suits you.|Plural Kleider also = clothes.|
+Rock|w|noun|der|Röcke|skirt|A2|2|r|clothing||Sie trägt einen langen Rock.|She's wearing a long skirt.|Also: rock music.|
+Mantel|w|noun|der|Mäntel|coat|A2|2|a|clothing||Hängen Sie Ihren Mantel an die Garderobe.|Hang your coat in the cloakroom.|||
+Mütze|w|noun|die|Mützen|hat; cap (knitted)|A2|2|r|clothing||Im Winter trage ich eine Mütze.|In winter I wear a hat.|||
+Socke|w|noun|die|Socken|sock|A2|2|r|clothing||Ich finde nur eine Socke.|I can only find one sock.|||
+Stiefel|w|noun|der|Stiefel|boot|A2|2|r|clothing||Für den Winter brauche ich warme Stiefel.|I need warm boots for the winter.|||
+bequem|w|adj|||comfortable|A2|2|a|clothing,home||Die Schuhe sind sehr bequem.|The shoes are very comfortable.|||
+Freizeit|w|noun|die|∅|free time; leisure|A1|2|a|leisure||Was machst du in deiner Freizeit?|What do you do in your free time?|||r=frei
+spazieren gehen|c|verb|||to go for a walk|A2|2|a|leisure||Sonntags gehen wir im Park spazieren.|On Sundays we go for a walk in the park.|irreg;aux:sein|f=geht spazieren, ging spazieren, ist spazieren gegangen|r=Spaziergang
+Spaziergang|w|noun|der|Spaziergänge|walk|A2|2|r|leisure||Nach dem Essen machen wir einen Spaziergang.|After the meal we go for a walk.|||r=spazieren gehen
+wandern|w|verb|||to hike|A1|2|a|leisure,nature||Am Wochenende wandern wir im Harz.|At the weekend we're hiking in the Harz.|aux:sein|f=wandert, wanderte, ist gewandert|r=Wanderung
+schwimmen|w|verb|||to swim|A1|2|a|leisure||Im Sommer schwimmen wir im See.|In summer we swim in the lake.|irreg;aux:sein (direction), haben (activity)|f=schwimmt, schwamm, ist geschwommen|r=Schwimmbad
+Schwimmbad|w|noun|das|Schwimmbäder|swimming pool|A2|2|a|leisure,places||Das Schwimmbad ist im Winter geschlossen.|The swimming pool is closed in winter.|Also: das Hallenbad, das Freibad.|
+tanzen|w|verb|||to dance|A1|2|a|leisure||Gehen wir am Samstag tanzen?|Shall we go dancing on Saturday?||f=tanzt, tanzte, hat getanzt
+singen|w|verb|||to sing|A2|2|a|leisure||Sie singt in einem Chor.|She sings in a choir.|irreg|f=singt, sang, hat gesungen|r=Lied
+Lied|w|noun|das|Lieder|song|A1|2|a|leisure||Das Lied kenne ich!|I know this song!|||
+Konzert|w|noun|das|Konzerte|concert|A2|2|a|leisure||Wir haben Karten für das Konzert.|We've got tickets for the concert.|||
+Theater|w|noun|das|Theater|theatre|A2|2|a|leisure||Wir gehen heute Abend ins Theater.|We're going to the theatre tonight.|||
+Eintritt|w|noun|der|Eintritte|admission; entry|A1|2|a|leisure,money||Der Eintritt kostet zehn Euro.|Admission costs ten euros.|||
+Verein|w|noun|der|Vereine|club; association|A1|2|a|leisure,society||Ich spiele im Verein Fußball.|I play football at a club.|Sport and social life in Germany is often organised in Vereine.||why=Germany: Vereinsleben
+Fußball|w|noun|der|Fußbälle|football; soccer|A1|2|a|leisure||Am Samstag spielt mein Sohn Fußball.|My son plays football on Saturday.|||
+Mannschaft|w|noun|die|Mannschaften|team|A2|2|r|leisure||Unsere Mannschaft hat gewonnen.|Our team won.|||r=Team
+Team|w|noun|das|Teams|team|A2|2|a|work,leisure||Wir arbeiten im Team.|We work as a team.|||
+Spiel|w|noun|das|Spiele|game; match|A2|2|a|leisure||Das Spiel beginnt um 15:30 Uhr.|The match starts at 3:30.|||r=spielen
+Kamera|w|noun|die|Kameras|camera|A2|2|r|leisure,technology||Die Kamera ist im Handy.|The camera is in the phone.|||
+fotografieren|w|verb|||to take photos; to photograph|A2|2|a|leisure||Darf man hier fotografieren?|Are you allowed to take photos here?||f=fotografiert, fotografierte, hat fotografiert|r=Foto
+Zeitung|w|noun|die|Zeitungen|newspaper|A1|2|a|media||Ich lese die Zeitung online.|I read the newspaper online.|||
+Zeitschrift|w|noun|die|Zeitschriften|magazine|A2|2|r|media||Im Wartezimmer liegen Zeitschriften.|There are magazines in the waiting room.|||
+Fernseher|w|noun|der|Fernseher|television (set)|A2|2|a|media,home||Der Fernseher ist kaputt.|The TV is broken.|||r=fernsehen
+fernsehen|w|verb|||to watch TV|A1|2|a|media,leisure||Am Abend sehe ich gern fern.|In the evening I like watching TV.|irreg;sep|f=sieht fern, sah fern, hat ferngesehen|r=Fernseher
+Sendung|w|noun|die|Sendungen|programme; broadcast; shipment|A2|2|r|media||Die Sendung kommt jeden Sonntag.|The programme is on every Sunday.|Also: parcel shipment (Ihre Sendung ist unterwegs).|
+Serie|w|noun|die|Serien|series|B1|2|a|media,leisure||Welche Serie schaust du gerade?|Which series are you watching at the moment?|||
+Radio|w|noun|das|Radios|radio|A2|2|r|media||Im Auto höre ich Radio.|I listen to the radio in the car.|||
+Werbung|w|noun|die|∅|advertising; adverts|B1|2|a|media,shopping||Bitte keine Werbung einwerfen.|No junk mail, please.|Common sign on German letterboxes.|
+WLAN|w|noun|das|WLANs|Wi-Fi|A2|2|a|technology||Wie ist das WLAN-Passwort?|What's the Wi-Fi password?|Pronounced Weh-Lan.||why=everyday question
+Passwort|w|noun|das|Passwörter|password|A2|2|a|technology||Ich habe mein Passwort vergessen.|I've forgotten my password.|||
+Laptop|w|noun|der|Laptops|laptop|A2|2|a|technology,work||Ich arbeite am Laptop.|I'm working on the laptop.|||r=Computer
+App|w|noun|die|Apps|app|A2|2|a|technology||Die Fahrkarte kannst du in der App kaufen.|You can buy the ticket in the app.|||
+Akku|w|noun|der|Akkus|battery (rechargeable)|A2|2|a|technology|spoken|Mein Akku ist fast leer.|My battery is almost dead.|||r=laden
+laden|w|verb|||to charge; to load|A2|2|a|technology||Ich muss mein Handy laden.|I need to charge my phone.|irreg;du lädst.|f=lädt, lud, hat geladen|r=aufladen;herunterladen
+herunterladen|w|verb|||to download|A2|2|a|technology||Sie können das Formular herunterladen.|You can download the form.|irreg;sep;Spoken: runterladen.|f=lädt herunter, lud herunter, hat heruntergeladen
+Webseite|w|noun|die|Webseiten|website|A2|2|a|technology||Die Infos stehen auf unserer Webseite.|The information is on our website.|Also: die Website, die Homepage.|
+online|w|adv|||online|A2|2|a|technology||Den Termin kann man online buchen.|You can book the appointment online.|||
+klicken|w|verb|||to click|A2|2|a|technology||Klicken Sie auf „Weiter“.|Click on 'Next'.||f=klickt, klickte, hat geklickt|r=anklicken
+speichern|w|verb|||to save (data)|A2|2|a|technology||Vergiss nicht, die Datei zu speichern.|Don't forget to save the file.||f=speichert, speicherte, hat gespeichert
+Datei|w|noun|die|Dateien|file|A2|2|a|technology,work||Ich schicke dir die Datei per E-Mail.|I'll send you the file by email.|||
+Bildschirm|w|noun|der|Bildschirme|screen|B1|2|r|technology||Der Bildschirm ist zu dunkel.|The screen is too dark.|||
+Video|w|noun|das|Videos|video|A2|2|a|media,technology||Schau dir mal das Video an!|Have a look at the video!|||

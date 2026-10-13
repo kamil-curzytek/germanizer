@@ -1,0 +1,174 @@
+# Tier 3 · high-frequency general vocabulary still uncovered after tiers 1–2 (top of candidates.csv)
+# german|type|pos|article|plural|english|cefr|tier|mode|topics|register|example|example_en|grammar|f=|c=|r=|why=
+überhaupt|w|adv|||at all; anyway|B1|3|b|discourse||Das ist überhaupt kein Problem.|That's no problem at all.||c=überhaupt nicht;überhaupt kein
+zwar|w|adv|||admittedly; indeed|B1|3|b|discourse||Die Wohnung ist zwar klein, aber günstig.|The flat is small, admittedly, but cheap.|zwar … aber = it's true that … but.|c=zwar … aber;und zwar
+bloß|w|adv|||just; only; (in questions) on earth|B1|3|b|discourse|spoken|Was ist bloß los mit dir?|What on earth is wrong with you?|Also adjective: bare.|r=nur
+ebenfalls|w|adv|||likewise; also|B1|3|b|discourse||Danke, Ihnen ebenfalls!|Thanks, same to you!|||why=fixed reply to good wishes
+ebenso|w|adv|||just as; equally|B1|3|r|discourse||Sie ist ebenso alt wie ich.|She's just as old as me.|||r=genauso
+zumindest|w|adv|||at least|B1|3|b|discourse||Ruf zumindest kurz an!|At least give a quick call!|||r=wenigstens;mindestens
+umso|w|conj|||all the (more)|B1|3|r|discourse||Je früher, umso besser.|The earlier, the better.|je … umso / desto.|r=desto
+dagegen|w|adv|||against it; on the other hand|B1|3|b|discourse||Ich habe nichts dagegen.|I've got nothing against it.|||c=nichts dagegen haben;dagegen sein
+dabei|w|adv|||there; with it; in doing so|A2|3|b|discourse||Ich war nicht dabei.|I wasn't there.|||c=dabei sein;Was ist schon dabei?
+weshalb|w|adv|||why|B1|3|r|discourse||Weshalb kommst du so spät?|Why are you so late?|Synonym of warum, slightly more formal.|r=warum;wieso
+nebenbei|w|adv|||on the side; incidentally|B1|3|r|discourse||Neben dem Studium arbeite ich nebenbei im Café.|Alongside my studies I work in a café on the side.|||
+andererseits|w|adv|||on the other hand|B1|3|b|discourse||Einerseits ist es teuer, andererseits ist die Qualität gut.|On the one hand it's expensive, on the other the quality is good.|||r=einerseits
+einerseits|w|adv|||on the one hand|B1|3|b|discourse||Einerseits möchte ich umziehen, andererseits mag ich meine Nachbarn.|On the one hand I'd like to move, on the other I like my neighbours.|||r=andererseits
+erstens|w|adv|||firstly|B1|3|b|discourse||Erstens ist es zu teuer, zweitens zu weit weg.|Firstly it's too expensive, secondly too far away.|||r=zweitens
+zweitens|w|adv|||secondly|B1|3|b|discourse||Zweitens habe ich keine Zeit.|Secondly, I don't have time.|||r=erstens
+nochmals|w|adv|||once more; again|B1|3|r|discourse|formal|Vielen Dank nochmals für Ihre Hilfe.|Thanks again for your help.|||r=noch einmal
+eventuell|w|adv|||possibly; perhaps|B1|3|b|discourse||Ich komme eventuell etwas später.|I may be a bit late.|False friend: not "eventually".|r=vielleicht
+relativ|w|adv|||relatively; fairly|B1|3|b|discourse||Die Prüfung war relativ einfach.|The exam was relatively easy.|||
+einschließlich|w|prep|||including|B1|3|r|money|formal|Der Preis versteht sich einschließlich Frühstück.|The price includes breakfast.|+Gen (often without article: + noun).|r=inklusive
+voneinander|w|adv|||from each other|B1|3|r|people||Wir haben lange nichts voneinander gehört.|We haven't heard from each other for a long time.|||r=miteinander
+gratis|w|adv|||free (of charge)|B1|3|r|money,shopping||Der Eintritt ist gratis.|Admission is free.|||r=kostenlos;umsonst
+quer|w|adv|||across; crosswise|B1|3|r|everyday||Das Auto steht quer auf dem Parkplatz.|The car is parked across the space.|||c=quer durch
+hinterher|w|adv|||afterwards; behind|B1|3|r|time|spoken|Hinterher ist man immer klüger.|You're always wiser afterwards.|||r=danach;nachher
+vorn|w|adv|||at the front|B1|3|b|place||Bitte vorn einsteigen.|Please board at the front.|Also: vorne.|r=hinten
+auseinander|w|adv|||apart|B1|3|r|place||Die beiden sind auseinander.|The two have split up.|||
+worum|w|adv|||what … about|B1|3|b|discourse||Worum geht es?|What's it about?|||c=Worum geht es?
+worüber|w|adv|||what … about (talk/laugh)|B1|3|r|discourse||Worüber habt ihr gesprochen?|What did you talk about?|||
+weiterhin|w|adv|||still; furthermore|B1|3|r|discourse|formal|Wir bleiben weiterhin in Kontakt.|We'll stay in touch.|||
+gleichzeitig|w|adv|||at the same time|B1|3|b|time||Ich kann nicht gleichzeitig kochen und telefonieren.|I can't cook and talk on the phone at the same time.|||
+dadurch|w|adv|||as a result; through that|B1|3|r|discourse||Der Zug hatte Verspätung, dadurch habe ich den Anschluss verpasst.|The train was late, so I missed my connection.|||r=deshalb
+sogenannt|w|adj|||so-called|B1|3|r|discourse||Das ist die sogenannte Probezeit.|That's the so-called probation period.|Usually inflected: sogenannte/-n/-r.|
+einzig|w|adj|||only; single|B1|3|b|description||Du bist der Einzige, der das weiß.|You're the only one who knows that.|Noun use: der/die Einzige.|c=der Einzige;kein einziger
+ewig|w|adj|||eternal; forever|B1|3|r|time||Ich warte schon ewig auf den Bus.|I've been waiting for ages for the bus.|||
+lokal|w|adj|||local|B1|3|r|place,media||Die lokale Zeitung berichtet darüber.|The local paper is reporting on it.|das Lokal = pub/restaurant.|
+ausländisch|w|adj|||foreign|A2|3|r|society||Viele ausländische Studenten studieren hier.|Many foreign students study here.|||r=Ausländer
+romantisch|w|adj|||romantic|A2|3|r|feelings||Das war ein romantischer Abend.|That was a romantic evening.|||
+wild|w|adj|||wild|B1|3|r|nature,description||Im Wald leben wilde Tiere.|Wild animals live in the forest.|||
+blind|w|adj|||blind|B1|3|r|health||Mein Opa ist auf einem Auge blind.|My grandpa is blind in one eye.|||
+taub|w|adj|||deaf; numb|B1|3|r|health||Mein Finger ist ganz taub.|My finger is completely numb.|||
+erwachsen|w|adj|||grown-up; adult|B1|3|b|people||Meine Kinder sind schon erwachsen.|My children are grown up.|||r=Erwachsene
+ursprünglich|w|adj|||original(ly)|B1|3|r|time,discourse||Ursprünglich wollten wir nach Spanien fahren.|Originally we wanted to go to Spain.|||
+zahlreich|w|adj|||numerous|B1|3|r|description|formal|Es gab zahlreiche Beschwerden.|There were numerous complaints.|||
+ungewöhnlich|w|adj|||unusual|B1|3|r|description||Das ist ungewöhnlich für diese Jahreszeit.|That's unusual for this time of year.|||r=gewöhnlich
+geeignet|w|adj|||suitable|B1|3|b|description||Die Wohnung ist für Familien gut geeignet.|The flat is well suited to families.|für … geeignet.|
+global|w|adj|||global|B1|3|r|society||Das ist ein globales Problem.|That's a global problem.|||
+intensiv|w|adj|||intensive|B1|3|r|education||Wir haben intensiv geübt.|We practised intensively.|||
+zukünftig|w|adj|||future|B1|3|r|time||Mein zukünftiger Chef wirkt nett.|My future boss seems nice.|||r=Zukunft
+künstlich|w|adj|||artificial|B1|3|r|technology,description||Das ist künstliche Intelligenz.|That's artificial intelligence.|||c=künstliche Intelligenz
+korrekt|w|adj|||correct|B1|3|r|description||Ist die Adresse korrekt?|Is the address correct?|||r=richtig
+treu|w|adj|||loyal; faithful|B1|3|r|people||Der Hund ist sehr treu.|The dog is very loyal.|||
+elektrisch|w|adj|||electric(al)|B1|3|r|technology||Die Heizung ist elektrisch.|The heating is electric.|||r=Strom
+kreativ|w|adj|||creative|B1|3|r|work,leisure||Sie ist sehr kreativ.|She's very creative.|||
+maximal|w|adj|||maximum; at most|B1|3|r|description||Hier darf man maximal 30 fahren.|The maximum speed here is 30.|||r=minimal;höchstens
+minimal|w|adj|||minimal|B1|3|r|description||Der Unterschied ist minimal.|The difference is minimal.|||r=maximal
+sichtbar|w|adj|||visible|B1|3|r|description||Der Fehler ist kaum sichtbar.|The mistake is barely visible.|||
+mobil|w|adj|||mobile|B1|3|r|technology,transport||Ohne Auto bin ich nicht so mobil.|Without a car I'm not so mobile.|||r=Mobilität
+fit|w|adj|||fit; in shape|B1|3|b|health,leisure||Ich möchte wieder fit werden.|I'd like to get fit again.|||
+begrenzt|w|adj|||limited|B1|3|r|description||Die Plätze sind begrenzt.|Places are limited.|||
+gründlich|w|adj|||thorough|B1|3|r|description||Lesen Sie den Vertrag gründlich.|Read the contract thoroughly.|||
+anwesend|w|adj|||present (in attendance)|B1|3|r|work,education|formal|Alle Mitarbeiter waren anwesend.|All employees were present.|||r=abwesend
+verständlich|w|adj|||understandable; comprehensible|B1|3|b|communication||Das ist völlig verständlich.|That's completely understandable.|||r=verstehen
+schief|w|adj|||crooked; awry|B1|3|r|description||Das Bild hängt schief.|The picture is hanging crooked.|||c=schiefgehen
+frech|w|adj|||cheeky; impudent|B1|3|r|people||Sei nicht so frech!|Don't be so cheeky!|||
+betrunken|w|adj|||drunk|B1|3|r|food,health||Er war total betrunken.|He was completely drunk.|||
+reif|w|adj|||ripe; mature|B1|3|r|food||Die Bananen sind noch nicht reif.|The bananas aren't ripe yet.|||
+populär|w|adj|||popular|B1|3|r|description||Der Sänger ist sehr populär.|The singer is very popular.|||r=beliebt
+individuell|w|adj|||individual(ly)|B1|3|r|description||Wir beraten Sie individuell.|We advise you individually.|||
+virtuell|w|adj|||virtual|B1|3|r|technology||Das Meeting findet virtuell statt.|The meeting takes place virtually.|||r=online
+parallel|w|adj|||parallel; at the same time|B1|3|r|description||Ich arbeite parallel an zwei Projekten.|I'm working on two projects at the same time.|||
+einheitlich|w|adj|||uniform; standard|B1|3|r|description||Es gibt keine einheitliche Regel.|There's no uniform rule.|||
+theoretisch|w|adj|||theoretical(ly)|B1|3|r|discourse||Theoretisch geht das, praktisch nicht.|In theory it works, in practice it doesn't.|||r=praktisch
+menschlich|w|adj|||human; humane|B1|3|r|people||Fehler sind menschlich.|Mistakes are human.|||r=Mensch
+alternativ|w|adj|||alternative(ly)|B1|3|r|discourse||Alternativ können Sie auch online bezahlen.|Alternatively you can pay online.|||r=Alternative
+erfolgreich|w|adj|||successful|B1|3|b|work||Das Projekt war sehr erfolgreich.|The project was very successful.|||r=Erfolg
+schlagen|w|verb|||to hit; to beat|B1|3|b|everyday,leisure||Unsere Mannschaft hat Bayern geschlagen.|Our team beat Bayern.|irreg;+Akk|f=schlägt, schlug, hat geschlagen|c=vorschlagen
+retten|w|verb|||to save; to rescue|B1|3|r|emergency||Die Feuerwehr hat die Familie gerettet.|The fire brigade rescued the family.|+Akk|f=rettet, rettete, hat gerettet
+kämpfen|w|verb|||to fight|B1|3|r|society||Sie kämpft für ihre Rechte.|She's fighting for her rights.|prep:für;prep:gegen|f=kämpft, kämpfte, hat gekämpft|r=Kampf
+geschehen|w|verb|||to happen|B1|3|r|everyday|formal|Was ist geschehen?|What has happened?|irreg;aux:sein|f=geschieht, geschah, ist geschehen|r=passieren
+versprechen|w|verb|||to promise|B1|3|b|communication||Ich verspreche dir, dass ich komme.|I promise you I'll come.|irreg;insep;+Dat|f=verspricht, versprach, hat versprochen|r=Versprechen
+stattfinden|w|verb|||to take place|A2|3|b|events||Das Konzert findet im Park statt.|The concert takes place in the park.|irreg;sep|f=findet statt, fand statt, hat stattgefunden
+drehen|w|verb|||to turn; to film|B1|3|b|everyday||Dreh die Musik bitte leiser.|Please turn the music down.||f=dreht, drehte, hat gedreht|c=sich drehen um;einen Film drehen
+bewegen|w|verb|||to move|B1|3|b|health,everyday||Du musst dich mehr bewegen.|You need to move more.|refl|f=bewegt, bewegte, hat bewegt|r=Bewegung
+treten|w|verb|||to step; to kick|B1|3|r|everyday||Er hat mir auf den Fuß getreten.|He stepped on my foot.|irreg|f=tritt, trat, hat/ist getreten
+trainieren|w|verb|||to train; to practise|A2|2|b|leisure,health||Ich trainiere dreimal pro Woche.|I train three times a week.||f=trainiert, trainierte, hat trainiert|r=Training;Trainer|why=re-tiered after held-out scenario validation
+schießen|w|verb|||to shoot|B1|3|r|leisure||Er hat ein Tor geschossen.|He scored a goal.|irreg|f=schießt, schoss, hat geschossen|c=ein Tor schießen
+überraschen|w|verb|||to surprise|B1|3|b|feelings||Das überrascht mich nicht.|That doesn't surprise me.|insep;+Akk|f=überrascht, überraschte, hat überrascht|r=Überraschung
+fassen|w|verb|||to grasp; to take hold of|B1|3|r|everyday||Ich kann es nicht fassen!|I can't believe it!|+Akk|f=fasst, fasste, hat gefasst|c=einen Entschluss fassen
+rennen|w|verb|||to run|B1|3|r|everyday||Wir mussten zum Bus rennen.|We had to run for the bus.|irreg;aux:sein|f=rennt, rannte, ist gerannt|r=laufen
+treiben|w|verb|||to drive; to do (sport)|B1|3|r|leisure||Treibst du Sport?|Do you do sport?|irreg|f=treibt, trieb, hat getrieben|c=Sport treiben
+reiten|w|verb|||to ride (a horse)|A2|3|r|leisure||Meine Tochter reitet gern.|My daughter likes riding.|irreg|f=reitet, ritt, ist/hat geritten
+sichern|w|verb|||to secure; to save (data)|B1|3|r|technology||Sichern Sie Ihre Daten regelmäßig.|Back up your data regularly.||f=sichert, sicherte, hat gesichert
+stürzen|w|verb|||to fall; to crash|B1|3|r|health,emergency||Meine Oma ist gestürzt.|My grandma had a fall.|aux:sein|f=stürzt, stürzte, ist gestürzt|r=Sturz
+tauchen|w|verb|||to dive|B1|3|r|leisure||Im Urlaub sind wir getaucht.|We went diving on holiday.||f=taucht, tauchte, ist/hat getaucht
+heben|w|verb|||to lift|B1|3|r|everyday,health||Ich darf nichts Schweres heben.|I'm not allowed to lift anything heavy.|irreg|f=hebt, hob, hat gehoben
+übertragen|w|verb|||to broadcast; to transfer|B1|3|r|media||Das Spiel wird live übertragen.|The match is being broadcast live.|irreg;insep|f=überträgt, übertrug, hat übertragen
+versichern|w|verb|||to insure; to assure|B1|3|r|money||Das Auto ist gut versichert.|The car is well insured.|insep|f=versichert, versicherte, hat versichert|r=Versicherung
+verlaufen|w|verb|||to go (well/badly); to get lost (refl)|B1|3|r|everyday,travel||Das Gespräch ist gut verlaufen.|The conversation went well.|irreg;insep;aux:sein|f=verläuft, verlief, ist verlaufen|c=sich verlaufen
+verurteilen|w|verb|||to sentence; to condemn|B1|3|r|law|formal|Er wurde zu zwei Jahren verurteilt.|He was sentenced to two years.|insep|f=verurteilt, verurteilte, hat verurteilt|r=Urteil
+beeinflussen|w|verb|||to influence|B1|3|r|society||Das Wetter beeinflusst meine Laune.|The weather influences my mood.|insep;+Akk|f=beeinflusst, beeinflusste, hat beeinflusst|r=Einfluss
+besetzen|w|verb|||to occupy|B1|3|r|everyday||Ist der Platz besetzt?|Is this seat taken?|insep|f=besetzt, besetzte, hat besetzt|r=besetzt
+fließen|w|verb|||to flow|B1|3|r|nature||Der Rhein fließt durch Köln.|The Rhine flows through Cologne.|irreg;aux:sein|f=fließt, floss, ist geflossen|r=fließend
+unterrichten|w|verb|||to teach|B1|3|r|education,work||Sie unterrichtet Deutsch an einer Schule.|She teaches German at a school.|insep|f=unterrichtet, unterrichtete, hat unterrichtet|r=Unterricht
+entlassen|w|verb|||to dismiss; to discharge|B1|3|r|work,healthcare||Er wurde gestern aus dem Krankenhaus entlassen.|He was discharged from hospital yesterday.|irreg;insep|f=entlässt, entließ, hat entlassen|r=Entlassung
+gebrauchen|w|verb|||to use; to make use of|B1|3|r|everyday||Das kann ich gut gebrauchen.|I can make good use of that.|insep|f=gebraucht, gebrauchte, hat gebraucht|r=brauchen
+festhalten|w|verb|||to hold on; to record|B1|3|r|everyday||Bitte halten Sie sich fest!|Please hold on tight!|irreg;sep|f=hält fest, hielt fest, hat festgehalten
+fressen|w|verb|||to eat (animals)|B1|3|r|nature||Der Hund frisst sein Futter.|The dog is eating its food.|irreg|f=frisst, fraß, hat gefressen|r=essen
+auftreten|w|verb|||to perform; to occur|B1|3|r|leisure||Die Band tritt heute in Berlin auf.|The band is performing in Berlin today.|irreg;sep;aux:sein|f=tritt auf, trat auf, ist aufgetreten|r=Auftritt
+ausrichten|w|verb|||to pass on (a message)|B1|3|b|communication||Kann ich etwas ausrichten?|Can I take a message?|sep|f=richtet aus, richtete aus, hat ausgerichtet|c=Grüße ausrichten||why=phone/office routine
+schweigen|w|verb|||to be silent|B1|3|r|communication||Er hat die ganze Zeit geschwiegen.|He was silent the whole time.|irreg|f=schweigt, schwieg, hat geschwiegen
+schreien|w|verb|||to scream; to shout|B1|3|r|communication||Das Baby schreit die ganze Nacht.|The baby screams all night.|irreg|f=schreit, schrie, hat geschrien
+schalten|w|verb|||to switch; to change gear|B1|3|r|technology,transport||Schalt bitte das Licht aus.|Please switch off the light.||f=schaltet, schaltete, hat geschaltet|c=einschalten;ausschalten
+festlegen|w|verb|||to fix; to set|B1|3|r|work||Wir müssen einen Termin festlegen.|We need to set a date.|sep|f=legt fest, legte fest, hat festgelegt
+fortsetzen|w|verb|||to continue|B1|3|r|everyday|formal|Wir setzen das Gespräch morgen fort.|We'll continue the conversation tomorrow.|sep|f=setzt fort, setzte fort, hat fortgesetzt|r=Fortsetzung
+stechen|w|verb|||to sting; to prick|B1|3|r|nature,health||Mich hat eine Biene gestochen.|A bee stung me.|irreg|f=sticht, stach, hat gestochen
+ausschließen|w|verb|||to rule out; to exclude|B1|3|r|discourse||Das kann ich nicht ausschließen.|I can't rule that out.|irreg;sep|f=schließt aus, schloss aus, hat ausgeschlossen
+verhaften|w|verb|||to arrest|B1|3|r|law||Die Polizei hat den Täter verhaftet.|The police arrested the culprit.|insep|f=verhaftet, verhaftete, hat verhaftet
+anzeigen|w|verb|||to report (to police); to display|B1|3|r|law,technology||Ich möchte einen Diebstahl anzeigen.|I'd like to report a theft.|sep|f=zeigt an, zeigte an, hat angezeigt|r=Anzeige
+behindern|w|verb|||to obstruct; to hinder|B1|3|r|transport||Das Auto behindert den Verkehr.|The car is obstructing traffic.|insep|f=behindert, behinderte, hat behindert|r=Behinderung
+klettern|w|verb|||to climb|B1|3|r|leisure||Die Kinder klettern auf den Baum.|The children are climbing the tree.|aux:sein|f=klettert, kletterte, ist geklettert
+hinweisen|w|verb|||to point out|B1|3|r|communication|formal|Wir weisen darauf hin, dass das Rauchen verboten ist.|Please note that smoking is prohibited.|irreg;sep;prep:auf|f=weist hin, wies hin, hat hingewiesen|r=Hinweis||why=standard formula in notices and announcements
+abstimmen|w|verb|||to vote; to coordinate|B1|3|r|society,work||Wir stimmen über den Vorschlag ab.|We're voting on the proposal.|sep;prep:über|f=stimmt ab, stimmte ab, hat abgestimmt
+analysieren|w|verb|||to analyse|B1|3|r|work,education||Wir analysieren die Daten.|We're analysing the data.||f=analysiert, analysierte, hat analysiert
+berechnen|w|verb|||to calculate; to charge|B1|3|r|money||Für die Lieferung berechnen wir fünf Euro.|We charge five euros for delivery.|insep|f=berechnet, berechnete, hat berechnet|r=rechnen
+transportieren|w|verb|||to transport|B1|3|r|transport||Wie transportieren wir das Sofa?|How do we transport the sofa?||f=transportiert, transportierte, hat transportiert|r=Transport
+beschränken|w|verb|||to limit; to restrict|B1|3|r|description|formal|Die Teilnehmerzahl ist auf 20 beschränkt.|The number of participants is limited to 20.|insep;prep:auf|f=beschränkt, beschränkte, hat beschränkt|r=begrenzt
+realisieren|w|verb|||to realise; to carry out|B1|3|r|work||Das Projekt wurde schnell realisiert.|The project was carried out quickly.||f=realisiert, realisierte, hat realisiert
+wiegen|w|verb|||to weigh|B1|3|r|shopping,health||Das Paket wiegt zwei Kilo.|The parcel weighs two kilos.|irreg|f=wiegt, wog, hat gewogen|r=Gewicht
+klagen|w|verb|||to complain; to sue|B1|3|r|law,health||Er klagt über Kopfschmerzen.|He's complaining of a headache.|prep:über|f=klagt, klagte, hat geklagt|r=Klage
+bestrafen|w|verb|||to punish|B1|3|r|law||Wer zu schnell fährt, wird bestraft.|Anyone who drives too fast gets punished.|insep|f=bestraft, bestrafte, hat bestraft|r=Strafe
+ordnen|w|verb|||to arrange; to sort|B1|3|r|home,work||Ich ordne meine Unterlagen.|I'm sorting my documents.||f=ordnet, ordnete, hat geordnet|r=Ordnung
+aufregen|w|verb|||to get upset; to get worked up|B1|3|b|feelings||Reg dich nicht auf!|Don't get worked up!|refl;sep;prep:über|f=regt sich auf, regte sich auf, hat sich aufgeregt|r=aufgeregt
+betrügen|w|verb|||to cheat; to deceive|B1|3|r|law,people||Der Verkäufer hat uns betrogen.|The seller cheated us.|irreg;insep|f=betrügt, betrog, hat betrogen|r=Betrug
+operieren|w|verb|||to operate|B1|3|r|healthcare||Er muss am Knie operiert werden.|He needs an operation on his knee.||f=operiert, operierte, hat operiert|r=Operation
+nützen|w|verb|||to be of use|B1|3|r|everyday||Das nützt mir nichts.|That's no use to me.|+Dat|f=nützt, nützte, hat genützt|r=nützlich
+weigern|w|verb|||to refuse|B1|3|r|communication||Er weigert sich zu bezahlen.|He refuses to pay.|refl|f=weigert sich, weigerte sich, hat sich geweigert
+aufladen|w|verb|||to charge (battery); to top up|B1|3|b|technology||Ich muss mein Handy aufladen.|I need to charge my phone.|irreg;sep|f=lädt auf, lud auf, hat aufgeladen
+küssen|w|verb|||to kiss|B1|3|r|people||Sie küsst ihn zum Abschied.|She kisses him goodbye.|+Akk|f=küsst, küsste, hat geküsst|r=Kuss
+reduzieren|w|verb|||to reduce|B1|3|r|shopping,money||Die Preise sind um 30 Prozent reduziert.|Prices are reduced by 30 percent.||f=reduziert, reduzierte, hat reduziert
+kleben|w|verb|||to stick; to glue|B1|3|r|everyday||Kleb die Briefmarke auf den Umschlag.|Stick the stamp on the envelope.||f=klebt, klebte, hat geklebt
+einbrechen|w|verb|||to break in|B1|3|r|law,home||Bei uns wurde eingebrochen.|Our home was broken into.|irreg;sep;aux:sein|f=bricht ein, brach ein, ist eingebrochen|r=Einbrecher
+atmen|w|verb|||to breathe|B1|3|r|health||Bitte tief atmen.|Breathe deeply, please.||f=atmet, atmete, hat geatmet
+zweifeln|w|verb|||to doubt|B1|3|r|feelings||Ich zweifle nicht daran.|I don't doubt it.|prep:an|f=zweifelt, zweifelte, hat gezweifelt|r=Zweifel
+eignen|w|verb|||to be suitable|B1|3|r|description||Der Raum eignet sich gut für Kurse.|The room is well suited to courses.|refl;prep:für|f=eignet sich, eignete sich, hat sich geeignet|r=geeignet
+winken|w|verb|||to wave|B1|3|r|communication||Sie winkt uns vom Fenster aus.|She's waving to us from the window.||f=winkt, winkte, hat gewinkt
+klopfen|w|verb|||to knock|B1|3|r|home||Es klopft an der Tür.|There's a knock at the door.||f=klopft, klopfte, hat geklopft
+verfolgen|w|verb|||to follow; to pursue|B1|3|r|media||Ich verfolge die Nachrichten jeden Tag.|I follow the news every day.|insep|f=verfolgt, verfolgte, hat verfolgt
+verstecken|w|verb|||to hide|B1|3|r|everyday||Die Kinder verstecken sich im Garten.|The children are hiding in the garden.|insep|f=versteckt, versteckte, hat versteckt
+beleidigen|w|verb|||to insult|B1|3|r|people||Er hat mich beleidigt.|He insulted me.|insep|f=beleidigt, beleidigte, hat beleidigt|r=beleidigt
+zubereiten|w|verb|||to prepare (food)|B1|3|r|food||Wie bereitet man das zu?|How do you prepare it?|sep|f=bereitet zu, bereitete zu, hat zubereitet
+protestieren|w|verb|||to protest|B1|3|r|society||Die Bürger protestieren gegen den Plan.|Residents are protesting against the plan.|prep:gegen|f=protestiert, protestierte, hat protestiert|r=Protest
+erscheinen|w|verb|||to appear; to be published|B1|3|r|media||Das Buch erscheint im Mai.|The book comes out in May.|irreg;insep;aux:sein|f=erscheint, erschien, ist erschienen
+amüsieren|w|verb|||to have fun; to be amused|B1|3|r|leisure||Wir haben uns gut amüsiert.|We had a great time.|refl|f=amüsiert sich, amüsierte sich, hat sich amüsiert
+zuordnen|w|verb|||to match; to assign|B1|3|r|education||Ordnen Sie die Bilder den Texten zu.|Match the pictures to the texts.|sep;+Dat|f=ordnet zu, ordnete zu, hat zugeordnet||why=standard exam instruction
+füttern|w|verb|||to feed|B1|3|r|nature,family||Kannst du die Katze füttern?|Can you feed the cat?||f=füttert, fütterte, hat gefüttert
+grüßen|w|verb|||to greet; to say hello|B1|3|b|social||Grüß deine Eltern von mir!|Say hello to your parents for me!|+Akk|f=grüßt, grüßte, hat gegrüßt|r=Gruß
+bluten|w|verb|||to bleed|B1|3|r|health||Die Wunde blutet.|The wound is bleeding.||f=blutet, blutete, hat geblutet|r=Blut
+zusammenfassen|w|verb|||to summarise|B1|3|r|education,work||Fassen Sie den Text kurz zusammen.|Summarise the text briefly.|sep|f=fasst zusammen, fasste zusammen, hat zusammengefasst|r=Zusammenfassung
+anschaffen|w|verb|||to acquire; to buy (bigger item)|B1|3|r|shopping,home||Wir wollen uns ein Auto anschaffen.|We want to get a car.|sep|f=schafft an, schaffte an, hat angeschafft
+verwechseln|w|verb|||to mix up; to confuse|B1|3|b|everyday||Ich verwechsle die beiden immer.|I always mix the two up.|insep|f=verwechselt, verwechselte, hat verwechselt
+schwitzen|w|verb|||to sweat|B1|3|r|health,weather||Bei der Hitze schwitze ich sehr.|I sweat a lot in this heat.||f=schwitzt, schwitzte, hat geschwitzt
+umarmen|w|verb|||to hug|B1|3|r|people||Sie hat mich fest umarmt.|She gave me a big hug.|insep|f=umarmt, umarmte, hat umarmt
+überreden|w|verb|||to persuade|B1|3|r|communication||Er hat mich überredet mitzukommen.|He persuaded me to come along.|insep|f=überredet, überredete, hat überredet|r=überzeugen
+checken|w|verb|||to check; to get (it)|B1|3|r|everyday|informal|Ich checke kurz meine Mails.|I'll quickly check my emails.||f=checkt, checkte, hat gecheckt
+fürchten|w|verb|||to fear|B1|3|r|feelings||Ich fürchte, das klappt nicht.|I'm afraid that won't work.|refl;prep:vor|f=fürchtet, fürchtete, hat gefürchtet|c=Ich fürchte, …
+erwischen|w|verb|||to catch|B1|3|r|everyday|spoken|Ich habe den Bus gerade noch erwischt.|I just caught the bus.|insep|f=erwischt, erwischte, hat erwischt
+lauten|w|verb|||to be; to read (of text)|B1|3|r|bureaucracy|formal|Wie lautet Ihre Adresse?|What is your address?||f=lautet, lautete, hat gelautet
+zwingen|w|verb|||to force|B1|3|r|everyday||Niemand zwingt dich dazu.|Nobody is forcing you to.|irreg|f=zwingt, zwang, hat gezwungen
+überleben|w|verb|||to survive|B1|3|r|emergency||Alle Passagiere haben überlebt.|All passengers survived.|insep|f=überlebt, überlebte, hat überlebt
+geraten|w|verb|||to get into (a situation)|B1|3|r|everyday||Wir sind in einen Stau geraten.|We got stuck in a traffic jam.|irreg;insep;aux:sein|f=gerät, geriet, ist geraten
+heraus|w|adv|||out (towards the speaker)|B1|3|r|place||Komm heraus!|Come out!|Spoken: raus. Often a prefix: herausfinden.|r=raus;herausfinden
+herum|w|adv|||around|B1|3|r|place||Wir sind um den See herum gelaufen.|We walked around the lake.|Spoken: rum. Often a prefix: herumlaufen.|r=rum
+rund|w|adv|||around; approximately|B1|3|b|numbers||Die Reparatur kostet rund 200 Euro.|The repair costs around 200 euros.|Also adjective: round.|r=ungefähr;etwa

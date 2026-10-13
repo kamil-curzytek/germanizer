@@ -1,0 +1,38 @@
+{
+  "subtitles_lemma@2000": {
+    "known_top_K": 2000,
+    "tail_share_of_all_tokens_pct": 12.8,
+    "compound_of_known_pct_of_tail": 16.7,
+    "derivative_of_known_pct_of_tail": 2.5
+  },
+  "subtitles_lemma@4000": {
+    "known_top_K": 4000,
+    "tail_share_of_all_tokens_pct": 8.7,
+    "compound_of_known_pct_of_tail": 22.3,
+    "derivative_of_known_pct_of_tail": 2.8
+  },
+  "web@2000": {
+    "known_top_K": 2000,
+    "tail_share_of_all_tokens_pct": 22.4,
+    "compound_of_known_pct_of_tail": 29.1,
+    "derivative_of_known_pct_of_tail": 3.0
+  },
+  "web@4000": {
+    "known_top_K": 4000,
+    "tail_share_of_all_tokens_pct": 16.7,
+    "compound_of_known_pct_of_tail": 38.8,
+    "derivative_of_known_pct_of_tail": 2.7
+  },
+  "news@2000": {
+    "known_top_K": 2000,
+    "tail_share_of_all_tokens_pct": 24.0,
+    "compound_of_known_pct_of_tail": 24.3,
+    "derivative_of_known_pct_of_tail": 3.0
+  },
+  "news@4000": {
+    "known_top_K": 4000,
+    "tail_share_of_all_tokens_pct": 18.3,
+    "compound_of_known_pct_of_tail": 33.0,
+    "derivative_of_known_pct_of_tail": 2.7
+  }
+}

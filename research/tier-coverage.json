@@ -1,0 +1,42 @@
+{
+ "tier<= 1": {
+  "entries_cumulative": 761,
+  "lemma_keys": 748,
+  "subtitles_lemma": 74.3,
+  "subtitles_lemma_inclusive": 74.9,
+  "web": 57.9,
+  "web_inclusive": 58.1,
+  "news": 59.8,
+  "news_inclusive": 60.0
+ },
+ "tier<= 2": {
+  "entries_cumulative": 1839,
+  "lemma_keys": 1758,
+  "subtitles_lemma": 78.9,
+  "subtitles_lemma_inclusive": 79.7,
+  "web": 65.1,
+  "web_inclusive": 65.4,
+  "news": 66.1,
+  "news_inclusive": 66.4
+ },
+ "tier<= 3": {
+  "entries_cumulative": 3171,
+  "lemma_keys": 3007,
+  "subtitles_lemma": 83.1,
+  "subtitles_lemma_inclusive": 83.8,
+  "web": 72.8,
+  "web_inclusive": 73.1,
+  "news": 72.8,
+  "news_inclusive": 73.0
+ },
+ "tier<= 4": {
+  "entries_cumulative": 4522,
+  "lemma_keys": 4294,
+  "subtitles_lemma": 85.4,
+  "subtitles_lemma_inclusive": 86.0,
+  "web": 78.3,
+  "web_inclusive": 78.6,
+  "news": 77.0,
+  "news_inclusive": 77.3
+ }
+}

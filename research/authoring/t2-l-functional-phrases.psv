@@ -1,0 +1,69 @@
+# Tier 2 · functional phrases for A2 interaction (opinions, problems, services, phone, plans)
+# german|type|pos|article|plural|english|cefr|tier|mode|topics|register|example|example_en|grammar|f=|c=|r=|why=
+Ich finde, dass ...|p|phrase|||I think that ...|A2|2|a|opinions||Ich finde, dass die Miete zu hoch ist.|I think the rent is too high.|pattern;dass sends the verb to the end. Without dass: Ich finde, die Miete ist zu hoch.|r=finden;meinen
+Ich bin der Meinung, dass ...|p|phrase|||I'm of the opinion that ...|B1|2|a|opinions|formal|Ich bin der Meinung, dass wir mehr Zeit brauchen.|I'm of the opinion that we need more time.|pattern|r=Meinung
+Meiner Meinung nach|f|phrase|||in my opinion|A2|2|a|opinions||Meiner Meinung nach ist das zu teuer.|In my opinion that's too expensive.|Verb follows directly: Meiner Meinung nach ist ...|r=Meinung
+Meinung|w|noun|die|Meinungen|opinion|A2|2|a|opinions||Was ist deine Meinung?|What's your opinion?|||c=meiner Meinung nach;die Meinung ändern|r=meinen
+Das sehe ich auch so|f|phrase|||I see it the same way|A2|2|a|opinions||Das sehe ich auch so.|I see it the same way.|Agreement. Disagreement: Das sehe ich anders.|r=Das sehe ich anders
+Das sehe ich anders|f|phrase|||I see it differently|A2|2|a|opinions||Das sehe ich anders.|I see that differently.|Polite disagreement.|
+Da bin ich nicht sicher|f|phrase|||I'm not sure about that|A2|2|a|opinions||Da bin ich nicht sicher.|I'm not sure about that.|||
+Einverstanden|f|phrase|||agreed; OK|A2|2|a|opinions||Wir treffen uns um acht? – Einverstanden!|We'll meet at eight? – Agreed!|einverstanden sein mit + Dat = to agree with.|r=einverstanden
+einverstanden|w|adj|||in agreement; OK with|B1|2|a|opinions||Bist du damit einverstanden?|Are you OK with that?|einverstanden mit + Dat.|
+Gute Frage|f|phrase|||good question|A2|2|a|discourse|spoken|Wann fährt der letzte Bus? – Gute Frage!|When does the last bus leave? – Good question!|Often means 'I don't know'.|
+Ich hätte eine Frage|p|phrase|||I have a question|A2|2|a|communication|formal|Entschuldigung, ich hätte eine Frage.|Excuse me, I have a question.|Polite Konjunktiv II.|
+Könnten Sie mir helfen?|p|phrase|||could you help me?|A2|2|a|communication|formal|Entschuldigung, könnten Sie mir helfen?|Excuse me, could you help me?|Konjunktiv II (könnten) sounds more polite than können.|r=können
+Würden Sie ...?|p|phrase|||would you ...?|A2|2|a|communication|formal|Würden Sie bitte das Fenster schließen?|Would you close the window, please?|pattern;Polite request: würden + infinitive at the end.|
+Was meinen Sie damit?|p|phrase|||what do you mean by that?|A2|2|a|communication||Was meinen Sie damit?|What do you mean by that?|Informal: Was meinst du damit?|r=meinen
+Wie meinst du das?|p|phrase|||what do you mean?|A2|2|a|communication|spoken|Wie meinst du das?|What do you mean?|||r=meinen
+Ich habe ein Problem mit ...|p|phrase|||I have a problem with ...|A2|2|a|services,communication||Ich habe ein Problem mit meinem Internet.|I have a problem with my internet.|pattern|r=Problem
+Es funktioniert nicht|f|phrase|||it doesn't work|A2|2|a|services,technology||Die Waschmaschine ist neu, aber es funktioniert nicht.|The washing machine is new, but it doesn't work.|||r=funktionieren
+Was kann ich für Sie tun?|p|phrase|||what can I do for you?|A2|2|r|services|formal|Guten Tag, was kann ich für Sie tun?|Hello, what can I do for you?|Heard from staff in shops, offices, on the phone.|
+Kann ich Ihnen helfen?|p|phrase|||can I help you?|A2|2|r|services,shopping|formal|Kann ich Ihnen helfen? – Danke, ich schaue nur.|Can I help you? – Thanks, I'm just looking.|||
+Ich schaue nur|f|phrase|||I'm just looking|A2|2|a|shopping||Danke, ich schaue nur.|Thanks, I'm just looking.|Also: Ich schaue mich nur um.|
+Haben Sie das auch in ...?|p|phrase|||do you have this in ...? (size/colour)|A2|2|a|shopping||Haben Sie das auch in Größe 40?|Do you have this in size 40 too?|pattern|
+Wo finde ich ...?|p|phrase|||where can I find ...?|A2|2|a|shopping,places||Entschuldigung, wo finde ich die Milch?|Excuse me, where can I find the milk?|pattern|
+Ich nehme ...|p|phrase|||I'll have/take ...|A1|2|a|food,shopping||Ich nehme die Suppe und ein Wasser.|I'll have the soup and a water.|pattern;Ordering in restaurants and shops.|r=nehmen
+Ich möchte gern bezahlen|p|phrase|||I'd like to pay|A1|2|a|food,money||Entschuldigung, ich möchte gern bezahlen.|Excuse me, I'd like to pay.|Short: Zahlen, bitte!|r=bezahlen
+Wann passt es Ihnen?|p|phrase|||when suits you?|A2|2|a|appointments|formal|Wann passt es Ihnen am besten?|When is best for you?|Informal: Wann passt es dir?|r=passen
+Geht es auch am ...?|p|phrase|||is ... possible too? (date/time)|A2|2|a|appointments||Geht es auch am Donnerstag?|Is Thursday possible too?|pattern|
+Ich rufe wegen ... an|p|phrase|||I'm calling about ...|A2|2|a|communication,appointments||Guten Tag, ich rufe wegen des Termins an.|Hello, I'm calling about the appointment.|pattern;wegen + Genitiv (spoken often Dativ).|r=anrufen;wegen
+Kann ich eine Nachricht hinterlassen?|p|phrase|||can I leave a message?|A2|2|a|communication||Herr Weber ist nicht da? Kann ich eine Nachricht hinterlassen?|Mr Weber isn't in? Can I leave a message?|||
+Wer spricht da?|p|phrase|||who's speaking?|A2|2|r|communication||Hallo? Wer spricht da, bitte?|Hello? Who's speaking, please?|||
+Einen Moment, ich verbinde|p|phrase|||one moment, I'll put you through|A2|2|r|communication,work||Einen Moment, ich verbinde Sie.|One moment, I'll put you through.|||
+Ich habe mich verwählt|f|phrase|||I've dialled the wrong number|B1|2|r|communication||Entschuldigung, ich habe mich verwählt.|Sorry, I've dialled the wrong number.|||
+Hast du Lust, ...?|p|phrase|||do you fancy ...? / would you like to ...?|A2|2|a|social||Hast du Lust, heute Abend ins Kino zu gehen?|Do you fancy going to the cinema tonight?|pattern;Lust haben + zu + infinitive / auf + Akk.|r=Lust
+Hast du am Wochenende schon was vor?|p|phrase|||have you got any plans for the weekend?|A2|2|a|social|spoken|Hast du am Wochenende schon was vor?|Have you got anything planned for the weekend?|||r=vorhaben
+Leider kann ich nicht|f|phrase|||unfortunately I can't|A2|2|a|social||Leider kann ich am Freitag nicht.|Unfortunately I can't on Friday.|Polite refusal; often + Vielleicht ein andermal?|
+Ein anderes Mal|f|phrase|||another time|A2|2|a|social||Heute geht es nicht, vielleicht ein anderes Mal?|Today's no good, maybe another time?|Spoken: ein andermal.|
+Gern, warum nicht?|f|phrase|||sure, why not?|A2|2|a|social|spoken|Kommst du mit? – Gern, warum nicht?|Are you coming? – Sure, why not?|||
+Ich bin dafür|f|phrase|||I'm in favour|B1|2|a|opinions|spoken|Ich bin dafür, dass wir früher anfangen.|I'm in favour of starting earlier.|Against: Ich bin dagegen.|r=Ich bin dagegen
+Ich bin dagegen|f|phrase|||I'm against it|B1|2|a|opinions|spoken|Ehrlich gesagt bin ich dagegen.|To be honest, I'm against it.|||
+Ich glaube schon|f|phrase|||I think so|A2|2|a|opinions|spoken|Kommt er auch? – Ich glaube schon.|Is he coming too? – I think so.|Negative: Ich glaube nicht.|
+Ich glaube nicht|f|phrase|||I don't think so|A2|2|a|opinions|spoken|Ist der Laden noch offen? – Ich glaube nicht.|Is the shop still open? – I don't think so.|||
+Wie war's?|f|phrase|||how was it?|A2|2|a|social|spoken|Na, wie war's im Urlaub?|So, how was the holiday?|||
+Wie findest du ...?|p|phrase|||what do you think of ...?|A1|2|a|opinions||Wie findest du die neue Wohnung?|What do you think of the new flat?|pattern|r=finden
+Es geht|f|phrase|||it's OK; so-so|A2|2|a|feelings|spoken|Wie war der Film? – Es geht.|How was the film? – It was OK.|Lukewarm answer.|
+Nicht so gut|f|phrase|||not so good|A1|2|a|feelings|spoken|Wie geht's? – Nicht so gut, ich bin erkältet.|How are you? – Not so good, I've got a cold.|||
+Was ist passiert?|p|phrase|||what happened?|A2|2|a|communication||Du siehst traurig aus. Was ist passiert?|You look sad. What happened?|||r=passieren
+Das tut mir leid für dich|f|phrase|||I'm sorry to hear that|A2|2|a|feelings,social||Du hast den Job nicht bekommen? Das tut mir leid für dich.|You didn't get the job? I'm sorry to hear that.|||r=Es tut mir leid
+Ich verstehe|f|phrase|||I see; I understand|A1|2|a|communication||Ach so, ich verstehe.|Oh, I see.|||r=verstehen
+Wie heißt das auf Deutsch?|p|phrase|||what's that called in German?|A1|2|r|communication||Wie heißt das auf Deutsch?|What's that called in German?|||r=Wie sagt man das auf Deutsch?
+Können Sie das bitte aufschreiben?|p|phrase|||could you write that down, please?|A2|2|a|communication||Können Sie mir die Adresse bitte aufschreiben?|Could you write down the address for me, please?|pattern||r=aufschreiben
+Noch einmal, bitte|f|phrase|||once more, please|A1|2|a|communication||Noch einmal, bitte. Ich habe das nicht verstanden.|Once more, please. I didn't understand that.|||
+Ist das richtig so?|p|phrase|||is this right?|A2|2|a|communication||Ich habe das Formular ausgefüllt. Ist das richtig so?|I've filled in the form. Is this right?|||
+Was brauche ich dafür?|p|phrase|||what do I need for that?|A2|2|a|bureaucracy||Ich möchte mich anmelden. Was brauche ich dafür?|I'd like to register. What do I need for that?|||why=key question at German offices
+Wer ist dafür zuständig?|p|phrase|||who's responsible for this?|B1|2|a|bureaucracy,work||Wer ist für die Heizung zuständig?|Who's responsible for the heating?|pattern||r=zuständig
+Bis wann?|f|phrase|||by when? until when?|A2|2|a|time,bureaucracy||Bis wann muss ich das abgeben?|By when do I have to hand that in?|||
+Ab wann?|f|phrase|||from when?|A2|2|a|time||Ab wann ist die Wohnung frei?|From when is the flat available?|||
+Wie lange dauert das?|p|phrase|||how long does it take?|A1|2|a|time,services||Wie lange dauert die Reparatur?|How long does the repair take?|pattern||r=dauern
+Ich bin neu hier|f|phrase|||I'm new here|A1|2|a|social||Hallo, ich bin neu hier im Haus.|Hi, I'm new in the building.|||
+Schönen Tag noch|f|phrase|||have a nice day|A1|2|a|social||Danke, Ihnen auch einen schönen Tag noch!|Thanks, have a nice day too!|Very common when leaving shops. Reply: Danke, gleichfalls!|r=Gleichfalls
+Gleichfalls|f|phrase|||you too; likewise|A2|2|a|social||Schönes Wochenende! – Danke, gleichfalls!|Have a nice weekend! – Thanks, you too!|Also: Ebenfalls!|
+Mahlzeit|f|phrase|||enjoy your lunch (workplace greeting)|A2|2|r|social,work|spoken|Mahlzeit! – Mahlzeit!|Enjoy your lunch! – You too!|Greeting among colleagues around lunchtime.||why=Germany-specific workplace greeting
+Moin|f|phrase|||hi; hello (northern Germany)|A2|2|r|social|regional,spoken|Moin! Wie geht's?|Hi! How are you?|Northern Germany, at any time of day. Not core: regional.||why=regional; recognise it, no need to use it
+Grüß Gott|f|phrase|||hello (southern Germany, Austria)|A2|2|r|social|regional|Grüß Gott, was darf es sein?|Hello, what can I get you?|Bavaria and Austria.||why=regional; recognise it
+Servus|f|phrase|||hi; bye (southern Germany, Austria)|B1|2|r|social|regional,informal|Servus, bis morgen!|Bye, see you tomorrow!|Bavaria and Austria; both hello and goodbye.||why=regional; recognise it
+Na klar|f|phrase|||of course; sure|A2|2|a|discourse|spoken|Kommst du auch? – Na klar!|Are you coming too? – Of course!|||r=Klar
+Kein Wunder|f|phrase|||no wonder|B1|2|a|discourse|spoken|Du hast nicht geschlafen? Kein Wunder, dass du müde bist.|You didn't sleep? No wonder you're tired.|||
+Zum Glück|f|phrase|||luckily; fortunately|A2|2|a|discourse||Zum Glück hat es nicht geregnet.|Luckily it didn't rain.|||r=Glück
+Leider nicht|f|phrase|||unfortunately not|A1|2|a|discourse||Haben Sie noch Brötchen? – Leider nicht.|Do you still have rolls? – Unfortunately not.|||r=leider
