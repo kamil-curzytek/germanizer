@@ -48,15 +48,20 @@ export function QuestionView({ question: q, answer, onAnswer }: Props) {
             autoCapitalize="off"
             spellCheck={false}
             lang="de"
-            placeholder="Type your answer"
+            placeholder={answered ? 'No answer' : 'Type your answer'}
             value={answered ? answer : draft}
             disabled={answered}
             onChange={(e) => setDraft(e.target.value)}
           />
           {!answered && (
-            <button className="btn btn-primary" disabled={!draft.trim()}>
-              Check
-            </button>
+            <>
+              <button type="button" className="btn btn-ghost" onClick={() => onAnswer('')}>
+                I don't know
+              </button>
+              <button className="btn btn-primary" disabled={!draft.trim()}>
+                Check
+              </button>
+            </>
           )}
         </form>
       )}

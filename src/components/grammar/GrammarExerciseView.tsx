@@ -82,15 +82,20 @@ function Typed({ answered, answer, onAnswer }: { answered: boolean; answer: stri
         autoCapitalize="off"
         spellCheck={false}
         lang="de"
-        placeholder="Type the missing word"
+        placeholder={answered ? 'No answer' : 'Type the missing word'}
         value={answered ? answer : draft}
         disabled={answered}
         onChange={(e) => setDraft(e.target.value)}
       />
       {!answered && (
-        <button className="btn btn-primary" disabled={!draft.trim()}>
-          Check
-        </button>
+        <>
+          <button type="button" className="btn btn-ghost" onClick={() => onAnswer('')}>
+            I don't know
+          </button>
+          <button className="btn btn-primary" disabled={!draft.trim()}>
+            Check
+          </button>
+        </>
       )}
     </form>
   );
@@ -107,7 +112,7 @@ function Order({ ex, answer, onAnswer }: { ex: GrammarExercise; answer: string |
   return (
     <div className="stack" style={{ marginTop: 12 }}>
       <div className={`order-line ${answered ? (isGrammarCorrect(ex, answer) ? 'correct' : 'wrong') : ''}`} lang="de" aria-live="polite">
-        {display || <span className="muted small">Tap the words below in the right order.</span>}
+        {display || <span className="muted small">{answered ? 'No answer' : 'Tap the words below in the right order.'}</span>}
       </div>
       {!answered && (
         <>
@@ -132,6 +137,9 @@ function Order({ ex, answer, onAnswer }: { ex: GrammarExercise; answer: string |
               Clear
             </button>
             <span className="spacer" />
+            <button className="btn btn-ghost" onClick={() => onAnswer('')}>
+              I don't know
+            </button>
             <button
               className="btn btn-primary"
               disabled={placed.length !== chunks.length}
