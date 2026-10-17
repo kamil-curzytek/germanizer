@@ -10,7 +10,7 @@ MVP of a German tutor (CEFR A1 → B2). It proves one loop:
 
 ## Status at a glance
 
-### Implemented and tested (114 automated tests, `npm test`)
+### Implemented and tested (121 automated tests, `npm test`)
 
 | Area | Where | Tested how |
 |---|---|---|
@@ -84,15 +84,24 @@ The full definition-of-done loop runs as one integration test (`tests/db.test.ts
    5. `supabase/migrations/20261005000005_adaptive_new_words.sql` (fewer new words when reviews pile up)
    6. `supabase/migrations/20261006000006_fsrs.sql` (FSRS memory state, growing review gaps, most-forgotten-first)
    7. `supabase/migrations/20261007000007_grammar_practice.sql` (grammar skills, practice, daily grammar items, weak spots)
+   8. `supabase/migrations/20261017000008_email_reminders.sql` (reminder settings, who-is-due function, unsubscribe)
+   9. `supabase/migrations/20261017000009_reminder_cron.sql` (sends reminder emails via `pg_net` + Resend, hourly at :20)
 
    An existing project that ran setup.sql before 2026-10-07: run `supabase/update-2026-10-07.sql` once (migrations 6–7 + new content; safe to re-run).
+   Before 2026-10-17: also run `supabase/update-2026-10-17.sql` (migrations 8–9, daily reminder emails).
 
    For a brand-new project you can instead paste the single combined file `supabase/setup.sql` (all migrations + content).
 
    Or with the Supabase CLI: `supabase link --project-ref <ref>` then `supabase db push`.
 3. **Load content:** run `supabase/seed/content.sql` in the SQL Editor (idempotent, safe to re-run).
 4. **Auth:** Authentication → Providers → Email (enabled by default). Under URL Configuration, set the Site URL to your deployed URL and add `http://localhost:5173` to the redirect URLs. Email confirmation can stay on: the app tells new users to check their inbox.
-5. **Check the cron job:** `select jobname, schedule, active from cron.job;`
+5. **Check the cron jobs:** `select jobname, schedule, active from cron.job;` (`germanizer-daily-learning-job` and `lernbrot-daily-reminders`)
+6. **Reminder emails** (optional; without this step nothing is sent): create an API key at [resend.com](https://resend.com) and verify a sending domain there, then in the SQL Editor:
+   ```sql
+   select vault.create_secret('re_...', 'resend_api_key');
+   select vault.create_secret('Lernbrot <reminders@your-domain.com>', 'reminder_from');
+   ```
+   Learners get at most one email per day, from their chosen local hour (default 18:00), only while today's lesson isn't completed and only if they were active in the last 14 days. They can turn it off or change the time under Progress → Settings, or via the one-click link in the email (`#/unsubscribe/<token>`). Delivery log: `public.reminder_emails` joined with `net._http_response` (see the comment at the top of migration 0009).
 
 ## Environment variables
 
@@ -129,7 +138,7 @@ Elsewhere: `npm run build` produces a static site in `dist/` (relative paths + h
 
 | Table | Purpose | Client access |
 |---|---|---|
-| `profiles` | Level, daily target (5–50 in steps of 5, default 10), timezone, `onboarded_at` | Read own. Update own settings columns only |
+| `profiles` | Level, daily target (5–50 in steps of 5, default 10), timezone, `onboarded_at`, reminder settings (`email_reminders`, `reminder_hour`) + bookkeeping (`last_reminder_date`, `reminder_token`) | Read own. Update own settings columns only |
 | `vocabulary_words` | Shared vocabulary (stable explicit ids) | Read (signed in) |
 | `grammar_topics` | Lessons (`content` jsonb) | Read (signed in) |
 | `grammar_skills` | Practice skills per lesson (seeded from `content/grammar/*.txt`) | Read (signed in) |
@@ -143,6 +152,7 @@ Elsewhere: `npm run build` produces a static site in `dist/` (relative paths + h
 | `quiz_attempts` | Score, duration. `unique (daily_session_id)` | Read own |
 | `quiz_answers` | Every answer: type, given, expected, correct | Read own |
 | `daily_job_runs` | Audit log of each cron run | None |
+| `reminder_emails` | One row per reminder email queued (with the `pg_net` request id) | None |
 
 Fields beyond the brief and why: `profiles.onboarded_at` (the job skips users who haven't onboarded), `daily_session_words` (stores the selected words), `quiz_attempts.daily_session_id` (one scored attempt per day), `grammar_topics` + links (grammar MVP), `daily_job_runs` (proves the cloud job ran).
 

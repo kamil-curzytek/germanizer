@@ -16,6 +16,9 @@ export interface Profile {
   daily_word_target: number;
   timezone: string;
   onboarded_at: string | null;
+  email_reminders: boolean;
+  /** local hour (0..23) from which the daily reminder email may be sent */
+  reminder_hour: number;
   created_at: string;
   updated_at: string;
 }

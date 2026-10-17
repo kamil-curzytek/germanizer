@@ -637,3 +637,87 @@ describe('grammar practice (migration 0007)', () => {
     });
   });
 });
+
+// ---------------------------------------------------------------------------
+
+describe('daily reminder emails (claim_due_reminders)', () => {
+  // UTC learners, so the local hour is the UTC hour of these timestamps
+  const day = (offsetDays: number, hour: number) => {
+    const d = new Date();
+    d.setUTCHours(hour, 30, 0, 0);
+    return new Date(d.getTime() + offsetDays * 86400_000).toISOString();
+  };
+  const claim = async (at: string, userId: string) =>
+    (await rows('select * from claim_due_reminders($1::timestamptz)', [at])).filter((r) => r.user_id === userId);
+
+  it('reminds once per local day, from the reminder hour (default 18:00) on', async () => {
+    const u = await createUser(db, { timezone: 'UTC' });
+    expect(await claim(day(0, 17), u)).toHaveLength(0);
+    const [r] = await claim(day(0, 18), u);
+    expect(r).toMatchObject({ email: expect.stringMatching(/@test\.local$/), word_count: 10, grammar_count: 0 });
+    expect(r.reminder_token).toMatch(/^[0-9a-f-]{36}$/);
+    expect(await claim(day(0, 22), u)).toHaveLength(0);
+    expect(await claim(day(1, 19), u)).toHaveLength(1);
+  });
+
+  it('uses the learner\'s timezone and reminder hour', async () => {
+    const u = await createUser(db, { timezone: 'Asia/Tokyo' }); // UTC+9, no DST
+    await db.query('update profiles set reminder_hour = 8 where id = $1', [u]);
+    expect(await claim(day(0, 22), u)).toHaveLength(0); // 07:30 next day in Tokyo
+    expect(await claim(day(0, 23), u)).toHaveLength(1); // 08:30
+  });
+
+  it('counts the words and grammar of today\'s prepared session', async () => {
+    const u = await createUser(db, { timezone: 'UTC', target: 15 });
+    const s = await one('select * from create_daily_session_for($1, ($2::timestamptz at time zone \'UTC\')::date)', [u, day(0, 18)]);
+    await db.query('insert into daily_session_grammar (session_id, skill_id, position) select $1, id, row_number() over () from grammar_skills limit 2', [s.id]);
+    const [r] = await claim(day(0, 18), u);
+    expect(r).toMatchObject({ word_count: 15, grammar_count: 2 });
+  });
+
+  it('no reminder once today\'s lesson is completed', async () => {
+    const u = await createUser(db, { timezone: 'UTC' });
+    const s = await one('select * from create_daily_session_for($1, ($2::timestamptz at time zone \'UTC\')::date)', [u, day(0, 18)]);
+    await db.query(`update daily_sessions set status = 'completed', completed_at = now() where id = $1`, [s.id]);
+    expect(await claim(day(0, 18), u)).toHaveLength(0);
+  });
+
+  it('skips learners who opted out, have not onboarded, or have been inactive for 14 days', async () => {
+    const off = await createUser(db, { timezone: 'UTC' });
+    await asUser(db, off, () => db.query('update profiles set email_reminders = false where id = $1', [off]));
+    const notOnboarded = await createUser(db, { onboard: false });
+    const inactive = await createUser(db, { timezone: 'UTC' });
+    await db.query(`update profiles set onboarded_at = now() - interval '30 days' where id = $1`, [inactive]);
+    for (const u of [off, notOnboarded, inactive]) expect(await claim(day(0, 20), u)).toHaveLength(0);
+    // a lesson completed recently counts as activity
+    await db.query(
+      `insert into daily_sessions (user_id, session_date, new_word_count, review_word_count, total_word_count, status, completed_at)
+       values ($1, current_date - 3, 0, 0, 0, 'completed', now() - interval '3 days')`,
+      [inactive],
+    );
+    expect(await claim(day(0, 20), inactive)).toHaveLength(1);
+  });
+
+  it('the unsubscribe link works signed out, only with the right token', async () => {
+    const u = await createUser(db, { timezone: 'UTC' });
+    const { reminder_token } = await one('select reminder_token from profiles where id = $1', [u]);
+    await asUser(db, null, async () => {
+      expect((await one('select unsubscribe_reminders($1) as ok', ['00000000-0000-4000-8000-ffffffffffff'])).ok).toBe(false);
+      expect((await one('select unsubscribe_reminders($1) as ok', [reminder_token])).ok).toBe(true);
+    });
+    expect((await one('select email_reminders from profiles where id = $1', [u])).email_reminders).toBe(false);
+    expect(await claim(day(0, 20), u)).toHaveLength(0);
+  });
+
+  it('learners can change their reminder settings but not the bookkeeping, and cannot trigger sends', async () => {
+    const u = await createUser(db, { timezone: 'UTC' });
+    await asUser(db, u, async () => {
+      await db.query('update profiles set email_reminders = false, reminder_hour = 7 where id = $1', [u]);
+      await expect(db.query('update profiles set reminder_hour = 24 where id = $1', [u])).rejects.toThrow(/check constraint/);
+      await expect(db.query('update profiles set last_reminder_date = current_date where id = $1', [u])).rejects.toThrow(/permission denied/);
+      await expect(db.query('update profiles set reminder_token = gen_random_uuid() where id = $1', [u])).rejects.toThrow(/permission denied/);
+      await expect(db.query('select * from claim_due_reminders()')).rejects.toThrow(/permission denied/);
+    });
+    expect(await one('select email_reminders, reminder_hour from profiles where id = $1', [u])).toEqual({ email_reminders: false, reminder_hour: 7 });
+  });
+});

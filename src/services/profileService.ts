@@ -18,7 +18,7 @@ export async function completeOnboarding(userId: string, level: CefrLevel, daily
 
 export async function updateSettings(
   userId: string,
-  patch: Partial<Pick<Profile, 'current_cefr_level' | 'daily_word_target' | 'timezone'>>,
+  patch: Partial<Pick<Profile, 'current_cefr_level' | 'daily_word_target' | 'timezone' | 'email_reminders' | 'reminder_hour'>>,
 ): Promise<Profile> {
   return unwrap(await db().from('profiles').update(patch).eq('id', userId).select('*').single());
 }
@@ -27,4 +27,9 @@ export async function updateSettings(
 export async function updateDailyTarget(target: number): Promise<{ profile: Profile; todayUpdated: boolean }> {
   const res = unwrap(await db().rpc('update_daily_target', { p_target: target })) as { profile: Profile; today_updated: boolean };
   return { profile: res.profile, todayUpdated: res.today_updated };
+}
+
+/** One-click unsubscribe from the link in a reminder email (works signed out). */
+export async function unsubscribeReminders(token: string): Promise<boolean> {
+  return unwrap(await db().rpc('unsubscribe_reminders', { p_token: token })) as boolean;
 }

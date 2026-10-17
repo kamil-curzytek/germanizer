@@ -16,13 +16,20 @@ import Quiz from './pages/Quiz';
 import ResetPassword from './pages/ResetPassword';
 import Review from './pages/Review';
 import SetupNeeded from './pages/SetupNeeded';
+import Unsubscribe from './pages/Unsubscribe';
 import Vocabulary from './pages/Vocabulary';
 import { getProfile } from './services/profileService';
 import type { Profile } from './types';
 
 export default function App() {
   if (!isSupabaseConfigured || !supabase) return <SetupNeeded />;
-  return <AuthedApp />;
+  return (
+    <Routes>
+      {/* link in reminder emails: works without signing in */}
+      <Route path="/unsubscribe/:token" element={<Unsubscribe />} />
+      <Route path="*" element={<AuthedApp />} />
+    </Routes>
+  );
 }
 
 function AuthedApp() {

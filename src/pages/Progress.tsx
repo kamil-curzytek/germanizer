@@ -23,12 +23,12 @@ export default function Progress() {
   const [message, setMessage] = useState<string | null>(null);
   const deviceTz = browserTimeZone();
 
-  async function save(patch: Parameters<typeof updateSettings>[1]) {
+  async function save(patch: Parameters<typeof updateSettings>[1], savedMessage = 'Saved. Changes apply from your next daily session.') {
     setSaving(true);
     setMessage(null);
     try {
       setProfile(await updateSettings(user.id, patch));
-      setMessage('Saved. Changes apply from your next daily session.');
+      setMessage(savedMessage);
     } catch (e) {
       setMessage(e instanceof Error ? e.message : String(e));
     } finally {
@@ -131,6 +131,30 @@ export default function Progress() {
             </>
           )}
         </div>
+        <label className="row small">
+          <input
+            type="checkbox"
+            checked={profile.email_reminders}
+            disabled={saving}
+            onChange={(e) => save({ email_reminders: e.target.checked }, e.target.checked ? 'Saved. You will get a reminder email on days you have not done your lesson yet.' : 'Saved. No more reminder emails.')}
+          />
+          <span>Email me a reminder if I haven't done my lesson</span>
+        </label>
+        {profile.email_reminders && (
+          <label className="field">
+            <span>Reminder time ({profile.timezone})</span>
+            <select
+              className="input"
+              value={profile.reminder_hour}
+              disabled={saving}
+              onChange={(e) => save({ reminder_hour: Number(e.target.value) }, 'Saved. Reminders come at the new time from today.')}
+            >
+              {Array.from({ length: 24 }, (_, h) => (
+                <option key={h} value={h}>{`${String(h).padStart(2, '0')}:00`}</option>
+              ))}
+            </select>
+          </label>
+        )}
         {message && <div className="notice">{message}</div>}
       </section>
 
