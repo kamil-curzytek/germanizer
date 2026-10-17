@@ -6,3 +6,4 @@ dist
 
 # third-party research data (licenses do not allow redistribution)
 research/sources/
+research/candidates.csv
