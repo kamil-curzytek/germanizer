@@ -6,6 +6,7 @@ import { browserTimeZone } from '../lib/time';
 import { getDashboardStats } from '../services/progressService';
 import { DailyTargetPicker } from '../components/dashboard/DailyTargetPicker';
 import { ChangePassword } from '../components/progress/ChangePassword';
+import { PushReminders } from '../components/progress/PushReminders';
 import { WeakSpots } from '../components/progress/WeakSpots';
 import { updateDailyTarget, updateSettings } from '../services/profileService';
 import { listAttempts } from '../services/quizService';
@@ -131,6 +132,8 @@ export default function Progress() {
             </>
           )}
         </div>
+        <h3 style={{ margin: '8px 0 0' }}>Daily reminder</h3>
+        <PushReminders />
         <label className="row small">
           <input
             type="checkbox"
@@ -140,21 +143,19 @@ export default function Progress() {
           />
           <span>Email me a reminder if I haven't done my lesson</span>
         </label>
-        {profile.email_reminders && (
-          <label className="field">
-            <span>Reminder time ({profile.timezone})</span>
-            <select
-              className="input"
-              value={profile.reminder_hour}
-              disabled={saving}
-              onChange={(e) => save({ reminder_hour: Number(e.target.value) }, 'Saved. Reminders come at the new time from today.')}
-            >
-              {Array.from({ length: 24 }, (_, h) => (
-                <option key={h} value={h}>{`${String(h).padStart(2, '0')}:00`}</option>
-              ))}
-            </select>
-          </label>
-        )}
+        <label className="field">
+          <span>Reminder time ({profile.timezone})</span>
+          <select
+            className="input"
+            value={profile.reminder_hour}
+            disabled={saving}
+            onChange={(e) => save({ reminder_hour: Number(e.target.value) }, 'Saved. Reminders come at the new time from today.')}
+          >
+            {Array.from({ length: 24 }, (_, h) => (
+              <option key={h} value={h}>{`${String(h).padStart(2, '0')}:00`}</option>
+            ))}
+          </select>
+        </label>
         {message && <div className="notice">{message}</div>}
       </section>
 

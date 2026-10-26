@@ -721,3 +721,136 @@ describe('daily reminder emails (claim_due_reminders)', () => {
     expect(await one('select email_reminders, reminder_hour from profiles where id = $1', [u])).toEqual({ email_reminders: false, reminder_hour: 7 });
   });
 });
+
+// ---------------------------------------------------------------------------
+
+describe('push notification reminders', () => {
+  const day = (offsetDays: number, hour: number) => {
+    const d = new Date();
+    d.setUTCHours(hour, 30, 0, 0);
+    return new Date(d.getTime() + offsetDays * 86400_000).toISOString();
+  };
+  let n = 0;
+  const device = () => {
+    n++;
+    return {
+      endpoint: `https://push.example.test/send/device-${n}-${Math.random().toString(36).slice(2)}`,
+      p256dh: 'B' + 'x'.repeat(85) + String(n % 10),
+      auth: 'a'.repeat(21) + String(n % 10),
+    };
+  };
+  const subscribe = async (userId: string, d = device()) => {
+    await asUser(db, userId, () => db.query('select save_push_subscription($1, $2, $3)', [d.endpoint, d.p256dh, d.auth]));
+    return d;
+  };
+  const asService = async <T,>(fn: () => Promise<T>) => {
+    await db.exec('set role service_role');
+    try {
+      return await fn();
+    } finally {
+      await db.exec('reset role');
+    }
+  };
+  const claimPush = (at: string) => asService(() => rows('select * from claim_due_push_reminders($1::timestamptz)', [at]));
+
+  it('a learner saves their devices and sees only their own', async () => {
+    const u = await createUser(db, { timezone: 'UTC' });
+    const other = await createUser(db, { timezone: 'UTC' });
+    const phone = await subscribe(u);
+    await subscribe(u);
+    await subscribe(other);
+    const mine = await asUser(db, u, () => rows('select * from push_subscriptions'));
+    expect(mine.map((r) => r.endpoint)).toContain(phone.endpoint);
+    expect(mine).toHaveLength(2);
+    expect(mine.every((r) => r.user_id === u)).toBe(true);
+    // saving the same device again does not duplicate it
+    await subscribe(u, phone);
+    expect(await asUser(db, u, () => rows('select * from push_subscriptions'))).toHaveLength(2);
+  });
+
+  it('rejects malformed subscriptions and direct writes', async () => {
+    const u = await createUser(db, { timezone: 'UTC' });
+    const save = (e: string, k: string, a: string) => asUser(db, u, () => db.query('select save_push_subscription($1, $2, $3)', [e, k, a]));
+    const d = device();
+    await expect(save('http://insecure.test/x', d.p256dh, d.auth)).rejects.toThrow(/check constraint/);
+    await expect(save(d.endpoint, 'short', d.auth)).rejects.toThrow(/check constraint/);
+    await expect(save(d.endpoint, d.p256dh, 'not base64!')).rejects.toThrow(/check constraint/);
+    await asUser(db, u, async () => {
+      await expect(
+        db.query('insert into push_subscriptions (user_id, endpoint, p256dh, auth_secret) values ($1, $2, $3, $4)', [u, d.endpoint, d.p256dh, d.auth]),
+      ).rejects.toThrow(/permission denied/);
+    });
+    await asUser(db, null, async () => {
+      await expect(db.query('select save_push_subscription($1, $2, $3)', [d.endpoint, d.p256dh, d.auth])).rejects.toThrow(/permission denied/);
+    });
+  });
+
+  it('keeps at most 10 devices per learner, and a device moves to whoever signs in on it', async () => {
+    const u = await createUser(db, { timezone: 'UTC' });
+    const first = await subscribe(u);
+    for (let i = 0; i < 10; i++) await subscribe(u);
+    const mine = await asUser(db, u, () => rows('select endpoint from push_subscriptions'));
+    expect(mine).toHaveLength(10);
+    expect(mine.map((r) => r.endpoint)).not.toContain(first.endpoint);
+
+    const shared = await subscribe(u);
+    const v = await createUser(db, { timezone: 'UTC' });
+    await subscribe(v, shared);
+    expect((await one('select user_id from push_subscriptions where endpoint = $1', [shared.endpoint])).user_id).toBe(v);
+  });
+
+  it('a learner can remove only their own device', async () => {
+    const u = await createUser(db, { timezone: 'UTC' });
+    const other = await createUser(db, { timezone: 'UTC' });
+    const d = await subscribe(u);
+    await asUser(db, other, () => db.query('select delete_push_subscription($1)', [d.endpoint]));
+    expect(await rows('select 1 from push_subscriptions where endpoint = $1', [d.endpoint])).toHaveLength(1);
+    await asUser(db, u, () => db.query('select delete_push_subscription($1)', [d.endpoint]));
+    expect(await rows('select 1 from push_subscriptions where endpoint = $1', [d.endpoint])).toHaveLength(0);
+  });
+
+  it('pushes every device of a due learner once per local day, independent of email reminders', async () => {
+    const u = await createUser(db, { timezone: 'UTC' });
+    await db.query('update profiles set email_reminders = false where id = $1', [u]);
+    const a = await subscribe(u);
+    const b = await subscribe(u);
+    const mine = async (at: string) => (await claimPush(at)).filter((r) => [a.endpoint, b.endpoint].includes(r.endpoint));
+
+    expect(await mine(day(0, 17))).toHaveLength(0);
+    const got = await mine(day(0, 18));
+    expect(got).toHaveLength(2);
+    expect(got[0]).toMatchObject({ word_count: 10, grammar_count: 0, p256dh: a.p256dh, auth_secret: a.auth });
+    expect(await mine(day(0, 21))).toHaveLength(0);
+    expect(await mine(day(1, 18))).toHaveLength(2);
+    // email and push are tracked separately
+    await db.query('update profiles set email_reminders = true where id = $1', [u]);
+    expect((await rows('select * from claim_due_reminders($1::timestamptz)', [day(1, 19)])).filter((r) => r.user_id === u)).toHaveLength(1);
+  });
+
+  it("no push once today's lesson is done, or for learners without a device", async () => {
+    const done = await createUser(db, { timezone: 'UTC' });
+    const d = await subscribe(done);
+    const s = await one(`select * from create_daily_session_for($1, ($2::timestamptz at time zone 'UTC')::date)`, [done, day(0, 18)]);
+    await db.query(`update daily_sessions set status = 'completed', completed_at = now() where id = $1`, [s.id]);
+    const none = await createUser(db, { timezone: 'UTC' });
+    const all = await claimPush(day(0, 20));
+    expect(all.filter((r) => r.endpoint === d.endpoint)).toHaveLength(0);
+    expect((await one('select last_push_date from profiles where id = $1', [none])).last_push_date).toBeNull();
+  });
+
+  it('only the Edge Function (service_role) can claim and record deliveries', async () => {
+    const u = await createUser(db, { timezone: 'UTC' });
+    await asUser(db, u, async () => {
+      await expect(db.query('select * from claim_due_push_reminders()')).rejects.toThrow(/permission denied/);
+      await expect(db.query('select * from due_reminder_profiles(now(), 14)')).rejects.toThrow(/permission denied/);
+      await expect(db.query('update push_subscriptions set last_sent_at = now()')).rejects.toThrow(/permission denied/);
+    });
+    const d = await subscribe(u);
+    await asService(async () => {
+      await db.query('update push_subscriptions set last_sent_at = now() where endpoint = $1', [d.endpoint]);
+      await expect(db.query('update push_subscriptions set endpoint = $1 where endpoint = $1', [d.endpoint])).rejects.toThrow(/permission denied/);
+      await db.query('delete from push_subscriptions where endpoint = $1', [d.endpoint]);
+    });
+    expect(await rows('select 1 from push_subscriptions where endpoint = $1', [d.endpoint])).toHaveLength(0);
+  });
+});

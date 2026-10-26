@@ -10,7 +10,7 @@ MVP of a German tutor (CEFR A1 → B2). It proves one loop:
 
 ## Status at a glance
 
-### Implemented and tested (121 automated tests, `npm test`)
+### Implemented and tested (133 automated tests, `npm test`)
 
 | Area | Where | Tested how |
 |---|---|---|
@@ -86,22 +86,38 @@ The full definition-of-done loop runs as one integration test (`tests/db.test.ts
    7. `supabase/migrations/20261007000007_grammar_practice.sql` (grammar skills, practice, daily grammar items, weak spots)
    8. `supabase/migrations/20261017000008_email_reminders.sql` (reminder settings, who-is-due function, unsubscribe)
    9. `supabase/migrations/20261017000009_reminder_cron.sql` (sends reminder emails via `pg_net` + Resend, hourly at :20)
+   10. `supabase/migrations/20261026000010_push_reminders.sql` (push subscriptions, shared who-is-due rule)
+   11. `supabase/migrations/20261026000011_push_cron.sql` (calls the push Edge Function hourly at :20)
 
    An existing project that ran setup.sql before 2026-10-07: run `supabase/update-2026-10-07.sql` once (migrations 6–7 + new content; safe to re-run).
    Before 2026-10-17: also run `supabase/update-2026-10-17.sql` (migrations 8–9, daily reminder emails).
+   Before 2026-10-26: also run `supabase/update-2026-10-26.sql` (migrations 10–11, push notifications).
 
    For a brand-new project you can instead paste the single combined file `supabase/setup.sql` (all migrations + content).
 
    Or with the Supabase CLI: `supabase link --project-ref <ref>` then `supabase db push`.
 3. **Load content:** run `supabase/seed/content.sql` in the SQL Editor (idempotent, safe to re-run).
 4. **Auth:** Authentication → Providers → Email (enabled by default). Under URL Configuration, set the Site URL to your deployed URL and add `http://localhost:5173` to the redirect URLs. Email confirmation can stay on: the app tells new users to check their inbox.
-5. **Check the cron jobs:** `select jobname, schedule, active from cron.job;` (`germanizer-daily-learning-job` and `lernbrot-daily-reminders`)
+5. **Check the cron jobs:** `select jobname, schedule, active from cron.job;` (`germanizer-daily-learning-job`, `lernbrot-daily-reminders` and `lernbrot-push-reminders`)
 6. **Reminder emails** (optional; without this step nothing is sent): create an API key at [resend.com](https://resend.com) and verify a sending domain there, then in the SQL Editor:
    ```sql
    select vault.create_secret('re_...', 'resend_api_key');
    select vault.create_secret('Lernbrot <reminders@your-domain.com>', 'reminder_from');
    ```
    Learners get at most one email per day, from their chosen local hour (default 18:00), only while today's lesson isn't completed and only if they were active in the last 14 days. They can turn it off or change the time under Progress → Settings, or via the one-click link in the email (`#/unsubscribe/<token>`). Delivery log: `public.reminder_emails` joined with `net._http_response` (see the comment at the top of migration 0009).
+7. **Push notifications** (optional; no third-party account needed). Same rule as the emails (reminder hour, lesson not done, active in the last 14 days), tracked separately, sent to every device where the learner turned them on (Progress → Settings).
+   1. `node scripts/generate-push-keys.mjs` creates the VAPID key pair and a cron secret in `supabase/push-secrets.local.md` (git-ignored), with the exact commands below filled in. Put the public key in `.env.production` / `.env.local` as `VITE_VAPID_PUBLIC_KEY`.
+   2. Deploy the Edge Function with JWT verification off (it checks the cron secret or the learner's token itself):
+      ```bash
+      npx supabase login
+      npx supabase functions deploy send-push-reminders --project-ref <ref> --no-verify-jwt
+      ```
+      Without the CLI: Dashboard → Edge Functions → Deploy a new function → via editor, name it `send-push-reminders`, add both files from `supabase/functions/send-push-reminders/`, deploy, then turn off "Enforce JWT verification" in its settings.
+   3. Set the function secrets `VAPID_PUBLIC_KEY`, `VAPID_PRIVATE_KEY`, `VAPID_SUBJECT`, `CRON_SECRET` (`npx supabase secrets set …` or Dashboard → Edge Functions → Secrets).
+   4. Add the Vault secrets `push_function_url` and `push_cron_secret` (SQL in the generated file) so the hourly job can call the function.
+   5. In the app, turn on notifications and press **Send test**. Hourly runs: `select status_code, content from net._http_response order by created desc limit 5;` and the function's logs in the dashboard.
+
+   Browser support: Chrome/Edge/Firefox on desktop and Android. iPhone/iPad (iOS 16.4+) only after Share → Add to Home Screen; the settings screen explains this. `public/sw.js` shows the notifications; `public/manifest.webmanifest` makes the app installable (icons from `node scripts/build-icons.mjs`).
 
 ## Environment variables
 
@@ -111,6 +127,7 @@ The full definition-of-done loop runs as one integration test (`tests/db.test.ts
 |---|---|
 | `VITE_SUPABASE_URL` | Project Settings → API → Project URL |
 | `VITE_SUPABASE_ANON_KEY` | Project Settings → API → `anon` public key |
+| `VITE_VAPID_PUBLIC_KEY` | Public push key from `node scripts/generate-push-keys.mjs` (optional; push is hidden without it) |
 
 Both are public by design. RLS protects every row. **Never put the `service_role` key in the frontend or in any `VITE_` variable.** Nothing in this project needs it: the cron job runs inside the database as `postgres`.
 
@@ -153,6 +170,7 @@ Elsewhere: `npm run build` produces a static site in `dist/` (relative paths + h
 | `quiz_answers` | Every answer: type, given, expected, correct | Read own |
 | `daily_job_runs` | Audit log of each cron run | None |
 | `reminder_emails` | One row per reminder email queued (with the `pg_net` request id) | None |
+| `push_subscriptions` | One row per device with notifications on: endpoint + browser keys | Read own. Written by `save_push_subscription` / `delete_push_subscription` |
 
 Fields beyond the brief and why: `profiles.onboarded_at` (the job skips users who haven't onboarded), `daily_session_words` (stores the selected words), `quiz_attempts.daily_session_id` (one scored attempt per day), `grammar_topics` + links (grammar MVP), `daily_job_runs` (proves the cloud job ran).
 

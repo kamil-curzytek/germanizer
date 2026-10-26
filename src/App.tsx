@@ -19,6 +19,7 @@ import SetupNeeded from './pages/SetupNeeded';
 import Unsubscribe from './pages/Unsubscribe';
 import Vocabulary from './pages/Vocabulary';
 import { getProfile } from './services/profileService';
+import { syncPushSubscription } from './services/pushService';
 import type { Profile } from './types';
 
 export default function App() {
@@ -54,6 +55,7 @@ function AuthedApp() {
     setProfileError(null);
     if (!userId) return;
     getProfile(userId).then(setProfile, (e: Error) => setProfileError(e.message));
+    syncPushSubscription().catch(() => undefined);
   }, [userId]);
 
   if (session === undefined) return <div className="loading">Loading…</div>;
