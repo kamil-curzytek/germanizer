@@ -2,7 +2,7 @@
 
 This file provides guidance to Claude Code (claude.ai/code) when working with code in this repository.
 
-Lernbrot is a German-learning app (CEFR A1→B2): React 19 + Vite + TypeScript frontend, Supabase (Postgres + Auth + pg_cron) backend, deployed to GitHub Pages. The repo also contains a separate Python research pipeline (`research/`) that produced a 4,500-entry A1–B2 vocabulary dataset (`data/`), which is **not yet wired into the app** (the app still uses `content/*.json`).
+Lernbrot is a German-learning app (CEFR A1→B2): React 19 + Vite + TypeScript frontend, Supabase (Postgres + Auth + pg_cron) backend, deployed to GitHub Pages. The repo also contains a separate Python research pipeline (`research/`) that produced a 4,500-entry A1–B2 vocabulary dataset (`data/`), which `scripts/import-vocabulary.mjs` merges into `content/vocabulary.json` (the app's seed source).
 
 ## Commands
 
@@ -50,7 +50,7 @@ Lessons live in `content/grammar.json`; exercises in `content/grammar/{a1,a2,b1,
 
 ## Content (current app seed)
 
-`content/vocabulary.json` and `content/grammar.json` are the source of truth for the seed; ids are stable and never reused (A1 1–999, A2 1001–1999, B1 2001–2999, B2 3001–3999); position within a level = frequency rank. `tests/content.test.ts` and the quiz ambiguity checks validate every word, so run `npm test` before `npm run seed:build`. Details on formats, the session algorithm, SR intervals and quiz levels are in README.md.
+`content/vocabulary.json` and `content/grammar.json` are the source of truth for the seed; ids are stable and never reused. 266 hand-curated words keep ids A1 1–999, A2 1001–1999, B1 2001–2999, B2 3001–3999; the other ~4,260 are imported from `data/german-all.json` by `node scripts/import-vocabulary.mjs` (ids ≥ 10001, `src` = dataset id so re-imports keep ids; it re-sorts each level: position within a level = frequency rank). After changing `data/`, re-run the import, then `npm test` and `npm run seed:build`. `listWords()` pages through `vocabulary_words` because PostgREST caps responses at 1,000 rows. `tests/content.test.ts` and the quiz ambiguity checks validate every word, so run `npm test` before `npm run seed:build`. Details on formats, the session algorithm, SR intervals and quiz levels are in README.md.
 
 ## Research dataset (`research/`, `data/`)
 

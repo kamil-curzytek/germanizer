@@ -55,6 +55,25 @@ export interface QuizQuestion {
 
 const OPTION_COUNT = 4;
 
+// Candidate distractors per pool, part of speech, level and level gap; built once per pool
+// so a question looks only at a few candidates instead of scanning thousands of words.
+const candidateCache = new WeakMap<readonly VocabularyWord[], Map<string, VocabularyWord[]>>();
+
+function candidatesFor(pool: readonly VocabularyWord[], word: VocabularyWord, gap: number): VocabularyWord[] {
+  let byKey = candidateCache.get(pool);
+  if (!byKey) candidateCache.set(pool, (byKey = new Map()));
+  const key = `${word.part_of_speech}|${word.cefr_level}|${gap}`;
+  let list = byKey.get(key);
+  if (!list) {
+    const level = CEFR_LEVELS.indexOf(word.cefr_level);
+    list = pool.filter(
+      (d) => d.part_of_speech === word.part_of_speech && Math.abs(CEFR_LEVELS.indexOf(d.cefr_level) - level) === gap,
+    );
+    byKey.set(key, list);
+  }
+  return list;
+}
+
 function pickDistractors(
   word: VocabularyWord,
   pool: readonly VocabularyWord[],
@@ -65,23 +84,22 @@ function pickDistractors(
   const correctLabel = normalizeAnswer(label(word));
   const seen = new Set([correctLabel]);
   const out: string[] = [];
-  const candidates = pool.filter(
-    (d) =>
-      d.id !== word.id &&
-      d.part_of_speech === word.part_of_speech &&
-      !glossesConflict(d.english, word.english) &&
-      extraFilter(d),
-  );
   // Prefer distractors from the word's own level, so beginners aren't shown B2 words.
-  const levelGap = (d: VocabularyWord) => Math.abs(CEFR_LEVELS.indexOf(d.cefr_level) - CEFR_LEVELS.indexOf(word.cefr_level));
-  const ordered = shuffle(candidates, rng).sort((a, b) => levelGap(a) - levelGap(b));
-  for (const d of ordered) {
-    const l = label(d);
-    const key = normalizeAnswer(l);
-    if (seen.has(key)) continue;
-    seen.add(key);
-    out.push(l);
-    if (out.length === OPTION_COUNT - 1) return out;
+  for (let gap = 0; gap < CEFR_LEVELS.length; gap++) {
+    // Lazy Fisher-Yates: draw random candidates until enough of them pass the filters.
+    const list = candidatesFor(pool, word, gap).slice();
+    for (let n = list.length; n > 0; n--) {
+      const j = Math.floor(rng() * n);
+      const d = list[j];
+      list[j] = list[n - 1];
+      if (d.id === word.id || glossesConflict(d.english, word.english) || !extraFilter(d)) continue;
+      const l = label(d);
+      const key = normalizeAnswer(l);
+      if (seen.has(key)) continue;
+      seen.add(key);
+      out.push(l);
+      if (out.length === OPTION_COUNT - 1) return out;
+    }
   }
   return null;
 }
@@ -180,10 +198,22 @@ export function buildFillBlank(word: VocabularyWord): QuizQuestion | null {
   return typed(word, 'fill_blank', 'Type the missing word.', s.blanked, answer, [answer], hint);
 }
 
+const glossCountCache = new WeakMap<readonly VocabularyWord[], Map<string, number>>();
+
+/** How many words in the pool have each main English meaning. */
+function glossCounts(pool: readonly VocabularyWord[]): Map<string, number> {
+  let counts = glossCountCache.get(pool);
+  if (!counts) {
+    counts = new Map();
+    for (const x of pool) counts.set(primaryGloss(x.english), (counts.get(primaryGloss(x.english)) ?? 0) + 1);
+    glossCountCache.set(pool, counts);
+  }
+  return counts;
+}
+
 export function buildEnDeTyped(word: VocabularyWord, pool: readonly VocabularyWord[]): QuizQuestion | null {
   // Typed recall is only fair when no other word shares the same main meaning.
-  const gloss = primaryGloss(word.english);
-  if (pool.some((x) => x.id !== word.id && primaryGloss(x.english) === gloss)) return null;
+  if ((glossCounts(pool).get(primaryGloss(word.english)) ?? 0) > 1) return null;
   const core = coreForm(word);
   const accepted = [core, word.german, displayGerman(word)];
   const helper = word.part_of_speech === 'noun' ? 'Noun: adding der/die/das is optional, but it must be right.' : undefined;

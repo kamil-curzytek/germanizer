@@ -75,14 +75,19 @@ SYNONYM_GROUPS.forEach((group, i) => {
   for (const t of group) GROUPS_BY_TOKEN.set(t, [...(GROUPS_BY_TOKEN.get(t) ?? []), i]);
 });
 
-/** Content words and synonym-group keys for an English gloss. */
+const glossKeyCache = new Map<string, Set<string>>();
+
+/** Content words and synonym-group keys for an English gloss (cached: glosses come from the word list). */
 export function glossKeys(english: string): Set<string> {
+  const cached = glossKeyCache.get(english);
+  if (cached) return cached;
   const keys = new Set<string>();
   for (const raw of english.toLowerCase().split(/[^a-z]+/)) {
     if (!raw || STOPWORDS.has(raw)) continue;
     keys.add(raw);
     for (const g of GROUPS_BY_TOKEN.get(raw) ?? []) keys.add(`#${g}`);
   }
+  glossKeyCache.set(english, keys);
   return keys;
 }
 

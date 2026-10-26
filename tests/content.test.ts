@@ -9,19 +9,19 @@ import type { VocabularyWord } from '../src/types';
 const { words, topics } = loadContent() as unknown as { words: (VocabularyWord & { grammar: string[] })[]; topics: any[] };
 
 describe('vocabulary seed', () => {
-  it('has a small curated set with the planned level spread', () => {
+  it('has the research curriculum with the planned level spread', () => {
     const by = (l: string) => words.filter((w) => w.cefr_level === l).length;
-    expect(words.length).toBeGreaterThanOrEqual(150);
-    expect(words.length).toBeLessThanOrEqual(270);
-    expect(by('A1')).toBeGreaterThanOrEqual(100);
-    expect(by('A2')).toBeGreaterThanOrEqual(60);
-    expect(by('B1')).toBeGreaterThanOrEqual(20);
-    expect(by('B2')).toBeGreaterThanOrEqual(10);
+    expect(words.length).toBeGreaterThanOrEqual(4500);
+    expect(by('A1')).toBeGreaterThanOrEqual(800);
+    expect(by('A2')).toBeGreaterThanOrEqual(700);
+    expect(by('B1')).toBeGreaterThanOrEqual(1400);
+    expect(by('B2')).toBeGreaterThanOrEqual(1200);
   });
 
   it('has unique ids and unique German entries', () => {
     expect(new Set(words.map((w) => w.id)).size).toBe(words.length);
-    expect(new Set(words.map((w) => `${w.german}|${w.part_of_speech}`)).size).toBe(words.length);
+    // the article separates homonyms (der/die Leiter)
+    expect(new Set(words.map((w) => `${w.german}|${w.part_of_speech}|${w.article}`)).size).toBe(words.length);
   });
 
   it('gives every noun an article, and only nouns', () => {
@@ -49,13 +49,11 @@ describe('vocabulary seed', () => {
     for (const p of ['noun', 'verb', 'adjective', 'adverb', 'preposition', 'phrase']) expect(pos.has(p), p).toBe(true);
   });
 
-  it('has no two words with the same main English meaning', () => {
-    const seen = new Map<string, string>();
-    for (const w of words) {
-      const g = primaryGloss(w.english);
-      expect(seen.get(g), `${w.german} vs ${seen.get(g)}: "${g}"`).toBeUndefined();
-      seen.set(g, w.german);
-    }
+  it('gives most words a main English meaning of their own (shared ones get no typed English->German recall)', () => {
+    const count = new Map<string, number>();
+    for (const w of words) count.set(primaryGloss(w.english), (count.get(primaryGloss(w.english)) ?? 0) + 1);
+    const shared = words.filter((w) => count.get(primaryGloss(w.english))! > 1);
+    expect(shared.length / words.length).toBeLessThan(0.3);
   });
 
   it('most words can be blanked in their own example sentence', () => {
@@ -96,6 +94,12 @@ describe('every generated question is unambiguous', () => {
     }
   }
   const byId = new Map(words.map((w) => [w.id, w]));
+  const byEnglish = new Map(words.map((w) => [w.english, w]));
+  const byGerman = new Map<string, (typeof words)[number]>();
+  for (const w of words) {
+    byGerman.set(w.article ? `${w.article} ${w.german}` : w.german, w);
+    byGerman.set(coreForm(w), w);
+  }
 
   it('generates many questions of every type', () => {
     for (const t of QUESTION_TYPES) expect(all.filter((q) => q.type === t).length, t).toBeGreaterThan(20);
@@ -110,9 +114,7 @@ describe('every generated question is unambiguous', () => {
       const target = byId.get(q.wordId)!;
       const others = opts.filter((o) => o !== q.correctAnswer);
       for (const o of others) {
-        const w = q.type === 'de_en'
-          ? words.find((x) => x.english === o)
-          : words.find((x) => (x.article ? `${x.article} ${x.german}` : x.german) === o || coreForm(x) === o);
+        const w = q.type === 'de_en' ? byEnglish.get(o) : byGerman.get(o);
         expect(w, `${q.id}: option ${o}`).toBeDefined();
         expect(glossesConflict(w!.english, target.english), `${q.id}: ${o} overlaps ${target.english}`).toBe(false);
       }

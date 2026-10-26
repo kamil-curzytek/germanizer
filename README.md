@@ -19,8 +19,8 @@ MVP of a German tutor (CEFR A1 → B2). It proves one loop:
 | Quiz submission (attempt + every answer + schedule, one transaction) | `submit_quiz()` | Integration tests, including tampering cases |
 | Daily cloud job | `run_daily_learning_job()` | Integration tests (timing, timezones, no duplicates, audit log) |
 | Spaced repetition | `src/lib/spacedRepetition/` | Unit tests, including timezones and DST |
-| Quiz engine (7 question types, ambiguity rejection, difficulty by progress) | `src/lib/quiz/` | Unit tests + every generated question for all 266 words is checked |
-| Seed content: 266 words, 42 grammar lessons A1–B2 with 67 practice skills (669 exercises) | `content/*.json`, `content/grammar/*.txt` → `supabase/seed/content.sql` | Content quality tests; every exercise validated (one correct answer, chunks, alternatives) |
+| Quiz engine (7 question types, ambiguity rejection, difficulty by progress) | `src/lib/quiz/` | Unit tests + every generated question for all 4,525 words is checked |
+| Seed content: 4,525 words (873 A1 · 770 A2 · 1,538 B1 · 1,344 B2, from the research curriculum in `data/`), 42 grammar lessons A1–B2 with 67 practice skills (669 exercises) | `content/*.json`, `content/grammar/*.txt` → `supabase/seed/content.sql` | Content quality tests; every exercise validated (one correct answer, chunks, alternatives) |
 | React app: onboarding, dashboard, study cards, quiz, results, grammar, vocabulary, review, progress | `src/` | Type-checks and builds. Renders the setup screen locally. **Not yet run against a live Supabase project.** |
 
 The full definition-of-done loop runs as one integration test (`tests/db.test.ts`): sign up → choose A1 → 10 new words → quiz 8/10 → two missed words identified → all answers saved → review dates set → next morning the job prepares the next session (8 review + 2 new, the missed words first) → day-2 quiz uses harder questions for known words.
@@ -252,8 +252,10 @@ After deploying:
 
 ## Adding vocabulary
 
-Edit `content/vocabulary.json` (the format note is at the top of the file):
-- Give each word a new, never-reused id (A1 1–999, A2 1001–1999, B1 2001–2999, B2 3001–3999). Its position within its level sets the frequency rank.
+Most words come from the research dataset: edit `research/authoring/*.psv`, rebuild `data/` (`python pipeline/build_dataset.py` in `research/`), then run `node scripts/import-vocabulary.mjs`. It keeps ids stable (imported words have id ≥ 10001 and remember their dataset id in `src`), keeps the 266 hand-curated words (taking the dataset's CEFR level), orders each level active-first by tier and priority (= frequency rank), maps parts of speech and topics to the app's smaller sets, and reorders English meanings so fewer words share a main meaning.
+
+To add a word by hand, edit `content/vocabulary.json` (the format note is at the top of the file):
+- Give each word a new, never-reused id (A1 1–999, A2 1001–1999, B1 2001–2999, B2 3001–3999). The import script re-sorts each level, so its position sets the frequency rank only until the next import.
 - Nouns: `de` without the article, `art` der/die/das, `pl` without "die" (omit for uncountables).
 - Reflexive verbs: `"de": "sich erinnern"`.
 - Write a natural example. Where natural, use the dictionary form (e.g. with a modal verb) so the word can be blanked.
@@ -288,11 +290,12 @@ Every topic A1–B2 has a lesson (`content/grammar.json`) and is split into **sk
 - Spaced-repetition results are computed in the browser and checked by `submit_quiz` (bounds, statuses, words in the session). A user could only change their own schedule.
 - Words per day (5–50) can be changed from the home screen or Progress. If today's lesson hasn't been started it's rebuilt immediately, otherwise the change applies from the next day (`update_daily_target`). Changing the level applies from the next session. The timezone is set at onboarding and can be updated in Progress.
 - Distractor "different topic" and synonym lists are heuristics. The shown translation is what guarantees context questions have one answer.
-- The seed has 266 words (143 A1 · 86 A2 · 25 B1 · 12 B2), slightly above the 150–250 guideline.
+- The seed has 4,525 words. Receptive items (about half of B1–B2, marked in the usage note) are still quizzed like active ones; the app has no receptive-only mode yet. About 12 % of words share their main English meaning with another word and so get no typed English→German question.
+- The word list is loaded in pages of 1,000 rows (PostgREST's limit) and kept in memory, about 1 MB.
 
 ## Next phases
 
-- **Phase 2:** 500+ words per level (the 4,500-entry curriculum in `data/`), sentence production, listening, "who does what?" listening items, mixed tests.
+- **Phase 2:** a receptive-only mode for receptive words, sentence production, listening, "who does what?" listening items, mixed tests.
 - **Phase 3:** detect weak topics and categories, adaptive difficulty, grammar recommendations, recurring-mistake detection, and optional AI practice.
 
 ## Project layout
