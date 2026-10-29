@@ -59,7 +59,7 @@ beforeAll(async () => {
       if (w.kind === 'new' && had) problems.push(`day ${day}: "${w.word.german}" offered as new but already seen`);
       if (w.kind === 'review' && !had) problems.push(`day ${day}: "${w.word.german}" offered as review but never seen`);
     }
-    const minNew = dueBefore <= 10 ? 2 : dueBefore < 20 ? 1 : 0; // normal / busy / catch-up day
+    const minNew = dueBefore <= 10 ? 2 : 1; // normal / busy or catch-up day
     if (s.new_word_count < minNew) problems.push(`day ${day}: only ${s.new_word_count} new words with ${dueBefore} due`);
     if (dueBefore <= 8) {
       const dueIds = [...progressBefore.values()].filter((p) => p.next_review_at.toISOString() < dayEnd).map((p) => p.word_id);

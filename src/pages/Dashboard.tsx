@@ -83,9 +83,7 @@ export default function Dashboard() {
 
             {s.status !== 'completed' && s.review_word_count > 0 && s.new_word_count < Math.ceil(s.total_word_count * 0.2) && (
               <p className="small" style={{ marginTop: -4 }}>
-                {s.new_word_count === 0
-                  ? '🔁 Catch-up day: lots of words are due, so today is all review. New words return once you’re caught up.'
-                  : '🔁 Busy review day: fewer new words today so nothing gets forgotten.'}
+                🔁 Busy review day: fewer new words today so nothing gets forgotten.
               </p>
             )}
 

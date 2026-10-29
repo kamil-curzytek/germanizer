@@ -3,7 +3,7 @@ import { useContext } from 'react';
 import { AppContext } from '../AppContext';
 import { DEFAULT_SR_CONFIG, typicalGaps } from '../lib/spacedRepetition';
 
-// Mirrors the adaptive new-word rule in create_daily_session_for (migration 0005).
+// Mirrors the adaptive new-word rule in create_daily_session_for (migration 0012).
 function lessonMix(n: number) {
   return {
     onTrack: Math.ceil(0.2 * n),
@@ -56,10 +56,8 @@ export default function About() {
             <strong>On track:</strong> at least {mix.onTrack} new {mix.onTrack === 1 ? 'word' : 'words'}, the rest reviews.
           </li>
           <li>
-            <strong>Busy:</strong> at least {mix.busy} new {mix.busy === 1 ? 'word' : 'words'}.
-          </li>
-          <li>
-            <strong>Catch-up day</strong> (twice as many reviews waiting as your daily target): reviews only.
+            <strong>Busy</strong> (more reviews waiting than your daily target): at least {mix.busy} new {mix.busy === 1 ? 'word' : 'words'},
+            so there is something new every day.
           </li>
         </ul>
         <p>

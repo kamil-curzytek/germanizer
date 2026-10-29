@@ -267,12 +267,12 @@ describe('daily session selection adapts to the learner', () => {
     expect([s.review_word_count, s.new_word_count, s.total_word_count]).toEqual([9, 1, 10]);
   });
 
-  it('catch-up day (2x the target or more due) -> only reviews, no new words', async () => {
+  it('catch-up day (2x the target or more due) -> still one new word', async () => {
     const u = await createUser(db);
     const ids = (await rows(`select id from vocabulary_words where cefr_level = 'A1' order by id limit 30`)).map((r) => r.id);
     await seedProgress(u, ids, '2026-01-01T00:00:00Z');
     const s = await asUser(db, u, () => one('select * from create_my_daily_session()'));
-    expect([s.review_word_count, s.new_word_count, s.total_word_count]).toEqual([10, 0, 10]);
+    expect([s.review_word_count, s.new_word_count, s.total_word_count]).toEqual([9, 1, 10]);
   });
 
   it('a few due reviews -> they are all included, the rest are new', async () => {
@@ -297,7 +297,7 @@ describe('daily session selection adapts to the learner', () => {
     await seedProgress(u, ids, '2026-01-01T00:00:00Z');
     const s = await asUser(db, u, () => one('select * from create_my_daily_session()'));
     expect(s.total_word_count).toBe(5);
-    expect(s.new_word_count).toBe(0); // 40 due = catch-up day
+    expect(s.new_word_count).toBe(1); // 40 due = catch-up day, still 10% (rounded up) new
   });
 
   it('no new words left -> fills the target with the earliest upcoming reviews', async () => {
