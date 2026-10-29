@@ -134,15 +134,7 @@ export default function Progress() {
         </div>
         <h3 style={{ margin: '8px 0 0' }}>Daily reminder</h3>
         <PushReminders />
-        <label className="row small">
-          <input
-            type="checkbox"
-            checked={profile.email_reminders}
-            disabled={saving}
-            onChange={(e) => save({ email_reminders: e.target.checked }, e.target.checked ? 'Saved. You will get a reminder email on days you have not done your lesson yet.' : 'Saved. No more reminder emails.')}
-          />
-          <span>Email me a reminder if I haven't done my lesson</span>
-        </label>
+        {/* Reminder emails need Resend secrets in the Vault (README step 6), which aren't set up, so only push is offered. */}
         <label className="field">
           <span>Reminder time ({profile.timezone})</span>
           <select
