@@ -88,7 +88,8 @@ export default function About() {
         </p>
         <p className="muted small" style={{ margin: 0 }}>
           New words start with multiple choice. After that you type the answer, because remembering a word yourself
-          sticks better than picking it from a list. Well-known nouns also ask for their article and plural.
+          sticks better than picking it from a list. A typed noun only counts with its article (der Tisch, die Tische),
+          and well-known nouns also ask for their article and plural.
         </p>
       </details>
 

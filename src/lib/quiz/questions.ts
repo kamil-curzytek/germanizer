@@ -214,10 +214,13 @@ function glossCounts(pool: readonly VocabularyWord[]): Map<string, number> {
 export function buildEnDeTyped(word: VocabularyWord, pool: readonly VocabularyWord[]): QuizQuestion | null {
   // Typed recall is only fair when no other word shares the same main meaning.
   if ((glossCounts(pool).get(primaryGloss(word.english)) ?? 0) > 1) return null;
-  const core = coreForm(word);
-  const accepted = [core, word.german, displayGerman(word)];
-  const helper = word.part_of_speech === 'noun' ? 'Noun: adding der/die/das is optional, but it must be right.' : undefined;
-  return typed(word, 'en_de_typed', 'Type the German word.', word.english, displayGerman(word), accepted, helper);
+  // Nouns are only right together with their article.
+  if (word.article) {
+    const q = typed(word, 'en_de_typed', 'Type the German word.', word.english, displayGerman(word), [displayGerman(word)],
+      'Noun: include der / die / das.');
+    return { ...q, hint: genderHint(word) };
+  }
+  return typed(word, 'en_de_typed', 'Type the German word.', word.english, word.german, [coreForm(word), word.german]);
 }
 
 // Endings that predict the article almost without exception (99–100 % on the curriculum's 2,194 nouns;
@@ -257,8 +260,8 @@ export function buildArticle(word: VocabularyWord): QuizQuestion | null {
 export function buildPlural(word: VocabularyWord): QuizQuestion | null {
   if (word.part_of_speech !== 'noun' || !word.article || !word.plural) return null;
   return typed(
-    word, 'plural', 'Type the plural.', `${displayGerman(word)} → die …`,
-    `die ${word.plural}`, [word.plural, `die ${word.plural}`], word.english,
+    word, 'plural', 'Type the plural with its article.', `${displayGerman(word)} → ?`,
+    `die ${word.plural}`, [`die ${word.plural}`], word.english,
   );
 }
 

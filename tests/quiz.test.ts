@@ -81,12 +81,18 @@ describe('quiz generation', () => {
 describe('grading', () => {
   const termin = byGerman('Termin');
 
-  it('accepts typed answers leniently but not wrong articles', () => {
+  it('accepts typed nouns leniently but only with the right article', () => {
     const q = buildEnDeTyped(termin, words)!;
-    expect(isCorrect(q, 'Termin')).toBe(true);
-    expect(isCorrect(q, '  termin ')).toBe(true);
     expect(isCorrect(q, 'der Termin')).toBe(true);
+    expect(isCorrect(q, '  Der termin ')).toBe(true);
+    expect(isCorrect(q, 'Termin')).toBe(false);
     expect(isCorrect(q, 'die Termin')).toBe(false);
+    expect(isCorrect(q, 'der Termine')).toBe(false);
+  });
+
+  it('plural questions require the article', () => {
+    const q = buildPlural(termin)!;
+    expect(isCorrect(q, 'die Termine')).toBe(true);
     expect(isCorrect(q, 'Termine')).toBe(false);
   });
 
@@ -98,7 +104,7 @@ describe('grading', () => {
   });
 
   it('accepts ae/oe/ue/ss spellings', () => {
-    expect(isCorrect(buildPlural(byGerman('Schlüssel'))!, 'Schluessel')).toBe(true);
+    expect(isCorrect(buildPlural(byGerman('Schlüssel'))!, 'die Schluessel')).toBe(true);
     expect(isCorrect(buildPlural(byGerman('Straße'))!, 'die Strassen')).toBe(true);
     expect(isCorrect(buildEnDeTyped(byGerman('müde'), words)!, 'muede')).toBe(true);
   });
