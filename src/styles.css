@@ -185,6 +185,9 @@ label.field > span { display: block; font-size: 0.875rem; color: var(--muted); m
 .stat { background: var(--surface); border: 1px solid var(--line); border-radius: var(--radius); padding: 16px; }
 .stat .value { font-size: 1.75rem; font-weight: 700; line-height: 1.1; }
 .stat .label { color: var(--muted); font-size: 0.85rem; }
+.stat-btn { font: inherit; color: inherit; text-align: left; cursor: pointer; }
+.stat-btn:hover { border-color: var(--accent); }
+.stat-btn.selected { border-color: var(--accent); background: var(--accent-soft); }
 @media (max-width: 480px) {
   .stats { gap: 8px; }
   .stat { padding: 12px; }

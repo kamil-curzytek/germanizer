@@ -1,4 +1,4 @@
-import { currentStreak, summarizeProgress, type ProgressSummary } from '../lib/dailySession/stats';
+import { currentStreak, splitStudiedWords, summarizeProgress, type ProgressSummary } from '../lib/dailySession/stats';
 import { db, unwrap } from '../lib/supabase/client';
 import { localDate } from '../lib/time';
 import type { VocabularyProgress } from '../types';
@@ -15,6 +15,8 @@ export async function progressByWord(wordIds: readonly number[]): Promise<Map<nu
 
 export interface DashboardStats extends ProgressSummary {
   streak: number;
+  known: VocabularyProgress[];
+  toReview: VocabularyProgress[];
 }
 
 export async function getDashboardStats(timeZone: string): Promise<DashboardStats> {
@@ -23,5 +25,5 @@ export async function getDashboardStats(timeZone: string): Promise<DashboardStat
     db().from('daily_sessions').select('session_date').eq('status', 'completed').order('session_date', { ascending: false }).limit(400),
   ]);
   const dates = (unwrap(sessions) as { session_date: string }[]).map((s) => s.session_date);
-  return { ...summarizeProgress(progress), streak: currentStreak(dates, localDate(timeZone)) };
+  return { ...summarizeProgress(progress), ...splitStudiedWords(progress), streak: currentStreak(dates, localDate(timeZone)) };
 }

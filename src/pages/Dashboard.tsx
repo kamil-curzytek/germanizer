@@ -2,6 +2,7 @@ import { useState } from 'react';
 import { Link } from 'react-router-dom';
 import { useApp } from '../AppContext';
 import { DailyTargetPicker } from '../components/dashboard/DailyTargetPicker';
+import { MyWords, type WordListKind } from '../components/dashboard/MyWords';
 import { StatTile } from '../components/dashboard/StatTile';
 import { useAsync } from '../hooks/useAsync';
 import { useTodaySession } from '../hooks/useTodaySession';
@@ -30,6 +31,8 @@ export default function Dashboard() {
   const [editingTarget, setEditingTarget] = useState(false);
   const [targetBusy, setTargetBusy] = useState(false);
   const [targetMessage, setTargetMessage] = useState<string | null>(null);
+  const [wordList, setWordList] = useState<WordListKind | null>(null);
+  const toggleList = (k: WordListKind) => setWordList(wordList === k ? null : k);
 
   const s = today.data?.session;
   const untouched = s && s.status === 'ready' && s.study_position === 0 && Object.keys(s.quiz_draft.answers ?? {}).length === 0;
@@ -115,10 +118,20 @@ export default function Dashboard() {
       </section>
 
       <section className="stats" aria-label="Your progress">
-        <StatTile value={stats.data?.learned ?? '–'} label="Words learned" />
-        <StatTile value={stats.data?.due ?? '–'} label="Due for review" />
+        <StatTile value={stats.data?.known.length ?? '–'} label="Words you know"
+          onClick={stats.data ? () => toggleList('known') : undefined} selected={wordList === 'known'} />
+        <StatTile value={stats.data?.toReview.length ?? '–'} label="To review"
+          onClick={stats.data ? () => toggleList('toReview') : undefined} selected={wordList === 'toReview'} />
         <StatTile value={stats.data ? `${stats.data.streak} ${stats.data.streak === 1 ? 'day' : 'days'}` : '–'} label="Current streak" />
       </section>
+      {stats.data && (stats.data.known.length + stats.data.toReview.length > 0) && !wordList && (
+        <p className="muted small center" style={{ marginTop: -8 }}>
+          {stats.data.known.length + stats.data.toReview.length} words studied so far · tap a number to see the words
+        </p>
+      )}
+      {stats.data && wordList && (
+        <MyWords kind={wordList} rows={stats.data[wordList]} onClose={() => setWordList(null)} />
+      )}
 
       <p className="muted small center">
         Want some context? <Link to="/grammar">Browse short grammar lessons</Link>

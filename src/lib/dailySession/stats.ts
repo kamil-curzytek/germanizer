@@ -37,6 +37,24 @@ export function summarizeProgress(rows: readonly VocabularyProgress[], now: Date
   return { learned, due, byStatus };
 }
 
+/**
+ * Every word the learner has met, split in two: "known" (last answer right and not due yet) and
+ * "to review" (last answer wrong, never answered right, or due now). Each list is soonest-due first.
+ */
+export function splitStudiedWords<T extends Pick<VocabularyProgress, 'streak' | 'next_review_at'>>(
+  rows: readonly T[],
+  now: Date = new Date(),
+): { known: T[]; toReview: T[] } {
+  const known: T[] = [];
+  const toReview: T[] = [];
+  for (const r of rows) {
+    const due = !r.next_review_at || Date.parse(r.next_review_at) <= now.getTime();
+    (r.streak === 0 || due ? toReview : known).push(r);
+  }
+  const bySoonest = (a: T, b: T) => (a.next_review_at ?? '').localeCompare(b.next_review_at ?? '');
+  return { known: known.sort(bySoonest), toReview: toReview.sort(bySoonest) };
+}
+
 export function greeting(hour: number): string {
   if (hour < 5) return 'Good evening.';
   if (hour < 12) return 'Good morning.';
