@@ -308,11 +308,27 @@ describe('daily session selection adapts to the learner', () => {
     expect([s.review_word_count, s.new_word_count]).toEqual([10, 0]);
   });
 
-  it('starts new words at the learner\'s CEFR level', async () => {
+  it('starts new words at the learner\'s CEFR level, with about a quarter from the level below', async () => {
     const u = await createUser(db, { level: 'B1' });
     const s = await asUser(db, u, () => one('select * from create_my_daily_session()'));
     const { items } = await loadSession(u, s.id);
-    expect(items.every((i) => i.word.cefr_level === 'B1')).toBe(true);
+    expect(items.map((i) => i.word.cefr_level).sort()).toEqual(['A2', 'A2', 'B1', 'B1', 'B1', 'B1', 'B1', 'B1', 'B1', 'B1']);
+  });
+
+  it('no lower-level words for a learner who already met plenty of them', async () => {
+    const u = await createUser(db, { level: 'B1' });
+    const ids = (await rows(`select id from vocabulary_words where cefr_level = 'A2' order by id limit 6`)).map((r) => r.id);
+    await seedProgress(u, ids, '2099-01-01T00:00:00Z');
+    const s = await asUser(db, u, () => one('select * from create_my_daily_session()'));
+    const { items } = await loadSession(u, s.id);
+    expect(items.every((i) => i.word.cefr_level === 'B1')).toBe(true); // 6 of 16 met are lower already
+  });
+
+  it('A1 learners only get A1 words', async () => {
+    const u = await createUser(db, { level: 'A1' });
+    const s = await asUser(db, u, () => one('select * from create_my_daily_session()'));
+    const { items } = await loadSession(u, s.id);
+    expect(items.every((i) => i.word.cefr_level === 'A1')).toBe(true);
   });
 
   it('uses the learner\'s timezone for "today"', async () => {

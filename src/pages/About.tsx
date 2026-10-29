@@ -3,7 +3,7 @@ import { useContext } from 'react';
 import { AppContext } from '../AppContext';
 import { DEFAULT_SR_CONFIG, typicalGaps } from '../lib/spacedRepetition';
 
-// Mirrors the adaptive new-word rule in create_daily_session_for (migration 0012).
+// Mirrors the adaptive new-word rule in create_daily_session_for (migrations 0012–0013).
 function lessonMix(n: number) {
   return {
     onTrack: Math.ceil(0.2 * n),
@@ -60,6 +60,10 @@ export default function About() {
             so there is something new every day.
           </li>
         </ul>
+        <p>
+          New words come mostly from your level. About one in four comes from the level below (most common words first),
+          to catch gaps in the basics; if you already know it, it quickly moves out to long review gaps.
+        </p>
         <p>
           Your next lesson is prepared in the cloud early each morning, so it's ready even if your computer was off.
           Your place is saved after every card and answer, so you can stop and continue later on any device.
